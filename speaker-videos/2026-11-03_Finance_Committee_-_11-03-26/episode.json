@@ -1,0 +1,62 @@
+{
+  "identifier": "cochwy-Finance_Committee_-_11-03-26-R2J7kutcmDA",
+  "title": "Finance Committee - 11-03-26",
+  "date": "2026-11-03",
+  "season": 15,
+  "repo": "therealwindycity/cheyenne-archives-2025-2026",
+  "release_tag": "speaker-videos-2026-11-03-R2J7kutcmDA",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/tag/speaker-videos-2026-11-03-R2J7kutcmDA",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Finance_Committee_-_11-03-26-R2J7kutcmDA",
+  "archive_stream_url": "https://archive.org/download/cochwy-Finance_Committee_-_11-03-26-R2J7kutcmDA/Finance_Committee_-_11-03-26-R2J7kutcmDA.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_03",
+      "clips_count": 12,
+      "size_bytes": 26042736,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-R2J7kutcmDA/Speaker_01_Voice_Cluster_03_12_clips.zip"
+    },
+    {
+      "speaker": "Speaker_02_Voice_Cluster_07",
+      "clips_count": 1,
+      "size_bytes": 963563,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-R2J7kutcmDA/Speaker_02_Voice_Cluster_07_01_clips.zip"
+    },
+    {
+      "speaker": "Speaker_03_Councilman_Larry_Wolf",
+      "clips_count": 7,
+      "size_bytes": 34032970,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-R2J7kutcmDA/Speaker_03_Councilman_Larry_Wolf_07_clips.zip"
+    },
+    {
+      "speaker": "Speaker_04_Meeting_Clerk",
+      "clips_count": 13,
+      "size_bytes": 145466014,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-R2J7kutcmDA/Speaker_04_Meeting_Clerk_13_clips.zip"
+    },
+    {
+      "speaker": "Speaker_06_Voice_Cluster_01",
+      "clips_count": 6,
+      "size_bytes": 11617346,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-R2J7kutcmDA/Speaker_06_Voice_Cluster_01_06_clips.zip"
+    },
+    {
+      "speaker": "Speaker_07_Voice_Cluster_05",
+      "clips_count": 1,
+      "size_bytes": 936383,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-R2J7kutcmDA/Speaker_07_Voice_Cluster_05_01_clips.zip"
+    }
+  ],
+  "ordinances": [
+    {
+      "start": 130.879,
+      "hms": "00h02m11s",
+      "summary": "Item number 22A, contract modification number one to contract number 8081 between the city of Cheyenne and the National Forest Foundation to reflect an extens extension in the performance period and an increase in funding."
+    },
+    {
+      "start": 481.44,
+      "hms": "00h08m01s",
+      "summary": "item number 22B, contract modification number two to contract number 7782 between the city of Cheyenne and DHM Design Corporation for the Reed Avenue rail corridor design project. members of the finance committee. Tom Cobb, city engineer. before you and for your consideration is "
+    }
+  ],
+  "turns_count": 40
+}
