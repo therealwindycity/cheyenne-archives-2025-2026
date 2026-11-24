@@ -1,0 +1,55 @@
+name: Speaker Video & Episode Archive (2025-2026)
+
+on:
+  schedule:
+    - cron: "11 */2 * * *"
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: "Meetings to split & publish (newest -> oldest)"
+        required: false
+        default: "4"
+
+concurrency:
+  group: speaker-video-archive-2025-2099
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  archive-speaker-videos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - name: Sparse checkout scripts & speaker-videos state
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            scripts
+            speaker-videos
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install FFmpeg & diarization libraries
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg curl
+          pip install -q numpy scipy librosa scikit-learn
+
+      - name: Split speaker video clips & publish Releases + Episode JSON
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          BATCH="${{ github.event.inputs.batch_size || '4' }}"
+          python3 scripts/publish_to_github.py \
+            --routing single-repo \
+            --repo "${{ github.repository }}" \
+            --min-year 2025 \
+            --max-year 2099 \
+            --batch-size "$BATCH" \
+            --max-minutes 290 \
+            --work-dir "${{ runner.temp }}/cheyenne_work"
