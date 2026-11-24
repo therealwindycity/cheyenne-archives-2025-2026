@@ -48,7 +48,7 @@ jobs:
           python3 scripts/publish_to_github.py \
             --owner "${{ github.repository_owner }}" \
             --routing single-repo \
-            --repo "cheyenne-archives-2025-2026" \
+            --repo "${{ github.repository }}" \
             --min-year 2025 \
             --max-year 2026 \
             --batch-size "${{ inputs.batch_size || '3' }}" \
