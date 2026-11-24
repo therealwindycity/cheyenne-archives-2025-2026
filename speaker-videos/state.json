@@ -62,6 +62,19 @@
       "speakers": 14,
       "clips": 122,
       "status": "published"
+    },
+    "cochwy-Finance_Committee_-_11-03-26-R2J7kutcmDA": {
+      "identifier": "cochwy-Finance_Committee_-_11-03-26-R2J7kutcmDA",
+      "date": "2026-11-03",
+      "title": "Finance Committee - 11-03-26",
+      "repo": "therealwindycity/cheyenne-archives-2025-2026",
+      "release_tag": "speaker-videos-2026-11-03-R2J7kutcmDA",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/tag/speaker-videos-2026-11-03-R2J7kutcmDA",
+      "index_path": "speaker-videos/2026-11-03_Finance_Committee_-_11-03-26/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2026-11-03_Finance_Committee_-_11-03-26/episode.json",
+      "speakers": 6,
+      "clips": 40,
+      "status": "published"
     }
   }
 }
