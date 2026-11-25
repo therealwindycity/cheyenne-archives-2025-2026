@@ -1,0 +1,27 @@
+{
+  "identifier": "cochwy-The_City_at_Work_-_Data_Center_Regulation-Xp4ZjLCPXuw",
+  "title": "The City at Work - Data Center Regulation",
+  "date": "2026-11-20",
+  "season": 15,
+  "repo": "therealwindycity/cheyenne-archives-2025-2026",
+  "release_tag": "speaker-videos-2026-11-20-Xp4ZjLCPXuw",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/tag/speaker-videos-2026-11-20-Xp4ZjLCPXuw",
+  "archive_embed_url": "https://archive.org/embed/cochwy-The_City_at_Work_-_Data_Center_Regulation-Xp4ZjLCPXuw",
+  "archive_stream_url": "https://archive.org/download/cochwy-The_City_at_Work_-_Data_Center_Regulation-Xp4ZjLCPXuw/The_City_at_Work_-_Data_Center_Regulation-Xp4ZjLCPXuw.mpeg4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 7,
+      "size_bytes": 31258518,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-20-Xp4ZjLCPXuw/Speaker_01_Voice_Cluster_01_07_clips.zip"
+    },
+    {
+      "speaker": "Speaker_02_Voice_Cluster_02",
+      "clips_count": 6,
+      "size_bytes": 54757921,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-20-Xp4ZjLCPXuw/Speaker_02_Voice_Cluster_02_06_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 13
+}
