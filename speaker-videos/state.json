@@ -166,6 +166,19 @@
       "speakers": 30,
       "clips": 366,
       "status": "published"
+    },
+    "cochwy-The_City_at_Work_-_Data_Center_Regulation-Xp4ZjLCPXuw": {
+      "identifier": "cochwy-The_City_at_Work_-_Data_Center_Regulation-Xp4ZjLCPXuw",
+      "date": "2026-11-20",
+      "title": "The City at Work - Data Center Regulation",
+      "repo": "therealwindycity/cheyenne-archives-2025-2026",
+      "release_tag": "speaker-videos-2026-11-20-Xp4ZjLCPXuw",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/tag/speaker-videos-2026-11-20-Xp4ZjLCPXuw",
+      "index_path": "speaker-videos/2026-11-20_The_City_at_Work_-_Data_Center_Regulation/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2026-11-20_The_City_at_Work_-_Data_Center_Regulation/episode.json",
+      "speakers": 2,
+      "clips": 13,
+      "status": "published"
     }
   }
 }
