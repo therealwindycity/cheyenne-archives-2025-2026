@@ -1,0 +1,132 @@
+[
+  {
+    "global_idx": 1,
+    "speaker": "Speaker_01_Voice_Cluster_01",
+    "speaker_turn": 1,
+    "start": 1.9,
+    "end": 6.39,
+    "hms": "00h00m02s-00h00m06s",
+    "file_name": "Speaker_01_Voice_Cluster_01_turn01_global001_00h00m02s-00h00m06s.mp4",
+    "text_preview": "staff for the city, and I'm standing here today with Seth Lloyd, a senior planner for the city."
+  },
+  {
+    "global_idx": 2,
+    "speaker": "Speaker_02_Voice_Cluster_02",
+    "speaker_turn": 1,
+    "start": 6.4,
+    "end": 14.79,
+    "hms": "00h00m06s-00h00m15s",
+    "file_name": "Speaker_02_Voice_Cluster_02_turn01_global002_00h00m06s-00h00m15s.mp4",
+    "text_preview": "We're here at a data center. This is a hyperscale data center. [music] Um, it's operating right now, um, and I hear you have some questions for me."
+  },
+  {
+    "global_idx": 3,
+    "speaker": "Speaker_01_Voice_Cluster_01",
+    "speaker_turn": 2,
+    "start": 14.8,
+    "end": 27.59,
+    "hms": "00h00m15s-00h00m28s",
+    "file_name": "Speaker_01_Voice_Cluster_01_turn02_global003_00h00m15s-00h00m28s.mp4",
+    "text_preview": "Yeah, so we're updating the UDC amendments, um, or doing a bunch of amendments to the UDC to address some of the concerns that the public has had. Um, one of those concerns happens to be noise. So how are we addressing n"
+  },
+  {
+    "global_idx": 4,
+    "speaker": "Speaker_02_Voice_Cluster_02",
+    "speaker_turn": 2,
+    "start": 27.6,
+    "end": 49.19,
+    "hms": "00h00m28s-00h00m49s",
+    "file_name": "Speaker_02_Voice_Cluster_02_turn02_global004_00h00m28s-00h00m49s.mp4",
+    "text_preview": "So right now the UDC does prohibit discernible noise at the property line. So we have a hyperscale center right now operating, and I'm hearing cars driving by, I'm hearing the wind, and when those die down, I'm hearing t"
+  },
+  {
+    "global_idx": 5,
+    "speaker": "Speaker_01_Voice_Cluster_01",
+    "speaker_turn": 3,
+    "start": 49.2,
+    "end": 57.69,
+    "hms": "00h00m49s-00h00m58s",
+    "file_name": "Speaker_01_Voice_Cluster_01_turn03_global005_00h00m49s-00h00m58s.mp4",
+    "text_preview": "One of the other concerns that has really been, um, large with the public has been water and water usage. How are we addressing that?"
+  },
+  {
+    "global_idx": 6,
+    "speaker": "Speaker_02_Voice_Cluster_02",
+    "speaker_turn": 3,
+    "start": 57.7,
+    "end": 105.09,
+    "hms": "00h00m58s-00h01m45s",
+    "file_name": "Speaker_02_Voice_Cluster_02_turn03_global006_00h00m58s-00h01m45s.mp4",
+    "text_preview": "Okay, so let's take the example of this data center. This data center right now uses evaporative cooling. Evaporative cooling uses more water than other types of cooling [music] systems like closed loop. Um, this because"
+  },
+  {
+    "global_idx": 7,
+    "speaker": "Speaker_01_Voice_Cluster_01",
+    "speaker_turn": 4,
+    "start": 105.1,
+    "end": 110.69,
+    "hms": "00h01m45s-00h01m51s",
+    "file_name": "Speaker_01_Voice_Cluster_01_turn04_global007_00h01m45s-00h01m51s.mp4",
+    "text_preview": "What about lighting? Lighting's been a big concern, particularly with construction. How are we addressing lighting here?"
+  },
+  {
+    "global_idx": 8,
+    "speaker": "Speaker_02_Voice_Cluster_02",
+    "speaker_turn": 4,
+    "start": 110.7,
+    "end": 127.98,
+    "hms": "00h01m51s-00h02m08s",
+    "file_name": "Speaker_02_Voice_Cluster_02_turn04_global008_00h01m51s-00h02m08s.mp4",
+    "text_preview": "So right now our code [music] prohibits light trespass on completed sites. So if you look at this site and you look at the lights, all of them are shielded, downward facing, they're not on properties. We do have some iss"
+  },
+  {
+    "global_idx": 9,
+    "speaker": "Speaker_01_Voice_Cluster_01",
+    "speaker_turn": 5,
+    "start": 127.99,
+    "end": 137.48,
+    "hms": "00h02m08s-00h02m17s",
+    "file_name": "Speaker_01_Voice_Cluster_01_turn05_global009_00h02m08s-00h02m17s.mp4",
+    "text_preview": "And then finally electricity. There's been a lot of concern around the amount of electricity [music] that data centers and hyperscalers use. What are we doing with our amendments to address that?"
+  },
+  {
+    "global_idx": 10,
+    "speaker": "Speaker_02_Voice_Cluster_02",
+    "speaker_turn": 5,
+    "start": 137.49,
+    "end": 178.38,
+    "hms": "00h02m17s-00h02m58s",
+    "file_name": "Speaker_02_Voice_Cluster_02_turn05_global010_00h02m17s-00h02m58s.mp4",
+    "text_preview": "Our code currently [music] talks about electricity and says that you have to have capacity in order to build in Cheyenne and the state [music] has requirements that data centers bring their own power with them. And so Bl"
+  },
+  {
+    "global_idx": 11,
+    "speaker": "Speaker_01_Voice_Cluster_01",
+    "speaker_turn": 6,
+    "start": 178.39,
+    "end": 185.58,
+    "hms": "00h02m58s-00h03m06s",
+    "file_name": "Speaker_01_Voice_Cluster_01_turn06_global011_00h02m58s-00h03m06s.mp4",
+    "text_preview": "So these [music] amendments and others are before the Planning Commission currently. Where are we at in the process and what's the next steps? [music]"
+  },
+  {
+    "global_idx": 12,
+    "speaker": "Speaker_02_Voice_Cluster_02",
+    "speaker_turn": 6,
+    "start": 185.59,
+    "end": 194.68,
+    "hms": "00h03m06s-00h03m15s",
+    "file_name": "Speaker_02_Voice_Cluster_02_turn06_global012_00h03m06s-00h03m15s.mp4",
+    "text_preview": "So they're in the process right now. They've some of them have gone to Planning Commission are at City Council. Some [music] of them are coming to City Council soon. We expect them all to wrap up before the end of the ye"
+  },
+  {
+    "global_idx": 13,
+    "speaker": "Speaker_01_Voice_Cluster_01",
+    "speaker_turn": 7,
+    "start": 194.69,
+    "end": 206.29,
+    "hms": "00h03m15s-00h03m26s",
+    "file_name": "Speaker_01_Voice_Cluster_01_turn07_global013_00h03m15s-00h03m26s.mp4",
+    "text_preview": "Excellent. All right. Well, to learn more about [music] everything we talked about today as well as things that are in those amendments that weren't addressed, please visit our website."
+  }
+]
