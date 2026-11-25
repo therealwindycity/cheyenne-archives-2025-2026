@@ -140,6 +140,19 @@
       "speakers": 8,
       "clips": 49,
       "status": "published"
+    },
+    "cochwy-Magic_City_Minute_-_Winter_Tree_Watering-jTsoLLR06IM": {
+      "identifier": "cochwy-Magic_City_Minute_-_Winter_Tree_Watering-jTsoLLR06IM",
+      "date": "2026-11-25",
+      "title": "Magic City Minute - Winter Tree Watering",
+      "repo": "therealwindycity/cheyenne-archives-2025-2026",
+      "release_tag": "speaker-videos-2026-11-25-jTsoLLR06IM",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/tag/speaker-videos-2026-11-25-jTsoLLR06IM",
+      "index_path": "speaker-videos/2026-11-25_Magic_City_Minute_-_Winter_Tree_Watering/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2026-11-25_Magic_City_Minute_-_Winter_Tree_Watering/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
