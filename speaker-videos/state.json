@@ -244,6 +244,19 @@
       "speakers": 9,
       "clips": 214,
       "status": "published"
+    },
+    "cochwy-Finance_Committee_-_10-20-26-tuNz5g8X0YA": {
+      "identifier": "cochwy-Finance_Committee_-_10-20-26-tuNz5g8X0YA",
+      "date": "2026-10-20",
+      "title": "Finance Committee - 10-20-26",
+      "repo": "therealwindycity/cheyenne-archives-2025-2026",
+      "release_tag": "speaker-videos-2026-10-20-tuNz5g8X0YA",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/tag/speaker-videos-2026-10-20-tuNz5g8X0YA",
+      "index_path": "speaker-videos/2026-10-20_Finance_Committee_-_10-20-26/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2026-10-20_Finance_Committee_-_10-20-26/episode.json",
+      "speakers": 14,
+      "clips": 71,
+      "status": "published"
     }
   }
 }
