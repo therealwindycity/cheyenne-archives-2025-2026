@@ -102,6 +102,20 @@ def repo_for_year(owner: str, year: int) -> str:
     return f"{owner}/cheyenne-archives-2008-2013"
 
 
+RUN = {"published": 0, "errors": []}
+
+
+def safe_tag(raw: str) -> str:
+    """Return a git-ref-safe tag name (no trailing '.', no '..', no spaces/special chars, no '.lock' suffix)."""
+    t = re.sub(r"[^A-Za-z0-9._-]+", "-", raw)
+    t = re.sub(r"\.{2,}", ".", t)
+    t = re.sub(r"-{2,}", "-", t)
+    t = t.strip(".-")
+    while t.endswith(".lock"):
+        t = t[: -len(".lock")].rstrip(".-")
+    return t or "speaker-videos"
+
+
 def gh_request(method: str, url: str, token: str, data: bytes | dict | None = None, content_type: str = "application/json"):
     headers = {
         "Authorization": f"Bearer {token}",
@@ -661,7 +675,7 @@ def process_and_publish_one(idx: int, doc: dict, target_repo: str, token: str, w
             return {"identifier": ident, "status": "no_valid_clips", "date": date_str}
 
         slug = sanitize_name(f"{date_str}_{title}")[:75]
-        release_tag = f"speaker-videos-{date_str}-{ident[-11:]}"
+        release_tag = safe_tag(f"speaker-videos-{date_str}-{ident[-11:]}")
         release_title = f"🎬 [{date_str}] {title} — Speaker Video Clips"
         release_intro = (
             f"**The Real Windy City — Episode Speaker Video Package**\n\n"
@@ -744,6 +758,7 @@ def main() -> None:
 
     t_start = time.time()
     published_this_run = 0
+    errors = RUN["errors"]
     page, global_idx = 1, 0
 
     while True:
@@ -764,12 +779,22 @@ def main() -> None:
                 return
 
             target_repo = args.repo if args.routing == "single-repo" else repo_for_year(args.owner, year)
-            res = process_and_publish_one(global_idx, doc, target_repo, token, args.work_dir)
+            prev = processed.get(ident) or {}
+            if prev.get("status") == "error" and prev.get("attempts", 0) >= 3:
+                continue  # gave up after 3 failed attempts; see state.json for the error
+            try:
+                res = process_and_publish_one(global_idx, doc, target_repo, token, args.work_dir)
+            except Exception as exc:  # one bad meeting must not block the rest of the queue
+                errors.append(ident)
+                print(f"::error title=Speaker video publish failed::{ident}: {str(exc)[:300]}", flush=True)
+                res = {"identifier": ident, "status": "error", "date": date_str,
+                       "attempts": prev.get("attempts", 0) + 1, "error": str(exc)[:500]}
             if res:
                 processed[ident] = res
                 gh_put_file(state_repo, "speaker-videos/state.json", json.dumps(state, indent=2).encode("utf-8"), f"Update speaker video state ({ident})", token)
                 if res.get("status") == "published":
                     published_this_run += 1
+                    RUN["published"] += 1
                     if args.batch_size and published_this_run >= args.batch_size:
                         return
         page += 1
@@ -777,3 +802,6 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+    print(f"Published {RUN['published']} meeting(s); {len(RUN['errors'])} failed: {RUN['errors']}")
+    if RUN["errors"] and not RUN["published"]:
+        sys.exit(1)
