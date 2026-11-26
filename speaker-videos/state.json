@@ -231,6 +231,19 @@
       "speakers": 7,
       "clips": 114,
       "status": "published"
+    },
+    "cochwy-August_11_2026_Cheyenne_Historic_Preservation_Board_Meeting-ufjMMFxH7xc": {
+      "identifier": "cochwy-August_11_2026_Cheyenne_Historic_Preservation_Board_Meeting-ufjMMFxH7xc",
+      "date": "2026-10-20",
+      "title": "August 11, 2026, Cheyenne Historic Preservation Board Meeting",
+      "repo": "therealwindycity/cheyenne-archives-2025-2026",
+      "release_tag": "speaker-videos-2026-10-20-ufjMMFxH7xc",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/tag/speaker-videos-2026-10-20-ufjMMFxH7xc",
+      "index_path": "speaker-videos/2026-10-20_August_11_2026_Cheyenne_Historic_Preservation_Boa/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2026-10-20_August_11_2026_Cheyenne_Historic_Preservation_Boa/episode.json",
+      "speakers": 9,
+      "clips": 214,
+      "status": "published"
     }
   }
 }
