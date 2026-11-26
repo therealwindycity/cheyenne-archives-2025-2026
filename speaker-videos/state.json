@@ -179,6 +179,19 @@
       "speakers": 2,
       "clips": 13,
       "status": "published"
+    },
+    "cochwy-The_City_at_Work_-_Municipal_Chambers_Renovations-8Pi1egxwvsw": {
+      "identifier": "cochwy-The_City_at_Work_-_Municipal_Chambers_Renovations-8Pi1egxwvsw",
+      "date": "2026-11-20",
+      "title": "The City at Work - Municipal Chambers Renovations",
+      "repo": "therealwindycity/cheyenne-archives-2025-2026",
+      "release_tag": "speaker-videos-2026-11-20-8Pi1egxwvsw",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/tag/speaker-videos-2026-11-20-8Pi1egxwvsw",
+      "index_path": "speaker-videos/2026-11-20_The_City_at_Work_-_Municipal_Chambers_Renovations/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2026-11-20_The_City_at_Work_-_Municipal_Chambers_Renovations/episode.json",
+      "speakers": 2,
+      "clips": 2,
+      "status": "published"
     }
   }
 }
