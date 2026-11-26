@@ -1,0 +1,22 @@
+[
+  {
+    "global_idx": 1,
+    "speaker": "Speaker_01_Voice_Cluster_02",
+    "speaker_turn": 1,
+    "start": 1.3,
+    "end": 164.08,
+    "hms": "00h00m01s-00h02m44s",
+    "file_name": "Speaker_01_Voice_Cluster_02_turn01_global001_00h00m01s-00h02m44s.mp4",
+    "text_preview": "chief of staff for the city of Cheyenne, and today I'm joined by Vicki Nemecek, our [music] city Public Works Director. Um, today we're going to talk about um, some of the proposed renovations coming to our building. And"
+  },
+  {
+    "global_idx": 2,
+    "speaker": "Speaker_02_Voice_Cluster_01",
+    "speaker_turn": 1,
+    "start": 164.09,
+    "end": 295.59,
+    "hms": "00h02m44s-00h04m56s",
+    "file_name": "Speaker_02_Voice_Cluster_01_turn01_global002_00h02m44s-00h04m56s.mp4",
+    "text_preview": "Well, this is the area where the dais would start would start here. The seating would [music] be more accessible to make sure that it was easier to take [music] part in the meetings, that it was easier to hear the meetin"
+  }
+]
