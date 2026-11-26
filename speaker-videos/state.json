@@ -205,6 +205,19 @@
       "speakers": 2,
       "clips": 17,
       "status": "published"
+    },
+    "cochwy-October_15_2026_Cheyenne_Board_of_Adjustment_Meeting-HW4LVHWcf-Y": {
+      "identifier": "cochwy-October_15_2026_Cheyenne_Board_of_Adjustment_Meeting-HW4LVHWcf-Y",
+      "date": "2026-10-20",
+      "title": "October 15, 2026, Cheyenne Board of Adjustment Meeting",
+      "repo": "therealwindycity/cheyenne-archives-2025-2026",
+      "release_tag": "speaker-videos-2026-10-20-HW4LVHWcf-Y",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/tag/speaker-videos-2026-10-20-HW4LVHWcf-Y",
+      "index_path": "speaker-videos/2026-10-20_October_15_2026_Cheyenne_Board_of_Adjustment_Meet/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2026-10-20_October_15_2026_Cheyenne_Board_of_Adjustment_Meet/episode.json",
+      "speakers": 10,
+      "clips": 131,
+      "status": "published"
     }
   }
 }
