@@ -192,6 +192,19 @@
       "speakers": 2,
       "clips": 2,
       "status": "published"
+    },
+    "cochwy-The_City_at_Work_-_How_Municipal_Referendum_Petitions_Work_At_The_City-h18EPvJclac": {
+      "identifier": "cochwy-The_City_at_Work_-_How_Municipal_Referendum_Petitions_Work_At_The_City-h18EPvJclac",
+      "date": "2026-11-20",
+      "title": "The City at Work - How Municipal Referendum Petitions Work At The City",
+      "repo": "therealwindycity/cheyenne-archives-2025-2026",
+      "release_tag": "speaker-videos-2026-11-20-h18EPvJclac",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/tag/speaker-videos-2026-11-20-h18EPvJclac",
+      "index_path": "speaker-videos/2026-11-20_The_City_at_Work_-_How_Municipal_Referendum_Petit/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2026-11-20_The_City_at_Work_-_How_Municipal_Referendum_Petit/episode.json",
+      "speakers": 2,
+      "clips": 17,
+      "status": "published"
     }
   }
 }
