@@ -1,0 +1,1142 @@
+[
+  {
+    "global_idx": 1,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 1,
+    "start": 21.96,
+    "end": 48.27,
+    "hms": "00h00m22s-00h00m48s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn01_global001_00h00m22s-00h00m48s.mp4",
+    "text_preview": "Okay. Well, it's it's 6:00, so we should go ahead and get started. I think we we have a quorum, so Okay, I'll call this meeting to order at 6:00 p.m. I'm starting with roll call. Gary Sands. [Here.] David Benner."
+  },
+  {
+    "global_idx": 2,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 2,
+    "start": 49.04,
+    "end": 59.91,
+    "hms": "00h00m49s-00h01m00s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn02_global002_00h00m49s-00h01m00s.mp4",
+    "text_preview": "Josh Chrysler is absent. Elizabeth is also absent. Patrick Bustos. [Here.] Kelly is absent. Patrick Vaughn."
+  },
+  {
+    "global_idx": 3,
+    "speaker": "Speaker_02_Voice_Cluster_01",
+    "speaker_turn": 1,
+    "start": 59.92,
+    "end": 64.35,
+    "hms": "00h01m00s-00h01m04s",
+    "file_name": "Speaker_02_Voice_Cluster_01_turn01_global003_00h01m00s-00h01m04s.mp4",
+    "text_preview": "Here. [Chuck Berdick.] Here."
+  },
+  {
+    "global_idx": 4,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 3,
+    "start": 64.36,
+    "end": 70.51,
+    "hms": "00h01m04s-00h01m11s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn03_global004_00h01m04s-00h01m11s.mp4",
+    "text_preview": "And Josephine, did you hear anything from her? Okay. And Stephen Hamman."
+  },
+  {
+    "global_idx": 5,
+    "speaker": "Speaker_02_Voice_Cluster_01",
+    "speaker_turn": 2,
+    "start": 70.52,
+    "end": 72.71,
+    "hms": "00h01m11s-00h01m13s",
+    "file_name": "Speaker_02_Voice_Cluster_01_turn02_global005_00h01m11s-00h01m13s.mp4",
+    "text_preview": "Here."
+  },
+  {
+    "global_idx": 6,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 4,
+    "start": 72.72,
+    "end": 92.39,
+    "hms": "00h01m13s-00h01m32s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn04_global006_00h01m13s-00h01m32s.mp4",
+    "text_preview": "I believe we have a quorum. So, we'll go ahead and get started with the approval of the minutes like to make a motion? Sorry. approve the minutes?"
+  },
+  {
+    "global_idx": 7,
+    "speaker": "Speaker_04_Voice_Cluster_05",
+    "speaker_turn": 1,
+    "start": 92.4,
+    "end": 94.43,
+    "hms": "00h01m32s-00h01m34s",
+    "file_name": "Speaker_04_Voice_Cluster_05_turn01_global007_00h01m32s-00h01m34s.mp4",
+    "text_preview": "I'll make a motion to approve the minutes."
+  },
+  {
+    "global_idx": 8,
+    "speaker": "Speaker_02_Voice_Cluster_01",
+    "speaker_turn": 3,
+    "start": 94.44,
+    "end": 196.15,
+    "hms": "00h01m34s-00h03m16s",
+    "file_name": "Speaker_02_Voice_Cluster_01_turn03_global008_00h01m34s-00h03m16s.mp4",
+    "text_preview": "Second. Okay. Any comments? No. All in favor, say aye. [Aye.] Aye. All opposed, same sign. All right, motion passes. Okay, is David on line? online? We're moving on to disclosures. Does anyone have any conflicts of inter"
+  },
+  {
+    "global_idx": 9,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 5,
+    "start": 196.16,
+    "end": 197.91,
+    "hms": "00h03m16s-00h03m18s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn05_global009_00h03m16s-00h03m18s.mp4",
+    "text_preview": "hyperbolic paraboloid"
+  },
+  {
+    "global_idx": 10,
+    "speaker": "Speaker_06_Voice_Cluster_07",
+    "speaker_turn": 1,
+    "start": 197.92,
+    "end": 200.07,
+    "hms": "00h03m18s-00h03m20s",
+    "file_name": "Speaker_06_Voice_Cluster_07_turn01_global010_00h03m18s-00h03m20s.mp4",
+    "text_preview": "Yes. It's uh"
+  },
+  {
+    "global_idx": 11,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 6,
+    "start": 200.08,
+    "end": 201.47,
+    "hms": "00h03m20s-00h03m21s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn06_global011_00h03m20s-00h03m21s.mp4",
+    "text_preview": "I've said it a few times."
+  },
+  {
+    "global_idx": 12,
+    "speaker": "Speaker_07_Voice_Cluster_02",
+    "speaker_turn": 1,
+    "start": 201.48,
+    "end": 893.87,
+    "hms": "00h03m21s-00h14m54s",
+    "file_name": "Speaker_07_Voice_Cluster_02_turn01_global012_00h03m21s-00h14m54s.mp4",
+    "text_preview": "It's uh very unique and and uh it's also one of the aspects of all this in the attempt to turn it into a uh center of the arts and aviation history is its location. And its location there on 8th Avenue is uh in close pro"
+  },
+  {
+    "global_idx": 13,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 7,
+    "start": 893.88,
+    "end": 972.87,
+    "hms": "00h14m54s-00h16m13s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn07_global013_00h14m54s-00h16m13s.mp4",
+    "text_preview": "Um and I I've shared a little bit with this board already. Some of um what came out of the meeting. Um but it it right now they have uh stopped us putting in the nomination for the um register for the national register. "
+  },
+  {
+    "global_idx": 14,
+    "speaker": "Speaker_07_Voice_Cluster_02",
+    "speaker_turn": 2,
+    "start": 972.88,
+    "end": 978.71,
+    "hms": "00h16m13s-00h16m19s",
+    "file_name": "Speaker_07_Voice_Cluster_02_turn02_global014_00h16m13s-00h16m19s.mp4",
+    "text_preview": "Of course, the point being that you'd have a major expense tearing that building down."
+  },
+  {
+    "global_idx": 15,
+    "speaker": "Speaker_06_Voice_Cluster_07",
+    "speaker_turn": 2,
+    "start": 979.64,
+    "end": 981.47,
+    "hms": "00h16m20s-00h16m21s",
+    "file_name": "Speaker_06_Voice_Cluster_07_turn02_global015_00h16m20s-00h16m21s.mp4",
+    "text_preview": "That is not"
+  },
+  {
+    "global_idx": 16,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 8,
+    "start": 981.48,
+    "end": 992.23,
+    "hms": "00h16m21s-00h16m32s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn08_global016_00h16m21s-00h16m32s.mp4",
+    "text_preview": "And that is a very good point because it has been tested for asbestos and we have the reports on that and I do believe that demolition we'd be looking over a million dollars to demolish it."
+  },
+  {
+    "global_idx": 17,
+    "speaker": "Speaker_07_Voice_Cluster_02",
+    "speaker_turn": 3,
+    "start": 992.24,
+    "end": 1070.03,
+    "hms": "00h16m32s-00h17m50s",
+    "file_name": "Speaker_07_Voice_Cluster_02_turn03_global017_00h16m32s-00h17m50s.mp4",
+    "text_preview": "So, these are these are facts that the community needs to know and that we can share uh certainly if uh I can bring in some I hope we'll have some assistance from my colleagues in uh declaring that an historic building. "
+  },
+  {
+    "global_idx": 18,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 9,
+    "start": 1070.04,
+    "end": 1084.59,
+    "hms": "00h17m50s-00h18m05s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn09_global018_00h17m50s-00h18m05s.mp4",
+    "text_preview": "I Well, I guess I I think we do know the importance, but I would be curious of how how we as a board take that step and and making this a historic site. Is that something that we do or something that City Council does?"
+  },
+  {
+    "global_idx": 19,
+    "speaker": "Speaker_07_Voice_Cluster_02",
+    "speaker_turn": 4,
+    "start": 1084.6,
+    "end": 1090.11,
+    "hms": "00h18m05s-00h18m10s",
+    "file_name": "Speaker_07_Voice_Cluster_02_turn04_global019_00h18m05s-00h18m10s.mp4",
+    "text_preview": "Well, I understand that the council can do it. [Okay.] Your encouragement would be critical."
+  },
+  {
+    "global_idx": 20,
+    "speaker": "Speaker_07_Voice_Cluster_02",
+    "speaker_turn": 5,
+    "start": 1090.92,
+    "end": 1426.35,
+    "hms": "00h18m11s-00h23m46s",
+    "file_name": "Speaker_07_Voice_Cluster_02_turn05_global020_00h18m11s-00h23m46s.mp4",
+    "text_preview": "And that would be uh open up the whole really the city. Uh we're growing. The whole question of the data centers and their placement and their uh how important they are is uh very much We're moving away from the uh small"
+  },
+  {
+    "global_idx": 21,
+    "speaker": "Speaker_04_Voice_Cluster_05",
+    "speaker_turn": 2,
+    "start": 1426.36,
+    "end": 1502.59,
+    "hms": "00h23m46s-00h25m03s",
+    "file_name": "Speaker_04_Voice_Cluster_05_turn02_global021_00h23m46s-00h25m03s.mp4",
+    "text_preview": "Um Thank you, Councilman Laybourn. Um I don't know if it's the city council um not actual legislation, but a city council uh initiative to ask the board to stop any particular uh action related to that building that woul"
+  },
+  {
+    "global_idx": 22,
+    "speaker": "Speaker_07_Voice_Cluster_02",
+    "speaker_turn": 6,
+    "start": 1502.6,
+    "end": 1503.95,
+    "hms": "00h25m03s-00h25m04s",
+    "file_name": "Speaker_07_Voice_Cluster_02_turn06_global022_00h25m03s-00h25m04s.mp4",
+    "text_preview": "I think that uh"
+  },
+  {
+    "global_idx": 23,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 10,
+    "start": 1503.96,
+    "end": 1516.59,
+    "hms": "00h25m04s-00h25m17s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn10_global023_00h25m04s-00h25m17s.mp4",
+    "text_preview": "Well, sorry, real quick to clarify. There is the national register, but then there's our city recognized and he's talking about our city recognized. That would not be on the the national register, but just how we interpr"
+  },
+  {
+    "global_idx": 24,
+    "speaker": "Speaker_04_Voice_Cluster_05",
+    "speaker_turn": 3,
+    "start": 1516.6,
+    "end": 1520.75,
+    "hms": "00h25m17s-00h25m21s",
+    "file_name": "Speaker_04_Voice_Cluster_05_turn03_global024_00h25m17s-00h25m21s.mp4",
+    "text_preview": "Um does that hold the same weight as the national designation?"
+  },
+  {
+    "global_idx": 25,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 11,
+    "start": 1520.76,
+    "end": 1523.99,
+    "hms": "00h25m21s-00h25m24s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn11_global025_00h25m21s-00h25m24s.mp4",
+    "text_preview": "Within the city of Cheyenne, yes, it could."
+  },
+  {
+    "global_idx": 26,
+    "speaker": "Speaker_04_Voice_Cluster_05",
+    "speaker_turn": 4,
+    "start": 1524.0,
+    "end": 1531.31,
+    "hms": "00h25m24s-00h25m31s",
+    "file_name": "Speaker_04_Voice_Cluster_05_turn04_global026_00h25m24s-00h25m31s.mp4",
+    "text_preview": "So so if if the city if the city took that action, they could not move forward with demolition."
+  },
+  {
+    "global_idx": 27,
+    "speaker": "Speaker_08_Voice_Cluster_04",
+    "speaker_turn": 1,
+    "start": 1531.32,
+    "end": 2026.23,
+    "hms": "00h25m31s-00h33m46s",
+    "file_name": "Speaker_08_Voice_Cluster_04_turn01_global027_00h25m31s-00h33m46s.mp4",
+    "text_preview": "Well, I think I think it would be similar, as I mentioned, to uh what happens in an historic district with a contributing structure. There's a process there. It isn't just fire up the bulldozer and away we go. And that p"
+  },
+  {
+    "global_idx": 28,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 12,
+    "start": 2026.24,
+    "end": 2047.99,
+    "hms": "00h33m46s-00h34m08s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn12_global028_00h33m46s-00h34m08s.mp4",
+    "text_preview": "So, I have a question on that. So, let's just say that before we can get through this process of the designation, they somehow figure out how to demolish it beforehand. I mean, they have to at least submit a demolition p"
+  },
+  {
+    "global_idx": 29,
+    "speaker": "Speaker_08_Voice_Cluster_04",
+    "speaker_turn": 2,
+    "start": 2048.0,
+    "end": 2067.43,
+    "hms": "00h34m08s-00h34m27s",
+    "file_name": "Speaker_08_Voice_Cluster_04_turn02_global029_00h34m08s-00h34m27s.mp4",
+    "text_preview": "To agree to members of the board, that's correct. A demolition permit would have to be submitted. Uh there is not a hard uh set fast deadline for how quickly those are reviewed. here and just is"
+  },
+  {
+    "global_idx": 30,
+    "speaker": "Speaker_04_Voice_Cluster_05",
+    "speaker_turn": 5,
+    "start": 2067.44,
+    "end": 2093.95,
+    "hms": "00h34m27s-00h34m54s",
+    "file_name": "Speaker_04_Voice_Cluster_05_turn05_global030_00h34m27s-00h34m54s.mp4",
+    "text_preview": "Uh Charles, if if hypothetical if if the process is started and a petition is is is submitted, does that preclude the owner from demolishing because a process is started or can they can they just do it any time in the pr"
+  },
+  {
+    "global_idx": 31,
+    "speaker": "Speaker_08_Voice_Cluster_04",
+    "speaker_turn": 3,
+    "start": 2093.96,
+    "end": 2114.19,
+    "hms": "00h34m54s-00h35m14s",
+    "file_name": "Speaker_08_Voice_Cluster_04_turn03_global031_00h34m54s-00h35m14s.mp4",
+    "text_preview": "Chair, members of the board, I imagine it would not. I might believe the only way to stop that would be through that first option I'd mentioned of the moratorium. And that would be something we'd have to discuss with the"
+  },
+  {
+    "global_idx": 32,
+    "speaker": "Speaker_04_Voice_Cluster_05",
+    "speaker_turn": 6,
+    "start": 2114.2,
+    "end": 2125.67,
+    "hms": "00h35m14s-00h35m26s",
+    "file_name": "Speaker_04_Voice_Cluster_05_turn06_global032_00h35m14s-00h35m26s.mp4",
+    "text_preview": "And that's city council action, a moratorium placed on a particular building would be a city council action, which is, you know, three readings, the whole process."
+  },
+  {
+    "global_idx": 33,
+    "speaker": "Speaker_08_Voice_Cluster_04",
+    "speaker_turn": 4,
+    "start": 2125.68,
+    "end": 2150.51,
+    "hms": "00h35m26s-00h35m51s",
+    "file_name": "Speaker_08_Voice_Cluster_04_turn04_global033_00h35m26s-00h35m51s.mp4",
+    "text_preview": "Chair, through the Mr. or board member Bustos, yes, that is correct. It would be through a city council action. And then we'll have additional follow-up with the city attorney as to um how that could be put together if i"
+  },
+  {
+    "global_idx": 34,
+    "speaker": "Speaker_04_Voice_Cluster_05",
+    "speaker_turn": 7,
+    "start": 2150.52,
+    "end": 2153.75,
+    "hms": "00h35m51s-00h35m54s",
+    "file_name": "Speaker_04_Voice_Cluster_05_turn07_global034_00h35m51s-00h35m54s.mp4",
+    "text_preview": "A technical question, who owns the building?"
+  },
+  {
+    "global_idx": 35,
+    "speaker": "Speaker_07_Voice_Cluster_02",
+    "speaker_turn": 7,
+    "start": 2153.76,
+    "end": 2160.43,
+    "hms": "00h35m54s-00h36m00s",
+    "file_name": "Speaker_07_Voice_Cluster_02_turn07_global035_00h35m54s-00h36m00s.mp4",
+    "text_preview": "Uh chair, members of the board, it's actually owned by the uh airport board. They're the the owner of that land."
+  },
+  {
+    "global_idx": 36,
+    "speaker": "Speaker_04_Voice_Cluster_05",
+    "speaker_turn": 8,
+    "start": 2160.44,
+    "end": 2175.27,
+    "hms": "00h36m00s-00h36m15s",
+    "file_name": "Speaker_04_Voice_Cluster_05_turn08_global036_00h36m00s-00h36m15s.mp4",
+    "text_preview": "Okay, so the board itself owns the the the property. [That's correct.] Hm. That's it. Interesting. And the board the board is is is independent from the city?"
+  },
+  {
+    "global_idx": 37,
+    "speaker": "Speaker_07_Voice_Cluster_02",
+    "speaker_turn": 8,
+    "start": 2175.28,
+    "end": 2369.87,
+    "hms": "00h36m15s-00h39m30s",
+    "file_name": "Speaker_07_Voice_Cluster_02_turn08_global037_00h36m15s-00h39m30s.mp4",
+    "text_preview": "The board is appointed um to joint powers board. We appoint some of the members. The county appoints the others. And there's In the past, they've looked at uh the whole relationship with the FAA and that particular piece"
+  },
+  {
+    "global_idx": 38,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 13,
+    "start": 2369.88,
+    "end": 2379.59,
+    "hms": "00h39m30s-00h39m40s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn13_global038_00h39m30s-00h39m40s.mp4",
+    "text_preview": "So, I just to clarify, so city council's going to kind of take action. What you would need from us is maybe a letter of support. Is that what I understand?"
+  },
+  {
+    "global_idx": 39,
+    "speaker": "Speaker_07_Voice_Cluster_02",
+    "speaker_turn": 9,
+    "start": 2379.6,
+    "end": 2437.71,
+    "hms": "00h39m40s-00h40m38s",
+    "file_name": "Speaker_07_Voice_Cluster_02_turn09_global039_00h39m40s-00h40m38s.mp4",
+    "text_preview": "Well, uh whether it is, I think uh as Mr. Bloom has pointed out, we need to really review uh legalities of this. I'm sure that uh we can do that with the city attorney. Um I think that it's important that we make sure al"
+  },
+  {
+    "global_idx": 40,
+    "speaker": "Speaker_02_Voice_Cluster_01",
+    "speaker_turn": 4,
+    "start": 2437.72,
+    "end": 2442.43,
+    "hms": "00h40m38s-00h40m42s",
+    "file_name": "Speaker_02_Voice_Cluster_01_turn04_global040_00h40m38s-00h40m42s.mp4",
+    "text_preview": "I I think it was in the ballpark of like 180."
+  },
+  {
+    "global_idx": 41,
+    "speaker": "Speaker_07_Voice_Cluster_02",
+    "speaker_turn": 10,
+    "start": 2445.2,
+    "end": 2449.71,
+    "hms": "00h40m45s-00h40m50s",
+    "file_name": "Speaker_07_Voice_Cluster_02_turn10_global041_00h40m45s-00h40m50s.mp4",
+    "text_preview": "With the grant from our economic development uh agency."
+  },
+  {
+    "global_idx": 42,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 14,
+    "start": 2449.72,
+    "end": 2452.51,
+    "hms": "00h40m50s-00h40m53s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn14_global042_00h40m50s-00h40m53s.mp4",
+    "text_preview": "Yeah, they did have to provide matching funds, but yeah."
+  },
+  {
+    "global_idx": 43,
+    "speaker": "Speaker_08_Voice_Cluster_04",
+    "speaker_turn": 5,
+    "start": 2452.52,
+    "end": 2456.79,
+    "hms": "00h40m53s-00h40m57s",
+    "file_name": "Speaker_08_Voice_Cluster_04_turn05_global043_00h40m53s-00h40m57s.mp4",
+    "text_preview": "So, my question is, why would they put that kind of money in it?"
+  },
+  {
+    "global_idx": 44,
+    "speaker": "Speaker_07_Voice_Cluster_02",
+    "speaker_turn": 11,
+    "start": 2457.56,
+    "end": 2458.55,
+    "hms": "00h40m58s-00h40m59s",
+    "file_name": "Speaker_07_Voice_Cluster_02_turn11_global044_00h40m58s-00h40m59s.mp4",
+    "text_preview": "going to tear it down."
+  },
+  {
+    "global_idx": 45,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 15,
+    "start": 2458.56,
+    "end": 2466.99,
+    "hms": "00h40m59s-00h41m07s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn15_global045_00h40m59s-00h41m07s.mp4",
+    "text_preview": "Because the old director initiated that and started the process of the roof replacement. Now, we've got a new director that has different feelings."
+  },
+  {
+    "global_idx": 46,
+    "speaker": "Speaker_07_Voice_Cluster_02",
+    "speaker_turn": 12,
+    "start": 2467.0,
+    "end": 2475.59,
+    "hms": "00h41m07s-00h41m16s",
+    "file_name": "Speaker_07_Voice_Cluster_02_turn12_global046_00h41m07s-00h41m16s.mp4",
+    "text_preview": "And don't you think that would affect the way people give future grants if they seen we just gave you a hundred some thousand dollars to do a roof and now you tear the building down?"
+  },
+  {
+    "global_idx": 47,
+    "speaker": "Speaker_02_Voice_Cluster_01",
+    "speaker_turn": 5,
+    "start": 2475.6,
+    "end": 2481.47,
+    "hms": "00h41m16s-00h41m21s",
+    "file_name": "Speaker_02_Voice_Cluster_01_turn05_global047_00h41m16s-00h41m21s.mp4",
+    "text_preview": "100%. Yes."
+  },
+  {
+    "global_idx": 48,
+    "speaker": "Speaker_07_Voice_Cluster_02",
+    "speaker_turn": 13,
+    "start": 2483.24,
+    "end": 2484.91,
+    "hms": "00h41m23s-00h41m25s",
+    "file_name": "Speaker_07_Voice_Cluster_02_turn13_global048_00h41m23s-00h41m25s.mp4",
+    "text_preview": "Well, thank you. Um"
+  },
+  {
+    "global_idx": 49,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 16,
+    "start": 2484.92,
+    "end": 2487.67,
+    "hms": "00h41m25s-00h41m28s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn16_global049_00h41m25s-00h41m28s.mp4",
+    "text_preview": "Oh, don't worry. We're here to fight the fight with you."
+  },
+  {
+    "global_idx": 50,
+    "speaker": "Speaker_07_Voice_Cluster_02",
+    "speaker_turn": 14,
+    "start": 2487.68,
+    "end": 2628.83,
+    "hms": "00h41m28s-00h43m49s",
+    "file_name": "Speaker_07_Voice_Cluster_02_turn14_global050_00h41m28s-00h43m49s.mp4",
+    "text_preview": "Well, it's uh and and and it's uh deep deep roots here and they're perfect example is a few blocks away with the effort that went into those world-class visitor facilities that we now have. And the the really really uh g"
+  },
+  {
+    "global_idx": 51,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 17,
+    "start": 2628.84,
+    "end": 2690.83,
+    "hms": "00h43m49s-00h44m51s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn17_global051_00h43m49s-00h44m51s.mp4",
+    "text_preview": "Thank you. Oh, yeah. Oh, yeah. Do we want to see if David N. Palacios is on? He is now. business. Um on David, I don't know if there's a report aired or temporary windows? Sorry. Yeah, we're just talking about the tempor"
+  },
+  {
+    "global_idx": 52,
+    "speaker": "Speaker_08_Voice_Cluster_04",
+    "speaker_turn": 6,
+    "start": 2690.84,
+    "end": 2752.47,
+    "hms": "00h44m51s-00h45m52s",
+    "file_name": "Speaker_08_Voice_Cluster_04_turn06_global052_00h44m51s-00h45m52s.mp4",
+    "text_preview": "Um chair members of the board, um basically what David is asking for and I guess we could have asked him to explain is to allow him to shore up the building to a point where it's essentially weather tight with the tempor"
+  },
+  {
+    "global_idx": 53,
+    "speaker": "Speaker_02_Voice_Cluster_01",
+    "speaker_turn": 6,
+    "start": 2752.48,
+    "end": 2757.07,
+    "hms": "00h45m52s-00h45m57s",
+    "file_name": "Speaker_02_Voice_Cluster_01_turn06_global053_00h45m52s-00h45m57s.mp4",
+    "text_preview": "Okay. Gary, did you have a comment question?"
+  },
+  {
+    "global_idx": 54,
+    "speaker": "Speaker_08_Voice_Cluster_04",
+    "speaker_turn": 7,
+    "start": 2757.08,
+    "end": 2807.15,
+    "hms": "00h45m57s-00h46m47s",
+    "file_name": "Speaker_08_Voice_Cluster_04_turn07_global054_00h45m57s-00h46m47s.mp4",
+    "text_preview": "I'm all for letting him put windows up there for a temporary while he's ordered them. But given the history we've had with him, we've been working on this for 10 years now. 10 years. And we put wind tempered windows up t"
+  },
+  {
+    "global_idx": 55,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 18,
+    "start": 2826.44,
+    "end": 3059.67,
+    "hms": "00h47m06s-00h51m00s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn18_global055_00h47m06s-00h51m00s.mp4",
+    "text_preview": "Yes. Good evening, everybody. Thank you very much for having me this this night in the meeting. Unfortunately, I wasn't able to make it because I have a cold and I didn't want to make anybody sick. Yes, so Menards they t"
+  },
+  {
+    "global_idx": 56,
+    "speaker": "Speaker_08_Voice_Cluster_04",
+    "speaker_turn": 8,
+    "start": 3060.2,
+    "end": 3162.99,
+    "hms": "00h51m00s-00h52m43s",
+    "file_name": "Speaker_08_Voice_Cluster_04_turn08_global056_00h51m00s-00h52m43s.mp4",
+    "text_preview": "Um I ordered windows for my house and they were of course custom sizes. They would not process that order unless we paid for it up front. So and my other question would be why do we need to put temporary windows in to pr"
+  },
+  {
+    "global_idx": 57,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 19,
+    "start": 3163.0,
+    "end": 3261.11,
+    "hms": "00h52m43s-00h54m21s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn19_global057_00h52m43s-00h54m21s.mp4",
+    "text_preview": "That's a really good point. And what others had said about plywood and insulation I and what Gary had mentioned earlier, if we allow temporary windows and they go up and then they don't ever actually come back out. And t"
+  },
+  {
+    "global_idx": 58,
+    "speaker": "Speaker_04_Voice_Cluster_05",
+    "speaker_turn": 9,
+    "start": 3261.12,
+    "end": 3273.83,
+    "hms": "00h54m21s-00h54m34s",
+    "file_name": "Speaker_04_Voice_Cluster_05_turn09_global058_00h54m21s-00h54m34s.mp4",
+    "text_preview": "I I I agree with everyone. The question for me is is how do we move forward? I mean do we need to to to do a motion or do we just this we just not agree with what he wants to do?"
+  },
+  {
+    "global_idx": 59,
+    "speaker": "Speaker_08_Voice_Cluster_04",
+    "speaker_turn": 9,
+    "start": 3273.84,
+    "end": 3430.07,
+    "hms": "00h54m34s-00h57m10s",
+    "file_name": "Speaker_08_Voice_Cluster_04_turn09_global059_00h54m34s-00h57m10s.mp4",
+    "text_preview": "I'll make a motion that we approve the temp or the and that will approve will put it off until we see have a paid invoice for the new windows. Which needs to have a time if if that's February or March because those were "
+  },
+  {
+    "global_idx": 60,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 20,
+    "start": 3430.08,
+    "end": 3439.03,
+    "hms": "00h57m10s-00h57m19s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn20_global060_00h57m10s-00h57m19s.mp4",
+    "text_preview": "That That's a great question. Did Can Can we Do we have that authority to say that? I don't"
+  },
+  {
+    "global_idx": 61,
+    "speaker": "Speaker_08_Voice_Cluster_04",
+    "speaker_turn": 10,
+    "start": 3439.04,
+    "end": 3502.71,
+    "hms": "00h57m19s-00h58m23s",
+    "file_name": "Speaker_08_Voice_Cluster_04_turn10_global061_00h57m19s-00h58m23s.mp4",
+    "text_preview": "Chair members of the board, it's my understanding the question is is do you have the authority to to modify the previous approval to change the material of the windows um to aid uh Mr. Palacios in being able to find a mo"
+  },
+  {
+    "global_idx": 62,
+    "speaker": "Speaker_02_Voice_Cluster_01",
+    "speaker_turn": 7,
+    "start": 3502.72,
+    "end": 3564.23,
+    "hms": "00h58m23s-00h59m24s",
+    "file_name": "Speaker_02_Voice_Cluster_01_turn07_global062_00h58m23s-00h59m24s.mp4",
+    "text_preview": "And be good cuz it's been so long. I forget what we what we changing what we approved previously. I think what we're talking about is changing the temporary window request to something that is just actually temporary. Um"
+  },
+  {
+    "global_idx": 63,
+    "speaker": "Speaker_04_Voice_Cluster_05",
+    "speaker_turn": 10,
+    "start": 3564.24,
+    "end": 3566.51,
+    "hms": "00h59m24s-00h59m27s",
+    "file_name": "Speaker_04_Voice_Cluster_05_turn10_global063_00h59m24s-00h59m27s.mp4",
+    "text_preview": "Did Did Gary offer a motion?"
+  },
+  {
+    "global_idx": 64,
+    "speaker": "Speaker_02_Voice_Cluster_01",
+    "speaker_turn": 8,
+    "start": 3566.52,
+    "end": 3585.83,
+    "hms": "00h59m27s-00h59m46s",
+    "file_name": "Speaker_02_Voice_Cluster_01_turn08_global064_00h59m27s-00h59m46s.mp4",
+    "text_preview": "Gary did start a motion. Sorry, Gary. windows. we're going to put the new ones in. I'll second that motion."
+  },
+  {
+    "global_idx": 65,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 21,
+    "start": 3585.84,
+    "end": 3591.11,
+    "hms": "00h59m46s-00h59m51s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn21_global065_00h59m46s-00h59m51s.mp4",
+    "text_preview": "Okay. Any further discussion? All in favor, say I."
+  },
+  {
+    "global_idx": 66,
+    "speaker": "Speaker_02_Voice_Cluster_01",
+    "speaker_turn": 9,
+    "start": 3592.16,
+    "end": 3627.47,
+    "hms": "00h59m52s-01h00m27s",
+    "file_name": "Speaker_02_Voice_Cluster_01_turn09_global066_00h59m52s-01h00m27s.mp4",
+    "text_preview": "Any opposed, same sign. None. Motion passes. yep, so no temporary windows. If there are other means that are required to winterize it, obviously is acceptable. But we are not going to approve the temporary windows. timel"
+  },
+  {
+    "global_idx": 67,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 22,
+    "start": 3627.48,
+    "end": 3630.27,
+    "hms": "01h00m27s-01h00m30s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn22_global067_01h00m27s-01h00m30s.mp4",
+    "text_preview": "So David needs to turn that in. A timeline."
+  },
+  {
+    "global_idx": 68,
+    "speaker": "Speaker_02_Voice_Cluster_01",
+    "speaker_turn": 10,
+    "start": 3630.28,
+    "end": 3639.35,
+    "hms": "01h00m30s-01h00m39s",
+    "file_name": "Speaker_02_Voice_Cluster_01_turn10_global068_01h00m30s-01h00m39s.mp4",
+    "text_preview": "A timeline. Yes. And do you want that timeline by the next meeting? Or"
+  },
+  {
+    "global_idx": 69,
+    "speaker": "Speaker_08_Voice_Cluster_04",
+    "speaker_turn": 11,
+    "start": 3639.36,
+    "end": 4445.39,
+    "hms": "01h00m39s-01h14m05s",
+    "file_name": "Speaker_08_Voice_Cluster_04_turn11_global069_01h00m39s-01h14m05s.mp4",
+    "text_preview": "Yes, I think he should be able to provide a timeline by the next meeting. Tell us what we're what we're anticipating is February or March, but if he has a different timeline that he brings to us next meeting, then yeah. "
+  },
+  {
+    "global_idx": 70,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 23,
+    "start": 4445.4,
+    "end": 4447.63,
+    "hms": "01h14m05s-01h14m08s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn23_global070_01h14m05s-01h14m08s.mp4",
+    "text_preview": "unfortunately, but uh, Desiree, Sheryl"
+  },
+  {
+    "global_idx": 71,
+    "speaker": "Speaker_08_Voice_Cluster_04",
+    "speaker_turn": 12,
+    "start": 4447.64,
+    "end": 4607.23,
+    "hms": "01h14m08s-01h16m47s",
+    "file_name": "Speaker_08_Voice_Cluster_04_turn12_global071_01h14m08s-01h16m47s.mp4",
+    "text_preview": "Desiree Brophy, Sheryl Bean. There's a lot of people that were there. And they had made a presentation basically talking about uh, the partnership, trying to create that that artist space, that that hub. Um, and then it "
+  },
+  {
+    "global_idx": 72,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 24,
+    "start": 4607.24,
+    "end": 4668.59,
+    "hms": "01h16m47s-01h17m49s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn24_global072_01h16m47s-01h17m49s.mp4",
+    "text_preview": "We have that documented too of when we presented previously to the board our our efforts and and what the Spur program presented. So, yes, it it's been quite shocking that everyone's pretending like we were doing this be"
+  },
+  {
+    "global_idx": 73,
+    "speaker": "Speaker_08_Voice_Cluster_04",
+    "speaker_turn": 13,
+    "start": 4668.6,
+    "end": 5167.83,
+    "hms": "01h17m49s-01h26m08s",
+    "file_name": "Speaker_08_Voice_Cluster_04_turn13_global073_01h17m49s-01h26m08s.mp4",
+    "text_preview": "That's good to That's good to hear. Um this is there's a update we've had on a development on Lincoln Way. We we weren't aware of any history that was formally recognized for what was known as the two chimneys hotel that"
+  },
+  {
+    "global_idx": 74,
+    "speaker": "Speaker_04_Voice_Cluster_05",
+    "speaker_turn": 11,
+    "start": 5167.84,
+    "end": 5194.79,
+    "hms": "01h26m08s-01h26m35s",
+    "file_name": "Speaker_04_Voice_Cluster_05_turn11_global074_01h26m08s-01h26m35s.mp4",
+    "text_preview": "I just have a task. Um I was in at a meeting and and it was told that the historic designation sign, the little gold ones, uh on the south side was was stolen. Um it's not the one coming in from the east, but the one com"
+  },
+  {
+    "global_idx": 75,
+    "speaker": "Speaker_08_Voice_Cluster_04",
+    "speaker_turn": 14,
+    "start": 5194.8,
+    "end": 5209.51,
+    "hms": "01h26m35s-01h26m50s",
+    "file_name": "Speaker_08_Voice_Cluster_04_turn14_global075_01h26m35s-01h26m50s.mp4",
+    "text_preview": "Chair of the day, Commissioner Bustos, board member Bustos, sorry, board. Um is that the the brown and white ones that go Okay. Um Yeah, where's that located at? We'll take a note real quick."
+  },
+  {
+    "global_idx": 76,
+    "speaker": "Speaker_04_Voice_Cluster_05",
+    "speaker_turn": 12,
+    "start": 5209.52,
+    "end": 5225.99,
+    "hms": "01h26m50s-01h27m06s",
+    "file_name": "Speaker_04_Voice_Cluster_05_turn12_global076_01h26m50s-01h27m06s.mp4",
+    "text_preview": "I I don't I'm I'm not exactly sure. I just told it was not the one on the you know, the one coming from this old line of east. It's the one on the south end of town. I think it might be coming up the South Greeley Highwa"
+  },
+  {
+    "global_idx": 77,
+    "speaker": "Speaker_08_Voice_Cluster_04",
+    "speaker_turn": 15,
+    "start": 5226.0,
+    "end": 5246.51,
+    "hms": "01h27m06s-01h27m27s",
+    "file_name": "Speaker_08_Voice_Cluster_04_turn15_global077_01h27m06s-01h27m27s.mp4",
+    "text_preview": "We'll identify it on Google Street View and take a look to see what it was and then I'll talk to Jason Sanchez's crew to see if maybe it's been found nearby or something along those lines, but we can figure out a way to "
+  },
+  {
+    "global_idx": 78,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 25,
+    "start": 5246.52,
+    "end": 5395.63,
+    "hms": "01h27m27s-01h29m56s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn25_global078_01h27m27s-01h29m56s.mp4",
+    "text_preview": "Either that or you can walk on the south side. I'm sure somebody has it in their backyard. Thank you, Charles. council? Or I mean I need to follow up. Sorry. Okay. Moving on to strategic goals report. Um I hope you guys "
+  },
+  {
+    "global_idx": 79,
+    "speaker": "Speaker_02_Voice_Cluster_01",
+    "speaker_turn": 11,
+    "start": 5395.64,
+    "end": 5398.19,
+    "hms": "01h29m56s-01h29m58s",
+    "file_name": "Speaker_02_Voice_Cluster_01_turn11_global079_01h29m56s-01h29m58s.mp4",
+    "text_preview": "here. Right here. It's ready."
+  },
+  {
+    "global_idx": 80,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 26,
+    "start": 5398.2,
+    "end": 5421.59,
+    "hms": "01h29m58s-01h30m22s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn26_global080_01h29m58s-01h30m22s.mp4",
+    "text_preview": "Yay! Well, that's exciting. Um, so, yes, December 12th for the historic preservation uh, or I'm the Du Bois award. Um and think that is all of the things I know. Uh so, moving on to oral histories. No no report on oral h"
+  },
+  {
+    "global_idx": 81,
+    "speaker": "Speaker_04_Voice_Cluster_05",
+    "speaker_turn": 13,
+    "start": 5421.6,
+    "end": 5440.27,
+    "hms": "01h30m22s-01h30m40s",
+    "file_name": "Speaker_04_Voice_Cluster_05_turn13_global081_01h30m22s-01h30m40s.mp4",
+    "text_preview": "Uh not too much new. The uh principal over at St. Mary's favor of this, but uh they She hasn't discussed it with the two new teachers to see if either of them is going to continue with that modeling program. I thought I "
+  },
+  {
+    "global_idx": 82,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 27,
+    "start": 5440.28,
+    "end": 5445.71,
+    "hms": "01h30m40s-01h30m46s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn27_global082_01h30m40s-01h30m46s.mp4",
+    "text_preview": "All right. And moving on to ornaments, Gary."
+  },
+  {
+    "global_idx": 83,
+    "speaker": "Speaker_08_Voice_Cluster_04",
+    "speaker_turn": 16,
+    "start": 5445.72,
+    "end": 5786.79,
+    "hms": "01h30m46s-01h36m27s",
+    "file_name": "Speaker_08_Voice_Cluster_04_turn16_global083_01h30m46s-01h36m27s.mp4",
+    "text_preview": "So, for the benefit of our new people, let me just tell you about ornaments. When I started this board 10 years ago, our bank account was zero. Had absolutely nothing to do anything with. And every time we asked for mone"
+  },
+  {
+    "global_idx": 84,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 28,
+    "start": 5786.8,
+    "end": 5792.15,
+    "hms": "01h36m27s-01h36m32s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn28_global084_01h36m27s-01h36m32s.mp4",
+    "text_preview": "Awesome. Well, I'm hopefully I can get a hand my hand on one of these since I can"
+  },
+  {
+    "global_idx": 85,
+    "speaker": "Speaker_07_Voice_Cluster_02",
+    "speaker_turn": 15,
+    "start": 5792.16,
+    "end": 5794.83,
+    "hms": "01h36m32s-01h36m35s",
+    "file_name": "Speaker_07_Voice_Cluster_02_turn15_global085_01h36m32s-01h36m35s.mp4",
+    "text_preview": "go to the city planning office and they have"
+  },
+  {
+    "global_idx": 86,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 29,
+    "start": 5794.84,
+    "end": 5842.95,
+    "hms": "01h36m35s-01h37m23s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn29_global086_01h36m35s-01h37m23s.mp4",
+    "text_preview": "Sounds like that's where I got to go to get one. questions, comments for Gary? Yeah. Amazing. Um I think that is all the strategic goals reports on here. Um I don't know if we really need to talk about the watch list ite"
+  },
+  {
+    "global_idx": 87,
+    "speaker": "Speaker_04_Voice_Cluster_05",
+    "speaker_turn": 14,
+    "start": 5842.96,
+    "end": 5850.15,
+    "hms": "01h37m23s-01h37m30s",
+    "file_name": "Speaker_04_Voice_Cluster_05_turn14_global087_01h37m23s-01h37m30s.mp4",
+    "text_preview": "I think there's something in our regs about I think I've already been one term too many."
+  },
+  {
+    "global_idx": 88,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 30,
+    "start": 5851.32,
+    "end": 5854.43,
+    "hms": "01h37m31s-01h37m34s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn30_global088_01h37m31s-01h37m34s.mp4",
+    "text_preview": "That is actually a good question. Are there term limits?"
+  },
+  {
+    "global_idx": 89,
+    "speaker": "Speaker_04_Voice_Cluster_05",
+    "speaker_turn": 15,
+    "start": 5854.44,
+    "end": 5862.39,
+    "hms": "01h37m34s-01h37m42s",
+    "file_name": "Speaker_04_Voice_Cluster_05_turn15_global089_01h37m34s-01h37m42s.mp4",
+    "text_preview": "I don't believe I thought there was two. It's in not the city code, it's in our rules and regs."
+  },
+  {
+    "global_idx": 90,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 31,
+    "start": 5862.4,
+    "end": 5873.51,
+    "hms": "01h37m42s-01h37m54s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn31_global090_01h37m42s-01h37m54s.mp4",
+    "text_preview": "Yeah, I went through the rules and regs. There wasn't any type. There was Each term is a 3-year term, but there is no limiting number of terms that you can do. So, it's up to you."
+  },
+  {
+    "global_idx": 91,
+    "speaker": "Speaker_07_Voice_Cluster_02",
+    "speaker_turn": 16,
+    "start": 5874.12,
+    "end": 5875.91,
+    "hms": "01h37m54s-01h37m56s",
+    "file_name": "Speaker_07_Voice_Cluster_02_turn16_global091_01h37m54s-01h37m56s.mp4",
+    "text_preview": "If you want to continue."
+  },
+  {
+    "global_idx": 92,
+    "speaker": "Speaker_04_Voice_Cluster_05",
+    "speaker_turn": 16,
+    "start": 5875.92,
+    "end": 5882.27,
+    "hms": "01h37m56s-01h38m02s",
+    "file_name": "Speaker_04_Voice_Cluster_05_turn16_global092_01h37m56s-01h38m02s.mp4",
+    "text_preview": "At one time there was two terms and then you could had to be off and then you could come back and do, you know,"
+  },
+  {
+    "global_idx": 93,
+    "speaker": "Speaker_02_Voice_Cluster_01",
+    "speaker_turn": 12,
+    "start": 5882.28,
+    "end": 5887.19,
+    "hms": "01h38m02s-01h38m07s",
+    "file_name": "Speaker_02_Voice_Cluster_01_turn12_global093_01h38m02s-01h38m07s.mp4",
+    "text_preview": "Yeah, it's not in there now. I don't I don't know what happened."
+  },
+  {
+    "global_idx": 94,
+    "speaker": "Speaker_08_Voice_Cluster_04",
+    "speaker_turn": 17,
+    "start": 5890.08,
+    "end": 5907.47,
+    "hms": "01h38m10s-01h38m27s",
+    "file_name": "Speaker_08_Voice_Cluster_04_turn17_global094_01h38m10s-01h38m27s.mp4",
+    "text_preview": "If we see otherwise, we'll let you know. We did a a quick review. There was two parallel documents. Um but we didn't recall seeing the term limits. I think there have been people that have been on this for a while. So."
+  },
+  {
+    "global_idx": 95,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 32,
+    "start": 5907.48,
+    "end": 5920.35,
+    "hms": "01h38m27s-01h38m40s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn32_global095_01h38m27s-01h38m40s.mp4",
+    "text_preview": "Not looking at anybody. I mean, it's it's Did we mention it's not a term, it's a sentence? Uh any other business?"
+  },
+  {
+    "global_idx": 96,
+    "speaker": "Speaker_04_Voice_Cluster_05",
+    "speaker_turn": 17,
+    "start": 5920.36,
+    "end": 5959.83,
+    "hms": "01h38m40s-01h39m20s",
+    "file_name": "Speaker_04_Voice_Cluster_05_turn17_global096_01h38m40s-01h39m20s.mp4",
+    "text_preview": "Amber, I know it's it's getting late, but I don't want to leave without knowing what our next steps are on the airport building. I I I kind of still feel like really chosen a direction or made any real commitments to do "
+  },
+  {
+    "global_idx": 97,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 33,
+    "start": 5959.84,
+    "end": 5997.23,
+    "hms": "01h39m20s-01h39m57s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn33_global097_01h39m20s-01h39m57s.mp4",
+    "text_preview": "I I don't think we can take action at this time. I think we're waiting for understanding what the city attorney has to say on on where we can go forward, if if I'm correct in that. Um I can tell you that there are a lot "
+  },
+  {
+    "global_idx": 98,
+    "speaker": "Speaker_08_Voice_Cluster_04",
+    "speaker_turn": 18,
+    "start": 5997.24,
+    "end": 6078.87,
+    "hms": "01h39m57s-01h41m19s",
+    "file_name": "Speaker_08_Voice_Cluster_04_turn18_global098_01h39m57s-01h41m19s.mp4",
+    "text_preview": "One of the rare times I'll agree with Patrick, but I felt like we're leaving this in the middle of nowhere, too. I think what we ought to do is go on the record right now with a letter to the mayor and the city council a"
+  },
+  {
+    "global_idx": 99,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 34,
+    "start": 6078.88,
+    "end": 6092.63,
+    "hms": "01h41m19s-01h41m33s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn34_global099_01h41m19s-01h41m33s.mp4",
+    "text_preview": "Well, the good news is I already have really great letter that I created for the endangered places, so I think that's a good draft that we can use. Oh. I guess [We'll follow up with that.] Yes, so No, hold on."
+  },
+  {
+    "global_idx": 100,
+    "speaker": "Speaker_04_Voice_Cluster_05",
+    "speaker_turn": 18,
+    "start": 6092.64,
+    "end": 6101.55,
+    "hms": "01h41m33s-01h41m42s",
+    "file_name": "Speaker_04_Voice_Cluster_05_turn18_global100_01h41m33s-01h41m42s.mp4",
+    "text_preview": "Should I make a motion that you Can can we do a a motion that sets forth a formal action on behalf of the board."
+  },
+  {
+    "global_idx": 101,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 35,
+    "start": 6101.56,
+    "end": 6110.31,
+    "hms": "01h41m42s-01h41m50s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn35_global101_01h41m42s-01h41m50s.mp4",
+    "text_preview": "But can I clarify what letters? So we're sending So it could be part of the motion. Letter to mayor and um"
+  },
+  {
+    "global_idx": 102,
+    "speaker": "Speaker_05_Voice_Cluster_09",
+    "speaker_turn": 1,
+    "start": 6111.2,
+    "end": 6112.59,
+    "hms": "01h41m51s-01h41m53s",
+    "file_name": "Speaker_05_Voice_Cluster_09_turn01_global102_01h41m51s-01h41m53s.mp4",
+    "text_preview": "City Council. Okay."
+  },
+  {
+    "global_idx": 103,
+    "speaker": "Speaker_04_Voice_Cluster_05",
+    "speaker_turn": 19,
+    "start": 6112.6,
+    "end": 6116.27,
+    "hms": "01h41m53s-01h41m56s",
+    "file_name": "Speaker_04_Voice_Cluster_05_turn19_global103_01h41m53s-01h41m56s.mp4",
+    "text_preview": "County Commissioners cuz they appoint half of that airport board."
+  },
+  {
+    "global_idx": 104,
+    "speaker": "Speaker_02_Voice_Cluster_01",
+    "speaker_turn": 13,
+    "start": 6116.28,
+    "end": 6124.67,
+    "hms": "01h41m56s-01h42m05s",
+    "file_name": "Speaker_02_Voice_Cluster_01_turn13_global104_01h41m56s-01h42m05s.mp4",
+    "text_preview": "Okay. make a motion."
+  },
+  {
+    "global_idx": 105,
+    "speaker": "Speaker_04_Voice_Cluster_05",
+    "speaker_turn": 20,
+    "start": 6124.68,
+    "end": 6146.51,
+    "hms": "01h42m05s-01h42m27s",
+    "file_name": "Speaker_04_Voice_Cluster_05_turn20_global105_01h42m05s-01h42m27s.mp4",
+    "text_preview": "Madam Chair, I move that um I I hate to do this to you, but that you send a letter to uh each city councilman, uh each county commissioner stating that this board is opposed to the demolition of the hyperbolic uh airport"
+  },
+  {
+    "global_idx": 106,
+    "speaker": "Speaker_02_Voice_Cluster_01",
+    "speaker_turn": 14,
+    "start": 6146.52,
+    "end": 6148.47,
+    "hms": "01h42m27s-01h42m28s",
+    "file_name": "Speaker_02_Voice_Cluster_01_turn14_global106_01h42m27s-01h42m28s.mp4",
+    "text_preview": "I'll second the motion."
+  },
+  {
+    "global_idx": 107,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 36,
+    "start": 6148.48,
+    "end": 6150.55,
+    "hms": "01h42m28s-01h42m31s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn36_global107_01h42m28s-01h42m31s.mp4",
+    "text_preview": "All in favor say I."
+  },
+  {
+    "global_idx": 108,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 37,
+    "start": 6152.56,
+    "end": 6163.79,
+    "hms": "01h42m33s-01h42m44s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn37_global108_01h42m33s-01h42m44s.mp4",
+    "text_preview": "Any opposed same sign. And motion passes. I will work on getting those letters uh put together and sent to may- mayor, city council, and county commissioners."
+  },
+  {
+    "global_idx": 109,
+    "speaker": "Speaker_02_Voice_Cluster_01",
+    "speaker_turn": 15,
+    "start": 6163.8,
+    "end": 6166.03,
+    "hms": "01h42m44s-01h42m46s",
+    "file_name": "Speaker_02_Voice_Cluster_01_turn15_global109_01h42m44s-01h42m46s.mp4",
+    "text_preview": "Thank you."
+  },
+  {
+    "global_idx": 110,
+    "speaker": "Speaker_08_Voice_Cluster_04",
+    "speaker_turn": 19,
+    "start": 6166.04,
+    "end": 6335.07,
+    "hms": "01h42m46s-01h45m35s",
+    "file_name": "Speaker_08_Voice_Cluster_04_turn19_global110_01h42m46s-01h45m35s.mp4",
+    "text_preview": "And Chair, I'd just like to note one thing. Um as well. I anticipate having a meeting with John Brody this week to be able to talk to him about a couple different things. Uh this will be one that I will we'll chat with h"
+  },
+  {
+    "global_idx": 111,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 38,
+    "start": 6335.08,
+    "end": 6356.75,
+    "hms": "01h45m35s-01h45m57s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn38_global111_01h45m35s-01h45m57s.mp4",
+    "text_preview": "I I definitely think it takes I think we should make some considerations. Gary actually brought this up before the meeting of what we have thought about that and I don't know if we have all collectively had good thought "
+  },
+  {
+    "global_idx": 112,
+    "speaker": "Speaker_08_Voice_Cluster_04",
+    "speaker_turn": 20,
+    "start": 6356.76,
+    "end": 6414.79,
+    "hms": "01h45m57s-01h46m55s",
+    "file_name": "Speaker_08_Voice_Cluster_04_turn20_global112_01h45m57s-01h46m55s.mp4",
+    "text_preview": "And why we need to do that is because about 5 years ago a group of architects came in here and they were going to build an office building there. And they specifically sat right out here and asked us, \"What are your expe"
+  },
+  {
+    "global_idx": 113,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 39,
+    "start": 6414.8,
+    "end": 6425.75,
+    "hms": "01h46m55s-01h47m06s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn39_global113_01h46m55s-01h47m06s.mp4",
+    "text_preview": "Yep. Okay. So, we will take action next board meeting on that. Be thinking about that. Okay. Any other business?"
+  },
+  {
+    "global_idx": 114,
+    "speaker": "Speaker_08_Voice_Cluster_04",
+    "speaker_turn": 21,
+    "start": 6425.76,
+    "end": 6558.56,
+    "hms": "01h47m06s-01h49m19s",
+    "file_name": "Speaker_08_Voice_Cluster_04_turn21_global114_01h47m06s-01h49m19s.mp4",
+    "text_preview": "My last order of business is I've been here almost 11 years doing this. You've went through a lot of staff members, a lot of support people. Um many of them have their own good attributes and I'm going to tell you that t"
+  }
+]
