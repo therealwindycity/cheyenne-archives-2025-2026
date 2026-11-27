@@ -1,0 +1,992 @@
+[
+  {
+    "global_idx": 1,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 1,
+    "start": 62.64,
+    "end": 71.27,
+    "hms": "00h01m03s-00h01m11s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn01_global001_00h01m03s-00h01m11s.mp4",
+    "text_preview": "everybody hear online now? Jeff, can you give me a thumbs up? [Yep, I can hear you. Thank you.] Okay, thank you. Sorry."
+  },
+  {
+    "global_idx": 2,
+    "speaker": "Speaker_03_Voice_Cluster_06",
+    "speaker_turn": 1,
+    "start": 71.28,
+    "end": 102.79,
+    "hms": "00h01m11s-00h01m43s",
+    "file_name": "Speaker_03_Voice_Cluster_06_turn01_global002_00h01m11s-00h01m43s.mp4",
+    "text_preview": "Do all that again. Okay. Yeah. Okay. We'll call the October 6th meeting of the finance committee of the governing body of the sh city of Cheyenne to order. Um, everybody in the room knows what they're supposed to do with"
+  },
+  {
+    "global_idx": 3,
+    "speaker": "Speaker_04_Meeting_Clerk",
+    "speaker_turn": 1,
+    "start": 102.8,
+    "end": 114.79,
+    "hms": "00h01m43s-00h01m55s",
+    "file_name": "Speaker_04_Meeting_Clerk_turn01_global003_00h01m43s-00h01m55s.mp4",
+    "text_preview": "number 25 resolution reappropriating $250,000 from general fund reserves for repair and replacement of cart pass at the airport golf course."
+  },
+  {
+    "global_idx": 4,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 2,
+    "start": 114.8,
+    "end": 122.63,
+    "hms": "00h01m55s-00h02m03s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn02_global004_00h01m55s-00h02m03s.mp4",
+    "text_preview": "And are you going to do a staff report, Jason, or you want me to? Okay."
+  },
+  {
+    "global_idx": 5,
+    "speaker": "Speaker_05_Voice_Cluster_09",
+    "speaker_turn": 1,
+    "start": 122.64,
+    "end": 124.47,
+    "hms": "00h02m03s-00h02m04s",
+    "file_name": "Speaker_05_Voice_Cluster_09_turn01_global005_00h02m03s-00h02m04s.mp4",
+    "text_preview": "Okay. Councilman Wolf."
+  },
+  {
+    "global_idx": 6,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 1,
+    "start": 124.48,
+    "end": 214.39,
+    "hms": "00h02m04s-00h03m34s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn01_global006_00h02m04s-00h03m34s.mp4",
+    "text_preview": "Uh thank you, Mr. Chairman. uh through you. Um this is a um resolution um to um do some very needed repairs uh and and upgrade of the uh golf carts golf cart course pathways uh at the airport golf course. Um, now I'm not"
+  },
+  {
+    "global_idx": 7,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 3,
+    "start": 214.4,
+    "end": 231.83,
+    "hms": "00h03m34s-00h03m52s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn03_global007_00h03m34s-00h03m52s.mp4",
+    "text_preview": "Do we go to public comment in the room on this item? Do we have any public comment online on this item? anything?"
+  },
+  {
+    "global_idx": 8,
+    "speaker": "Speaker_06_Voice_Cluster_03",
+    "speaker_turn": 1,
+    "start": 231.84,
+    "end": 321.83,
+    "hms": "00h03m52s-00h05m22s",
+    "file_name": "Speaker_06_Voice_Cluster_03_turn01_global008_00h03m52s-00h05m22s.mp4",
+    "text_preview": "Mr. Chair, can you hear me? We can. Yes. I apologize for not being there today. Um, it's been kind of a wild week. I I do apologize. This has been an ongoing project over the last two years. We've done small small repair"
+  },
+  {
+    "global_idx": 9,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 4,
+    "start": 321.84,
+    "end": 335.51,
+    "hms": "00h05m22s-00h05m36s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn04_global009_00h05m22s-00h05m36s.mp4",
+    "text_preview": "Thank you. Do we have any questions for President Crafe? [clears throat] Any other public comment online? the committee. What's your pleasure,"
+  },
+  {
+    "global_idx": 10,
+    "speaker": "Speaker_06_Voice_Cluster_03",
+    "speaker_turn": 2,
+    "start": 335.52,
+    "end": 338.31,
+    "hms": "00h05m36s-00h05m38s",
+    "file_name": "Speaker_06_Voice_Cluster_03_turn02_global010_00h05m36s-00h05m38s.mp4",
+    "text_preview": "Mr. Chairman? Uh, I move to adopt."
+  },
+  {
+    "global_idx": 11,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 5,
+    "start": 338.32,
+    "end": 339.67,
+    "hms": "00h05m38s-00h05m40s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn05_global011_00h05m38s-00h05m40s.mp4",
+    "text_preview": "Second."
+  },
+  {
+    "global_idx": 12,
+    "speaker": "Speaker_03_Voice_Cluster_06",
+    "speaker_turn": 2,
+    "start": 339.68,
+    "end": 346.07,
+    "hms": "00h05m40s-00h05m46s",
+    "file_name": "Speaker_03_Voice_Cluster_06_turn02_global012_00h05m40s-00h05m46s.mp4",
+    "text_preview": "It's been moved by Councilman, second by Councilman White. Any further discussion? [I got some questions.] Councilman Moody."
+  },
+  {
+    "global_idx": 13,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 2,
+    "start": 346.08,
+    "end": 358.23,
+    "hms": "00h05m46s-00h05m58s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn02_global013_00h05m46s-00h05m58s.mp4",
+    "text_preview": "Yep. Thank you, Mr. Chair. A couple questions. Are there any pictures of these uh trees that are damaging the sidewalk? Any uh pictures or I was working when that tour was going on?"
+  },
+  {
+    "global_idx": 14,
+    "speaker": "Speaker_08_Voice_Cluster_01",
+    "speaker_turn": 1,
+    "start": 358.24,
+    "end": 364.07,
+    "hms": "00h05m58s-00h06m04s",
+    "file_name": "Speaker_08_Voice_Cluster_01_turn01_global014_00h05m58s-00h06m04s.mp4",
+    "text_preview": "Mr. share through you Jason Sanchez community wreck and event um I can provide you some pictures if you would like"
+  },
+  {
+    "global_idx": 15,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 6,
+    "start": 364.08,
+    "end": 365.67,
+    "hms": "00h06m04s-00h06m06s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn06_global015_00h06m04s-00h06m06s.mp4",
+    "text_preview": "well go ahead"
+  },
+  {
+    "global_idx": 16,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 3,
+    "start": 365.68,
+    "end": 394.55,
+    "hms": "00h06m06s-00h06m35s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn03_global016_00h06m06s-00h06m35s.mp4",
+    "text_preview": "thank you Mr. Chairman through you have any uh private contractors have they also said this can't be repaired it has to be torn out and have to put in lay down more concrete Mr. share through you. Uh as Councilman Crave "
+  },
+  {
+    "global_idx": 17,
+    "speaker": "Speaker_07_Voice_Cluster_05",
+    "speaker_turn": 1,
+    "start": 394.56,
+    "end": 397.59,
+    "hms": "00h06m35s-00h06m38s",
+    "file_name": "Speaker_07_Voice_Cluster_05_turn01_global017_00h06m35s-00h06m38s.mp4",
+    "text_preview": "Okay. And then finally, just one more question, Mr. Chairman."
+  },
+  {
+    "global_idx": 18,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 4,
+    "start": 397.6,
+    "end": 430.39,
+    "hms": "00h06m38s-00h07m10s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn04_global018_00h06m38s-00h07m10s.mp4",
+    "text_preview": "All right. Thank you, Mr. Chairman. Through you. And then uh who exactly brought this forward? Was it one of the council men that brought forward after the tour? Mr. care for you. Again, uh uh we've been working on this "
+  },
+  {
+    "global_idx": 19,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 7,
+    "start": 430.4,
+    "end": 445.27,
+    "hms": "00h07m10s-00h07m25s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn07_global019_00h07m10s-00h07m25s.mp4",
+    "text_preview": "All right. Thank you, sir. And my only comment maybe is that uh playing out there it's either this or retrofit all those golf carts with four-wheel drive."
+  },
+  {
+    "global_idx": 20,
+    "speaker": "Speaker_07_Voice_Cluster_05",
+    "speaker_turn": 2,
+    "start": 445.28,
+    "end": 447.51,
+    "hms": "00h07m25s-00h07m28s",
+    "file_name": "Speaker_07_Voice_Cluster_05_turn02_global020_00h07m25s-00h07m28s.mp4",
+    "text_preview": "I I have one final com, Mr. Chairman."
+  },
+  {
+    "global_idx": 21,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 5,
+    "start": 448.16,
+    "end": 468.55,
+    "hms": "00h07m28s-00h07m49s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn05_global021_00h07m28s-00h07m49s.mp4",
+    "text_preview": "Thank you. Um I'm not going to vote for this. I just think now is not the time. We should have budgeted this if this was really an issue we should have maybe looked at with our uh capital improvement. should have looked "
+  },
+  {
+    "global_idx": 22,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 8,
+    "start": 468.56,
+    "end": 472.63,
+    "hms": "00h07m49s-00h07m53s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn08_global022_00h07m49s-00h07m53s.mp4",
+    "text_preview": "Okay. All in favor signify."
+  },
+  {
+    "global_idx": 23,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 6,
+    "start": 475.28,
+    "end": 549.51,
+    "hms": "00h07m55s-00h09m10s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn06_global023_00h07m55s-00h09m10s.mp4",
+    "text_preview": "Thank you, Mr. Chair through you. Uh just one comment. Uh Mr. Chair, just as the resolution points out, these pads haven't been replaced in more than 30 years. And uh just kind of like our automobile sizes on our roads, "
+  },
+  {
+    "global_idx": 24,
+    "speaker": "Speaker_10_Meeting_Chair",
+    "speaker_turn": 1,
+    "start": 549.52,
+    "end": 562.79,
+    "hms": "00h09m10s-00h09m23s",
+    "file_name": "Speaker_10_Meeting_Chair_turn01_global024_00h09m10s-00h09m23s.mp4",
+    "text_preview": "Thank you, Councilman White. 75,000 rounds of golf. That's more than there are people in Cheyenne. So that's it is being used. Uh with that all those in favor signifying by saying I"
+  },
+  {
+    "global_idx": 25,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 9,
+    "start": 562.8,
+    "end": 567.83,
+    "hms": "00h09m23s-00h09m28s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn09_global025_00h09m23s-00h09m28s.mp4",
+    "text_preview": "I I opposed. No."
+  },
+  {
+    "global_idx": 26,
+    "speaker": "Speaker_03_Voice_Cluster_06",
+    "speaker_turn": 3,
+    "start": 567.84,
+    "end": 577.27,
+    "hms": "00h09m28s-00h09m37s",
+    "file_name": "Speaker_03_Voice_Cluster_06_turn03_global026_00h09m28s-00h09m37s.mp4",
+    "text_preview": "The resolution to adopt will be moved on to the full council. The next meeting of the governing body with Councilman Moody voting no. Next item,"
+  },
+  {
+    "global_idx": 27,
+    "speaker": "Speaker_04_Meeting_Clerk",
+    "speaker_turn": 2,
+    "start": 577.28,
+    "end": 595.43,
+    "hms": "00h09m37s-00h09m55s",
+    "file_name": "Speaker_04_Meeting_Clerk_turn02_global027_00h09m37s-00h09m55s.mp4",
+    "text_preview": "number 26, resolution authorizing the mayor to execute a memorandum of understanding with participating counties, cities, and towns regarding the allocation of impact assistance funds associated with the Cheyenne Prairie"
+  },
+  {
+    "global_idx": 28,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 10,
+    "start": 595.44,
+    "end": 597.99,
+    "hms": "00h09m55s-00h09m58s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn10_global028_00h09m55s-00h09m58s.mp4",
+    "text_preview": "and staff report."
+  },
+  {
+    "global_idx": 29,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 7,
+    "start": 598.0,
+    "end": 714.79,
+    "hms": "00h09m58s-00h11m55s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn07_global029_00h09m58s-00h11m55s.mp4",
+    "text_preview": "Mr. Chairman, John Brody, city attorney. Uh before you we have another resolution um authorizing the mayor to enter into anou for impact assistance. Uh the last one was the Laram wind project. The one before that was the"
+  },
+  {
+    "global_idx": 30,
+    "speaker": "Speaker_03_Voice_Cluster_06",
+    "speaker_turn": 4,
+    "start": 714.8,
+    "end": 719.27,
+    "hms": "00h11m55s-00h11m59s",
+    "file_name": "Speaker_03_Voice_Cluster_06_turn04_global030_00h11m55s-00h11m59s.mp4",
+    "text_preview": "Any questions from the committee for our city attorney, Councilman Wolf?"
+  },
+  {
+    "global_idx": 31,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 8,
+    "start": 719.28,
+    "end": 769.35,
+    "hms": "00h11m59s-00h12m49s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn08_global031_00h11m59s-00h12m49s.mp4",
+    "text_preview": "Thank you, Mr. Chairman, through you. Um uh thank you, uh city attorney Brody. Um, so what are they what are they replacing those um three uh uh natural gas um uh turbines with? What what are they going to put there for "
+  },
+  {
+    "global_idx": 32,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 11,
+    "start": 769.36,
+    "end": 770.87,
+    "hms": "00h12m49s-00h12m51s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn11_global032_00h12m49s-00h12m51s.mp4",
+    "text_preview": "Yes, sir."
+  },
+  {
+    "global_idx": 33,
+    "speaker": "Speaker_09_Voice_Cluster_02",
+    "speaker_turn": 1,
+    "start": 770.88,
+    "end": 775.51,
+    "hms": "00h12m51s-00h12m56s",
+    "file_name": "Speaker_09_Voice_Cluster_02_turn01_global033_00h12m51s-00h12m56s.mp4",
+    "text_preview": "Okay. That's a followup, Mr. Chairman. Um go ahead."
+  },
+  {
+    "global_idx": 34,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 9,
+    "start": 775.52,
+    "end": 785.99,
+    "hms": "00h12m56s-00h13m06s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn09_global034_00h12m56s-00h13m06s.mp4",
+    "text_preview": "That's a big that's a big number. I would bet Mr. Chairman, I I believe it changes downward the available funding by about $4 million."
+  },
+  {
+    "global_idx": 35,
+    "speaker": "Speaker_09_Voice_Cluster_02",
+    "speaker_turn": 2,
+    "start": 786.0,
+    "end": 789.99,
+    "hms": "00h13m06s-00h13m10s",
+    "file_name": "Speaker_09_Voice_Cluster_02_turn02_global035_00h13m06s-00h13m10s.mp4",
+    "text_preview": "Oh, okay. Maybe not. All right. Thank you, Mr. Chairman. Thank you."
+  },
+  {
+    "global_idx": 36,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 12,
+    "start": 790.0,
+    "end": 819.27,
+    "hms": "00h13m10s-00h13m39s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn12_global036_00h13m10s-00h13m39s.mp4",
+    "text_preview": "Any further questions for the city attorney from the committee? in the room on this item. Any public comment in the room? Seeing none, go to public comment online. Any public comment online? Okay, seeing none, we'll come"
+  },
+  {
+    "global_idx": 37,
+    "speaker": "Speaker_06_Voice_Cluster_03",
+    "speaker_turn": 3,
+    "start": 819.28,
+    "end": 821.75,
+    "hms": "00h13m39s-00h13m42s",
+    "file_name": "Speaker_06_Voice_Cluster_03_turn03_global037_00h13m39s-00h13m42s.mp4",
+    "text_preview": "Mr. Chairman, I uh move to adopt."
+  },
+  {
+    "global_idx": 38,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 13,
+    "start": 821.76,
+    "end": 823.27,
+    "hms": "00h13m42s-00h13m43s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn13_global038_00h13m42s-00h13m43s.mp4",
+    "text_preview": "Second."
+  },
+  {
+    "global_idx": 39,
+    "speaker": "Speaker_03_Voice_Cluster_06",
+    "speaker_turn": 5,
+    "start": 823.28,
+    "end": 843.51,
+    "hms": "00h13m43s-00h14m04s",
+    "file_name": "Speaker_03_Voice_Cluster_06_turn05_global039_00h13m43s-00h14m04s.mp4",
+    "text_preview": "It's been moved by Councilman Wil, second by Councilman Moody. Any further comments or questions? All in favor signify by saying I. [I.] I. Seeing that that vote is unanimous, the recommendation of the finance committee "
+  },
+  {
+    "global_idx": 40,
+    "speaker": "Speaker_04_Meeting_Clerk",
+    "speaker_turn": 3,
+    "start": 843.52,
+    "end": 860.15,
+    "hms": "00h14m04s-00h14m20s",
+    "file_name": "Speaker_04_Meeting_Clerk_turn03_global040_00h14m04s-00h14m20s.mp4",
+    "text_preview": "number 29D, agreement between the city of Cheyenne Transit Program and the Wyoming Department of Health Aging Division to provide transportation support services to persons 60 years or older under the title 3B program gr"
+  },
+  {
+    "global_idx": 41,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 10,
+    "start": 860.16,
+    "end": 888.31,
+    "hms": "00h14m20s-00h14m48s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn10_global041_00h14m20s-00h14m48s.mp4",
+    "text_preview": "Staff report. Johnson transit program. Um this uh money for 555 excuse me $55,829 is um program that income that we get through uh a grant from the department of aging to help with our local transit funds and operating e"
+  },
+  {
+    "global_idx": 42,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 14,
+    "start": 888.32,
+    "end": 893.19,
+    "hms": "00h14m48s-00h14m53s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn14_global042_00h14m48s-00h14m53s.mp4",
+    "text_preview": "Any comments or questions for from the committee for Miss Johnson?"
+  },
+  {
+    "global_idx": 43,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 11,
+    "start": 893.2,
+    "end": 937.35,
+    "hms": "00h14m53s-00h15m37s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn11_global043_00h14m53s-00h15m37s.mp4",
+    "text_preview": "Mr. Chair, just one quick question. Erin, great seeing you. Sorry I couldn't be there in person today. I would just ask you to let us all know. I know you've uh transit's been here many years. How long has this grant bee"
+  },
+  {
+    "global_idx": 44,
+    "speaker": "Speaker_11_Voice_Cluster_10",
+    "speaker_turn": 1,
+    "start": 937.36,
+    "end": 939.35,
+    "hms": "00h15m37s-00h15m39s",
+    "file_name": "Speaker_11_Voice_Cluster_10_turn01_global044_00h15m37s-00h15m39s.mp4",
+    "text_preview": "Great. Thank you,"
+  },
+  {
+    "global_idx": 45,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 15,
+    "start": 939.36,
+    "end": 941.19,
+    "hms": "00h15m39s-00h15m41s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn15_global045_00h15m39s-00h15m41s.mp4",
+    "text_preview": "Mr. Chair. Council Moody."
+  },
+  {
+    "global_idx": 46,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 12,
+    "start": 941.2,
+    "end": 955.75,
+    "hms": "00h15m41s-00h15m56s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn12_global046_00h15m41s-00h15m56s.mp4",
+    "text_preview": "Uh thank you, Mr. Thank you, ma'am. Uh just uhformational uh the total amount we're approving is $59,648. Is that correct? Uh chair through you to Mr. Moody. It is 55,829."
+  },
+  {
+    "global_idx": 47,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 16,
+    "start": 955.76,
+    "end": 1042.87,
+    "hms": "00h15m56s-00h17m23s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn16_global047_00h15m56s-00h17m23s.mp4",
+    "text_preview": "Okay. Thank you. action report. figure and then under A it's got the 55. any further comments or questions from the committee. Seeing none, we'll go to public comment in the room on this item. Any public comment in the r"
+  },
+  {
+    "global_idx": 48,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 13,
+    "start": 1042.88,
+    "end": 1049.75,
+    "hms": "00h17m23s-00h17m30s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn13_global048_00h17m23s-00h17m30s.mp4",
+    "text_preview": "Uh Mr. Mr. Chairman, I move to approve an amount not to exceed $59,6480."
+  },
+  {
+    "global_idx": 49,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 17,
+    "start": 1051.28,
+    "end": 1057.11,
+    "hms": "00h17m31s-00h17m37s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn17_global049_00h17m31s-00h17m37s.mp4",
+    "text_preview": "Been moved by Councilman Moody, second by Councilman Wolf. Any further discussion?"
+  },
+  {
+    "global_idx": 50,
+    "speaker": "Speaker_10_Meeting_Chair",
+    "speaker_turn": 2,
+    "start": 1057.12,
+    "end": 1059.75,
+    "hms": "00h17m37s-00h17m40s",
+    "file_name": "Speaker_10_Meeting_Chair_turn02_global050_00h17m37s-00h17m40s.mp4",
+    "text_preview": "All those in favor signify by saying I."
+  },
+  {
+    "global_idx": 51,
+    "speaker": "Speaker_11_Voice_Cluster_10",
+    "speaker_turn": 2,
+    "start": 1059.76,
+    "end": 1090.39,
+    "hms": "00h17m40s-00h18m10s",
+    "file_name": "Speaker_11_Voice_Cluster_10_turn02_global051_00h17m40s-00h18m10s.mp4",
+    "text_preview": "I. Seeing that that votes unanimous, the recommendation of the finance committee will be to approve at the next meeting of the governing body. Next item agreement between the city of Cheyenne and Martin and Martin Wyomin"
+  },
+  {
+    "global_idx": 52,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 14,
+    "start": 1090.4,
+    "end": 1127.35,
+    "hms": "00h18m10s-00h18m47s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn14_global052_00h18m10s-00h18m47s.mp4",
+    "text_preview": "Staff report. Adele Bartell public works staff engine um for a total of $132,000. Martin and Martin will provide a new parking lot design that will bring our existing parking lot up to the current udc standards. Um and I"
+  },
+  {
+    "global_idx": 53,
+    "speaker": "Speaker_07_Voice_Cluster_05",
+    "speaker_turn": 3,
+    "start": 1127.36,
+    "end": 1130.87,
+    "hms": "00h18m47s-00h18m51s",
+    "file_name": "Speaker_07_Voice_Cluster_05_turn03_global053_00h18m47s-00h18m51s.mp4",
+    "text_preview": "Okay, good to know. Uh Mr. Follow, Mr. Chairman. Go ahead."
+  },
+  {
+    "global_idx": 54,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 15,
+    "start": 1130.88,
+    "end": 1177.03,
+    "hms": "00h18m51s-00h19m37s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn15_global054_00h18m51s-00h19m37s.mp4",
+    "text_preview": "All right, thanks T for you. Um thank you ma'am. On page four here and for the public to know it's under the Martin and Martin um number six it says we will hire WSP as our electrical sub consultant for the electrical si"
+  },
+  {
+    "global_idx": 55,
+    "speaker": "Speaker_07_Voice_Cluster_05",
+    "speaker_turn": 4,
+    "start": 1177.04,
+    "end": 1177.99,
+    "hms": "00h19m37s-00h19m38s",
+    "file_name": "Speaker_07_Voice_Cluster_05_turn04_global055_00h19m37s-00h19m38s.mp4",
+    "text_preview": "Well, Mr. Chairman,"
+  },
+  {
+    "global_idx": 56,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 16,
+    "start": 1178.88,
+    "end": 1199.35,
+    "hms": "00h19m39s-00h19m59s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn16_global056_00h19m39s-00h19m59s.mp4",
+    "text_preview": "All right. Thanks, Cher. Um we have debate about that, but I was going to say I don't remember my constituents saying they want a public EV charging station. And so I'm just a little surprised to see us in here. So if I "
+  },
+  {
+    "global_idx": 57,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 18,
+    "start": 1199.36,
+    "end": 1203.27,
+    "hms": "00h19m59s-00h20m03s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn18_global057_00h19m59s-00h20m03s.mp4",
+    "text_preview": "Any further questions from the committee for staff? Councilman Wolf."
+  },
+  {
+    "global_idx": 58,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 17,
+    "start": 1203.28,
+    "end": 1247.99,
+    "hms": "00h20m03s-00h20m48s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn17_global058_00h20m03s-00h20m48s.mp4",
+    "text_preview": "Um thank you, Mr. Chairman, through you. Um thank you, M. Bartell. Um, so we had a conversation right before we started uh about whether this impacts the uh old senior center that we're um going to be renovating. Um, and"
+  },
+  {
+    "global_idx": 59,
+    "speaker": "Speaker_09_Voice_Cluster_02",
+    "speaker_turn": 3,
+    "start": 1248.0,
+    "end": 1277.51,
+    "hms": "00h20m48s-00h21m18s",
+    "file_name": "Speaker_09_Voice_Cluster_02_turn03_global059_00h20m48s-00h21m18s.mp4",
+    "text_preview": "Okay. Um because there had been some discussion u Mr. Chairman, a followup. Thank you. Um, uh, I know, um, President Crave had been interested in trying to, uh, I think get some handicap parking in the front of that, um,"
+  },
+  {
+    "global_idx": 60,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 18,
+    "start": 1277.52,
+    "end": 1286.95,
+    "hms": "00h21m18s-00h21m27s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn18_global060_00h21m18s-00h21m27s.mp4",
+    "text_preview": "Uh, Mr. through you that would most likely be included in the um the renovation design of that building."
+  },
+  {
+    "global_idx": 61,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 19,
+    "start": 1286.96,
+    "end": 1308.15,
+    "hms": "00h21m27s-00h21m48s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn19_global061_00h21m27s-00h21m48s.mp4",
+    "text_preview": "Okay. If if it's a possibility. Great. Okay. Thank you. Thank you, Mr. Chair. Um I don't have questions. Uh Mr. Wolf uh asked what I was going to ask. Thank."
+  },
+  {
+    "global_idx": 62,
+    "speaker": "Speaker_12_Danny_Hayes",
+    "speaker_turn": 1,
+    "start": 1308.16,
+    "end": 1341.83,
+    "hms": "00h21m48s-00h22m22s",
+    "file_name": "Speaker_12_Danny_Hayes_turn01_global062_00h21m48s-00h22m22s.mp4",
+    "text_preview": "Okay, we'll go to public comment in the room. my name is Danny Hayes with Martin Wyoming. I'm a senior professional engineer. Um, just to kind of answer some of the questions you had. Our original scope was to just inclu"
+  },
+  {
+    "global_idx": 63,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 19,
+    "start": 1341.84,
+    "end": 1388.95,
+    "hms": "00h22m22s-00h23m09s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn19_global063_00h22m22s-00h23m09s.mp4",
+    "text_preview": "21st Street got redone. They kind of there's that line in the Circle Drive. So, we're going to kind of come south of that, address that sidewalk in the drainage and that circle drive to hopefully include some parking tha"
+  },
+  {
+    "global_idx": 64,
+    "speaker": "Speaker_08_Voice_Cluster_01",
+    "speaker_turn": 2,
+    "start": 1388.96,
+    "end": 1390.63,
+    "hms": "00h23m09s-00h23m11s",
+    "file_name": "Speaker_08_Voice_Cluster_01_turn02_global064_00h23m09s-00h23m11s.mp4",
+    "text_preview": "Questions for Mr. Hayes? I do."
+  },
+  {
+    "global_idx": 65,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 20,
+    "start": 1391.52,
+    "end": 1402.39,
+    "hms": "00h23m12s-00h23m22s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn20_global065_00h23m12s-00h23m22s.mp4",
+    "text_preview": "Yep. Thank you, [clears throat] Mr. Turner. Through you. Thank you, Mr. Haynes. Uh question. Um does somebody from the city approach you about EV charging infrastructure? or is that something you guys do on your own?"
+  },
+  {
+    "global_idx": 66,
+    "speaker": "Speaker_05_Voice_Cluster_09",
+    "speaker_turn": 2,
+    "start": 1402.4,
+    "end": 1455.19,
+    "hms": "00h23m22s-00h24m15s",
+    "file_name": "Speaker_05_Voice_Cluster_09_turn02_global066_00h23m22s-00h24m15s.mp4",
+    "text_preview": "Uh M chairman through you that was approached to the city to include in case for future it's just infrastructure so conduit in the ground. There's not a plan at the time to include any EV charging stations. It's cheaper "
+  },
+  {
+    "global_idx": 67,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 20,
+    "start": 1456.16,
+    "end": 1461.91,
+    "hms": "00h24m16s-00h24m22s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn20_global067_00h24m16s-00h24m22s.mp4",
+    "text_preview": "Mr. Miller, you can go ahead. Can you hear me? We can."
+  },
+  {
+    "global_idx": 68,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 21,
+    "start": 1461.92,
+    "end": 1610.79,
+    "hms": "00h24m22s-00h26m51s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn21_global068_00h24m22s-00h26m51s.mp4",
+    "text_preview": "Um, uh, for the record, Charles Miller. Um, I'm speaking directly to item number 29E, the professional services agreement for the municipal building parking lot redesign. Uh, is this a this is $132,000, is that correct, "
+  },
+  {
+    "global_idx": 69,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 21,
+    "start": 1610.8,
+    "end": 1612.39,
+    "hms": "00h26m51s-00h26m52s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn21_global069_00h26m51s-00h26m52s.mp4",
+    "text_preview": "Second."
+  },
+  {
+    "global_idx": 70,
+    "speaker": "Speaker_03_Voice_Cluster_06",
+    "speaker_turn": 6,
+    "start": 1612.4,
+    "end": 1617.51,
+    "hms": "00h26m52s-00h26m58s",
+    "file_name": "Speaker_03_Voice_Cluster_06_turn06_global070_00h26m52s-00h26m58s.mp4",
+    "text_preview": "It's been moved by Councilman Wolf, second by Councilman White. Any further discussion? I do. Councilman Moody."
+  },
+  {
+    "global_idx": 71,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 22,
+    "start": 1617.52,
+    "end": 1675.59,
+    "hms": "00h26m58s-00h27m56s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn22_global071_00h26m58s-00h27m56s.mp4",
+    "text_preview": "Thank you, Mr. Chairman. Through you, couple things. I mean, first off, the people did vote against the renovation of the building, whether we like it or not, and I'm need to honor the wishes of the constituents. And the"
+  },
+  {
+    "global_idx": 72,
+    "speaker": "Speaker_03_Voice_Cluster_06",
+    "speaker_turn": 7,
+    "start": 1675.6,
+    "end": 1693.43,
+    "hms": "00h27m56s-00h28m13s",
+    "file_name": "Speaker_03_Voice_Cluster_06_turn07_global072_00h27m56s-00h28m13s.mp4",
+    "text_preview": "Okay. Well, we don't know what the future brings, but [clears throat] with that, all in favor signify by saying I. [I. I.] Opposed. The recommendation of the finance committee at the next meeting of the governing body wi"
+  },
+  {
+    "global_idx": 73,
+    "speaker": "Speaker_04_Meeting_Clerk",
+    "speaker_turn": 4,
+    "start": 1693.44,
+    "end": 1707.91,
+    "hms": "00h28m13s-00h28m28s",
+    "file_name": "Speaker_04_Meeting_Clerk_turn04_global073_00h28m13s-00h28m28s.mp4",
+    "text_preview": "number 29F. contract between the city of Cheyenne office of youth alternatives and the Larmy community juvenile services joint powers board for case management services and substance abuse testing and assessments"
+  },
+  {
+    "global_idx": 74,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 22,
+    "start": 1707.92,
+    "end": 1710.55,
+    "hms": "00h28m28s-00h28m31s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn22_global074_00h28m28s-00h28m31s.mp4",
+    "text_preview": "staff report."
+  },
+  {
+    "global_idx": 75,
+    "speaker": "Speaker_13_Jay_Sullivan",
+    "speaker_turn": 1,
+    "start": 1710.56,
+    "end": 1746.07,
+    "hms": "00h28m31s-00h29m06s",
+    "file_name": "Speaker_13_Jay_Sullivan_turn01_global075_00h28m31s-00h29m06s.mp4",
+    "text_preview": "Mr. Chairman, committee members, this is Jay Sullivan, uh director of youth alternatives. Uh this is a two two-year contract revenue to the city totaling $598,634. contract is for the community service case manager posit"
+  },
+  {
+    "global_idx": 76,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 23,
+    "start": 1746.08,
+    "end": 1770.63,
+    "hms": "00h29m06s-00h29m31s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn23_global076_00h29m06s-00h29m31s.mp4",
+    "text_preview": "Any comments or questions from the committee for Mr. Sullivan? in the room. Any public comment in the room on this item? Seeing none, we'll go to public comment online. Any public comment online on this item? [Mr. Miller"
+  },
+  {
+    "global_idx": 77,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 23,
+    "start": 1770.64,
+    "end": 1916.47,
+    "hms": "00h29m31s-00h31m56s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn23_global077_00h29m31s-00h31m56s.mp4",
+    "text_preview": "Uh, for the record, Charles Miller, uh, 29F. This body is reviewing a contract to secure $598,634 for the office of use of youth alternatives. While the funding appears beneficial on the surface, a structural audit of th"
+  },
+  {
+    "global_idx": 78,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 24,
+    "start": 1917.28,
+    "end": 1923.67,
+    "hms": "00h31m57s-00h32m04s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn24_global078_00h31m57s-00h32m04s.mp4",
+    "text_preview": "It's been moved by Councilman Moody, second by Councilman Wolf. Any further discussion? Councilman White."
+  },
+  {
+    "global_idx": 79,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 24,
+    "start": 1923.68,
+    "end": 2064.39,
+    "hms": "00h32m04s-00h34m24s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn24_global079_00h32m04s-00h34m24s.mp4",
+    "text_preview": "Thank you, Mr. Chair. Is Mr. Brody available for a question on this? I I would just like to uh get your take sir uh in the caller's comments that the contract had already commenced July 1. We are in um October uh 6th. So"
+  },
+  {
+    "global_idx": 80,
+    "speaker": "Speaker_14_Voice_Cluster_08",
+    "speaker_turn": 1,
+    "start": 2064.4,
+    "end": 2096.15,
+    "hms": "00h34m24s-00h34m56s",
+    "file_name": "Speaker_14_Voice_Cluster_08_turn01_global080_00h34m24s-00h34m56s.mp4",
+    "text_preview": "Mr. Chair Sullivan. Uh to speak to the the data, the city has a data use agreement uh with the University of Wyoming and DFS. This data is a central collection point to determine determine the uh uh outcomes of juveniles"
+  },
+  {
+    "global_idx": 81,
+    "speaker": "Speaker_09_Voice_Cluster_02",
+    "speaker_turn": 4,
+    "start": 2096.16,
+    "end": 2096.79,
+    "hms": "00h34m56s-00h34m57s",
+    "file_name": "Speaker_09_Voice_Cluster_02_turn04_global081_00h34m56s-00h34m57s.mp4",
+    "text_preview": "Okay. Thank you,"
+  },
+  {
+    "global_idx": 82,
+    "speaker": "Speaker_03_Voice_Cluster_06",
+    "speaker_turn": 8,
+    "start": 2096.8,
+    "end": 2098.47,
+    "hms": "00h34m57s-00h34m58s",
+    "file_name": "Speaker_03_Voice_Cluster_06_turn08_global082_00h34m57s-00h34m58s.mp4",
+    "text_preview": "Mr. Councilman Moody."
+  },
+  {
+    "global_idx": 83,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 25,
+    "start": 2098.48,
+    "end": 2109.19,
+    "hms": "00h34m58s-00h35m09s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn25_global083_00h34m58s-00h35m09s.mp4",
+    "text_preview": "Thank you. Uh, thank you, sir. And just for the clarify for the public, this has been going on for decades and this is, uh, very standard. Am I correct,"
+  },
+  {
+    "global_idx": 84,
+    "speaker": "Speaker_14_Voice_Cluster_08",
+    "speaker_turn": 2,
+    "start": 2109.2,
+    "end": 2137.67,
+    "hms": "00h35m09s-00h35m38s",
+    "file_name": "Speaker_14_Voice_Cluster_08_turn02_global084_00h35m09s-00h35m38s.mp4",
+    "text_preview": "Mr. Chair? Uh, director Sullivan again through you. Uh, correct. Uh, the contract will be retroactive. uh the joint powers board is is on board with that knowing that uh the services we can't just stop services for a del"
+  },
+  {
+    "global_idx": 85,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 26,
+    "start": 2137.68,
+    "end": 2220.07,
+    "hms": "00h35m38s-00h37m00s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn26_global085_00h35m38s-00h37m00s.mp4",
+    "text_preview": "All right. Thank you so much and I agree this is very important you know for our youth here. You know, I say this I one friend who from uh Fort Morgan wishes she had a program like this to help her out in her use. So def"
+  },
+  {
+    "global_idx": 86,
+    "speaker": "Speaker_14_Voice_Cluster_08",
+    "speaker_turn": 3,
+    "start": 2220.08,
+    "end": 2251.35,
+    "hms": "00h37m00s-00h37m31s",
+    "file_name": "Speaker_14_Voice_Cluster_08_turn03_global086_00h37m00s-00h37m31s.mp4",
+    "text_preview": "Mr. Chairman uh Director Sullivan again. Uh I would like to just add one thing uh and I appreciate uh Councilman White's uh input to our online uh comments. Uh Youth Alternatives for those that don't know is actually a c"
+  },
+  {
+    "global_idx": 87,
+    "speaker": "Speaker_03_Voice_Cluster_06",
+    "speaker_turn": 9,
+    "start": 2251.36,
+    "end": 2268.63,
+    "hms": "00h37m31s-00h37m49s",
+    "file_name": "Speaker_03_Voice_Cluster_06_turn09_global087_00h37m31s-00h37m49s.mp4",
+    "text_preview": "Thank you. Seeing there's no more comments from the committee, uh, all in favor signify by saying I. [I.] Seeing that that votes unanimous, the recommendation of the finance committee at the next meeting of the governing"
+  },
+  {
+    "global_idx": 88,
+    "speaker": "Speaker_04_Meeting_Clerk",
+    "speaker_turn": 5,
+    "start": 2268.64,
+    "end": 2279.51,
+    "hms": "00h37m49s-00h38m00s",
+    "file_name": "Speaker_04_Meeting_Clerk_turn05_global088_00h37m49s-00h38m00s.mp4",
+    "text_preview": "number 29G, professional services agreement between the city of Cheyenne and TDSI, the design studio incorporated for the Johnson pool evaluation and design project."
+  },
+  {
+    "global_idx": 89,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 27,
+    "start": 2280.48,
+    "end": 2520.39,
+    "hms": "00h38m00s-00h42m00s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn27_global089_00h38m00s-00h42m00s.mp4",
+    "text_preview": "Mr. Chair, Jason Sanchez community wrecking events before you [clears throat] and for your consideration is contract with TDSI for the to complete the design of the Johnson pool and for some construction administrative u"
+  },
+  {
+    "global_idx": 90,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 25,
+    "start": 2520.4,
+    "end": 2523.51,
+    "hms": "00h42m00s-00h42m04s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn25_global090_00h42m00s-00h42m04s.mp4",
+    "text_preview": "Can you hear me? And"
+  },
+  {
+    "global_idx": 91,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 28,
+    "start": 2523.52,
+    "end": 2684.31,
+    "hms": "00h42m04s-00h44m44s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn28_global091_00h42m04s-00h44m44s.mp4",
+    "text_preview": "uh for the record, Charles Miller, I'm speaking directly to item number 29G, the contract with TDSI for the Johnson pool. [clears throat] Excuse me. Director Sanchez just testified that the department purposefully capped"
+  },
+  {
+    "global_idx": 92,
+    "speaker": "Speaker_03_Voice_Cluster_06",
+    "speaker_turn": 10,
+    "start": 2685.12,
+    "end": 2691.27,
+    "hms": "00h44m45s-00h44m51s",
+    "file_name": "Speaker_03_Voice_Cluster_06_turn10_global092_00h44m45s-00h44m51s.mp4",
+    "text_preview": "been moved by Councilman Wolf, second by Councilman Moody. Any further discussion? [Just a couple clarifications.] Councilman Moody."
+  },
+  {
+    "global_idx": 93,
+    "speaker": "Speaker_02_Voice_Cluster_04",
+    "speaker_turn": 29,
+    "start": 2691.28,
+    "end": 2848.55,
+    "hms": "00h44m51s-00h47m29s",
+    "file_name": "Speaker_02_Voice_Cluster_04_turn29_global093_00h44m51s-00h47m29s.mp4",
+    "text_preview": "Yep. Thank you, Mr. President. Just a couple clarifications that again, the design that was approved by the voters. So, we honor voters first time. The voters again want a design, want John Spool. We're honoring the will"
+  },
+  {
+    "global_idx": 94,
+    "speaker": "Speaker_03_Voice_Cluster_06",
+    "speaker_turn": 11,
+    "start": 2848.56,
+    "end": 2857.03,
+    "hms": "00h47m29s-00h47m37s",
+    "file_name": "Speaker_03_Voice_Cluster_06_turn11_global094_00h47m29s-00h47m37s.mp4",
+    "text_preview": "Thank you. We can't wait for the ground baking and the ribbon cutting and and this will be really awesome for Southside Cheyenne."
+  },
+  {
+    "global_idx": 95,
+    "speaker": "Speaker_10_Meeting_Chair",
+    "speaker_turn": 3,
+    "start": 2857.04,
+    "end": 2859.91,
+    "hms": "00h47m37s-00h47m40s",
+    "file_name": "Speaker_10_Meeting_Chair_turn03_global095_00h47m37s-00h47m40s.mp4",
+    "text_preview": "That all those in favor signify by saying I."
+  },
+  {
+    "global_idx": 96,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 26,
+    "start": 2859.92,
+    "end": 2861.35,
+    "hms": "00h47m40s-00h47m41s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn26_global096_00h47m40s-00h47m41s.mp4",
+    "text_preview": "I. I."
+  },
+  {
+    "global_idx": 97,
+    "speaker": "Speaker_03_Voice_Cluster_06",
+    "speaker_turn": 12,
+    "start": 2861.36,
+    "end": 2873.51,
+    "hms": "00h47m41s-00h47m54s",
+    "file_name": "Speaker_03_Voice_Cluster_06_turn12_global097_00h47m41s-00h47m54s.mp4",
+    "text_preview": "Let's see. And that the vote is unanimous on this item. The recommendation of the finance committee will be to approve at the next meeting of the governing body. Seeing there is no further business in front of this commi"
+  },
+  {
+    "global_idx": 98,
+    "speaker": "Speaker_09_Voice_Cluster_02",
+    "speaker_turn": 5,
+    "start": 2873.52,
+    "end": 2874.47,
+    "hms": "00h47m54s-00h47m54s",
+    "file_name": "Speaker_09_Voice_Cluster_02_turn05_global098_00h47m54s-00h47m54s.mp4",
+    "text_preview": "Thank you, Mr. chairman."
+  },
+  {
+    "global_idx": 99,
+    "speaker": "Speaker_01_Voice_Cluster_07",
+    "speaker_turn": 27,
+    "start": 2874.48,
+    "end": 2877.72,
+    "hms": "00h47m54s-00h47m58s",
+    "file_name": "Speaker_01_Voice_Cluster_07_turn27_global099_00h47m54s-00h47m58s.mp4",
+    "text_preview": "Thank you."
+  }
+]
