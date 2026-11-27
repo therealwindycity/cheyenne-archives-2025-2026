@@ -1,0 +1,1692 @@
+[
+  {
+    "global_idx": 1,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 1,
+    "start": 12.88,
+    "end": 62.07,
+    "hms": "00h00m13s-00h01m02s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn01_global001_00h00m13s-00h01m02s.mp4",
+    "text_preview": "October 5th uh public services committee meeting. Uh if you are joining us here in person, if you would make sure that your phone is on manners mode, uh it would be appreciated. Um, if you'd like to address the committee"
+  },
+  {
+    "global_idx": 2,
+    "speaker": "Speaker_02_Voice_Cluster_10",
+    "speaker_turn": 1,
+    "start": 62.08,
+    "end": 74.47,
+    "hms": "00h01m02s-00h01m14s",
+    "file_name": "Speaker_02_Voice_Cluster_10_turn01_global002_00h01m02s-00h01m14s.mp4",
+    "text_preview": "Chair, members of committee, Conor White, Planning Development Department. The sanexation is on third reading. Um, I've got no new information. Um, and there hasn't been any additional public comment. With that, I am ava"
+  },
+  {
+    "global_idx": 3,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 1,
+    "start": 74.48,
+    "end": 87.51,
+    "hms": "00h01m14s-00h01m28s",
+    "file_name": "Speaker_03_Meeting_Chair_turn01_global003_00h01m14s-00h01m28s.mp4",
+    "text_preview": "Thank you. Um, is there any public comment today? Hearing or seeing none. Um any I would entertain a motion."
+  },
+  {
+    "global_idx": 4,
+    "speaker": "Speaker_04_Voice_Cluster_07",
+    "speaker_turn": 1,
+    "start": 87.52,
+    "end": 93.99,
+    "hms": "00h01m28s-00h01m34s",
+    "file_name": "Speaker_04_Voice_Cluster_07_turn01_global004_00h01m28s-00h01m34s.mp4",
+    "text_preview": "Madam Chairwoman, I move to approve on third and final reading."
+  },
+  {
+    "global_idx": 5,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 2,
+    "start": 94.8,
+    "end": 101.83,
+    "hms": "00h01m35s-00h01m42s",
+    "file_name": "Speaker_03_Meeting_Chair_turn02_global005_00h01m35s-00h01m42s.mp4",
+    "text_preview": "Okay. We have a motion by Dr. Renie and a second by Councilman Esabel. Is there any discussion? Madam"
+  },
+  {
+    "global_idx": 6,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 2,
+    "start": 101.84,
+    "end": 104.07,
+    "hms": "00h01m42s-00h01m44s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn02_global006_00h01m42s-00h01m44s.mp4",
+    "text_preview": "Chairwoman? Yes. Councilman Renie."
+  },
+  {
+    "global_idx": 7,
+    "speaker": "Speaker_04_Voice_Cluster_07",
+    "speaker_turn": 2,
+    "start": 104.08,
+    "end": 127.19,
+    "hms": "00h01m44s-00h02m07s",
+    "file_name": "Speaker_04_Voice_Cluster_07_turn02_global007_00h01m44s-00h02m07s.mp4",
+    "text_preview": "I just um yeah had a couple questions. I do want to point Can I get closer to the mic? [Yes. Thank you.] All right. I had a one question. I understand the larger parcel, but there's a little one to the south that is that"
+  },
+  {
+    "global_idx": 8,
+    "speaker": "Speaker_02_Voice_Cluster_10",
+    "speaker_turn": 2,
+    "start": 127.2,
+    "end": 159.51,
+    "hms": "00h02m07s-00h02m40s",
+    "file_name": "Speaker_02_Voice_Cluster_10_turn02_global008_00h02m07s-00h02m40s.mp4",
+    "text_preview": "Um Madam Chair, through you. So, it is a second little parcel uh that's part of the annexation. So that little kind of L or foot or whatever you want to call it is in the county currently. Uh it does need to be annexed. "
+  },
+  {
+    "global_idx": 9,
+    "speaker": "Speaker_04_Voice_Cluster_07",
+    "speaker_turn": 3,
+    "start": 159.52,
+    "end": 177.35,
+    "hms": "00h02m40s-00h02m57s",
+    "file_name": "Speaker_04_Voice_Cluster_07_turn03_global009_00h02m40s-00h02m57s.mp4",
+    "text_preview": "Okay. Thank you. Um yeah, in regard to the annexation, that's the only question I have. I just, you know, guess want the public to understand this is for the Hitch and Post District, the future headquarters of the and PR"
+  },
+  {
+    "global_idx": 10,
+    "speaker": "Speaker_05_Voice_Cluster_05",
+    "speaker_turn": 1,
+    "start": 177.36,
+    "end": 185.59,
+    "hms": "00h02m57s-00h03m06s",
+    "file_name": "Speaker_05_Voice_Cluster_05_turn01_global010_00h02m57s-00h03m06s.mp4",
+    "text_preview": "You're welcome. Any other discussion? Hearing none. All in favor say I. [I.] I."
+  },
+  {
+    "global_idx": 11,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 3,
+    "start": 185.6,
+    "end": 210.95,
+    "hms": "00h03m06s-00h03m31s",
+    "file_name": "Speaker_03_Meeting_Chair_turn03_global011_00h03m06s-00h03m31s.mp4",
+    "text_preview": "Opposed? This item will move forward with a recommendation to approve on third and final reading the next meeting of the council. Next item, please. Number 10, ordinance third reading, amending the official zoning map of"
+  },
+  {
+    "global_idx": 12,
+    "speaker": "Speaker_02_Voice_Cluster_10",
+    "speaker_turn": 3,
+    "start": 210.96,
+    "end": 224.95,
+    "hms": "00h03m31s-00h03m45s",
+    "file_name": "Speaker_02_Voice_Cluster_10_turn03_global012_00h03m31s-00h03m45s.mp4",
+    "text_preview": "Chair, members committee, Connorway Planning and Development Department. Again with anyation there is the assigned zoning. Uh this is also on third reading. Staff has no further updates and has had no additional public c"
+  },
+  {
+    "global_idx": 13,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 4,
+    "start": 224.96,
+    "end": 243.35,
+    "hms": "00h03m45s-00h04m03s",
+    "file_name": "Speaker_03_Meeting_Chair_turn04_global013_00h03m45s-00h04m03s.mp4",
+    "text_preview": "Thank you. Is there any questions for staff from committee? Okay. Hearing none, we will go out for public comment. Is there any public comment on this holding um zone for this parcel? Uh, Jennifer,"
+  },
+  {
+    "global_idx": 14,
+    "speaker": "Speaker_06_Voice_Cluster_02",
+    "speaker_turn": 1,
+    "start": 251.12,
+    "end": 252.39,
+    "hms": "00h04m11s-00h04m12s",
+    "file_name": "Speaker_06_Voice_Cluster_02_turn01_global014_00h04m11s-00h04m12s.mp4",
+    "text_preview": "Can you hear me?"
+  },
+  {
+    "global_idx": 15,
+    "speaker": "Speaker_07_Voice_Cluster_04",
+    "speaker_turn": 1,
+    "start": 252.4,
+    "end": 256.39,
+    "hms": "00h04m12s-00h04m16s",
+    "file_name": "Speaker_07_Voice_Cluster_04_turn01_global015_00h04m12s-00h04m16s.mp4",
+    "text_preview": "Uh, we can hear you. And we're just starting our timer. Thank you, sir."
+  },
+  {
+    "global_idx": 16,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 3,
+    "start": 256.4,
+    "end": 322.23,
+    "hms": "00h04m16s-00h05m22s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn03_global016_00h04m16s-00h05m22s.mp4",
+    "text_preview": "Gotcha. Okay. Um, this is in regards to item number 10. The ordinance third reading sets the city zone for the newly annexed land, AG for the larger parcel and Ally for the smaller parcel. Um staff considered five zones,"
+  },
+  {
+    "global_idx": 17,
+    "speaker": "Speaker_07_Voice_Cluster_04",
+    "speaker_turn": 2,
+    "start": 322.24,
+    "end": 326.15,
+    "hms": "00h05m22s-00h05m26s",
+    "file_name": "Speaker_07_Voice_Cluster_04_turn02_global017_00h05m22s-00h05m26s.mp4",
+    "text_preview": "We're only talking about number 10 right now please sir."
+  },
+  {
+    "global_idx": 18,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 4,
+    "start": 326.16,
+    "end": 388.55,
+    "hms": "00h05m26s-00h06m29s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn04_global018_00h05m26s-00h06m29s.mp4",
+    "text_preview": "Okay. Um item 10 tells the public this land is agricultural. Um one of and then it's immediately being changed. Uh I know that's the next item, but uh one of those two um votes is theater and I would like the committee t"
+  },
+  {
+    "global_idx": 19,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 5,
+    "start": 388.56,
+    "end": 395.59,
+    "hms": "00h06m29s-00h06m36s",
+    "file_name": "Speaker_03_Meeting_Chair_turn05_global019_00h06m29s-00h06m36s.mp4",
+    "text_preview": "Thank you. Any other public comment? Hearing or seeing none, I would entertain a motion."
+  },
+  {
+    "global_idx": 20,
+    "speaker": "Speaker_08_Voice_Cluster_08",
+    "speaker_turn": 1,
+    "start": 395.6,
+    "end": 399.83,
+    "hms": "00h06m36s-00h06m40s",
+    "file_name": "Speaker_08_Voice_Cluster_08_turn01_global020_00h06m36s-00h06m40s.mp4",
+    "text_preview": "Madame Chairwoman, I moved to approve on third and final reading."
+  },
+  {
+    "global_idx": 21,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 6,
+    "start": 400.56,
+    "end": 407.11,
+    "hms": "00h06m41s-00h06m47s",
+    "file_name": "Speaker_03_Meeting_Chair_turn06_global021_00h06m41s-00h06m47s.mp4",
+    "text_preview": "Okay, we have a motion by Councilman Esel and a second by Councilman Renie. Is there any further discussion?"
+  },
+  {
+    "global_idx": 22,
+    "speaker": "Speaker_09_Seth_Lloyd_Planning",
+    "speaker_turn": 1,
+    "start": 408.96,
+    "end": 538.07,
+    "hms": "00h06m49s-00h08m58s",
+    "file_name": "Speaker_09_Seth_Lloyd_Planning_turn01_global022_00h06m49s-00h08m58s.mp4",
+    "text_preview": "I am curious what was the the PUD that's going to go away. What was that being used for? And I presume that was just development in Swan Ranch. Looks like Mr. Lloyd has an answer for us. my name is Seth Lloyd. I'm with t"
+  },
+  {
+    "global_idx": 23,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 5,
+    "start": 538.08,
+    "end": 540.95,
+    "hms": "00h08m58s-00h09m01s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn05_global023_00h08m58s-00h09m01s.mp4",
+    "text_preview": "Thank you, Councilman Renee. Any other questions?"
+  },
+  {
+    "global_idx": 24,
+    "speaker": "Speaker_04_Voice_Cluster_07",
+    "speaker_turn": 4,
+    "start": 540.96,
+    "end": 605.83,
+    "hms": "00h09m01s-00h10m06s",
+    "file_name": "Speaker_04_Voice_Cluster_07_turn04_global024_00h09m01s-00h10m06s.mp4",
+    "text_preview": "I wish you wouldn't refer to it as old because I was here when that was done. [No comment.] I know. Um, and I do remember when that came in and the initial for Overland was it was going to be industrial near the intersta"
+  },
+  {
+    "global_idx": 25,
+    "speaker": "Speaker_10_Voice_Cluster_01",
+    "speaker_turn": 1,
+    "start": 605.84,
+    "end": 613.99,
+    "hms": "00h10m06s-00h10m14s",
+    "file_name": "Speaker_10_Voice_Cluster_01_turn01_global025_00h10m06s-00h10m14s.mp4",
+    "text_preview": "You're welcome. Any other discussion? Hearing none. All in favor? Oh, did you have Okay. All in favor say I."
+  },
+  {
+    "global_idx": 26,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 7,
+    "start": 615.36,
+    "end": 642.15,
+    "hms": "00h10m15s-00h10m42s",
+    "file_name": "Speaker_03_Meeting_Chair_turn07_global026_00h10m15s-00h10m42s.mp4",
+    "text_preview": "Opposed. This item will move forward with a recommendation to approve on third and final reading at the next meeting of the council. Item. Next item, please. Number 11. Ordinance. Third reading. Amending the official zon"
+  },
+  {
+    "global_idx": 27,
+    "speaker": "Speaker_02_Voice_Cluster_10",
+    "speaker_turn": 4,
+    "start": 642.16,
+    "end": 655.99,
+    "hms": "00h10m42s-00h10m56s",
+    "file_name": "Speaker_02_Voice_Cluster_10_turn04_global027_00h10m42s-00h10m56s.mp4",
+    "text_preview": "Chair, members of the committee, Conor Way Planning and Development Department. Uh, this zone change is also on third reading. Staff has no further um information to provide and there has been no additional public commen"
+  },
+  {
+    "global_idx": 28,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 8,
+    "start": 656.0,
+    "end": 665.35,
+    "hms": "00h10m56s-00h11m05s",
+    "file_name": "Speaker_03_Meeting_Chair_turn08_global028_00h10m56s-00h11m05s.mp4",
+    "text_preview": "Thank you. Are there any questions for staff? Hey, any [clears throat] public comment in here in the chambers?"
+  },
+  {
+    "global_idx": 29,
+    "speaker": "Speaker_06_Voice_Cluster_02",
+    "speaker_turn": 2,
+    "start": 669.76,
+    "end": 670.95,
+    "hms": "00h11m10s-00h11m11s",
+    "file_name": "Speaker_06_Voice_Cluster_02_turn02_global029_00h11m10s-00h11m11s.mp4",
+    "text_preview": "Can you hear me?"
+  },
+  {
+    "global_idx": 30,
+    "speaker": "Speaker_11_Voice_Cluster_09",
+    "speaker_turn": 1,
+    "start": 670.96,
+    "end": 672.07,
+    "hms": "00h11m11s-00h11m12s",
+    "file_name": "Speaker_11_Voice_Cluster_09_turn01_global030_00h11m11s-00h11m12s.mp4",
+    "text_preview": "Yes, we can."
+  },
+  {
+    "global_idx": 31,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 6,
+    "start": 672.08,
+    "end": 755.83,
+    "hms": "00h11m12s-00h12m36s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn06_global031_00h11m12s-00h12m36s.mp4",
+    "text_preview": "Madam Chair, members of the committee, Charles Miller for the record. On item 11, the reszoning of 652 acres to business. On September 21st, Councilman Crave asked the applicant a direct question. He said, and I'm quotin"
+  },
+  {
+    "global_idx": 32,
+    "speaker": "Speaker_02_Voice_Cluster_10",
+    "speaker_turn": 5,
+    "start": 755.84,
+    "end": 783.11,
+    "hms": "00h12m36s-00h13m03s",
+    "file_name": "Speaker_02_Voice_Cluster_10_turn05_global032_00h12m36s-00h13m03s.mp4",
+    "text_preview": "Madam Chair through you um I don't have any additional information it comes down to if it sounds like the property property owner was going to put restrictive covenants on the land. Uh the city doesn't regulate covenants"
+  },
+  {
+    "global_idx": 33,
+    "speaker": "Speaker_12_Voice_Cluster_06",
+    "speaker_turn": 1,
+    "start": 783.12,
+    "end": 803.91,
+    "hms": "00h13m03s-00h13m24s",
+    "file_name": "Speaker_12_Voice_Cluster_06_turn01_global033_00h13m03s-00h13m24s.mp4",
+    "text_preview": "Yours is Mr. Rushton has a comment. Dante Rushton with Cheyenne Leads. Correct. There will not be data centers here. We have been privy to the draft covenants for this property and it is it very clear if there will not b"
+  },
+  {
+    "global_idx": 34,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 9,
+    "start": 803.92,
+    "end": 815.59,
+    "hms": "00h13m24s-00h13m36s",
+    "file_name": "Speaker_03_Meeting_Chair_turn09_global034_00h13m24s-00h13m36s.mp4",
+    "text_preview": "Thank you. Any other questions or comments? Okay. Uh seeing none, I would entertain a motion."
+  },
+  {
+    "global_idx": 35,
+    "speaker": "Speaker_04_Voice_Cluster_07",
+    "speaker_turn": 5,
+    "start": 815.6,
+    "end": 818.55,
+    "hms": "00h13m36s-00h13m39s",
+    "file_name": "Speaker_04_Voice_Cluster_07_turn05_global035_00h13m36s-00h13m39s.mp4",
+    "text_preview": "Madam Chairman, I move to approve on third and final reading."
+  },
+  {
+    "global_idx": 36,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 10,
+    "start": 818.56,
+    "end": 825.03,
+    "hms": "00h13m39s-00h13m45s",
+    "file_name": "Speaker_03_Meeting_Chair_turn10_global036_00h13m39s-00h13m45s.mp4",
+    "text_preview": "Second. Okay, we have a motion by Councilman Renie and a second by Councilman Esel. Is there any discussion?"
+  },
+  {
+    "global_idx": 37,
+    "speaker": "Speaker_04_Voice_Cluster_07",
+    "speaker_turn": 6,
+    "start": 825.04,
+    "end": 847.99,
+    "hms": "00h13m45s-00h14m08s",
+    "file_name": "Speaker_04_Voice_Cluster_07_turn06_global037_00h13m45s-00h14m08s.mp4",
+    "text_preview": "Yeah, Madam Chairman, just to answer that question or add on, it's been answered twice already, but as you pointed out, the current landowner said there will be restrictive covenants that not only will prevent data cente"
+  },
+  {
+    "global_idx": 38,
+    "speaker": "Speaker_07_Voice_Cluster_04",
+    "speaker_turn": 3,
+    "start": 848.0,
+    "end": 859.27,
+    "hms": "00h14m08s-00h14m19s",
+    "file_name": "Speaker_07_Voice_Cluster_04_turn03_global038_00h14m08s-00h14m19s.mp4",
+    "text_preview": "Thank you. Okay. Any other discussion from the committee? Hearing none or seeing none, I would uh all in favor say I."
+  },
+  {
+    "global_idx": 39,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 11,
+    "start": 860.56,
+    "end": 881.19,
+    "hms": "00h14m21s-00h14m41s",
+    "file_name": "Speaker_03_Meeting_Chair_turn11_global039_00h14m21s-00h14m41s.mp4",
+    "text_preview": "Opposed. This item will move forward with a recommendation to approve at on third and final reading at the next meeting of the council. Next item, please. Number 13, ordinance, third reading. The annexing to Wyoming land"
+  },
+  {
+    "global_idx": 40,
+    "speaker": "Speaker_11_Voice_Cluster_09",
+    "speaker_turn": 2,
+    "start": 881.2,
+    "end": 882.87,
+    "hms": "00h14m41s-00h14m43s",
+    "file_name": "Speaker_11_Voice_Cluster_09_turn02_global040_00h14m41s-00h14m43s.mp4",
+    "text_preview": "Hey, staff report please."
+  },
+  {
+    "global_idx": 41,
+    "speaker": "Speaker_02_Voice_Cluster_10",
+    "speaker_turn": 6,
+    "start": 882.88,
+    "end": 898.55,
+    "hms": "00h14m43s-00h14m59s",
+    "file_name": "Speaker_02_Voice_Cluster_10_turn06_global041_00h14m43s-00h14m59s.mp4",
+    "text_preview": "Chair, members of the committee, Conor White Planning and Development Department. Uh, this annexation is also on third reading. Um, staff has no further information or new information and there hasn't been any additional"
+  },
+  {
+    "global_idx": 42,
+    "speaker": "Speaker_11_Voice_Cluster_09",
+    "speaker_turn": 3,
+    "start": 898.56,
+    "end": 952.47,
+    "hms": "00h14m59s-00h15m52s",
+    "file_name": "Speaker_11_Voice_Cluster_09_turn03_global042_00h14m59s-00h15m52s.mp4",
+    "text_preview": "Thank you. And just as a reminder, this is what we've been referring to as Orchard Hills. So, um, we'll go ahead and open it up for public comment here in the chambers. just wonder is this annexation contingent or the sa"
+  },
+  {
+    "global_idx": 43,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 7,
+    "start": 952.48,
+    "end": 1014.63,
+    "hms": "00h15m52s-00h16m55s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn07_global043_00h15m52s-00h16m55s.mp4",
+    "text_preview": "is is is the sale of the property contingent upon this annexation. No it's not and can for the record would you identexing feel like the property rights argument will be um stronger. Um don't I don't know. It just doesn'"
+  },
+  {
+    "global_idx": 44,
+    "speaker": "Speaker_05_Voice_Cluster_05",
+    "speaker_turn": 2,
+    "start": 1014.64,
+    "end": 1021.99,
+    "hms": "00h16m55s-00h17m02s",
+    "file_name": "Speaker_05_Voice_Cluster_05_turn02_global044_00h16m55s-00h17m02s.mp4",
+    "text_preview": "Thank you. Thank you. Any other comments? You're in the chambers. Yes, sir."
+  },
+  {
+    "global_idx": 45,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 8,
+    "start": 1022.0,
+    "end": 1041.27,
+    "hms": "00h17m02s-00h17m21s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn08_global045_00h17m02s-00h17m21s.mp4",
+    "text_preview": "Uh Jeff Nakushima Company. Um, I just wanted to restate for the record that we support the governing body's decision um that this property meets or exceeds all five of the statutory requirements at state level for annexa"
+  },
+  {
+    "global_idx": 46,
+    "speaker": "Speaker_05_Voice_Cluster_05",
+    "speaker_turn": 3,
+    "start": 1041.28,
+    "end": 1048.15,
+    "hms": "00h17m21s-00h17m28s",
+    "file_name": "Speaker_05_Voice_Cluster_05_turn03_global046_00h17m21s-00h17m28s.mp4",
+    "text_preview": "Thank you. Any other public comment here in the chambers?"
+  },
+  {
+    "global_idx": 47,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 9,
+    "start": 1050.64,
+    "end": 1277.59,
+    "hms": "00h17m31s-00h21m18s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn09_global047_00h17m31s-00h21m18s.mp4",
+    "text_preview": "Thank you, Madam Chairman. Uh, Larry Wolf, Ward One. Councilman, uh, I have a little handout for you if I might, Madam Chairman. And does this refer to annexation? [Yes.] Okay. Thank you, committee. Um, I've handed out t"
+  },
+  {
+    "global_idx": 48,
+    "speaker": "Speaker_07_Voice_Cluster_04",
+    "speaker_turn": 4,
+    "start": 1277.6,
+    "end": 1279.35,
+    "hms": "00h21m18s-00h21m19s",
+    "file_name": "Speaker_07_Voice_Cluster_04_turn04_global048_00h21m18s-00h21m19s.mp4",
+    "text_preview": "Thank you. Your time is up."
+  },
+  {
+    "global_idx": 49,
+    "speaker": "Speaker_05_Voice_Cluster_05",
+    "speaker_turn": 4,
+    "start": 1279.36,
+    "end": 1298.55,
+    "hms": "00h21m19s-00h21m39s",
+    "file_name": "Speaker_05_Voice_Cluster_05_turn04_global049_00h21m19s-00h21m39s.mp4",
+    "text_preview": "Thank you, Madam Chairman. boundary and nobody talked to me or any of my neighbors. I was home all day long."
+  },
+  {
+    "global_idx": 50,
+    "speaker": "Speaker_02_Voice_Cluster_10",
+    "speaker_turn": 7,
+    "start": 1298.56,
+    "end": 1336.79,
+    "hms": "00h21m39s-00h22m17s",
+    "file_name": "Speaker_02_Voice_Cluster_10_turn07_global050_00h21m39s-00h22m17s.mp4",
+    "text_preview": "So, he um so nobody has talked to me, my neighbors that I know of or the other neighbor on the other side of the road. So I don't know how true that is. We're talks about we're talking about annexation and not the next ["
+  },
+  {
+    "global_idx": 51,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 10,
+    "start": 1336.8,
+    "end": 1339.43,
+    "hms": "00h22m17s-00h22m19s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn10_global051_00h22m17s-00h22m19s.mp4",
+    "text_preview": "and and we will talk more about the benefits. Thank you."
+  },
+  {
+    "global_idx": 52,
+    "speaker": "Speaker_05_Voice_Cluster_05",
+    "speaker_turn": 5,
+    "start": 1339.44,
+    "end": 1343.67,
+    "hms": "00h22m19s-00h22m24s",
+    "file_name": "Speaker_05_Voice_Cluster_05_turn05_global052_00h22m19s-00h22m24s.mp4",
+    "text_preview": "I just wanted to make sure you know that he didn't talk to me."
+  },
+  {
+    "global_idx": 53,
+    "speaker": "Speaker_11_Voice_Cluster_09",
+    "speaker_turn": 4,
+    "start": 1343.68,
+    "end": 1360.71,
+    "hms": "00h22m24s-00h22m41s",
+    "file_name": "Speaker_11_Voice_Cluster_09_turn04_global053_00h22m24s-00h22m41s.mp4",
+    "text_preview": "Thank you. Any other public comment? in the chambers. We'll go to online, I believe. Mr. Miller, Yes, we can."
+  },
+  {
+    "global_idx": 54,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 11,
+    "start": 1360.72,
+    "end": 1538.31,
+    "hms": "00h22m41s-00h25m38s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn11_global054_00h22m41s-00h25m38s.mp4",
+    "text_preview": "Madam Chair, members of the committee, Charles Miller for the record. Speaking to item number 13, the annexation of 162.42 acres west of South Gley Highway south of West College Drive at Apple Street and York Avenue. The"
+  },
+  {
+    "global_idx": 55,
+    "speaker": "Speaker_05_Voice_Cluster_05",
+    "speaker_turn": 6,
+    "start": 1538.88,
+    "end": 1541.91,
+    "hms": "00h25m39s-00h25m42s",
+    "file_name": "Speaker_05_Voice_Cluster_05_turn06_global055_00h25m39s-00h25m42s.mp4",
+    "text_preview": "Wait till discussion."
+  },
+  {
+    "global_idx": 56,
+    "speaker": "Speaker_11_Voice_Cluster_09",
+    "speaker_turn": 5,
+    "start": 1541.92,
+    "end": 1546.23,
+    "hms": "00h25m42s-00h25m46s",
+    "file_name": "Speaker_11_Voice_Cluster_09_turn05_global056_00h25m42s-00h25m46s.mp4",
+    "text_preview": "Um, any other public comment"
+  },
+  {
+    "global_idx": 57,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 12,
+    "start": 1546.24,
+    "end": 1562.95,
+    "hms": "00h25m46s-00h26m03s",
+    "file_name": "Speaker_03_Meeting_Chair_turn12_global057_00h25m46s-00h26m03s.mp4",
+    "text_preview": "hearing? None. I would entertain a motion. third and final reading. [Second.] We have a motion by Councilman Esabel and a second by Councilman Renie. Um, is there any discussion?"
+  },
+  {
+    "global_idx": 58,
+    "speaker": "Speaker_05_Voice_Cluster_05",
+    "speaker_turn": 7,
+    "start": 1563.52,
+    "end": 1565.75,
+    "hms": "00h26m04s-00h26m06s",
+    "file_name": "Speaker_05_Voice_Cluster_05_turn07_global058_00h26m04s-00h26m06s.mp4",
+    "text_preview": "Yes, Councilman Renie."
+  },
+  {
+    "global_idx": 59,
+    "speaker": "Speaker_04_Voice_Cluster_07",
+    "speaker_turn": 7,
+    "start": 1565.76,
+    "end": 1574.55,
+    "hms": "00h26m06s-00h26m15s",
+    "file_name": "Speaker_04_Voice_Cluster_07_turn07_global059_00h26m06s-00h26m15s.mp4",
+    "text_preview": "I'm sure Mr. Lloyd or Mr. White or Mr. Bloom would confirm it, but I don't think we can legally assign a city's zone to a piece of property that's not within the city limits."
+  },
+  {
+    "global_idx": 60,
+    "speaker": "Speaker_05_Voice_Cluster_05",
+    "speaker_turn": 8,
+    "start": 1574.56,
+    "end": 1576.95,
+    "hms": "00h26m15s-00h26m17s",
+    "file_name": "Speaker_05_Voice_Cluster_05_turn08_global060_00h26m15s-00h26m17s.mp4",
+    "text_preview": "So, madam chair through you,"
+  },
+  {
+    "global_idx": 61,
+    "speaker": "Speaker_04_Voice_Cluster_07",
+    "speaker_turn": 8,
+    "start": 1576.96,
+    "end": 1579.59,
+    "hms": "00h26m17s-00h26m20s",
+    "file_name": "Speaker_04_Voice_Cluster_07_turn08_global061_00h26m17s-00h26m20s.mp4",
+    "text_preview": "we do have this in the appropriate order."
+  },
+  {
+    "global_idx": 62,
+    "speaker": "Speaker_02_Voice_Cluster_10",
+    "speaker_turn": 8,
+    "start": 1579.6,
+    "end": 1594.55,
+    "hms": "00h26m20s-00h26m35s",
+    "file_name": "Speaker_02_Voice_Cluster_10_turn08_global062_00h26m20s-00h26m35s.mp4",
+    "text_preview": "Madam Chair, through you Conway Planning and Development Department, that is correct. We cannot assign a zone or give a zone to a property that has not been annexed. So, annexation does have to come first on the agenda. "
+  },
+  {
+    "global_idx": 63,
+    "speaker": "Speaker_04_Voice_Cluster_07",
+    "speaker_turn": 9,
+    "start": 1594.56,
+    "end": 1611.43,
+    "hms": "00h26m35s-00h26m51s",
+    "file_name": "Speaker_04_Voice_Cluster_07_turn09_global063_00h26m35s-00h26m51s.mp4",
+    "text_preview": "Thank you. As a result, Madam Chairwoman, or with that information, I think we should proceed with the annexation. Okay. Thank you. proceed with the annexation since we can't legally assign a zone before we annex a piece"
+  },
+  {
+    "global_idx": 64,
+    "speaker": "Speaker_10_Voice_Cluster_01",
+    "speaker_turn": 2,
+    "start": 1611.44,
+    "end": 1614.39,
+    "hms": "00h26m51s-00h26m54s",
+    "file_name": "Speaker_10_Voice_Cluster_01_turn02_global064_00h26m51s-00h26m54s.mp4",
+    "text_preview": "Is there any other discussion? Councilman Esel."
+  },
+  {
+    "global_idx": 65,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 12,
+    "start": 1614.4,
+    "end": 1630.95,
+    "hms": "00h26m54s-00h27m11s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn12_global065_00h26m54s-00h27m11s.mp4",
+    "text_preview": "Yes, Madam Chair. Did the planning commission have a quorum for this item? Madam chair through you. Um for annexations, the planning commission does not review annexations. They just review the zoning portion. Uh they di"
+  },
+  {
+    "global_idx": 66,
+    "speaker": "Speaker_05_Voice_Cluster_05",
+    "speaker_turn": 9,
+    "start": 1630.96,
+    "end": 1632.47,
+    "hms": "00h27m11s-00h27m12s",
+    "file_name": "Speaker_05_Voice_Cluster_05_turn09_global066_00h27m11s-00h27m12s.mp4",
+    "text_preview": "That's right. Okay."
+  },
+  {
+    "global_idx": 67,
+    "speaker": "Speaker_10_Voice_Cluster_01",
+    "speaker_turn": 3,
+    "start": 1632.48,
+    "end": 1638.39,
+    "hms": "00h27m12s-00h27m18s",
+    "file_name": "Speaker_10_Voice_Cluster_01_turn03_global067_00h27m12s-00h27m18s.mp4",
+    "text_preview": "Thank you. Any other discussion? Okay. Hearing none, all in favor say I."
+  },
+  {
+    "global_idx": 68,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 13,
+    "start": 1639.36,
+    "end": 1667.67,
+    "hms": "00h27m19s-00h27m48s",
+    "file_name": "Speaker_03_Meeting_Chair_turn13_global068_00h27m19s-00h27m48s.mp4",
+    "text_preview": "Opposed. This item will move forward with a recommendation to approve on third and final reading at the next meeting of the council. Next item, please. Number 14, ordinance third reading, amending the official zoning map"
+  },
+  {
+    "global_idx": 69,
+    "speaker": "Speaker_02_Voice_Cluster_10",
+    "speaker_turn": 9,
+    "start": 1667.68,
+    "end": 1681.35,
+    "hms": "00h27m48s-00h28m01s",
+    "file_name": "Speaker_02_Voice_Cluster_10_turn09_global069_00h27m48s-00h28m01s.mp4",
+    "text_preview": "Chair, members of the committee, Connor Way Planning and Development Department. This assigned zoning is on third reading. staff has no new information and there's been no additional public comments specific to this item"
+  },
+  {
+    "global_idx": 70,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 14,
+    "start": 1681.36,
+    "end": 1703.83,
+    "hms": "00h28m01s-00h28m24s",
+    "file_name": "Speaker_03_Meeting_Chair_turn14_global070_00h28m01s-00h28m24s.mp4",
+    "text_preview": "Is there are there any questions for staff from committee? Hearing none or seeing none, I would go out for public comment. Uh we'll start here in the chambers. So, if there's anyone that would like to make public comment"
+  },
+  {
+    "global_idx": 71,
+    "speaker": "Speaker_11_Voice_Cluster_09",
+    "speaker_turn": 6,
+    "start": 1703.84,
+    "end": 1704.95,
+    "hms": "00h28m24s-00h28m25s",
+    "file_name": "Speaker_11_Voice_Cluster_09_turn06_global071_00h28m24s-00h28m25s.mp4",
+    "text_preview": "Yes, we can."
+  },
+  {
+    "global_idx": 72,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 13,
+    "start": 1704.96,
+    "end": 1815.67,
+    "hms": "00h28m25s-00h30m16s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn13_global072_00h28m25s-00h30m16s.mp4",
+    "text_preview": "Madam Chair, members of the committee, Charles Miller, for the record on item number 14. Item number 14 assigns this land agricultural. Excuse me. Item 15, the very next vote, changes the same land to light industrial. B"
+  },
+  {
+    "global_idx": 73,
+    "speaker": "Speaker_05_Voice_Cluster_05",
+    "speaker_turn": 10,
+    "start": 1815.68,
+    "end": 1819.59,
+    "hms": "00h30m16s-00h30m20s",
+    "file_name": "Speaker_05_Voice_Cluster_05_turn10_global073_00h30m16s-00h30m20s.mp4",
+    "text_preview": "Any other public comment online?"
+  },
+  {
+    "global_idx": 74,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 15,
+    "start": 1819.6,
+    "end": 1825.35,
+    "hms": "00h30m20s-00h30m25s",
+    "file_name": "Speaker_03_Meeting_Chair_turn15_global074_00h30m20s-00h30m25s.mp4",
+    "text_preview": "Okay. Hearing or seeing none, I would entertain a motion."
+  },
+  {
+    "global_idx": 75,
+    "speaker": "Speaker_04_Voice_Cluster_07",
+    "speaker_turn": 10,
+    "start": 1825.36,
+    "end": 1828.63,
+    "hms": "00h30m25s-00h30m29s",
+    "file_name": "Speaker_04_Voice_Cluster_07_turn10_global075_00h30m25s-00h30m29s.mp4",
+    "text_preview": "Madam Chairman, I would move to approve on third reading."
+  },
+  {
+    "global_idx": 76,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 16,
+    "start": 1829.44,
+    "end": 1837.03,
+    "hms": "00h30m29s-00h30m37s",
+    "file_name": "Speaker_03_Meeting_Chair_turn16_global076_00h30m29s-00h30m37s.mp4",
+    "text_preview": "We have a motion from Dr. Renie and a second from Councilman Esel. Um, is there any discussion,"
+  },
+  {
+    "global_idx": 77,
+    "speaker": "Speaker_04_Voice_Cluster_07",
+    "speaker_turn": 11,
+    "start": 1837.04,
+    "end": 1867.59,
+    "hms": "00h30m37s-00h31m08s",
+    "file_name": "Speaker_04_Voice_Cluster_07_turn11_global077_00h30m37s-00h31m08s.mp4",
+    "text_preview": "Madam Chairwoman? Yes, sir. Just for the permanent administrative record to ask staff, would you consider this ag zone when we Let's No, let me back up. When we assign a zone immediately to a recently annexed parcel, wou"
+  },
+  {
+    "global_idx": 78,
+    "speaker": "Speaker_02_Voice_Cluster_10",
+    "speaker_turn": 10,
+    "start": 1867.6,
+    "end": 1916.15,
+    "hms": "00h31m08s-00h31m56s",
+    "file_name": "Speaker_02_Voice_Cluster_10_turn10_global078_00h31m08s-00h31m56s.mp4",
+    "text_preview": "Okay. Um in this specific case uh it is kind of acting as a placeholder uh for the property. It is currently vacant. It is mostly used for either agricultural or just left vacant. There are other cases where we have assi"
+  },
+  {
+    "global_idx": 79,
+    "speaker": "Speaker_04_Voice_Cluster_07",
+    "speaker_turn": 12,
+    "start": 1916.16,
+    "end": 1920.07,
+    "hms": "00h31m56s-00h32m00s",
+    "file_name": "Speaker_04_Voice_Cluster_07_turn12_global079_00h31m56s-00h32m00s.mp4",
+    "text_preview": "No, that we had a similar result just recently, did we not?"
+  },
+  {
+    "global_idx": 80,
+    "speaker": "Speaker_02_Voice_Cluster_10",
+    "speaker_turn": 11,
+    "start": 1920.08,
+    "end": 2047.99,
+    "hms": "00h32m00s-00h34m08s",
+    "file_name": "Speaker_02_Voice_Cluster_10_turn11_global080_00h32m00s-00h34m08s.mp4",
+    "text_preview": "So, kind of um we just had at the last meeting there was the HR ranch development that is currently zoned AG in the city. They came in for BP zoning that did fail on second reading. So, it sits as AG until they decide to"
+  },
+  {
+    "global_idx": 81,
+    "speaker": "Speaker_04_Voice_Cluster_07",
+    "speaker_turn": 13,
+    "start": 2048.0,
+    "end": 2060.55,
+    "hms": "00h34m08s-00h34m21s",
+    "file_name": "Speaker_04_Voice_Cluster_07_turn13_global081_00h34m08s-00h34m21s.mp4",
+    "text_preview": "Thank you. Any other questions? No, Madam Chairman, thank you for allowing that explanation. I guess for my opinion, this AG zone, I will vote to approve it. My opinion, it does serve as a holding zone till we get the ne"
+  },
+  {
+    "global_idx": 82,
+    "speaker": "Speaker_05_Voice_Cluster_05",
+    "speaker_turn": 11,
+    "start": 2060.56,
+    "end": 2062.55,
+    "hms": "00h34m21s-00h34m23s",
+    "file_name": "Speaker_05_Voice_Cluster_05_turn11_global082_00h34m21s-00h34m23s.mp4",
+    "text_preview": "Thank you."
+  },
+  {
+    "global_idx": 83,
+    "speaker": "Speaker_10_Voice_Cluster_01",
+    "speaker_turn": 4,
+    "start": 2062.56,
+    "end": 2064.47,
+    "hms": "00h34m23s-00h34m24s",
+    "file_name": "Speaker_10_Voice_Cluster_01_turn04_global083_00h34m23s-00h34m24s.mp4",
+    "text_preview": "Hey, uh Dr. Emmens."
+  },
+  {
+    "global_idx": 84,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 17,
+    "start": 2064.48,
+    "end": 2111.59,
+    "hms": "00h34m24s-00h35m12s",
+    "file_name": "Speaker_03_Meeting_Chair_turn17_global084_00h34m24s-00h35m12s.mp4",
+    "text_preview": "Thank you, Madam Chairwoman. Um I realize that this is a complicated process [clears throat and cough] that that we work under, but I would like to en encourage Mr. uh Miller to um come in and meet with the planning depa"
+  },
+  {
+    "global_idx": 85,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 18,
+    "start": 2112.88,
+    "end": 2139.99,
+    "hms": "00h35m13s-00h35m40s",
+    "file_name": "Speaker_03_Meeting_Chair_turn18_global085_00h35m13s-00h35m40s.mp4",
+    "text_preview": "Opposed. This item will move forward with recommendation to approve on third and final reading at the next meeting of the council. Next item, please. Number 15, ordinance, third reading, amending the official zoning map "
+  },
+  {
+    "global_idx": 86,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 14,
+    "start": 2140.0,
+    "end": 2142.47,
+    "hms": "00h35m40s-00h35m42s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn14_global086_00h35m40s-00h35m42s.mp4",
+    "text_preview": "Okay. Um staff report, please."
+  },
+  {
+    "global_idx": 87,
+    "speaker": "Speaker_02_Voice_Cluster_10",
+    "speaker_turn": 12,
+    "start": 2142.48,
+    "end": 2195.19,
+    "hms": "00h35m42s-00h36m35s",
+    "file_name": "Speaker_02_Voice_Cluster_10_turn12_global087_00h35m42s-00h36m35s.mp4",
+    "text_preview": "Chair, members of the committee, Conor Planning Development Department, the zone changes on third reading. Um, this item does go along with, as it's been mentioned, with a future land use map amendment that is later on t"
+  },
+  {
+    "global_idx": 88,
+    "speaker": "Speaker_09_Seth_Lloyd_Planning",
+    "speaker_turn": 2,
+    "start": 2195.2,
+    "end": 2359.51,
+    "hms": "00h36m35s-00h39m20s",
+    "file_name": "Speaker_09_Seth_Lloyd_Planning_turn02_global088_00h36m35s-00h39m20s.mp4",
+    "text_preview": "Thank you. Are there any questions for staff? Okay. With that we will go out for public comment. my name is Seth Lloyd. I'm a member of your planning department and also a member of the community. And I wanted to speak a"
+  },
+  {
+    "global_idx": 89,
+    "speaker": "Speaker_05_Voice_Cluster_05",
+    "speaker_turn": 12,
+    "start": 2359.52,
+    "end": 2367.67,
+    "hms": "00h39m20s-00h39m28s",
+    "file_name": "Speaker_05_Voice_Cluster_05_turn12_global089_00h39m20s-00h39m28s.mp4",
+    "text_preview": "Any questions? Okay, sir. Mr. Gensler."
+  },
+  {
+    "global_idx": 90,
+    "speaker": "Speaker_02_Voice_Cluster_10",
+    "speaker_turn": 13,
+    "start": 2367.68,
+    "end": 2524.71,
+    "hms": "00h39m28s-00h42m05s",
+    "file_name": "Speaker_02_Voice_Cluster_10_turn13_global090_00h39m28s-00h42m05s.mp4",
+    "text_preview": "Hi, Ross Gensel. uh my property bound or is the boundary of this proposal. Um contrary to the statements made earlier, everybody on that boundary that I've talked to, which is I believe it is four out of the five owners "
+  },
+  {
+    "global_idx": 91,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 15,
+    "start": 2524.72,
+    "end": 2704.47,
+    "hms": "00h42m05s-00h45m04s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn15_global091_00h42m05s-00h45m04s.mp4",
+    "text_preview": "Thank you, committee, Jeff Nakushima, Tremble Crow Company. Um, I'll just be brief because we we've hashed on on these a number of times already, but um, just regarding the four criteria in the staff report that we were "
+  },
+  {
+    "global_idx": 92,
+    "speaker": "Speaker_10_Voice_Cluster_01",
+    "speaker_turn": 5,
+    "start": 2704.48,
+    "end": 2707.19,
+    "hms": "00h45m04s-00h45m07s",
+    "file_name": "Speaker_10_Voice_Cluster_01_turn05_global092_00h45m04s-00h45m07s.mp4",
+    "text_preview": "CCI CCI. Thank you. Yes."
+  },
+  {
+    "global_idx": 93,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 16,
+    "start": 2707.2,
+    "end": 2887.11,
+    "hms": "00h45m07s-00h48m07s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn16_global093_00h45m07s-00h48m07s.mp4",
+    "text_preview": "Okay. Um yes, Miss Madrid, don't have a wellprepared speech. I wasn't even planning on coming today, but um just I know that we've had a couple of people from Orchard Valley who are directly butting up against the proper"
+  },
+  {
+    "global_idx": 94,
+    "speaker": "Speaker_05_Voice_Cluster_05",
+    "speaker_turn": 13,
+    "start": 2887.12,
+    "end": 2891.35,
+    "hms": "00h48m07s-00h48m11s",
+    "file_name": "Speaker_05_Voice_Cluster_05_turn13_global094_00h48m07s-00h48m11s.mp4",
+    "text_preview": "Thank you."
+  },
+  {
+    "global_idx": 95,
+    "speaker": "Speaker_04_Voice_Cluster_07",
+    "speaker_turn": 14,
+    "start": 2893.28,
+    "end": 2955.75,
+    "hms": "00h48m13s-00h49m16s",
+    "file_name": "Speaker_04_Voice_Cluster_07_turn14_global095_00h48m13s-00h49m16s.mp4",
+    "text_preview": "please. I consulted with previous one and I think the one prior to that. So I've consulted with three city attorneys over the years. um once my son started working for AVI and the their uh opinion their position was that"
+  },
+  {
+    "global_idx": 96,
+    "speaker": "Speaker_05_Voice_Cluster_05",
+    "speaker_turn": 14,
+    "start": 2955.76,
+    "end": 2958.39,
+    "hms": "00h49m16s-00h49m18s",
+    "file_name": "Speaker_05_Voice_Cluster_05_turn14_global096_00h49m16s-00h49m18s.mp4",
+    "text_preview": "Thank you, Mr. Bloom. And"
+  },
+  {
+    "global_idx": 97,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 17,
+    "start": 2958.4,
+    "end": 3040.31,
+    "hms": "00h49m18s-00h50m40s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn17_global097_00h49m18s-00h50m40s.mp4",
+    "text_preview": "chair, members of the committee, Charles Bloom, planning and development director. I just wanted to correct a couple things for the record regarding the land use plan. Um, it was stated that it was last amended in 2014. "
+  },
+  {
+    "global_idx": 98,
+    "speaker": "Speaker_05_Voice_Cluster_05",
+    "speaker_turn": 15,
+    "start": 3040.32,
+    "end": 3071.51,
+    "hms": "00h50m40s-00h51m12s",
+    "file_name": "Speaker_05_Voice_Cluster_05_turn15_global098_00h50m40s-00h51m12s.mp4",
+    "text_preview": "Thank you. Any other public comment here? Councilman Wolf, if you had more that you wanted to say, did you want to do it under this item? Okay. Um, it looks like we have a couple of people online. So, Jennifer, who do we"
+  },
+  {
+    "global_idx": 99,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 18,
+    "start": 3072.8,
+    "end": 3074.79,
+    "hms": "00h51m13s-00h51m15s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn18_global099_00h51m13s-00h51m15s.mp4",
+    "text_preview": "We can, Mr. Flores. Thank you."
+  },
+  {
+    "global_idx": 100,
+    "speaker": "Speaker_08_Voice_Cluster_08",
+    "speaker_turn": 2,
+    "start": 3074.8,
+    "end": 3139.35,
+    "hms": "00h51m15s-00h52m19s",
+    "file_name": "Speaker_08_Voice_Cluster_08_turn02_global100_00h51m15s-00h52m19s.mp4",
+    "text_preview": "Okay. Flores, I live at 2404 Draper Road. I butt up right to this proposed property. And I want to say I'm all for the the light industrial for the data center because I have two daughters. I want I don't want to see the"
+  },
+  {
+    "global_idx": 101,
+    "speaker": "Speaker_05_Voice_Cluster_05",
+    "speaker_turn": 16,
+    "start": 3139.36,
+    "end": 3142.87,
+    "hms": "00h52m19s-00h52m23s",
+    "file_name": "Speaker_05_Voice_Cluster_05_turn16_global101_00h52m19s-00h52m23s.mp4",
+    "text_preview": "Thank you."
+  },
+  {
+    "global_idx": 102,
+    "speaker": "Speaker_06_Voice_Cluster_02",
+    "speaker_turn": 3,
+    "start": 3144.72,
+    "end": 3145.91,
+    "hms": "00h52m25s-00h52m26s",
+    "file_name": "Speaker_06_Voice_Cluster_02_turn03_global102_00h52m25s-00h52m26s.mp4",
+    "text_preview": "Can you hear me?"
+  },
+  {
+    "global_idx": 103,
+    "speaker": "Speaker_11_Voice_Cluster_09",
+    "speaker_turn": 7,
+    "start": 3145.92,
+    "end": 3147.35,
+    "hms": "00h52m26s-00h52m27s",
+    "file_name": "Speaker_11_Voice_Cluster_09_turn07_global103_00h52m26s-00h52m27s.mp4",
+    "text_preview": "Yes, we can."
+  },
+  {
+    "global_idx": 104,
+    "speaker": "Speaker_13_Charles_Miller",
+    "speaker_turn": 1,
+    "start": 3147.36,
+    "end": 3325.35,
+    "hms": "00h52m27s-00h55m25s",
+    "file_name": "Speaker_13_Charles_Miller_turn01_global104_00h52m27s-00h55m25s.mp4",
+    "text_preview": "Um, item number 15 AG to Alli Light Industrial Apple and York. Uh, Madam Chair, members of the committee, oh, sorry, my name is Charles Miller for the record. Uh item 15, the resoning of 162 acres at Apple and York to Li"
+  },
+  {
+    "global_idx": 105,
+    "speaker": "Speaker_05_Voice_Cluster_05",
+    "speaker_turn": 17,
+    "start": 3325.36,
+    "end": 3331.19,
+    "hms": "00h55m25s-00h55m31s",
+    "file_name": "Speaker_05_Voice_Cluster_05_turn17_global105_00h55m25s-00h55m31s.mp4",
+    "text_preview": "Madam Chair, I move to approve on third and final reading. Second."
+  },
+  {
+    "global_idx": 106,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 19,
+    "start": 3331.2,
+    "end": 3342.55,
+    "hms": "00h55m31s-00h55m43s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn19_global106_00h55m31s-00h55m43s.mp4",
+    "text_preview": "Okay, we have a a motion from Councilman Esel and a second from Dr. Emmens. Um, is there any other discussion, Madam Chair? Yes, Councilman Esabel."
+  },
+  {
+    "global_idx": 107,
+    "speaker": "Speaker_08_Voice_Cluster_08",
+    "speaker_turn": 3,
+    "start": 3342.56,
+    "end": 3367.03,
+    "hms": "00h55m43s-00h56m07s",
+    "file_name": "Speaker_08_Voice_Cluster_08_turn03_global107_00h55m43s-00h56m07s.mp4",
+    "text_preview": "Well, the planning commission didn't have access to this document, the most recent one for the commitment to the Shine community where we just heard testimony that just in the road infrastructure saves our taxpayers $15 "
+  },
+  {
+    "global_idx": 108,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 20,
+    "start": 3367.04,
+    "end": 3400.71,
+    "hms": "00h56m07s-00h56m41s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn20_global108_00h56m07s-00h56m41s.mp4",
+    "text_preview": "Welcome. Councilman Renie, did you have a comment? Um I did want to just respond that my understanding about the commitment to the Shine community is that this would require a resolution um uh from our city attorney's of"
+  },
+  {
+    "global_idx": 109,
+    "speaker": "Speaker_04_Voice_Cluster_07",
+    "speaker_turn": 15,
+    "start": 3400.72,
+    "end": 3440.63,
+    "hms": "00h56m41s-00h57m21s",
+    "file_name": "Speaker_04_Voice_Cluster_07_turn15_global109_00h56m41s-00h57m21s.mp4",
+    "text_preview": "Um, I do want to make a comment. I want to councilman Wolf um mentioned one of in his discussion earlier in the day that you know the planning commission doesn't have the expertise that the council has that they have not"
+  },
+  {
+    "global_idx": 110,
+    "speaker": "Speaker_07_Voice_Cluster_04",
+    "speaker_turn": 5,
+    "start": 3440.64,
+    "end": 3448.07,
+    "hms": "00h57m21s-00h57m28s",
+    "file_name": "Speaker_07_Voice_Cluster_04_turn05_global110_00h57m21s-00h57m28s.mp4",
+    "text_preview": "Thank you. Okay. Um any other discussion from committee hearing? None. All in favor say I."
+  },
+  {
+    "global_idx": 111,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 19,
+    "start": 3449.36,
+    "end": 3487.27,
+    "hms": "00h57m29s-00h58m07s",
+    "file_name": "Speaker_03_Meeting_Chair_turn19_global111_00h57m29s-00h58m07s.mp4",
+    "text_preview": "Opposed. This item will move forward with a recommendation to approve on third and final reading at the next meeting of the council. Next item, please. Number 19 resolution amending the future land use map of plan by cha"
+  },
+  {
+    "global_idx": 112,
+    "speaker": "Speaker_02_Voice_Cluster_10",
+    "speaker_turn": 14,
+    "start": 3487.28,
+    "end": 3560.23,
+    "hms": "00h58m07s-00h59m20s",
+    "file_name": "Speaker_02_Voice_Cluster_10_turn14_global112_00h58m07s-00h59m20s.mp4",
+    "text_preview": "members of committee Conor planning and development department. The future land use map amendment before you. It's for the hitching post district. Um basically this future land use map amendment does help support the zon"
+  },
+  {
+    "global_idx": 113,
+    "speaker": "Speaker_05_Voice_Cluster_05",
+    "speaker_turn": 18,
+    "start": 3560.24,
+    "end": 3561.91,
+    "hms": "00h59m20s-00h59m22s",
+    "file_name": "Speaker_05_Voice_Cluster_05_turn18_global113_00h59m20s-00h59m22s.mp4",
+    "text_preview": "Thank you."
+  },
+  {
+    "global_idx": 114,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 20,
+    "start": 3561.92,
+    "end": 3573.03,
+    "hms": "00h59m22s-00h59m33s",
+    "file_name": "Speaker_03_Meeting_Chair_turn20_global114_00h59m22s-00h59m33s.mp4",
+    "text_preview": "Okay. Are any public comment? I hearing or seeing none here in chambers. Um, I believe we still have Mr. Miller."
+  },
+  {
+    "global_idx": 115,
+    "speaker": "Speaker_11_Voice_Cluster_09",
+    "speaker_turn": 8,
+    "start": 3573.04,
+    "end": 3575.43,
+    "hms": "00h59m33s-00h59m35s",
+    "file_name": "Speaker_11_Voice_Cluster_09_turn08_global115_00h59m33s-00h59m35s.mp4",
+    "text_preview": "Can you hear me? Yes, we can."
+  },
+  {
+    "global_idx": 116,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 21,
+    "start": 3575.44,
+    "end": 3702.15,
+    "hms": "00h59m35s-01h01m42s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn21_global116_00h59m35s-01h01m42s.mp4",
+    "text_preview": "Uh, item number uh, Madam Chair, members of the committee, Charles Miller, uh, for the record, item 19. This one, this one resolution does four things at once. It changes three land use designations from agricultural, op"
+  },
+  {
+    "global_idx": 117,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 21,
+    "start": 3702.16,
+    "end": 3709.35,
+    "hms": "01h01m42s-01h01m49s",
+    "file_name": "Speaker_03_Meeting_Chair_turn21_global117_01h01m42s-01h01m49s.mp4",
+    "text_preview": "Any other public comment hearing or seeing none, I would entertain a motion."
+  },
+  {
+    "global_idx": 118,
+    "speaker": "Speaker_05_Voice_Cluster_05",
+    "speaker_turn": 19,
+    "start": 3709.36,
+    "end": 3714.55,
+    "hms": "01h01m49s-01h01m55s",
+    "file_name": "Speaker_05_Voice_Cluster_05_turn19_global118_01h01m49s-01h01m55s.mp4",
+    "text_preview": "Madam Chair, I move to adopt. Second."
+  },
+  {
+    "global_idx": 119,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 22,
+    "start": 3714.56,
+    "end": 3724.07,
+    "hms": "01h01m55s-01h02m04s",
+    "file_name": "Speaker_03_Meeting_Chair_turn22_global119_01h01m55s-01h02m04s.mp4",
+    "text_preview": "Okay, we have a motion from Councilman Esabel, a second from Dr. Emmens. Um any discussion? All in favor say I."
+  },
+  {
+    "global_idx": 120,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 22,
+    "start": 3725.52,
+    "end": 3759.11,
+    "hms": "01h02m06s-01h02m39s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn22_global120_01h02m06s-01h02m39s.mp4",
+    "text_preview": "Opposed. This item will move forward with a recommendation to approve on third and final reading at or I'm sorry to adopt at the next meeting of the council. Um next item please. Number 21, resolution amending the future"
+  },
+  {
+    "global_idx": 121,
+    "speaker": "Speaker_02_Voice_Cluster_10",
+    "speaker_turn": 15,
+    "start": 3759.12,
+    "end": 3809.59,
+    "hms": "01h02m39s-01h03m30s",
+    "file_name": "Speaker_02_Voice_Cluster_10_turn15_global121_01h02m39s-01h03m30s.mp4",
+    "text_preview": "Chair, members of committee, Connor White Planning and Development Department. Uh, this is the future land use map amendment for Orchard Hills. Um, so this does, uh, by approving this, it would support the zoning map ame"
+  },
+  {
+    "global_idx": 122,
+    "speaker": "Speaker_09_Seth_Lloyd_Planning",
+    "speaker_turn": 3,
+    "start": 3809.6,
+    "end": 3877.43,
+    "hms": "01h03m30s-01h04m37s",
+    "file_name": "Speaker_09_Seth_Lloyd_Planning_turn03_global122_01h03m30s-01h04m37s.mp4",
+    "text_preview": "Any questions for staff? Seeing none, I uh would go out for public comment. Mr. Lloyd. Madam chair, members of the committee, my name is Seth Lloyd. I work in your planning department and I'm also a resident of the commu"
+  },
+  {
+    "global_idx": 123,
+    "speaker": "Speaker_05_Voice_Cluster_05",
+    "speaker_turn": 20,
+    "start": 3877.44,
+    "end": 3887.59,
+    "hms": "01h04m37s-01h04m48s",
+    "file_name": "Speaker_05_Voice_Cluster_05_turn20_global123_01h04m37s-01h04m48s.mp4",
+    "text_preview": "Thank you. Any other public comment? Looks like we still have Mr. Miller."
+  },
+  {
+    "global_idx": 124,
+    "speaker": "Speaker_11_Voice_Cluster_09",
+    "speaker_turn": 9,
+    "start": 3887.6,
+    "end": 3890.07,
+    "hms": "01h04m48s-01h04m50s",
+    "file_name": "Speaker_11_Voice_Cluster_09_turn09_global124_01h04m48s-01h04m50s.mp4",
+    "text_preview": "Uh, can you hear me? Yes, we can."
+  },
+  {
+    "global_idx": 125,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 23,
+    "start": 3890.08,
+    "end": 4030.47,
+    "hms": "01h04m50s-01h07m10s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn23_global125_01h04m50s-01h07m10s.mp4",
+    "text_preview": "Madam Chair, members of the committee, uh, Charles Miller for the record on item 21. Um, uh, Madam Chair, through you, I just wanted to thank the previous speaker for being so candid and, um, that's not something that yo"
+  },
+  {
+    "global_idx": 126,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 23,
+    "start": 4030.48,
+    "end": 4078.31,
+    "hms": "01h07m10s-01h07m58s",
+    "file_name": "Speaker_03_Meeting_Chair_turn23_global126_01h07m10s-01h07m58s.mp4",
+    "text_preview": "Thank you. I just want to make sure that everyone understands that I don't believe that I've ever heard that um this is next to our city's largest employer. I don't know that we've ever been told or assumed that Meta wou"
+  },
+  {
+    "global_idx": 127,
+    "speaker": "Speaker_05_Voice_Cluster_05",
+    "speaker_turn": 21,
+    "start": 4078.32,
+    "end": 4081.43,
+    "hms": "01h07m58s-01h08m01s",
+    "file_name": "Speaker_05_Voice_Cluster_05_turn21_global127_01h07m58s-01h08m01s.mp4",
+    "text_preview": "Madam Chair, I move to adopt."
+  },
+  {
+    "global_idx": 128,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 24,
+    "start": 4081.44,
+    "end": 4095.99,
+    "hms": "01h08m01s-01h08m16s",
+    "file_name": "Speaker_03_Meeting_Chair_turn24_global128_01h08m01s-01h08m16s.mp4",
+    "text_preview": "We have a motion from Councilman Esabel and a second from uh Dr. Renie um to approve or to adopt this item. Um is there any discussion? Hearing none, all in favor say I."
+  },
+  {
+    "global_idx": 129,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 25,
+    "start": 4098.0,
+    "end": 4129.91,
+    "hms": "01h08m18s-01h08m50s",
+    "file_name": "Speaker_03_Meeting_Chair_turn25_global129_01h08m18s-01h08m50s.mp4",
+    "text_preview": "And all opposed. This item will move forward with a recommendation to adopt at the next meeting of the council. Next item, please. Number 24, resolution authorizing the mayor and the city clerk to sign a final plat for H"
+  },
+  {
+    "global_idx": 130,
+    "speaker": "Speaker_02_Voice_Cluster_10",
+    "speaker_turn": 16,
+    "start": 4131.28,
+    "end": 4238.79,
+    "hms": "01h08m51s-01h10m39s",
+    "file_name": "Speaker_02_Voice_Cluster_10_turn16_global130_01h08m51s-01h10m39s.mp4",
+    "text_preview": "Let's We should also note for the record that Councilman or Councilman Emmens did have to leave. So, thank you. Chair, members of the committee, Conor White, Planning and Development Department. The item before you is fo"
+  },
+  {
+    "global_idx": 131,
+    "speaker": "Speaker_10_Voice_Cluster_01",
+    "speaker_turn": 6,
+    "start": 4238.8,
+    "end": 4243.75,
+    "hms": "01h10m39s-01h10m44s",
+    "file_name": "Speaker_10_Voice_Cluster_01_turn06_global131_01h10m39s-01h10m44s.mp4",
+    "text_preview": "Do we have any questions from committee for staff?"
+  },
+  {
+    "global_idx": 132,
+    "speaker": "Speaker_11_Voice_Cluster_09",
+    "speaker_turn": 10,
+    "start": 4243.76,
+    "end": 4247.99,
+    "hms": "01h10m44s-01h10m48s",
+    "file_name": "Speaker_11_Voice_Cluster_09_turn10_global132_01h10m44s-01h10m48s.mp4",
+    "text_preview": "Okay, we will go ahead Dr. Renie."
+  },
+  {
+    "global_idx": 133,
+    "speaker": "Speaker_05_Voice_Cluster_05",
+    "speaker_turn": 22,
+    "start": 4248.0,
+    "end": 4273.99,
+    "hms": "01h10m48s-01h11m14s",
+    "file_name": "Speaker_05_Voice_Cluster_05_turn22_global133_01h10m48s-01h11m14s.mp4",
+    "text_preview": "I'll wait. Okay. Uh we'll go out for public comment on this item. Is there anyone who would like to make public comment on this item? Mr. Miller."
+  },
+  {
+    "global_idx": 134,
+    "speaker": "Speaker_11_Voice_Cluster_09",
+    "speaker_turn": 11,
+    "start": 4275.04,
+    "end": 4276.79,
+    "hms": "01h11m15s-01h11m17s",
+    "file_name": "Speaker_11_Voice_Cluster_09_turn11_global134_01h11m15s-01h11m17s.mp4",
+    "text_preview": "Yes, we can."
+  },
+  {
+    "global_idx": 135,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 24,
+    "start": 4276.8,
+    "end": 4427.35,
+    "hms": "01h11m17s-01h13m47s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn24_global135_01h11m17s-01h13m47s.mp4",
+    "text_preview": "Um, Madame Chair, members of the committee, Charles Miller, for the record on item number 24, the final plat for the Hitching Post District. um sponsored by uh you madam chair uh Dr. Aldrich Aldrich. Uh the city's own me"
+  },
+  {
+    "global_idx": 136,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 26,
+    "start": 4430.48,
+    "end": 4439.03,
+    "hms": "01h13m50s-01h13m59s",
+    "file_name": "Speaker_03_Meeting_Chair_turn26_global136_01h13m50s-01h13m59s.mp4",
+    "text_preview": "We have a motion by Councilman Renie and a second by Councilman Esabel uh to adopt this resolution. Um is there any discussion?"
+  },
+  {
+    "global_idx": 137,
+    "speaker": "Speaker_04_Voice_Cluster_07",
+    "speaker_turn": 16,
+    "start": 4439.04,
+    "end": 4529.19,
+    "hms": "01h13m59s-01h15m29s",
+    "file_name": "Speaker_04_Voice_Cluster_07_turn16_global137_01h13m59s-01h15m29s.mp4",
+    "text_preview": "Madam Chairwoman. [Yes, Councilman Renie.] So, um I guess I maybe should have brought it up under number 19, but I want to discuss while we're plotting this area, and I was hoping there'd be a representative here, so I'l"
+  },
+  {
+    "global_idx": 138,
+    "speaker": "Speaker_08_Voice_Cluster_08",
+    "speaker_turn": 4,
+    "start": 4529.2,
+    "end": 4593.43,
+    "hms": "01h15m29s-01h16m33s",
+    "file_name": "Speaker_08_Voice_Cluster_08_turn04_global138_01h15m29s-01h16m33s.mp4",
+    "text_preview": "Madam Chair. [Yes, sir.] I also want to point out that this action allows our economic development team, the mayor's office, uh, and everybody else in this community that is looking for different types of businesses that"
+  },
+  {
+    "global_idx": 139,
+    "speaker": "Speaker_10_Voice_Cluster_01",
+    "speaker_turn": 7,
+    "start": 4593.44,
+    "end": 4600.63,
+    "hms": "01h16m33s-01h16m41s",
+    "file_name": "Speaker_10_Voice_Cluster_01_turn07_global139_01h16m33s-01h16m41s.mp4",
+    "text_preview": "Thank you. Okay. Uh any other discussion by the committee? All in favor say I."
+  },
+  {
+    "global_idx": 140,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 27,
+    "start": 4600.64,
+    "end": 4621.99,
+    "hms": "01h16m41s-01h17m02s",
+    "file_name": "Speaker_03_Meeting_Chair_turn27_global140_01h16m41s-01h17m02s.mp4",
+    "text_preview": "Opposed. This item will move forward with a recommendation to adopt at the next meeting of the council. Next item, please. Number 27, resolution appointing to appointing the city of Cheyenne's representatives to the Wyom"
+  },
+  {
+    "global_idx": 141,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 25,
+    "start": 4622.0,
+    "end": 4673.83,
+    "hms": "01h17m02s-01h17m54s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn25_global141_01h17m02s-01h17m54s.mp4",
+    "text_preview": "Okay. Staff report, please. chief of staff for the city. Um before you is a resolution that would appoint um Director Fountain as the primary and Marilyn Sutherland as the alternate um for warmth. Um this is a requiremen"
+  },
+  {
+    "global_idx": 142,
+    "speaker": "Speaker_11_Voice_Cluster_09",
+    "speaker_turn": 12,
+    "start": 4673.84,
+    "end": 4688.39,
+    "hms": "01h17m54s-01h18m08s",
+    "file_name": "Speaker_11_Voice_Cluster_09_turn12_global142_01h17m54s-01h18m08s.mp4",
+    "text_preview": "Thank you. Are there any questions from committee for the staff? Okay, we'll go ahead and go out for public comment. opinion on this."
+  },
+  {
+    "global_idx": 143,
+    "speaker": "Speaker_06_Voice_Cluster_02",
+    "speaker_turn": 4,
+    "start": 4688.4,
+    "end": 4689.67,
+    "hms": "01h18m08s-01h18m10s",
+    "file_name": "Speaker_06_Voice_Cluster_02_turn04_global143_01h18m08s-01h18m10s.mp4",
+    "text_preview": "Can you hear me?"
+  },
+  {
+    "global_idx": 144,
+    "speaker": "Speaker_05_Voice_Cluster_05",
+    "speaker_turn": 23,
+    "start": 4689.68,
+    "end": 4691.03,
+    "hms": "01h18m10s-01h18m11s",
+    "file_name": "Speaker_05_Voice_Cluster_05_turn23_global144_01h18m10s-01h18m11s.mp4",
+    "text_preview": "We can."
+  },
+  {
+    "global_idx": 145,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 26,
+    "start": 4691.04,
+    "end": 4787.43,
+    "hms": "01h18m11s-01h19m47s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn26_global145_01h18m11s-01h19m47s.mp4",
+    "text_preview": "Um, [clears throat] Madam Chair, members of the committee, Charles Miller, for the record. Uh, this is the shortest item on the agenda, so I'll be brief, but I want one thing fixed before you vote. Uh, this resolution, u"
+  },
+  {
+    "global_idx": 146,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 28,
+    "start": 4787.44,
+    "end": 4820.23,
+    "hms": "01h19m47s-01h20m20s",
+    "file_name": "Speaker_03_Meeting_Chair_turn28_global146_01h19m47s-01h20m20s.mp4",
+    "text_preview": "Thank you. Any other public comment? entertain a motion. We have a motion from Councilman Esabel and a second from Dr. Renie. Is there any discussion by committee? Madam Chairwoman, I think it's perfectly clear to me rea"
+  },
+  {
+    "global_idx": 147,
+    "speaker": "Speaker_04_Voice_Cluster_07",
+    "speaker_turn": 17,
+    "start": 4820.24,
+    "end": 4849.67,
+    "hms": "01h20m20s-01h20m50s",
+    "file_name": "Speaker_04_Voice_Cluster_07_turn17_global147_01h20m20s-01h20m50s.mp4",
+    "text_preview": "And yes, if that if that position changes, then our com then the new the new compliance director would serve in that capacity. And I think it um having talked to the executive director for WARM, I think it makes sense to"
+  },
+  {
+    "global_idx": 148,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 27,
+    "start": 4849.68,
+    "end": 4894.39,
+    "hms": "01h20m50s-01h21m34s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn27_global148_01h20m50s-01h21m34s.mp4",
+    "text_preview": "Any other comments from committee? I believe that um both of those individuals understand our expectation that if there is a conflict of interest, uh, they would remove themselves from that voting situation. So, um, I th"
+  },
+  {
+    "global_idx": 149,
+    "speaker": "Speaker_02_Voice_Cluster_10",
+    "speaker_turn": 17,
+    "start": 4894.4,
+    "end": 4951.75,
+    "hms": "01h21m34s-01h22m32s",
+    "file_name": "Speaker_02_Voice_Cluster_10_turn17_global149_01h21m34s-01h22m32s.mp4",
+    "text_preview": "Okay. Staff report. Connor White, Planning and Development Department. preliminary plat for the Hitching Post District. Um this is showing the general layout of what is proposed for the area. This basically when final pl"
+  },
+  {
+    "global_idx": 150,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 29,
+    "start": 4951.76,
+    "end": 4959.59,
+    "hms": "01h22m32s-01h22m40s",
+    "file_name": "Speaker_03_Meeting_Chair_turn29_global150_01h22m32s-01h22m40s.mp4",
+    "text_preview": "Thank you. Um any questions for staff? Were there any comments?"
+  },
+  {
+    "global_idx": 151,
+    "speaker": "Speaker_02_Voice_Cluster_10",
+    "speaker_turn": 18,
+    "start": 4959.6,
+    "end": 4991.75,
+    "hms": "01h22m40s-01h23m12s",
+    "file_name": "Speaker_02_Voice_Cluster_10_turn18_global151_01h22m40s-01h23m12s.mp4",
+    "text_preview": "Madam Chair, through you. Uh staff has not had any uh public comment on this item. Um and I guess to answer the question about notification. Plats don't require mail notice. Uh they just have posted notice. Any of the ma"
+  },
+  {
+    "global_idx": 152,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 28,
+    "start": 4991.76,
+    "end": 4997.51,
+    "hms": "01h23m12s-01h23m18s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn28_global152_01h23m12s-01h23m18s.mp4",
+    "text_preview": "Thank you. And I see that we had 124 views with no comments on this item."
+  },
+  {
+    "global_idx": 153,
+    "speaker": "Speaker_02_Voice_Cluster_10",
+    "speaker_turn": 19,
+    "start": 4997.52,
+    "end": 5015.75,
+    "hms": "01h23m18s-01h23m36s",
+    "file_name": "Speaker_02_Voice_Cluster_10_turn19_global153_01h23m18s-01h23m36s.mp4",
+    "text_preview": "Madam chair through you. Yes, there's couple hundred views on the item. Uh no public comment was made on our uh connect Cheyenne website. Um, anybody who wants to make public comment can. Uh, other items have had public "
+  },
+  {
+    "global_idx": 154,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 30,
+    "start": 5015.76,
+    "end": 5033.03,
+    "hms": "01h23m36s-01h23m53s",
+    "file_name": "Speaker_03_Meeting_Chair_turn30_global154_01h23m36s-01h23m53s.mp4",
+    "text_preview": "Thank you. Okay. Any questions from committee? Okay, we'll go out for public comment. Um, any public comment here in the chambers hearing or seeing none, I believe we have Mr. Miller again. Mr. Miller,"
+  },
+  {
+    "global_idx": 155,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 29,
+    "start": 5034.16,
+    "end": 5155.59,
+    "hms": "01h23m54s-01h25m56s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn29_global155_01h23m54s-01h25m56s.mp4",
+    "text_preview": "Yes, we can. Madam chair, members of the committee, Charles Miller for the record. Item 28, the preliminary plat for Hitching Post. The city's memo for this file is dated September 24th, and it tells you two things that "
+  },
+  {
+    "global_idx": 156,
+    "speaker": "Speaker_03_Meeting_Chair",
+    "speaker_turn": 31,
+    "start": 5155.6,
+    "end": 5174.47,
+    "hms": "01h25m56s-01h26m14s",
+    "file_name": "Speaker_03_Meeting_Chair_turn31_global156_01h25m56s-01h26m14s.mp4",
+    "text_preview": "Thank you. Any other public comment hearing or seeing none, I would entertain a motion. Madam Chair, I move to approve the preliminary plat. We have a motion by Councilman Renie, a second by Councilman Esel. Is there any"
+  },
+  {
+    "global_idx": 157,
+    "speaker": "Speaker_04_Voice_Cluster_07",
+    "speaker_turn": 18,
+    "start": 5174.48,
+    "end": 5208.79,
+    "hms": "01h26m14s-01h26m49s",
+    "file_name": "Speaker_04_Voice_Cluster_07_turn18_global157_01h26m14s-01h26m49s.mp4",
+    "text_preview": "Madam Chairman, just so I understand on the sequencing because because I noticed that when I was reviewing this, the the final plat coming before the preliminary plat. So the final plat essentially is a really basic and "
+  },
+  {
+    "global_idx": 158,
+    "speaker": "Speaker_02_Voice_Cluster_10",
+    "speaker_turn": 20,
+    "start": 5208.8,
+    "end": 5261.27,
+    "hms": "01h26m49s-01h27m41s",
+    "file_name": "Speaker_02_Voice_Cluster_10_turn20_global158_01h26m49s-01h27m41s.mp4",
+    "text_preview": "madam chair through you. So with platting you have a preliminary plat that comes before a final plat. The final plat is what actually gets recorded. That is what is on basically what gets developed. What is the lot? What"
+  },
+  {
+    "global_idx": 159,
+    "speaker": "Speaker_04_Voice_Cluster_07",
+    "speaker_turn": 19,
+    "start": 5261.28,
+    "end": 5265.43,
+    "hms": "01h27m41s-01h27m45s",
+    "file_name": "Speaker_04_Voice_Cluster_07_turn19_global159_01h27m41s-01h27m45s.mp4",
+    "text_preview": "Madam Chairman, why do we have them in reverse order? Why didn't we have"
+  },
+  {
+    "global_idx": 160,
+    "speaker": "Speaker_02_Voice_Cluster_10",
+    "speaker_turn": 21,
+    "start": 5265.44,
+    "end": 5270.63,
+    "hms": "01h27m45s-01h27m51s",
+    "file_name": "Speaker_02_Voice_Cluster_10_turn21_global160_01h27m45s-01h27m51s.mp4",
+    "text_preview": "Madam Chair through you? So it goes back to just how the agenda is laid out. Um,"
+  },
+  {
+    "global_idx": 161,
+    "speaker": "Speaker_04_Voice_Cluster_07",
+    "speaker_turn": 20,
+    "start": 5270.64,
+    "end": 5273.19,
+    "hms": "01h27m51s-01h27m53s",
+    "file_name": "Speaker_04_Voice_Cluster_07_turn20_global161_01h27m51s-01h27m53s.mp4",
+    "text_preview": "so resolutions come before plats."
+  },
+  {
+    "global_idx": 162,
+    "speaker": "Speaker_02_Voice_Cluster_10",
+    "speaker_turn": 22,
+    "start": 5273.2,
+    "end": 5274.87,
+    "hms": "01h27m53s-01h27m55s",
+    "file_name": "Speaker_02_Voice_Cluster_10_turn22_global162_01h27m53s-01h27m55s.mp4",
+    "text_preview": "Preliminary plat,"
+  },
+  {
+    "global_idx": 163,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 30,
+    "start": 5275.2,
+    "end": 5308.07,
+    "hms": "01h27m55s-01h28m28s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn30_global163_01h27m55s-01h28m28s.mp4",
+    "text_preview": "Because a preliminary plat you're not you're acknowledging it. You're not necessarily adopting and it's not being recorded. Whereas with the resolution for the um final plat that actually gets adopted and then a final pl"
+  },
+  {
+    "global_idx": 164,
+    "speaker": "Speaker_04_Voice_Cluster_07",
+    "speaker_turn": 21,
+    "start": 5308.08,
+    "end": 5313.03,
+    "hms": "01h28m28s-01h28m33s",
+    "file_name": "Speaker_04_Voice_Cluster_07_turn21_global164_01h28m28s-01h28m33s.mp4",
+    "text_preview": "I mean obviously it doesn't make a difference because staff is okay doing it this way but it makes sense to me."
+  },
+  {
+    "global_idx": 165,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 31,
+    "start": 5313.04,
+    "end": 5335.67,
+    "hms": "01h28m33s-01h28m56s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn31_global165_01h28m33s-01h28m56s.mp4",
+    "text_preview": "I think it's confusing for the public as well. members of committee. Um Charles Bloom, planning development director. It would be best that we did move this in advance of the final plat at the regular meeting. So do have"
+  },
+  {
+    "global_idx": 166,
+    "speaker": "Speaker_04_Voice_Cluster_07",
+    "speaker_turn": 22,
+    "start": 5335.68,
+    "end": 5339.59,
+    "hms": "01h28m56s-01h29m00s",
+    "file_name": "Speaker_04_Voice_Cluster_07_turn22_global166_01h28m56s-01h29m00s.mp4",
+    "text_preview": "The request is we suspend the rules Monday night in order to change that."
+  },
+  {
+    "global_idx": 167,
+    "speaker": "Speaker_10_Voice_Cluster_01",
+    "speaker_turn": 8,
+    "start": 5339.6,
+    "end": 5345.11,
+    "hms": "01h29m00s-01h29m05s",
+    "file_name": "Speaker_10_Voice_Cluster_01_turn08_global167_01h29m00s-01h29m05s.mp4",
+    "text_preview": "Yes, that's what I'm hearing. Okay. Okay. Any other discussion from committee?"
+  },
+  {
+    "global_idx": 168,
+    "speaker": "Speaker_04_Voice_Cluster_07",
+    "speaker_turn": 23,
+    "start": 5345.12,
+    "end": 5346.79,
+    "hms": "01h29m05s-01h29m07s",
+    "file_name": "Speaker_04_Voice_Cluster_07_turn23_global168_01h29m05s-01h29m07s.mp4",
+    "text_preview": "No. Thank you, Madam Chairwoman."
+  },
+  {
+    "global_idx": 169,
+    "speaker": "Speaker_01_Voice_Cluster_03",
+    "speaker_turn": 32,
+    "start": 5346.8,
+    "end": 5361.64,
+    "hms": "01h29m07s-01h29m22s",
+    "file_name": "Speaker_01_Voice_Cluster_03_turn32_global169_01h29m07s-01h29m22s.mp4",
+    "text_preview": "Hearing none. All in favor say I. [I. I.] Opposed. This item will move forward with a recommendation to adopt at the next meeting of the council. Uh with that, we've completed our agenda for today. Thank you and having a"
+  }
+]
