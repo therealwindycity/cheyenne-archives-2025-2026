@@ -1,93 +1,102 @@
 [
   {
     "global_idx": 1,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 1,
     "start": 51.52,
     "end": 81.67,
     "hms": "00h00m52s-00h01m22s",
     "file_name": "Speaker_01_Meeting_Chair_turn01_global001_00h00m52s-00h01m22s.mp4",
-    "text_preview": "I'd like to call the October 20th meeting of the Finance Committee to order. If you're in the room, please be sure to have your cell phone turned off or on vibrate. When making public comment, clearly identify yourself. "
+    "text_preview": "I'd like to call the October 20th meeting of the Finance Committee to order. If you're in the room, please be sure to have your cell phone turned off or on vibrate. When making public comment, clearly identify yourself. ",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 2,
-    "speaker": "Speaker_02_Meeting_Clerk",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 1,
     "start": 81.68,
     "end": 98.31,
     "hms": "00h01m22s-00h01m38s",
     "file_name": "Speaker_02_Meeting_Clerk_turn01_global002_00h01m22s-00h01m38s.mp4",
-    "text_preview": "Agenda item number 28, resolution reappropriating the fiscal year 2027 budget of the city of Cheyenne according to the provisions of Wyoming State Statute 16-4-112 and 16-4-113."
+    "text_preview": "Agenda item number 28, resolution reappropriating the fiscal year 2027 budget of the city of Cheyenne according to the provisions of Wyoming State Statute 16-4-112 and 16-4-113.",
+    "speaker_original_automatic_label": "Speaker_02_Meeting_Clerk"
   },
   {
     "global_idx": 3,
-    "speaker": "Speaker_03_Councilman_Larry_Wolf",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 1,
     "start": 98.32,
     "end": 101.15,
     "hms": "00h01m38s-00h01m41s",
     "file_name": "Speaker_03_Councilman_Larry_Wolf_turn01_global003_00h01m38s-00h01m41s.mp4",
-    "text_preview": "Okay, staff report, Madam Treasurer."
+    "text_preview": "Okay, staff report, Madam Treasurer.",
+    "speaker_original_automatic_label": "Speaker_03_Councilman_Larry_Wolf"
   },
   {
     "global_idx": 4,
-    "speaker": "Speaker_02_Meeting_Clerk",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 2,
     "start": 101.16,
     "end": 219.27,
     "hms": "00h01m41s-00h03m39s",
     "file_name": "Speaker_02_Meeting_Clerk_turn02_global004_00h01m41s-00h03m39s.mp4",
-    "text_preview": "Good afternoon, uh Mr. Chairman, members of the committee. Robin Lockman, City Treasurer. Uh before you is the first reappropriation request for fiscal year 2027. This is our annual carryover reappropriation, which we pr"
+    "text_preview": "Good afternoon, uh Mr. Chairman, members of the committee. Robin Lockman, City Treasurer. Uh before you is the first reappropriation request for fiscal year 2027. This is our annual carryover reappropriation, which we pr",
+    "speaker_original_automatic_label": "Speaker_02_Meeting_Clerk"
   },
   {
     "global_idx": 5,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 2,
     "start": 219.28,
     "end": 227.75,
     "hms": "00h03m39s-00h03m48s",
     "file_name": "Speaker_01_Meeting_Chair_turn02_global005_00h03m39s-00h03m48s.mp4",
-    "text_preview": "Okay, comments or questions from the committee for the treasurer. Councilman Wolf."
+    "text_preview": "Okay, comments or questions from the committee for the treasurer. Councilman Wolf.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 6,
-    "speaker": "Speaker_03_Councilman_Larry_Wolf",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 2,
     "start": 227.76,
     "end": 274.47,
     "hms": "00h03m48s-00h04m34s",
     "file_name": "Speaker_03_Councilman_Larry_Wolf_turn02_global006_00h03m48s-00h04m34s.mp4",
-    "text_preview": "Mr. Chairman, thank you very much. Um through you to um Treasurer Lockman. Um Just so we have this clear on the on the record for the public's benefit. Um This is something we do every year. This is This is absolute ordi"
+    "text_preview": "Mr. Chairman, thank you very much. Um through you to um Treasurer Lockman. Um Just so we have this clear on the on the record for the public's benefit. Um This is something we do every year. This is This is absolute ordi",
+    "speaker_original_automatic_label": "Speaker_03_Councilman_Larry_Wolf"
   },
   {
     "global_idx": 7,
-    "speaker": "Speaker_02_Meeting_Clerk",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 3,
     "start": 274.48,
     "end": 281.27,
     "hms": "00h04m34s-00h04m41s",
     "file_name": "Speaker_02_Meeting_Clerk_turn03_global007_00h04m34s-00h04m41s.mp4",
-    "text_preview": "Uh Mr. Chairman, through you, that's correct and it's just money you've already approved in previous budgets, so it's just bringing them into the new budget."
+    "text_preview": "Uh Mr. Chairman, through you, that's correct and it's just money you've already approved in previous budgets, so it's just bringing them into the new budget.",
+    "speaker_original_automatic_label": "Speaker_02_Meeting_Clerk"
   },
   {
     "global_idx": 8,
-    "speaker": "Speaker_03_Councilman_Larry_Wolf",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 3,
     "start": 281.28,
     "end": 310.83,
     "hms": "00h04m41s-00h05m11s",
     "file_name": "Speaker_03_Councilman_Larry_Wolf_turn03_global008_00h04m41s-00h05m11s.mp4",
-    "text_preview": "Right. Right. So, um then I just want to thank you and your staff and Brenda for doing this, keeping us up to date, keeping the budget uh up to date, um letting the general public know um that they can absolutely trust o"
+    "text_preview": "Right. Right. So, um then I just want to thank you and your staff and Brenda for doing this, keeping us up to date, keeping the budget uh up to date, um letting the general public know um that they can absolutely trust o",
+    "speaker_original_automatic_label": "Speaker_03_Councilman_Larry_Wolf"
   },
   {
     "global_idx": 9,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 3,
     "start": 312.12,
     "end": 332.19,
     "hms": "00h05m12s-00h05m32s",
     "file_name": "Speaker_01_Meeting_Chair_turn03_global009_00h05m12s-00h05m32s.mp4",
-    "text_preview": "Any other comments or questions from the committee for the treasurer? comment in the room. Any public comment in the room on this item? online. Any public comment online? Nothing? Okay. Come back to the committee. What's"
+    "text_preview": "Any other comments or questions from the committee for the treasurer? comment in the room. Any public comment in the room on this item? online. Any public comment online? Nothing? Okay. Come back to the committee. What's",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 10,
@@ -101,43 +110,47 @@
   },
   {
     "global_idx": 11,
-    "speaker": "Speaker_02_Meeting_Clerk",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 4,
     "start": 334.84,
     "end": 439.71,
     "hms": "00h05m35s-00h07m20s",
     "file_name": "Speaker_02_Meeting_Clerk_turn04_global011_00h05m35s-00h07m20s.mp4",
-    "text_preview": "Been moved by Councilman Moody, second by Councilman Wolf. Any further discussion? All in favor, signify by saying aye. Seeing that that vote is unanimous, the recommendation of the Finance Committee at the next meeting "
+    "text_preview": "Been moved by Councilman Moody, second by Councilman Wolf. Any further discussion? All in favor, signify by saying aye. Seeing that that vote is unanimous, the recommendation of the Finance Committee at the next meeting ",
+    "speaker_original_automatic_label": "Speaker_02_Meeting_Clerk"
   },
   {
     "global_idx": 12,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 4,
     "start": 439.72,
     "end": 446.59,
     "hms": "00h07m20s-00h07m27s",
     "file_name": "Speaker_01_Meeting_Chair_turn04_global012_00h07m20s-00h07m27s.mp4",
-    "text_preview": "Any questions for the from the committee for the city attorney? Councilman Wolfe."
+    "text_preview": "Any questions for the from the committee for the city attorney? Councilman Wolfe.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 13,
-    "speaker": "Speaker_03_Councilman_Larry_Wolf",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 4,
     "start": 446.6,
     "end": 509.15,
     "hms": "00h07m27s-00h08m29s",
     "file_name": "Speaker_03_Councilman_Larry_Wolf_turn04_global013_00h07m27s-00h08m29s.mp4",
-    "text_preview": "Councilman Ceja. Um Mr. Chairman, through you, thank you. Thank you, Mr. Brody. Um why do we need this? I mean, doesn't the doesn't the city council in the future have the power to examine the reserves at any time, concl"
+    "text_preview": "Councilman Ceja. Um Mr. Chairman, through you, thank you. Thank you, Mr. Brody. Um why do we need this? I mean, doesn't the doesn't the city council in the future have the power to examine the reserves at any time, concl",
+    "speaker_original_automatic_label": "Speaker_03_Councilman_Larry_Wolf"
   },
   {
     "global_idx": 14,
-    "speaker": "Speaker_06_Councilman_Ken_Moody",
+    "speaker": "Speaker_06_Unverified_Voice",
     "speaker_turn": 1,
     "start": 509.16,
     "end": 519.07,
     "hms": "00h08m29s-00h08m39s",
     "file_name": "Speaker_06_Councilman_Ken_Moody_turn01_global014_00h08m29s-00h08m39s.mp4",
-    "text_preview": "Mr. Mr. Chairman, you know, I I I I really can't, right? You have a policy decision in front of you whether this is the right policy decision for this committee and for the governing body. Um I ultimately defer to you."
+    "text_preview": "Mr. Mr. Chairman, you know, I I I I really can't, right? You have a policy decision in front of you whether this is the right policy decision for this committee and for the governing body. Um I ultimately defer to you.",
+    "speaker_original_automatic_label": "Speaker_06_Councilman_Ken_Moody"
   },
   {
     "global_idx": 15,
@@ -151,83 +164,91 @@
   },
   {
     "global_idx": 16,
-    "speaker": "Speaker_06_Councilman_Ken_Moody",
+    "speaker": "Speaker_06_Unverified_Voice",
     "speaker_turn": 2,
     "start": 520.76,
     "end": 541.03,
     "hms": "00h08m41s-00h09m01s",
     "file_name": "Speaker_06_Councilman_Ken_Moody_turn02_global016_00h08m41s-00h09m01s.mp4",
-    "text_preview": "Thank you, Mr. Chairman. Through you, uh thank you, sir. Just a mechanical question and how this works. So, the way I read it, if our reserves were to be for 365 days operating budget for a year, then any future reserves"
+    "text_preview": "Thank you, Mr. Chairman. Through you, uh thank you, sir. Just a mechanical question and how this works. So, the way I read it, if our reserves were to be for 365 days operating budget for a year, then any future reserves",
+    "speaker_original_automatic_label": "Speaker_06_Councilman_Ken_Moody"
   },
   {
     "global_idx": 17,
-    "speaker": "Speaker_09_Dr._Winnie",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 1,
     "start": 541.04,
     "end": 567.99,
     "hms": "00h09m01s-00h09m28s",
     "file_name": "Speaker_09_Dr._Winnie_turn01_global017_00h09m01s-00h09m28s.mp4",
-    "text_preview": "Mr. Chairman, and I I would ask uh Treasurer Lockman to jump in to a certain extent, but the way that this has been drafted is that on an annual basis, if the city's general fund exceeds 365 days of operating expenses, t"
+    "text_preview": "Mr. Chairman, and I I would ask uh Treasurer Lockman to jump in to a certain extent, but the way that this has been drafted is that on an annual basis, if the city's general fund exceeds 365 days of operating expenses, t",
+    "speaker_original_automatic_label": "Speaker_09_Dr._Winnie"
   },
   {
     "global_idx": 18,
-    "speaker": "Speaker_08_Councilman_Labor",
+    "speaker": "Speaker_08_Unverified_Voice",
     "speaker_turn": 1,
     "start": 568.0,
     "end": 571.27,
     "hms": "00h09m28s-00h09m31s",
     "file_name": "Speaker_08_Councilman_Labor_turn01_global018_00h09m28s-00h09m31s.mp4",
-    "text_preview": "Okay. Thank you."
+    "text_preview": "Okay. Thank you.",
+    "speaker_original_automatic_label": "Speaker_08_Councilman_Labor"
   },
   {
     "global_idx": 19,
-    "speaker": "Speaker_10_Dr._Renney",
+    "speaker": "Speaker_10_Unverified_Voice",
     "speaker_turn": 1,
     "start": 572.44,
     "end": 583.11,
     "hms": "00h09m32s-00h09m43s",
     "file_name": "Speaker_10_Dr._Renney_turn01_global019_00h09m32s-00h09m43s.mp4",
-    "text_preview": "Thank you, Mr. Chairman. Um in directing that money to go into the fund, it's up to $10 million a year, correct? Is that what how the legislation is written?"
+    "text_preview": "Thank you, Mr. Chairman. Um in directing that money to go into the fund, it's up to $10 million a year, correct? Is that what how the legislation is written?",
+    "speaker_original_automatic_label": "Speaker_10_Dr._Renney"
   },
   {
     "global_idx": 20,
-    "speaker": "Speaker_03_Councilman_Larry_Wolf",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 5,
     "start": 583.12,
     "end": 589.83,
     "hms": "00h09m43s-00h09m50s",
     "file_name": "Speaker_03_Councilman_Larry_Wolf_turn05_global020_00h09m43s-00h09m50s.mp4",
-    "text_preview": "Correct. Once that $10 million threshold is met, then this resolution would have no operative effect."
+    "text_preview": "Correct. Once that $10 million threshold is met, then this resolution would have no operative effect.",
+    "speaker_original_automatic_label": "Speaker_03_Councilman_Larry_Wolf"
   },
   {
     "global_idx": 21,
-    "speaker": "Speaker_10_Dr._Renney",
+    "speaker": "Speaker_10_Unverified_Voice",
     "speaker_turn": 2,
     "start": 589.84,
     "end": 604.67,
     "hms": "00h09m50s-00h10m05s",
     "file_name": "Speaker_10_Dr._Renney_turn02_global021_00h09m50s-00h10m05s.mp4",
-    "text_preview": "Thank you, Mr. Chairman. I'd like to ask Treasurer Lockman, where currently if we were to exceed that 360-day level, what funds what would what what would that fund amount be that would be transferred?"
+    "text_preview": "Thank you, Mr. Chairman. I'd like to ask Treasurer Lockman, where currently if we were to exceed that 360-day level, what funds what would what what would that fund amount be that would be transferred?",
+    "speaker_original_automatic_label": "Speaker_10_Dr._Renney"
   },
   {
     "global_idx": 22,
-    "speaker": "Speaker_03_Councilman_Larry_Wolf",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 6,
     "start": 604.68,
     "end": 623.31,
     "hms": "00h10m05s-00h10m23s",
     "file_name": "Speaker_03_Councilman_Larry_Wolf_turn06_global022_00h10m05s-00h10m23s.mp4",
-    "text_preview": "Mr. Chairman, through you. So, right now well, at the end of June, we had 365 exactly. And so, nothing would be transferred this year or for last year, but in next year, whatever the reserves grow between July 1st to Jun"
+    "text_preview": "Mr. Chairman, through you. So, right now well, at the end of June, we had 365 exactly. And so, nothing would be transferred this year or for last year, but in next year, whatever the reserves grow between July 1st to Jun",
+    "speaker_original_automatic_label": "Speaker_03_Councilman_Larry_Wolf"
   },
   {
     "global_idx": 23,
-    "speaker": "Speaker_09_Dr._Winnie",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 2,
     "start": 623.32,
     "end": 627.31,
     "hms": "00h10m23s-00h10m27s",
     "file_name": "Speaker_09_Dr._Winnie_turn02_global023_00h10m23s-00h10m27s.mp4",
-    "text_preview": "but at this this point, it's kind of a wash."
+    "text_preview": "but at this this point, it's kind of a wash.",
+    "speaker_original_automatic_label": "Speaker_09_Dr._Winnie"
   },
   {
     "global_idx": 24,
@@ -241,23 +262,25 @@
   },
   {
     "global_idx": 25,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 5,
     "start": 654.96,
     "end": 671.47,
     "hms": "00h10m55s-00h11m11s",
     "file_name": "Speaker_01_Meeting_Chair_turn05_global025_00h10m55s-00h11m11s.mp4",
-    "text_preview": "happy to take the money if it's there. you had that $10 million, are you able to have enough contractors to do what you would need to do with it?"
+    "text_preview": "happy to take the money if it's there. you had that $10 million, are you able to have enough contractors to do what you would need to do with it?",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 26,
-    "speaker": "Speaker_03_Councilman_Larry_Wolf",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 7,
     "start": 671.48,
     "end": 698.39,
     "hms": "00h11m11s-00h11m38s",
     "file_name": "Speaker_03_Councilman_Larry_Wolf_turn07_global026_00h11m11s-00h11m38s.mp4",
-    "text_preview": "Chairman, I I I originally asked for it based on the stormwater impact fee. I only asked for $6 million a year maximum. Um I I and right now, to be quite frank with you, I don't have the staff to to run this right now um"
+    "text_preview": "Chairman, I I I originally asked for it based on the stormwater impact fee. I only asked for $6 million a year maximum. Um I I and right now, to be quite frank with you, I don't have the staff to to run this right now um",
+    "speaker_original_automatic_label": "Speaker_03_Councilman_Larry_Wolf"
   },
   {
     "global_idx": 27,
@@ -271,183 +294,201 @@
   },
   {
     "global_idx": 28,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 6,
     "start": 757.12,
     "end": 775.63,
     "hms": "00h12m37s-00h12m56s",
     "file_name": "Speaker_01_Meeting_Chair_turn06_global028_00h12m37s-00h12m56s.mp4",
-    "text_preview": "Good. online. No public comment online. Okay, come back to the committee. What's your pleasure? Dr. Winnie."
+    "text_preview": "Good. online. No public comment online. Okay, come back to the committee. What's your pleasure? Dr. Winnie.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 29,
-    "speaker": "Speaker_09_Dr._Winnie",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 3,
     "start": 775.64,
     "end": 779.23,
     "hms": "00h12m56s-00h12m59s",
     "file_name": "Speaker_09_Dr._Winnie_turn03_global029_00h12m56s-00h12m59s.mp4",
-    "text_preview": "Mr. Chairman, so that we can discuss it, I'd move to adopt."
+    "text_preview": "Mr. Chairman, so that we can discuss it, I'd move to adopt.",
+    "speaker_original_automatic_label": "Speaker_09_Dr._Winnie"
   },
   {
     "global_idx": 30,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 7,
     "start": 779.24,
     "end": 785.55,
     "hms": "00h12m59s-00h13m06s",
     "file_name": "Speaker_01_Meeting_Chair_turn07_global030_00h12m59s-00h13m06s.mp4",
-    "text_preview": "Second for discussion. Been moved by Dr. Winnie, second by Councilman Moody. [Mr. Chairman.] Yes."
+    "text_preview": "Second for discussion. Been moved by Dr. Winnie, second by Councilman Moody. [Mr. Chairman.] Yes.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 31,
-    "speaker": "Speaker_10_Dr._Renney",
+    "speaker": "Speaker_10_Unverified_Voice",
     "speaker_turn": 3,
     "start": 785.56,
     "end": 867.31,
     "hms": "00h13m06s-00h14m27s",
     "file_name": "Speaker_10_Dr._Renney_turn03_global031_00h13m06s-00h14m27s.mp4",
-    "text_preview": "Dr. Winnie. I think the rationale behind this is that um some organizations in the community want that were opposed to our storm water utility thought it would be a good move to show that we are actually working on that "
+    "text_preview": "Dr. Winnie. I think the rationale behind this is that um some organizations in the community want that were opposed to our storm water utility thought it would be a good move to show that we are actually working on that ",
+    "speaker_original_automatic_label": "Speaker_10_Dr._Renney"
   },
   {
     "global_idx": 32,
-    "speaker": "Speaker_06_Councilman_Ken_Moody",
+    "speaker": "Speaker_06_Unverified_Voice",
     "speaker_turn": 3,
     "start": 867.32,
     "end": 886.27,
     "hms": "00h14m27s-00h14m46s",
     "file_name": "Speaker_06_Councilman_Ken_Moody_turn03_global032_00h14m27s-00h14m46s.mp4",
-    "text_preview": "Thank you, Mr. Chairman, through you. The only thing I've seen here is I would like to see actual projects toward the money's earmarked to. Is this for, you know, the lead in the pipes? Is this for putting in, you know, "
+    "text_preview": "Thank you, Mr. Chairman, through you. The only thing I've seen here is I would like to see actual projects toward the money's earmarked to. Is this for, you know, the lead in the pipes? Is this for putting in, you know, ",
+    "speaker_original_automatic_label": "Speaker_06_Councilman_Ken_Moody"
   },
   {
     "global_idx": 33,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 8,
     "start": 887.24,
     "end": 888.43,
     "hms": "00h14m47s-00h14m48s",
     "file_name": "Speaker_01_Meeting_Chair_turn08_global033_00h14m47s-00h14m48s.mp4",
-    "text_preview": "Council Dr. Renney."
+    "text_preview": "Council Dr. Renney.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 34,
-    "speaker": "Speaker_10_Dr._Renney",
+    "speaker": "Speaker_10_Unverified_Voice",
     "speaker_turn": 4,
     "start": 888.44,
     "end": 931.47,
     "hms": "00h14m48s-00h15m31s",
     "file_name": "Speaker_10_Dr._Renney_turn04_global034_00h14m48s-00h15m31s.mp4",
-    "text_preview": "I think if you read it, it's for storm water runoff. It is not not um lead pipes and water lines, which comes under BOP's purview. Um we received a um in a in a work session some time ago, we received from from Engineer "
+    "text_preview": "I think if you read it, it's for storm water runoff. It is not not um lead pipes and water lines, which comes under BOP's purview. Um we received a um in a in a work session some time ago, we received from from Engineer ",
+    "speaker_original_automatic_label": "Speaker_10_Dr._Renney"
   },
   {
     "global_idx": 35,
-    "speaker": "Speaker_03_Councilman_Larry_Wolf",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 8,
     "start": 932.32,
     "end": 997.87,
     "hms": "00h15m32s-00h16m38s",
     "file_name": "Speaker_03_Councilman_Larry_Wolf_turn08_global035_00h15m32s-00h16m38s.mp4",
-    "text_preview": "Mr. Chairman, thank you through you. Um I'm going to be a no vote on this until we have the sponsor here to explain it at the next council meeting. Um I mean, I'm totally in support of funding storm water. Um and but I a"
+    "text_preview": "Mr. Chairman, thank you through you. Um I'm going to be a no vote on this until we have the sponsor here to explain it at the next council meeting. Um I mean, I'm totally in support of funding storm water. Um and but I a",
+    "speaker_original_automatic_label": "Speaker_03_Councilman_Larry_Wolf"
   },
   {
     "global_idx": 36,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 9,
     "start": 997.88,
     "end": 1005.91,
     "hms": "00h16m38s-00h16m46s",
     "file_name": "Speaker_01_Meeting_Chair_turn09_global036_00h16m38s-00h16m46s.mp4",
-    "text_preview": "The uh that all in favor signify by saying I. All opposed. No."
+    "text_preview": "The uh that all in favor signify by saying I. All opposed. No.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 37,
-    "speaker": "Speaker_02_Meeting_Clerk",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 5,
     "start": 1005.92,
     "end": 1364.11,
     "hms": "00h16m46s-00h22m44s",
     "file_name": "Speaker_02_Meeting_Clerk_turn05_global037_00h16m46s-00h22m44s.mp4",
-    "text_preview": "Seeing that there is no recommendation from the Finance Committee at the next meeting of the governing body on this item. No recommendation. Next item. the revised City of Cheyenne, Wyoming investment policy statement. ["
+    "text_preview": "Seeing that there is no recommendation from the Finance Committee at the next meeting of the governing body on this item. No recommendation. Next item. the revised City of Cheyenne, Wyoming investment policy statement. [",
+    "speaker_original_automatic_label": "Speaker_02_Meeting_Clerk"
   },
   {
     "global_idx": 38,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 10,
     "start": 1364.12,
     "end": 1369.67,
     "hms": "00h22m44s-00h22m50s",
     "file_name": "Speaker_01_Meeting_Chair_turn10_global038_00h22m44s-00h22m50s.mp4",
-    "text_preview": "Comments or questions for the city treasurer? Councilman Wolf."
+    "text_preview": "Comments or questions for the city treasurer? Councilman Wolf.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 39,
-    "speaker": "Speaker_03_Councilman_Larry_Wolf",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 9,
     "start": 1369.68,
     "end": 1388.47,
     "hms": "00h22m50s-00h23m08s",
     "file_name": "Speaker_03_Councilman_Larry_Wolf_turn09_global039_00h22m50s-00h23m08s.mp4",
-    "text_preview": "Uh thank you, Mr. Chairman, through you. Um thank you, Treasurer Lockman. Um so, who are the two non-city employees that are on our committee? They're they're new. Cheryl's one of them. They both went They both work for "
+    "text_preview": "Uh thank you, Mr. Chairman, through you. Um thank you, Treasurer Lockman. Um so, who are the two non-city employees that are on our committee? They're they're new. Cheryl's one of them. They both went They both work for ",
+    "speaker_original_automatic_label": "Speaker_03_Councilman_Larry_Wolf"
   },
   {
     "global_idx": 40,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 11,
     "start": 1388.48,
     "end": 1414.71,
     "hms": "00h23m08s-00h23m35s",
     "file_name": "Speaker_01_Meeting_Chair_turn11_global040_00h23m08s-00h23m35s.mp4",
-    "text_preview": "That's fine. You can submit it. That's fine. Thank you, Mr. Chairman. city treasurer? Okay, we'll go to public comment in the room on this item. Any Any public comment in the room? Seeing none, go to public comment onlin"
+    "text_preview": "That's fine. You can submit it. That's fine. Thank you, Mr. Chairman. city treasurer? Okay, we'll go to public comment in the room on this item. Any Any public comment in the room? Seeing none, go to public comment onlin",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 41,
-    "speaker": "Speaker_09_Dr._Winnie",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 4,
     "start": 1414.72,
     "end": 1417.43,
     "hms": "00h23m35s-00h23m37s",
     "file_name": "Speaker_09_Dr._Winnie_turn04_global041_00h23m35s-00h23m37s.mp4",
-    "text_preview": "Mr. Chairman, I would move to adopt."
+    "text_preview": "Mr. Chairman, I would move to adopt.",
+    "speaker_original_automatic_label": "Speaker_09_Dr._Winnie"
   },
   {
     "global_idx": 42,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 12,
     "start": 1417.44,
     "end": 1434.15,
     "hms": "00h23m37s-00h23m54s",
     "file_name": "Speaker_01_Meeting_Chair_turn12_global042_00h23m37s-00h23m54s.mp4",
-    "text_preview": "Been moved by Dr. Woody, second by Councilman Wolfe. Any further discussion? All in favor, signify by saying aye. Seeing that that vote is unanimous, the recommendation of the Finance Committee at the next meeting of the"
+    "text_preview": "Been moved by Dr. Woody, second by Councilman Wolfe. Any further discussion? All in favor, signify by saying aye. Seeing that that vote is unanimous, the recommendation of the Finance Committee at the next meeting of the",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 43,
-    "speaker": "Speaker_02_Meeting_Clerk",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 6,
     "start": 1434.16,
     "end": 1612.23,
     "hms": "00h23m54s-00h26m52s",
     "file_name": "Speaker_02_Meeting_Clerk_turn06_global043_00h23m54s-00h26m52s.mp4",
-    "text_preview": "Item number 31, resolution authorizing up to 18,063,000 $14 interfund loan from the 1% state sales tax capital projects fund to the special purpose option sales tax capital projects fund to facili- facilitate projects ap"
+    "text_preview": "Item number 31, resolution authorizing up to 18,063,000 $14 interfund loan from the 1% state sales tax capital projects fund to the special purpose option sales tax capital projects fund to facili- facilitate projects ap",
+    "speaker_original_automatic_label": "Speaker_02_Meeting_Clerk"
   },
   {
     "global_idx": 44,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 13,
     "start": 1612.24,
     "end": 1634.95,
     "hms": "00h26m52s-00h27m15s",
     "file_name": "Speaker_01_Meeting_Chair_turn13_global044_00h26m52s-00h27m15s.mp4",
-    "text_preview": "Comments or questions from the committee for the city treasurer? in the room on this item. Any public comment in the room? online. Public comment online. Seeing none, back to the committee. What's your pleasure?"
+    "text_preview": "Comments or questions from the committee for the city treasurer? in the room on this item. Any public comment in the room? online. Public comment online. Seeing none, back to the committee. What's your pleasure?",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 45,
-    "speaker": "Speaker_09_Dr._Winnie",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 5,
     "start": 1634.96,
     "end": 1638.07,
     "hms": "00h27m15s-00h27m18s",
     "file_name": "Speaker_09_Dr._Winnie_turn05_global045_00h27m15s-00h27m18s.mp4",
-    "text_preview": "Mr. Chairman, I move to adopt. Second."
+    "text_preview": "Mr. Chairman, I move to adopt. Second.",
+    "speaker_original_automatic_label": "Speaker_09_Dr._Winnie"
   },
   {
     "global_idx": 46,
@@ -461,33 +502,36 @@
   },
   {
     "global_idx": 47,
-    "speaker": "Speaker_06_Councilman_Ken_Moody",
+    "speaker": "Speaker_06_Unverified_Voice",
     "speaker_turn": 4,
     "start": 1643.2,
     "end": 1665.27,
     "hms": "00h27m23s-00h27m45s",
     "file_name": "Speaker_06_Councilman_Ken_Moody_turn04_global047_00h27m23s-00h27m45s.mp4",
-    "text_preview": "Yep. Thank you, Mr. Chairman, through you. Uh just for the public is aware, uh some now these nine um are essential services, fire and police. So, again, they were approved by the voters. I would say we need to get these"
+    "text_preview": "Yep. Thank you, Mr. Chairman, through you. Uh just for the public is aware, uh some now these nine um are essential services, fire and police. So, again, they were approved by the voters. I would say we need to get these",
+    "speaker_original_automatic_label": "Speaker_06_Councilman_Ken_Moody"
   },
   {
     "global_idx": 48,
-    "speaker": "Speaker_10_Dr._Renney",
+    "speaker": "Speaker_10_Unverified_Voice",
     "speaker_turn": 5,
     "start": 1666.24,
     "end": 1695.87,
     "hms": "00h27m46s-00h28m16s",
     "file_name": "Speaker_10_Dr._Renney_turn05_global048_00h27m46s-00h28m16s.mp4",
-    "text_preview": "Mr. Chairman, thank you. I I know I'm delaying the meeting because I'm stating the obvious, but it just makes sense for us to do this. If we can if we can fund it up front and save having to borrow money, and as my colle"
+    "text_preview": "Mr. Chairman, thank you. I I know I'm delaying the meeting because I'm stating the obvious, but it just makes sense for us to do this. If we can if we can fund it up front and save having to borrow money, and as my colle",
+    "speaker_original_automatic_label": "Speaker_10_Dr._Renney"
   },
   {
     "global_idx": 49,
-    "speaker": "Speaker_03_Councilman_Larry_Wolf",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 10,
     "start": 1696.92,
     "end": 1752.87,
     "hms": "00h28m17s-00h29m13s",
     "file_name": "Speaker_03_Councilman_Larry_Wolf_turn10_global049_00h28m17s-00h29m13s.mp4",
-    "text_preview": "Uh Mr. Chairman, thank you, through you. Um I'd like to echo I uh support and uh for the comments of my fellow councilman. This is actually one of the reasons I love serving on this committee, um is that um I mean, these"
+    "text_preview": "Uh Mr. Chairman, thank you, through you. Um I'd like to echo I uh support and uh for the comments of my fellow councilman. This is actually one of the reasons I love serving on this committee, um is that um I mean, these",
+    "speaker_original_automatic_label": "Speaker_03_Councilman_Larry_Wolf"
   },
   {
     "global_idx": 50,
@@ -501,43 +545,47 @@
   },
   {
     "global_idx": 51,
-    "speaker": "Speaker_02_Meeting_Clerk",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 7,
     "start": 1755.92,
     "end": 1796.87,
     "hms": "00h29m16s-00h29m57s",
     "file_name": "Speaker_02_Meeting_Clerk_turn07_global051_00h29m16s-00h29m57s.mp4",
-    "text_preview": "Seeing that that vote is unanimous, the recommendation of the finance committee, the next meeting of the governing body will be to adopt. Next item. legal. This is 34E 2026 development agreement between the city of Cheye"
+    "text_preview": "Seeing that that vote is unanimous, the recommendation of the finance committee, the next meeting of the governing body will be to adopt. Next item. legal. This is 34E 2026 development agreement between the city of Cheye",
+    "speaker_original_automatic_label": "Speaker_02_Meeting_Clerk"
   },
   {
     "global_idx": 52,
-    "speaker": "Speaker_08_Councilman_Labor",
+    "speaker": "Speaker_08_Unverified_Voice",
     "speaker_turn": 2,
     "start": 1796.88,
     "end": 1798.67,
     "hms": "00h29m57s-00h29m59s",
     "file_name": "Speaker_08_Councilman_Labor_turn02_global052_00h29m57s-00h29m59s.mp4",
-    "text_preview": "Staff report."
+    "text_preview": "Staff report.",
+    "speaker_original_automatic_label": "Speaker_08_Councilman_Labor"
   },
   {
     "global_idx": 53,
-    "speaker": "Speaker_03_Councilman_Larry_Wolf",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 11,
     "start": 1798.68,
     "end": 1967.47,
     "hms": "00h29m59s-00h32m47s",
     "file_name": "Speaker_03_Councilman_Larry_Wolf_turn11_global053_00h29m59s-00h32m47s.mp4",
-    "text_preview": "Chairman Esquibel and members of the finance committee, Tom Cobb, city engineer. Um before you and for your consideration is what I just consider the 2026 development agreement between the city of Cheyenne and Swan Ranch"
+    "text_preview": "Chairman Esquibel and members of the finance committee, Tom Cobb, city engineer. Um before you and for your consideration is what I just consider the 2026 development agreement between the city of Cheyenne and Swan Ranch",
+    "speaker_original_automatic_label": "Speaker_03_Councilman_Larry_Wolf"
   },
   {
     "global_idx": 54,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 14,
     "start": 1967.48,
     "end": 1992.75,
     "hms": "00h32m47s-00h33m13s",
     "file_name": "Speaker_01_Meeting_Chair_turn14_global054_00h32m47s-00h33m13s.mp4",
-    "text_preview": "Any comments or questions from the committee for city engineer? room. Any public comment in the room on this item? online. Public comment online. Okay, seeing none, come back to the committee. What's your pleasure?"
+    "text_preview": "Any comments or questions from the committee for city engineer? room. Any public comment in the room on this item? online. Public comment online. Okay, seeing none, come back to the committee. What's your pleasure?",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 55,
@@ -561,63 +609,69 @@
   },
   {
     "global_idx": 57,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 15,
     "start": 1995.72,
     "end": 2002.75,
     "hms": "00h33m16s-00h33m23s",
     "file_name": "Speaker_01_Meeting_Chair_turn15_global057_00h33m16s-00h33m23s.mp4",
-    "text_preview": "Been moved by Councilman Wolf, second by Dr. Rennie. Any further discussion? All in favor, signify by saying aye."
+    "text_preview": "Been moved by Councilman Wolf, second by Dr. Rennie. Any further discussion? All in favor, signify by saying aye.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 58,
-    "speaker": "Speaker_02_Meeting_Clerk",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 8,
     "start": 2003.76,
     "end": 2034.91,
     "hms": "00h33m24s-00h33m55s",
     "file_name": "Speaker_02_Meeting_Clerk_turn08_global058_00h33m24s-00h33m55s.mp4",
-    "text_preview": "Any nays? The recommendation of the Finance Committee will be to adopt the next to approve at the next meeting of the governing body with Councilman Moody voting no. Next item. Consideration to purchase between the City "
+    "text_preview": "Any nays? The recommendation of the Finance Committee will be to adopt the next to approve at the next meeting of the governing body with Councilman Moody voting no. Next item. Consideration to purchase between the City ",
+    "speaker_original_automatic_label": "Speaker_02_Meeting_Clerk"
   },
   {
     "global_idx": 59,
-    "speaker": "Speaker_03_Councilman_Larry_Wolf",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 12,
     "start": 2036.2,
     "end": 2210.47,
     "hms": "00h33m56s-00h36m50s",
     "file_name": "Speaker_03_Councilman_Larry_Wolf_turn12_global059_00h33m56s-00h36m50s.mp4",
-    "text_preview": "Hey, good afternoon, chair, mayors committee. This is uh Lieutenant Brett Drain of the Cheyenne Police Department. What you have before you is a consideration to purchase for this between the City of Cheyenne and Lenco f"
+    "text_preview": "Hey, good afternoon, chair, mayors committee. This is uh Lieutenant Brett Drain of the Cheyenne Police Department. What you have before you is a consideration to purchase for this between the City of Cheyenne and Lenco f",
+    "speaker_original_automatic_label": "Speaker_03_Councilman_Larry_Wolf"
   },
   {
     "global_idx": 60,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 16,
     "start": 2210.48,
     "end": 2215.23,
     "hms": "00h36m50s-00h36m55s",
     "file_name": "Speaker_01_Meeting_Chair_turn16_global060_00h36m50s-00h36m55s.mp4",
-    "text_preview": "Any questions for Officer Gerani from the committee? Councilman Moody."
+    "text_preview": "Any questions for Officer Gerani from the committee? Councilman Moody.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 61,
-    "speaker": "Speaker_06_Councilman_Ken_Moody",
+    "speaker": "Speaker_06_Unverified_Voice",
     "speaker_turn": 5,
     "start": 2215.24,
     "end": 2235.35,
     "hms": "00h36m55s-00h37m15s",
     "file_name": "Speaker_06_Councilman_Ken_Moody_turn05_global061_00h36m55s-00h37m15s.mp4",
-    "text_preview": "I thank you, Mr. Chairman, through you. I thank you, sir. Now, besides that, would you say it's very helpful for weather-related emergencies, say blizzard or God forbid tornadoes and that? Would this be very helpful for "
+    "text_preview": "I thank you, Mr. Chairman, through you. I thank you, sir. Now, besides that, would you say it's very helpful for weather-related emergencies, say blizzard or God forbid tornadoes and that? Would this be very helpful for ",
+    "speaker_original_automatic_label": "Speaker_06_Councilman_Ken_Moody"
   },
   {
     "global_idx": 62,
-    "speaker": "Speaker_03_Councilman_Larry_Wolf",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 13,
     "start": 2235.36,
     "end": 2331.15,
     "hms": "00h37m15s-00h38m51s",
     "file_name": "Speaker_03_Councilman_Larry_Wolf_turn13_global062_00h37m15s-00h38m51s.mp4",
-    "text_preview": "And Chairman, through you to Mr. Moody, yes, so that's a great question. I don't know if you remember the the difficulty we had responding to incidents in the blizzards back in uh years and years ago, our MRAPs were the "
+    "text_preview": "And Chairman, through you to Mr. Moody, yes, so that's a great question. I don't know if you remember the the difficulty we had responding to incidents in the blizzards back in uh years and years ago, our MRAPs were the ",
+    "speaker_original_automatic_label": "Speaker_03_Councilman_Larry_Wolf"
   },
   {
     "global_idx": 63,
@@ -631,13 +685,14 @@
   },
   {
     "global_idx": 64,
-    "speaker": "Speaker_03_Councilman_Larry_Wolf",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 14,
     "start": 2334.12,
     "end": 2413.19,
     "hms": "00h38m54s-00h40m13s",
     "file_name": "Speaker_03_Councilman_Larry_Wolf_turn14_global064_00h38m54s-00h40m13s.mp4",
-    "text_preview": "Thank you. Um do we have the garage space to to uh house these vehicles? Yeah, Mr. Chairman, through you. So, currently, our armored vehicles are stored at a shared facility with the Cheyenne Fire Rescue. We currently wi"
+    "text_preview": "Thank you. Um do we have the garage space to to uh house these vehicles? Yeah, Mr. Chairman, through you. So, currently, our armored vehicles are stored at a shared facility with the Cheyenne Fire Rescue. We currently wi",
+    "speaker_original_automatic_label": "Speaker_03_Councilman_Larry_Wolf"
   },
   {
     "global_idx": 65,
@@ -651,23 +706,25 @@
   },
   {
     "global_idx": 66,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 17,
     "start": 2417.68,
     "end": 2435.75,
     "hms": "00h40m18s-00h40m36s",
     "file_name": "Speaker_01_Meeting_Chair_turn17_global066_00h40m18s-00h40m36s.mp4",
-    "text_preview": "Okay, any further comments or questions for the committee? Let's go to public comment in the room on this item. Any public comment in the room? See none, go to public comment online. No public comment online, back to the"
+    "text_preview": "Okay, any further comments or questions for the committee? Let's go to public comment in the room on this item. Any public comment in the room? See none, go to public comment online. No public comment online, back to the",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 67,
-    "speaker": "Speaker_06_Councilman_Ken_Moody",
+    "speaker": "Speaker_06_Unverified_Voice",
     "speaker_turn": 6,
     "start": 2435.76,
     "end": 2441.91,
     "hms": "00h40m36s-00h40m42s",
     "file_name": "Speaker_06_Councilman_Ken_Moody_turn06_global067_00h40m36s-00h40m42s.mp4",
-    "text_preview": "Uh Mr. Chairman, I move to approve the amount of $853,980."
+    "text_preview": "Uh Mr. Chairman, I move to approve the amount of $853,980.",
+    "speaker_original_automatic_label": "Speaker_06_Councilman_Ken_Moody"
   },
   {
     "global_idx": 68,
@@ -681,32 +738,35 @@
   },
   {
     "global_idx": 69,
-    "speaker": "Speaker_06_Councilman_Ken_Moody",
+    "speaker": "Speaker_06_Unverified_Voice",
     "speaker_turn": 7,
     "start": 2447.84,
     "end": 2486.83,
     "hms": "00h40m48s-00h41m27s",
     "file_name": "Speaker_06_Councilman_Ken_Moody_turn07_global069_00h40m48s-00h41m27s.mp4",
-    "text_preview": "Thank you Mr. Chairman, through you. Uh one thing to think about, I really do foresee these being used in weather-related emergencies, especially we have a severe blizzard, or God forbid tornadoes, they can get through a"
+    "text_preview": "Thank you Mr. Chairman, through you. Uh one thing to think about, I really do foresee these being used in weather-related emergencies, especially we have a severe blizzard, or God forbid tornadoes, they can get through a",
+    "speaker_original_automatic_label": "Speaker_06_Councilman_Ken_Moody"
   },
   {
     "global_idx": 70,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 18,
     "start": 2486.84,
     "end": 2507.07,
     "hms": "00h41m27s-00h41m47s",
     "file_name": "Speaker_01_Meeting_Chair_turn18_global070_00h41m27s-00h41m47s.mp4",
-    "text_preview": "All in favor, signify by saying aye. I'm seeing that that vote is unanimous. The recommendation of the finance committee at the next meeting of the governing body will be to approve the amount of eight hundred and fifty-"
+    "text_preview": "All in favor, signify by saying aye. I'm seeing that that vote is unanimous. The recommendation of the finance committee at the next meeting of the governing body will be to approve the amount of eight hundred and fifty-",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 71,
-    "speaker": "Speaker_08_Councilman_Labor",
+    "speaker": "Speaker_08_Unverified_Voice",
     "speaker_turn": 3,
     "start": 2507.08,
     "end": 2509.8,
     "hms": "00h41m47s-00h41m50s",
     "file_name": "Speaker_08_Councilman_Labor_turn03_global071_00h41m47s-00h41m50s.mp4",
-    "text_preview": "Thanks Mr. Chairman."
+    "text_preview": "Thanks Mr. Chairman.",
+    "speaker_original_automatic_label": "Speaker_08_Councilman_Labor"
   }
 ]

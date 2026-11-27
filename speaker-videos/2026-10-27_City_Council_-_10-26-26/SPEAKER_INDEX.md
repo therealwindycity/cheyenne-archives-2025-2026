@@ -26,37 +26,39 @@
 - **`01h23m08s`** — Number 15, ordinance, first reading, creating sections 1.1.8, 1.1.9, and 5.8.9, and amending sections 1.4.3, 4.5.3, and 4.5.4 four of the unified development code to clarify requirements around establishing uses including expectations for all construction sites.
 - **`01h23m31s`** — Number 17, resolution amending the city's general fund balance policy to provide for fiscal year end review of certain general fund balances and potential transfers to the storm water runoff management system account up to an aggregate amount of $10 million.
 
+> ⚠️ **Speaker names corrected (2026-11-27):** automatically guessed names were unreliable and are now shown as `Unverified_Voice`; clip file names inside the ZIPs may still carry the old automatic label (listed as `speaker_original_automatic_label` in manifest.json).
+
 ## 🎭 Cast of Characters & Speaker Video Archives
 
 | Cast Member / Speaker | Turns | Archive Size | Download Clips ZIP |
 |---|---:|---:|---|
-| `Speaker_01_Meeting_Chair` | 65 | 106.7 MB | [Download `Speaker_01_Meeting_Chair_65_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_01_Meeting_Chair_65_clips.zip) |
+| `Speaker_01_Unverified_Voice` | 65 | 106.7 MB | [Download `Speaker_01_Unverified_Voice_65_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_01_Unverified_Voice_65_clips.zip) |
 | `Speaker_02_Voice_Cluster_06` | 1 | 0.4 MB | [Download `Speaker_02_Voice_Cluster_06_01_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_02_Voice_Cluster_06_01_clips.zip) |
-| `Speaker_03_Mr._Mayor` | 58 | 62.4 MB | [Download `Speaker_03_Mr._Mayor_58_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_03_Mr._Mayor_58_clips.zip) |
-| `Speaker_04_Mr._Miller` | 16 | 12.1 MB | [Download `Speaker_04_Mr._Miller_16_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_04_Mr._Miller_16_clips.zip) |
+| `Speaker_03_Unverified_Voice` | 58 | 62.4 MB | [Download `Speaker_03_Unverified_Voice_58_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_03_Unverified_Voice_58_clips.zip) |
+| `Speaker_04_Unverified_Voice` | 16 | 12.1 MB | [Download `Speaker_04_Unverified_Voice_16_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_04_Unverified_Voice_16_clips.zip) |
 | `Speaker_05_Voice_Cluster_01` | 13 | 7.3 MB | [Download `Speaker_05_Voice_Cluster_01_13_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_05_Voice_Cluster_01_13_clips.zip) |
-| `Speaker_06_Dr_Kathy_Emmons_Council` | 13 | 59.7 MB | [Download `Speaker_06_Dr_Kathy_Emmons_Council_13_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_06_Dr_Kathy_Emmons_Council_13_clips.zip) |
-| `Speaker_07_Meeting_Clerk` | 23 | 100.5 MB | [Download `Speaker_07_Meeting_Clerk_23_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_07_Meeting_Clerk_23_clips.zip) |
+| `Speaker_06_Unverified_Voice` | 13 | 59.7 MB | [Download `Speaker_06_Unverified_Voice_13_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_06_Unverified_Voice_13_clips.zip) |
+| `Speaker_07_Unverified_Voice` | 23 | 100.5 MB | [Download `Speaker_07_Unverified_Voice_23_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_07_Unverified_Voice_23_clips.zip) |
 | `Speaker_08_Voice_Cluster_02` | 5 | 3.3 MB | [Download `Speaker_08_Voice_Cluster_02_05_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_08_Voice_Cluster_02_05_clips.zip) |
-| `Speaker_09_Mr._Williams` | 3 | 20.1 MB | [Download `Speaker_09_Mr._Williams_03_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_09_Mr._Williams_03_clips.zip) |
+| `Speaker_09_Unverified_Voice` | 3 | 20.1 MB | [Download `Speaker_09_Unverified_Voice_03_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_09_Unverified_Voice_03_clips.zip) |
 | `Speaker_11_Voice_Cluster_05` | 2 | 1.4 MB | [Download `Speaker_11_Voice_Cluster_05_02_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_11_Voice_Cluster_05_02_clips.zip) |
 | `Speaker_12_Voice_Cluster_04` | 5 | 2.8 MB | [Download `Speaker_12_Voice_Cluster_04_05_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_12_Voice_Cluster_04_05_clips.zip) |
-| `Speaker_13_Councilman_Larry_Wolf` | 19 | 30.8 MB | [Download `Speaker_13_Councilman_Larry_Wolf_19_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_13_Councilman_Larry_Wolf_19_clips.zip) |
-| `Speaker_14_Michelle_Aldrich_Council` | 35 | 183.4 MB | [Download `Speaker_14_Michelle_Aldrich_Council_35_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_14_Michelle_Aldrich_Council_35_clips.zip) |
-| `Speaker_15_Mr._White` | 28 | 193.9 MB | [Download `Speaker_15_Mr._White_28_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_15_Mr._White_28_clips.zip) |
-| `Speaker_16_Dr._Ritz` | 24 | 128.4 MB | [Download `Speaker_16_Dr._Ritz_24_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_16_Dr._Ritz_24_clips.zip) |
-| `Speaker_17_Councilman_Ken_Moody` | 9 | 18.0 MB | [Download `Speaker_17_Councilman_Ken_Moody_09_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_17_Councilman_Ken_Moody_09_clips.zip) |
-| `Speaker_18_Mr._Bloom` | 10 | 39.2 MB | [Download `Speaker_18_Mr._Bloom_10_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_18_Mr._Bloom_10_clips.zip) |
+| `Speaker_13_Unverified_Voice` | 19 | 30.8 MB | [Download `Speaker_13_Unverified_Voice_19_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_13_Unverified_Voice_19_clips.zip) |
+| `Speaker_14_Unverified_Voice` | 35 | 183.4 MB | [Download `Speaker_14_Unverified_Voice_35_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_14_Unverified_Voice_35_clips.zip) |
+| `Speaker_15_Unverified_Voice` | 28 | 193.9 MB | [Download `Speaker_15_Unverified_Voice_28_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_15_Unverified_Voice_28_clips.zip) |
+| `Speaker_16_Unverified_Voice` | 24 | 128.4 MB | [Download `Speaker_16_Unverified_Voice_24_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_16_Unverified_Voice_24_clips.zip) |
+| `Speaker_17_Unverified_Voice` | 9 | 18.0 MB | [Download `Speaker_17_Unverified_Voice_09_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_17_Unverified_Voice_09_clips.zip) |
+| `Speaker_18_Unverified_Voice` | 10 | 39.2 MB | [Download `Speaker_18_Unverified_Voice_10_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_18_Unverified_Voice_10_clips.zip) |
 | `Speaker_19_Voice_Cluster_10` | 3 | 2.0 MB | [Download `Speaker_19_Voice_Cluster_10_03_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_19_Voice_Cluster_10_03_clips.zip) |
-| `Speaker_20_Councilman_Pete_Laybourn_or_Segrave` | 6 | 13.0 MB | [Download `Speaker_20_Councilman_Pete_Laybourn_or_Segrave_06_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_20_Councilman_Pete_Laybourn_or_Segrave_06_clips.zip) |
-| `Speaker_21_Mayor_Patrick_Collins` | 5 | 7.3 MB | [Download `Speaker_21_Mayor_Patrick_Collins_05_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_21_Mayor_Patrick_Collins_05_clips.zip) |
-| `Speaker_22_Mr._James` | 8 | 78.7 MB | [Download `Speaker_22_Mr._James_08_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_22_Mr._James_08_clips.zip) |
+| `Speaker_20_Unverified_Voice` | 6 | 13.0 MB | [Download `Speaker_20_Unverified_Voice_06_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_20_Unverified_Voice_06_clips.zip) |
+| `Speaker_21_Unverified_Voice` | 5 | 7.3 MB | [Download `Speaker_21_Unverified_Voice_05_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_21_Unverified_Voice_05_clips.zip) |
+| `Speaker_22_Unverified_Voice` | 8 | 78.7 MB | [Download `Speaker_22_Unverified_Voice_08_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_22_Unverified_Voice_08_clips.zip) |
 | `Speaker_23_Voice_Cluster_03` | 2 | 1.4 MB | [Download `Speaker_23_Voice_Cluster_03_02_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_23_Voice_Cluster_03_02_clips.zip) |
 | `Speaker_24_Voice_Cluster_07` | 2 | 3.5 MB | [Download `Speaker_24_Voice_Cluster_07_02_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-27-FaIR-fx4sXs/Speaker_24_Voice_Cluster_07_02_clips.zip) |
 
 ## ⏱️ Verbatim Turn Timestamps
 
-### `Speaker_01_Meeting_Chair` (65 turns)
+### `Speaker_01_Unverified_Voice` (65 turns)
 - **Turn 01** (`00h04m18s-00h04m20s`) — *would take the role, please.*
 - **Turn 02** (`00h05m26s-00h05m31s`) — *All right. Are there any items a member of the governing body would like to remove from the consent agenda?*
 - **Turn 03** (`00h05m48s-00h05m58s`) — *Hearing none. I would entertain a motion. [So moved. Second.] Been moved by Mr. White, seconded by Dr. Aldridge. All those in favor of the consent agenda with item number 20 removed, please signify by saying I.*
@@ -126,7 +128,7 @@
 ### `Speaker_02_Voice_Cluster_06` (1 turns)
 - **Turn 01** (`00h04m20s-00h04m21s`) — *Mr. Crave,*
 
-### `Speaker_03_Mr._Mayor` (58 turns)
+### `Speaker_03_Unverified_Voice` (58 turns)
 - **Turn 01** (`00h05m32s-00h05m34s`) — *Mr. Leborn.*
 - **Turn 02** (`00h06m35s-00h06m50s`) — *Wait a second. I apologize. You got somebody. Mr. Miller, you can go ahead. We can.*
 - **Turn 03** (`00h09m45s-00h09m47s`) — *We can.*
@@ -186,7 +188,7 @@
 - **Turn 57** (`02h38m47s-02h38m50s`) — *Well deserved. I know he works hard.*
 - **Turn 58** (`02h39m45s-02h39m51s`) — *Anybody else? Hearing none. Thank you so much. We are journed.*
 
-### `Speaker_04_Mr._Miller` (16 turns)
+### `Speaker_04_Unverified_Voice` (16 turns)
 - **Turn 01** (`00h04m22s-00h04m23s`) — *Mr. White,*
 - **Turn 02** (`00h13m22s-00h13m29s`) — *Mr. Miller,*
 - **Turn 03** (`00h20m54s-00h20m57s`) — *Mr. Miller, have I never heard you? We can hear you, sir.*
@@ -219,7 +221,7 @@
 - **Turn 12** (`02h02m36s-02h02m38s`) — *Questions,*
 - **Turn 13** (`02h37m30s-02h37m31s`) — *Thanks, Mr. Williams.*
 
-### `Speaker_06_Dr_Kathy_Emmons_Council` (13 turns)
+### `Speaker_06_Unverified_Voice` (13 turns)
 - **Turn 01** (`00h18m02s-00h18m15s`) — *My comment concerns whether the supporting findings accurately describe this particular application. Okay. Um, if I could proceed, I I would uh I I do have more on this one.*
 - **Turn 02** (`00h18m17s-00h19m42s`) — *The ordinance's legal description identifies approximately 5.06 acres, but the supporting staff report says the applicant petition for roughly 162.42 acres to be annexed. The cover memorandum also explains that the assig*
 - **Turn 03** (`00h20m57s-00h23m00s`) — *It's actually been several times, and I'll I could point those out to you maybe if you send me an email some one of these days. Um, okay. Uh, item number 10, sorry, mayor, council Charles Miller. Item number 10, Havl pro*
@@ -234,7 +236,7 @@
 - **Turn 12** (`02h37m11s-02h37m24s`) — *Yeah, it's still it's still not it's still not fixed. I went by there today and they have not even touched it. Mr.*
 - **Turn 13** (`02h38m10s-02h38m47s`) — *Mr. Mayor, thank you. Um, I wanted to recognize um that Dr. Joe Schaefer from LC was recognized last week by the um ACCT, which I believe is American Association of Community College Trustees as the Western Regional CEO *
 
-### `Speaker_07_Meeting_Clerk` (23 turns)
+### `Speaker_07_Unverified_Voice` (23 turns)
 - **Turn 01** (`00h04m25s-00h04m27s`) — *Dr. Aldrich, [present.] Mayor Collins,*
 - **Turn 02** (`00h04m28s-00h04m31s`) — *Dr. Emmens, [here.] Mr. Escabel,*
 - **Turn 03** (`00h04m31s-00h04m34s`) — *Mr. Leborn, [present.] Mr. Moody,*
@@ -266,7 +268,7 @@
 - **Turn 04** (`01h22m51s-01h22m52s`) — *No, I'm sorry.*
 - **Turn 05** (`02h33m39s-02h33m41s`) — *Hello. Can you hear me?*
 
-### `Speaker_09_Mr._Williams` (3 turns)
+### `Speaker_09_Unverified_Voice` (3 turns)
 - **Turn 01** (`00h37m29s-00h37m31s`) — *As a followup, Mayor Collins.*
 - **Turn 02** (`01h20m19s-01h22m50s`) — *Uh, I do, Mr. uh, Mayor. Thank you very much through you. Um, just want to respond to the last couple comments we've had. Um, and the problems you all think that you come here and make comments to us and then we sit here*
 - **Turn 03** (`02h37m31s-02h37m50s`) — *Mr. Mr. Mayor, just uh an observation uh on that point. I mean, I drive by that all the time. It it strikes me that the intention is not to have pedestrians on that hole up against that fence. It's all rumble stripped fo*
@@ -282,7 +284,7 @@
 - **Turn 04** (`01h05m26s-01h05m32s`) — *Mr. Miller, you can go ahead.*
 - **Turn 05** (`02h33m33s-02h33m35s`) — *Mr. Miller, you can go ahead.*
 
-### `Speaker_13_Councilman_Larry_Wolf` (19 turns)
+### `Speaker_13_Unverified_Voice` (19 turns)
 - **Turn 01** (`00h05m38s-00h05m48s`) — *All right. That's the special use permit for the uh gambling uh nation way. Yes. Anybody else?*
 - **Turn 02** (`00h08m54s-00h08m58s`) — *All right. Is there anybody else? All right. Dr. Aldridge.*
 - **Turn 03** (`00h11m15s-00h11m27s`) — *Seconded by Mr. Wolf. Charles, I'm looking at U section five and it does say AG. Um,*
@@ -303,7 +305,7 @@
 - **Turn 18** (`02h27m37s-02h27m41s`) — *All right. Hearing none. How about revenue?*
 - **Turn 19** (`02h31m02s-02h31m06s`) — *All right. How about revenue?*
 
-### `Speaker_14_Michelle_Aldrich_Council` (35 turns)
+### `Speaker_14_Unverified_Voice` (35 turns)
 - **Turn 01** (`00h06m34s-00h06m35s`) — *Mr. Mayor, the recommendation of*
 - **Turn 02** (`00h08m58s-00h09m03s`) — *Mr. Mayor, the recommendation of the public services committee is to approve on second reading, and I so move.*
 - **Turn 03** (`00h11m08s-00h11m14s`) — *Mr. Mayor, the recommendation of the public services committee is to approve on second reading and I so move.*
@@ -340,7 +342,7 @@
 - **Turn 34** (`02h36m42s-02h37m08s`) — *Okay. Hey, I just wanted to uh make you aware, Mr. mayor, that uh that that part of that sidewalk is not fixed yet. And I asked you guys last time to call the DOT and let them know that they need to fix that. Somebody's *
 - **Turn 35** (`02h37m24s-02h37m30s`) — *All right. I know you guys I know you guys want to go home, so uh have a good night.*
 
-### `Speaker_15_Mr._White` (28 turns)
+### `Speaker_15_Unverified_Voice` (28 turns)
 - **Turn 01** (`00h06m50s-00h08m54s`) — *Jennifer, can you please turn the clock on? Um, mayor Council Charles Miller. My comment concerns the annexation and findings and the responsibilities this action establishes. Uh, the staff report says the city construct*
 - **Turn 02** (`00h12m03s-00h12m06s`) — *I'll move to amend to correct that.*
 - **Turn 03** (`00h15m50s-00h16m19s`) — *Thank you, Mr. Mayor. Through you and I'm maybe Mr. Brody can um also help out this. I thought with state law that we have to have a public hearing before we determine if uh property meets all the annexation requirements*
@@ -370,7 +372,7 @@
 - **Turn 27** (`02h28m16s-02h28m27s`) — *Okay. So, she just ackner for the the record here. Uh, can can you just acknowledge that that this has happened multiple times? She actually acknowledged the fact.*
 - **Turn 28** (`02h38m51s-02h39m37s`) — *Thank you, Mr. Mayor. Through you. Uh, just wanted to recognize uh Jason and the staff at Community Recreation and Events DDA and Downtown First for putting on one heck of a trunk or treat uh throughout the downtown uh t*
 
-### `Speaker_16_Dr._Ritz` (24 turns)
+### `Speaker_16_Unverified_Voice` (24 turns)
 - **Turn 01** (`00h09m47s-00h11m01s`) — *Uh, mayor and council Charles Miller. This item contains a specific conflict in the ordinance's wording. The title proposes BP Business Park. The staff recommendation also proposes business park, but section five, the op*
 - **Turn 02** (`00h16m37s-00h16m45s`) — *Mr. Mayor, there's no statutory requirement when that public hearing occurs. It just needs to be during the council's consideration of the annexation proposal.*
 - **Turn 03** (`00h23m05s-00h23m30s`) — *Yeah. Thank you, Mayor, City Council members. Brad Emmens, AVI, agent for the applicant. Um, this resoning is being uh considered to uh be able to merge the Havl property in the future with the Reed property. um when we *
@@ -396,7 +398,7 @@
 - **Turn 23** (`01h56m35s-01h57m00s`) — *Yes, this is not a dry facility. we do not have a liquor license. Um however it is intended to eventually apply for a liquor license. The current owner of Cadillac Ranch is taking his liquor license um I understand to hi*
 - **Turn 24** (`02h28m41s-02h30m56s`) — *Oh. Oh, okay. Um, well, if this council wants to understand where public money actually flows when nobody is looking, you don't look at the headline budget speeches. You audit the ledgers. And tonight's audit of the Octo*
 
-### `Speaker_17_Councilman_Ken_Moody` (9 turns)
+### `Speaker_17_Unverified_Voice` (9 turns)
 - **Turn 01** (`00h11m36s-00h11m48s`) — *Yes. Mayor, uh, Conor Way Planning Development Department. I did just notice that and it should be BP. So, if council does want to correct that or I can correct it and have a substitute at the next meeting. Um,*
 - **Turn 02** (`00h11m51s-00h11m59s`) — *right now would be fine. Um, it is supposed to say BP. That was just an oversight of missing one line in there as going through the entire document.*
 - **Turn 03** (`00h16m19s-00h16m37s`) — *a follow. Mr. Is this that for the other annexations we've had first public, you know, basically public comment hearing and then it was assigned. Feels like we're putting the cart before the horse here because I'm lookin*
@@ -407,7 +409,7 @@
 - **Turn 08** (`02h17m43s-02h18m16s`) — *Thank you, Mr. smear through you. And just another point about the current one off Lincolnway. Nice to do Uber. I only got in three years only got one request at 12:00 a.m. So, and is it is very dead there even on the we*
 - **Turn 09** (`02h39m37s-02h39m40s`) — *Our friendly dentists are very happy about that.*
 
-### `Speaker_18_Mr._Bloom` (10 turns)
+### `Speaker_18_Unverified_Voice` (10 turns)
 - **Turn 01** (`00h43m25s-00h44m14s`) — *Mayor, members of council, Charles Bloom, planning and development director. um the administrative adjustment process as that is referencing that is the administrative process that we have to consider flexibility in any *
 - **Turn 02** (`00h45m53s-00h46m33s`) — *Mayor, members of council, and Dr. Aldrich, um the one thing I would note is the administrative adjustment process does have specific review criteria that we must look at. So it's not just a a blank check where there's n*
 - **Turn 03** (`00h46m52s-00h47m02s`) — *Mr. Blue, um I'm navigating to that really quick. Which one is C1?*
@@ -424,7 +426,7 @@
 - **Turn 02** (`00h38m15s-00h38m24s`) — *All right. Is there anybody in the audience want to speak to the change in the UDC for parking areas? Jennifer [clears throat]*
 - **Turn 03** (`01h23m02s-01h23m04s`) — *I. Those opposed.*
 
-### `Speaker_20_Councilman_Pete_Laybourn_or_Segrave` (6 turns)
+### `Speaker_20_Unverified_Voice` (6 turns)
 - **Turn 01** (`00h24m01s-00h24m02s`) — *Those opposed.*
 - **Turn 02** (`01h01m52s-01h01m56s`) — *Those opposed, this ordinance is approved also on second reading.*
 - **Turn 03** (`01h14m27s-01h14m35s`) — *Mr. Mayor, does does this ordinance specify a certain type of electric fencing?*
@@ -432,14 +434,14 @@
 - **Turn 05** (`01h32m37s-01h33m34s`) — *Mr. Mayor, I I believe the intent of this is is noble. Um, but as mentioned, the the state legislature has a tendency to to create the term I've heard is coffee cans of money for little projects around the state. And it *
 - **Turn 06** (`02h27m52s-02h28m01s`) — *Well, we're on revenue now. So, Yeah. So, she did miss me on vouchers. Uh,*
 
-### `Speaker_21_Mayor_Patrick_Collins` (5 turns)
+### `Speaker_21_Unverified_Voice` (5 turns)
 - **Turn 01** (`00h32m10s-00h32m24s`) — *as a followup, Mayor Collins, I believe when we talk about the slaughtering and that it did talk about 10,000 animal units, that seems I would not I would not think of that as being small scale. So,*
 - **Turn 02** (`00h34m00s-00h34m17s`) — *follow-up question, Mayor Collins. So, I just want to make sure that I understand this. So, if I had 40 acres, um, I could have 40 chickens, 40 rabbits, 40 calves, 40 pigs, or is it a total of 40 regardless of the combin*
 - **Turn 03** (`00h37m31s-00h37m48s`) — *Yes, ma'am. Um it is it should be noted that these were submitted um through our portal actually as questions um under the public comment um function of that portal. Um but they were never answered. So, thank you for ans*
 - **Turn 04** (`00h38m54s-00h38m56s`) — *why Fresh.*
 - **Turn 05** (`00h47m52s-00h47m58s`) — *Followup. Yes, ma'am. Would that include uh ASIS without ADA parking?*
 
-### `Speaker_22_Mr._James` (8 turns)
+### `Speaker_22_Unverified_Voice` (8 turns)
 - **Turn 01** (`00h38m33s-00h38m39s`) — *can I can I talk about what you just what you just talked about, Mr. Mayor?*
 - **Turn 02** (`00h57m46s-00h57m48s`) — *Anybody else? Dr. Aldridge,*
 - **Turn 03** (`01h58m29s-02h02m36s`) — *All right, Mr. Mayor, members of council, Captain David James, Cheyenne Police Department. Yeah. Today, uh, both yourself and Mr. Moody reached out um, asking for stats on on calls for service on this. And so, it's it's *

@@ -1,43 +1,47 @@
 [
   {
     "global_idx": 1,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 1,
     "start": 112.88,
     "end": 160.47,
     "hms": "00h01m53s-00h02m40s",
     "file_name": "Speaker_01_Meeting_Chair_turn01_global001_00h01m53s-00h02m40s.mp4",
-    "text_preview": "November 2nd public services committee meeting. If you are joining us here in the uh council chambers, if you would make sure that your phone is turned to uh manners mode, we would appreciate it. If you'd like to make pu"
+    "text_preview": "November 2nd public services committee meeting. If you are joining us here in the uh council chambers, if you would make sure that your phone is turned to uh manners mode, we would appreciate it. If you'd like to make pu",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 2,
-    "speaker": "Speaker_02_Dr_Mark_Rinne_Council",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 1,
     "start": 160.48,
     "end": 200.15,
     "hms": "00h02m40s-00h03m20s",
     "file_name": "Speaker_02_Dr_Mark_Rinne_Council_turn01_global002_00h02m40s-00h03m20s.mp4",
-    "text_preview": "Chair, members of the committee, Conor Way, Planning and Development Department. Uh, the annexation before you, it's mainly for Christensen Road. So, it's annexing the rightway. As I'd mentioned, there is the little tria"
+    "text_preview": "Chair, members of the committee, Conor Way, Planning and Development Department. Uh, the annexation before you, it's mainly for Christensen Road. So, it's annexing the rightway. As I'd mentioned, there is the little tria",
+    "speaker_original_automatic_label": "Speaker_02_Dr_Mark_Rinne_Council"
   },
   {
     "global_idx": 3,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 2,
     "start": 200.16,
     "end": 222.95,
     "hms": "00h03m20s-00h03m43s",
     "file_name": "Speaker_01_Meeting_Chair_turn02_global003_00h03m20s-00h03m43s.mp4",
-    "text_preview": "Okay. Any questions for staff from the committee? Okay. We will go out for public comment. Is there anyone who would like to make public comment on item number six? If you'd like to go ahead and you have three minutes."
+    "text_preview": "Okay. Any questions for staff from the committee? Okay. We will go out for public comment. Is there anyone who would like to make public comment on item number six? If you'd like to go ahead and you have three minutes.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 4,
-    "speaker": "Speaker_03_Mr._Miller",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 1,
     "start": 222.96,
     "end": 224.15,
     "hms": "00h03m43s-00h03m44s",
     "file_name": "Speaker_03_Mr._Miller_turn01_global004_00h03m43s-00h03m44s.mp4",
-    "text_preview": "Can you hear me?"
+    "text_preview": "Can you hear me?",
+    "speaker_original_automatic_label": "Speaker_03_Mr._Miller"
   },
   {
     "global_idx": 5,
@@ -51,93 +55,102 @@
   },
   {
     "global_idx": 6,
-    "speaker": "Speaker_03_Mr._Miller",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 2,
     "start": 226.24,
     "end": 383.67,
     "hms": "00h03m46s-00h06m24s",
     "file_name": "Speaker_03_Mr._Miller_turn02_global006_00h03m46s-00h06m24s.mp4",
-    "text_preview": "All right. Uh madame chairwoman uh members of the committee Charles Miller uh the city has offered a practical reason for this annexation. It already con constructed and maintains Christensen Road and annexation would cl"
+    "text_preview": "All right. Uh madame chairwoman uh members of the committee Charles Miller uh the city has offered a practical reason for this annexation. It already con constructed and maintains Christensen Road and annexation would cl",
+    "speaker_original_automatic_label": "Speaker_03_Mr._Miller"
   },
   {
     "global_idx": 7,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 3,
     "start": 383.68,
     "end": 431.43,
     "hms": "00h06m24s-00h07m11s",
     "file_name": "Speaker_01_Meeting_Chair_turn03_global007_00h06m24s-00h07m11s.mp4",
-    "text_preview": "We have a motion from Dr. Emmens and a second from Dr. Renie. Is there any discussion? Mr. Miller's comments accurate? Are we is our surveyor happy with the descriptions? U Madam Chair, through you the surveyor has revie"
+    "text_preview": "We have a motion from Dr. Emmens and a second from Dr. Renie. Is there any discussion? Mr. Miller's comments accurate? Are we is our surveyor happy with the descriptions? U Madam Chair, through you the surveyor has revie",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 8,
-    "speaker": "Speaker_05_David_Nicely",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 1,
     "start": 431.44,
     "end": 433.83,
     "hms": "00h07m11s-00h07m14s",
     "file_name": "Speaker_05_David_Nicely_turn01_global008_00h07m11s-00h07m14s.mp4",
-    "text_preview": "Thank you madam chairman."
+    "text_preview": "Thank you madam chairman.",
+    "speaker_original_automatic_label": "Speaker_05_David_Nicely"
   },
   {
     "global_idx": 9,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 4,
     "start": 433.84,
     "end": 445.75,
     "hms": "00h07m14s-00h07m26s",
     "file_name": "Speaker_01_Meeting_Chair_turn04_global009_00h07m14s-00h07m26s.mp4",
-    "text_preview": "Thank you. Any other discussion hearing? None. All in favor say I. [I.] Opposed. This item will move forward with our recommendation to approve on third and final reading. Next item, please."
+    "text_preview": "Thank you. Any other discussion hearing? None. All in favor say I. [I.] Opposed. This item will move forward with our recommendation to approve on third and final reading. Next item, please.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 10,
-    "speaker": "Speaker_07_Meeting_Clerk",
+    "speaker": "Speaker_07_Unverified_Voice",
     "speaker_turn": 1,
     "start": 445.76,
     "end": 461.51,
     "hms": "00h07m26s-00h07m42s",
     "file_name": "Speaker_07_Meeting_Clerk_turn01_global010_00h07m26s-00h07m42s.mp4",
-    "text_preview": "Number seven, ordinance, third reading, amending the official zoning map of the city of Cheyenne, establishing the zoning classification of BP Business Park for land annex to the city of Cheyenne, located south of Tate R"
+    "text_preview": "Number seven, ordinance, third reading, amending the official zoning map of the city of Cheyenne, establishing the zoning classification of BP Business Park for land annex to the city of Cheyenne, located south of Tate R",
+    "speaker_original_automatic_label": "Speaker_07_Meeting_Clerk"
   },
   {
     "global_idx": 11,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 5,
     "start": 461.52,
     "end": 468.31,
     "hms": "00h07m42s-00h07m48s",
     "file_name": "Speaker_01_Meeting_Chair_turn05_global011_00h07m42s-00h07m48s.mp4",
-    "text_preview": "Okay. And as uh the mayor reminds us on a regular basis, we do have to assign zoning to this. So staff report"
+    "text_preview": "Okay. And as uh the mayor reminds us on a regular basis, we do have to assign zoning to this. So staff report",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 12,
-    "speaker": "Speaker_02_Dr_Mark_Rinne_Council",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 2,
     "start": 468.32,
     "end": 504.55,
     "hms": "00h07m48s-00h08m25s",
     "file_name": "Speaker_02_Dr_Mark_Rinne_Council_turn02_global012_00h07m48s-00h08m25s.mp4",
-    "text_preview": "chair and members of committee Conor Way planning and development department. This assigned zoning is just for the triangular piece of portion that uh for the annexation that we just discussed that the city owns. Uh it's"
+    "text_preview": "chair and members of committee Conor Way planning and development department. This assigned zoning is just for the triangular piece of portion that uh for the annexation that we just discussed that the city owns. Uh it's",
+    "speaker_original_automatic_label": "Speaker_02_Dr_Mark_Rinne_Council"
   },
   {
     "global_idx": 13,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 6,
     "start": 504.56,
     "end": 531.19,
     "hms": "00h08m25s-00h08m51s",
     "file_name": "Speaker_01_Meeting_Chair_turn06_global013_00h08m25s-00h08m51s.mp4",
-    "text_preview": "are there any questions for staff? Okay, seeing none or hearing none, we will go out for public comment. Um, and is there anyone that would like to make public comment here in the chambers? Seeing or hearing none, we'll "
+    "text_preview": "are there any questions for staff? Okay, seeing none or hearing none, we will go out for public comment. Um, and is there anyone that would like to make public comment here in the chambers? Seeing or hearing none, we'll ",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 14,
-    "speaker": "Speaker_03_Mr._Miller",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 3,
     "start": 533.84,
     "end": 672.39,
     "hms": "00h08m54s-00h11m12s",
     "file_name": "Speaker_03_Mr._Miller_turn03_global014_00h08m54s-00h11m12s.mp4",
-    "text_preview": "Oh, okay. Um, all right. Uh, uh, Madame Chairwoman, members of the committee, Charles Miller, uh, Christensen Road assigned zoning. This ordinance assigns business park zoning to a small city parcel that staff a city-own"
+    "text_preview": "Oh, okay. Um, all right. Uh, uh, Madame Chairwoman, members of the committee, Charles Miller, uh, Christensen Road assigned zoning. This ordinance assigns business park zoning to a small city parcel that staff a city-own",
+    "speaker_original_automatic_label": "Speaker_03_Mr._Miller"
   },
   {
     "global_idx": 15,
@@ -151,73 +164,80 @@
   },
   {
     "global_idx": 16,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 7,
     "start": 678.0,
     "end": 681.91,
     "hms": "00h11m18s-00h11m22s",
     "file_name": "Speaker_01_Meeting_Chair_turn07_global016_00h11m18s-00h11m22s.mp4",
-    "text_preview": "Hearing or seeing none, I would entertain a motion."
+    "text_preview": "Hearing or seeing none, I would entertain a motion.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 17,
-    "speaker": "Speaker_02_Dr_Mark_Rinne_Council",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 3,
     "start": 681.92,
     "end": 684.95,
     "hms": "00h11m22s-00h11m25s",
     "file_name": "Speaker_02_Dr_Mark_Rinne_Council_turn03_global017_00h11m22s-00h11m25s.mp4",
-    "text_preview": "Madam Chairwoman, I would move to approve on third reading."
+    "text_preview": "Madam Chairwoman, I would move to approve on third reading.",
+    "speaker_original_automatic_label": "Speaker_02_Dr_Mark_Rinne_Council"
   },
   {
     "global_idx": 18,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 8,
     "start": 684.96,
     "end": 699.19,
     "hms": "00h11m25s-00h11m39s",
     "file_name": "Speaker_01_Meeting_Chair_turn08_global018_00h11m25s-00h11m39s.mp4",
-    "text_preview": "Second. We have a motion from Dr. Renie, a second from Dr. Emmens. Is there any discussion? All in favor say I. opposed. This item will move forward with a recommendation to approve on third and final reading. Next item,"
+    "text_preview": "Second. We have a motion from Dr. Renie, a second from Dr. Emmens. Is there any discussion? All in favor say I. opposed. This item will move forward with a recommendation to approve on third and final reading. Next item,",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 19,
-    "speaker": "Speaker_07_Meeting_Clerk",
+    "speaker": "Speaker_07_Unverified_Voice",
     "speaker_turn": 2,
     "start": 699.2,
     "end": 712.95,
     "hms": "00h11m39s-00h11m53s",
     "file_name": "Speaker_07_Meeting_Clerk_turn02_global019_00h11m39s-00h11m53s.mp4",
-    "text_preview": "Number eight, ordinance third reading. Annexing to the city of Cheyenne, Wyoming, land south of East Foxm Road, north of East Allison Road, and east of and adjacent to South College Drive. Staff report, please."
+    "text_preview": "Number eight, ordinance third reading. Annexing to the city of Cheyenne, Wyoming, land south of East Foxm Road, north of East Allison Road, and east of and adjacent to South College Drive. Staff report, please.",
+    "speaker_original_automatic_label": "Speaker_07_Meeting_Clerk"
   },
   {
     "global_idx": 20,
-    "speaker": "Speaker_02_Dr_Mark_Rinne_Council",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 4,
     "start": 712.96,
     "end": 883.75,
     "hms": "00h11m53s-00h14m44s",
     "file_name": "Speaker_02_Dr_Mark_Rinne_Council_turn04_global020_00h11m53s-00h14m44s.mp4",
-    "text_preview": "Chair, members of committee, Conor Way, Planning and Development Department. This annation is owner requested. Um it is part of county pocket 10 which we'll be discussing uh later on the agenda as that has come back. Um "
+    "text_preview": "Chair, members of committee, Conor Way, Planning and Development Department. This annation is owner requested. Um it is part of county pocket 10 which we'll be discussing uh later on the agenda as that has come back. Um ",
+    "speaker_original_automatic_label": "Speaker_02_Dr_Mark_Rinne_Council"
   },
   {
     "global_idx": 21,
-    "speaker": "Speaker_09_Seth_Lloyd_Planning",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 1,
     "start": 883.76,
     "end": 972.87,
     "hms": "00h14m44s-00h16m13s",
     "file_name": "Speaker_09_Seth_Lloyd_Planning_turn01_global021_00h14m44s-00h16m13s.mp4",
-    "text_preview": "Could could another workaround be removing that particular parcel from the annexation prior to the annexation being done? Um, okay. And madam chair, yes, you could technically amend county pocket 10 to remove this parcel"
+    "text_preview": "Could could another workaround be removing that particular parcel from the annexation prior to the annexation being done? Um, okay. And madam chair, yes, you could technically amend county pocket 10 to remove this parcel",
+    "speaker_original_automatic_label": "Speaker_09_Seth_Lloyd_Planning"
   },
   {
     "global_idx": 22,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 9,
     "start": 972.88,
     "end": 994.23,
     "hms": "00h16m13s-00h16m34s",
     "file_name": "Speaker_01_Meeting_Chair_turn09_global022_00h16m13s-00h16m34s.mp4",
-    "text_preview": "Okay. Thank you. Are there any other questions from committee for staff? Okay. Hearing none or seeing none, we'll go out for public comment. Is there anyone here in the chambers who would like to make public comment? Oka"
+    "text_preview": "Okay. Thank you. Are there any other questions from committee for staff? Okay. Hearing none or seeing none, we'll go out for public comment. Is there anyone here in the chambers who would like to make public comment? Oka",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 23,
@@ -231,83 +251,91 @@
   },
   {
     "global_idx": 24,
-    "speaker": "Speaker_03_Mr._Miller",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 4,
     "start": 997.92,
     "end": 1150.95,
     "hms": "00h16m38s-00h19m11s",
     "file_name": "Speaker_03_Mr._Miller_turn04_global024_00h16m38s-00h19m11s.mp4",
-    "text_preview": "Um Madame Chairwoman, members of the committee, Charles Miller, uh staff has now explained the alternative annexation strategy. I'm not disputing that an owner may pursue a separate application, but the explanation depen"
+    "text_preview": "Um Madame Chairwoman, members of the committee, Charles Miller, uh staff has now explained the alternative annexation strategy. I'm not disputing that an owner may pursue a separate application, but the explanation depen",
+    "speaker_original_automatic_label": "Speaker_03_Mr._Miller"
   },
   {
     "global_idx": 25,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 10,
     "start": 1150.96,
     "end": 1158.47,
     "hms": "00h19m11s-00h19m18s",
     "file_name": "Speaker_01_Meeting_Chair_turn10_global025_00h19m11s-00h19m18s.mp4",
-    "text_preview": "Thank you, Mr. Miller. Is there any other public comment? Okay. Hearing or seeing none, I would entertain a motion."
+    "text_preview": "Thank you, Mr. Miller. Is there any other public comment? Okay. Hearing or seeing none, I would entertain a motion.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 26,
-    "speaker": "Speaker_10_Dr_Kathy_Emmons_Council",
+    "speaker": "Speaker_10_Unverified_Voice",
     "speaker_turn": 1,
     "start": 1158.48,
     "end": 1163.91,
     "hms": "00h19m18s-00h19m24s",
     "file_name": "Speaker_10_Dr_Kathy_Emmons_Council_turn01_global026_00h19m18s-00h19m24s.mp4",
-    "text_preview": "Chairwoman, I move to approve on third and final reading."
+    "text_preview": "Chairwoman, I move to approve on third and final reading.",
+    "speaker_original_automatic_label": "Speaker_10_Dr_Kathy_Emmons_Council"
   },
   {
     "global_idx": 27,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 11,
     "start": 1164.64,
     "end": 1199.35,
     "hms": "00h19m25s-00h19m59s",
     "file_name": "Speaker_01_Meeting_Chair_turn11_global027_00h19m25s-00h19m59s.mp4",
-    "text_preview": "We have a motion from Dr. Emmens and a second from Dr. Renie. Um, is there any discussion? Hearing seeing none, all in favor say I. I. opposed. This item will move forward with a recommendation to approve on third and fi"
+    "text_preview": "We have a motion from Dr. Emmens and a second from Dr. Renie. Um, is there any discussion? Hearing seeing none, all in favor say I. I. opposed. This item will move forward with a recommendation to approve on third and fi",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 28,
-    "speaker": "Speaker_02_Dr_Mark_Rinne_Council",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 5,
     "start": 1199.36,
     "end": 1250.71,
     "hms": "00h19m59s-00h20m51s",
     "file_name": "Speaker_02_Dr_Mark_Rinne_Council_turn05_global028_00h19m59s-00h20m51s.mp4",
-    "text_preview": "Chair, members, committee, Conor, Planning Development Department. So this is the assigned zoning for HL property again um with this one. So if the previous annexation is ahead of county pocket 10 you approve that one th"
+    "text_preview": "Chair, members, committee, Conor, Planning Development Department. So this is the assigned zoning for HL property again um with this one. So if the previous annexation is ahead of county pocket 10 you approve that one th",
+    "speaker_original_automatic_label": "Speaker_02_Dr_Mark_Rinne_Council"
   },
   {
     "global_idx": 29,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 12,
     "start": 1250.72,
     "end": 1269.35,
     "hms": "00h20m51s-00h21m09s",
     "file_name": "Speaker_01_Meeting_Chair_turn12_global029_00h20m51s-00h21m09s.mp4",
-    "text_preview": "Thank you. Any questions for staff? Hearing or seeing none, we'll go out for public comment. Is there anyone here in the chambers that has public comment? Seeing or hearing none, I believe Mr. Miller, you have a comment."
+    "text_preview": "Thank you. Any questions for staff? Hearing or seeing none, we'll go out for public comment. Is there anyone here in the chambers that has public comment? Seeing or hearing none, I believe Mr. Miller, you have a comment.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 30,
-    "speaker": "Speaker_05_David_Nicely",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 2,
     "start": 1270.64,
     "end": 1273.83,
     "hms": "00h21m11s-00h21m14s",
     "file_name": "Speaker_05_David_Nicely_turn02_global030_00h21m11s-00h21m14s.mp4",
-    "text_preview": "Yes, we can."
+    "text_preview": "Yes, we can.",
+    "speaker_original_automatic_label": "Speaker_05_David_Nicely"
   },
   {
     "global_idx": 31,
-    "speaker": "Speaker_10_Dr_Kathy_Emmons_Council",
+    "speaker": "Speaker_10_Unverified_Voice",
     "speaker_turn": 2,
     "start": 1273.84,
     "end": 1409.91,
     "hms": "00h21m14s-00h23m30s",
     "file_name": "Speaker_10_Dr_Kathy_Emmons_Council_turn02_global031_00h21m14s-00h23m30s.mp4",
-    "text_preview": "Um, I'm sorry. I just lost my place here. Uh, Charles Miller, Madame Chairwoman, members of the committee, uh, Charles Miller, the has explained that this assigned zoning ordinance may become unnecessary if county pocket"
+    "text_preview": "Um, I'm sorry. I just lost my place here. Uh, Charles Miller, Madame Chairwoman, members of the committee, uh, Charles Miller, the has explained that this assigned zoning ordinance may become unnecessary if county pocket",
+    "speaker_original_automatic_label": "Speaker_10_Dr_Kathy_Emmons_Council"
   },
   {
     "global_idx": 32,
@@ -321,23 +349,25 @@
   },
   {
     "global_idx": 33,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 13,
     "start": 1425.6,
     "end": 1432.07,
     "hms": "00h23m46s-00h23m52s",
     "file_name": "Speaker_01_Meeting_Chair_turn13_global033_00h23m46s-00h23m52s.mp4",
-    "text_preview": "We have a motion from Dr. Renie, a second from Dr. Emmens. Is there any discussion?"
+    "text_preview": "We have a motion from Dr. Renie, a second from Dr. Emmens. Is there any discussion?",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 34,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 14,
     "start": 1434.48,
     "end": 1572.47,
     "hms": "00h23m54s-00h26m12s",
     "file_name": "Speaker_01_Meeting_Chair_turn14_global034_00h23m54s-00h26m12s.mp4",
-    "text_preview": "Opposed. This item will move forward with our recommendation to approve on third and final reading. Next item, please. Number 10. Ordinance. Third reading. Amending the official zoning map of the city of Cheyenne. Changi"
+    "text_preview": "Opposed. This item will move forward with our recommendation to approve on third and final reading. Next item, please. Number 10. Ordinance. Third reading. Amending the official zoning map of the city of Cheyenne. Changi",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 35,
@@ -351,33 +381,36 @@
   },
   {
     "global_idx": 36,
-    "speaker": "Speaker_02_Dr_Mark_Rinne_Council",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 6,
     "start": 1574.16,
     "end": 1585.35,
     "hms": "00h26m14s-00h26m25s",
     "file_name": "Speaker_02_Dr_Mark_Rinne_Council_turn06_global036_00h26m14s-00h26m25s.mp4",
-    "text_preview": "Madam Chairman, I'm just I want to know is there a difference between BP zone or light industrial zone as far as screening or buffering along college drive?"
+    "text_preview": "Madam Chairman, I'm just I want to know is there a difference between BP zone or light industrial zone as far as screening or buffering along college drive?",
+    "speaker_original_automatic_label": "Speaker_02_Dr_Mark_Rinne_Council"
   },
   {
     "global_idx": 37,
-    "speaker": "Speaker_09_Seth_Lloyd_Planning",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 2,
     "start": 1585.36,
     "end": 1599.83,
     "hms": "00h26m25s-00h26m40s",
     "file_name": "Speaker_09_Seth_Lloyd_Planning_turn02_global037_00h26m25s-00h26m40s.mp4",
-    "text_preview": "Um madam chair through you to Dr. Renie. No. Um and I believe it's even the same setback requirement along college in our BP and light industrial. I believe it's 25 ft from from the street is how far a building would hav"
+    "text_preview": "Um madam chair through you to Dr. Renie. No. Um and I believe it's even the same setback requirement along college in our BP and light industrial. I believe it's 25 ft from from the street is how far a building would hav",
+    "speaker_original_automatic_label": "Speaker_09_Seth_Lloyd_Planning"
   },
   {
     "global_idx": 38,
-    "speaker": "Speaker_02_Dr_Mark_Rinne_Council",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 7,
     "start": 1599.84,
     "end": 1646.07,
     "hms": "00h26m40s-00h27m26s",
     "file_name": "Speaker_02_Dr_Mark_Rinne_Council_turn07_global038_00h26m40s-00h27m26s.mp4",
-    "text_preview": "and any and then what would the screening requirements be? Are they going to be required to plant anything along there? Um madam chair through you. So we still have street tree requirements whether it be BP or LI. Uh BP "
+    "text_preview": "and any and then what would the screening requirements be? Are they going to be required to plant anything along there? Um madam chair through you. So we still have street tree requirements whether it be BP or LI. Uh BP ",
+    "speaker_original_automatic_label": "Speaker_02_Dr_Mark_Rinne_Council"
   },
   {
     "global_idx": 39,
@@ -391,113 +424,124 @@
   },
   {
     "global_idx": 40,
-    "speaker": "Speaker_09_Seth_Lloyd_Planning",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 3,
     "start": 1657.76,
     "end": 1675.99,
     "hms": "00h27m38s-00h27m56s",
     "file_name": "Speaker_09_Seth_Lloyd_Planning_turn03_global040_00h27m38s-00h27m56s.mp4",
-    "text_preview": "Man, uh, through you, light industrial allows outdoor storage as a conditional use. [Okay.] So, it does have to go through an extra process. It does allow it. It's just another process that has to go through and then it "
+    "text_preview": "Man, uh, through you, light industrial allows outdoor storage as a conditional use. [Okay.] So, it does have to go through an extra process. It does allow it. It's just another process that has to go through and then it ",
+    "speaker_original_automatic_label": "Speaker_09_Seth_Lloyd_Planning"
   },
   {
     "global_idx": 41,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 15,
     "start": 1676.0,
     "end": 1835.51,
     "hms": "00h27m56s-00h30m36s",
     "file_name": "Speaker_01_Meeting_Chair_turn15_global041_00h27m56s-00h30m36s.mp4",
-    "text_preview": "Thank you. Um, is there anyone any other questions for staff from committee? Is there anyone here in the chambers who would like to make public comment? Mr. Miller, you have your hand raised. Yes, we can. Um, madam, excu"
+    "text_preview": "Thank you. Um, is there anyone any other questions for staff from committee? Is there anyone here in the chambers who would like to make public comment? Mr. Miller, you have your hand raised. Yes, we can. Um, madam, excu",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 42,
-    "speaker": "Speaker_05_David_Nicely",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 3,
     "start": 1835.52,
     "end": 1949.59,
     "hms": "00h30m36s-00h32m30s",
     "file_name": "Speaker_05_David_Nicely_turn03_global042_00h30m36s-00h32m30s.mp4",
-    "text_preview": "Thank you, Mr. Miller. I believe Shelley, um, you have your hand raised. Good afternoon. you'd like. right now. unmuted now. comment? like Mr. Lloyd has a comment and then we'll come back to Shelley if she's able to talk"
+    "text_preview": "Thank you, Mr. Miller. I believe Shelley, um, you have your hand raised. Good afternoon. you'd like. right now. unmuted now. comment? like Mr. Lloyd has a comment and then we'll come back to Shelley if she's able to talk",
+    "speaker_original_automatic_label": "Speaker_05_David_Nicely"
   },
   {
     "global_idx": 43,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 16,
     "start": 1949.6,
     "end": 1992.07,
     "hms": "00h32m30s-00h33m12s",
     "file_name": "Speaker_01_Meeting_Chair_turn16_global043_00h32m30s-00h33m12s.mp4",
-    "text_preview": "Any other public comment here in the chambers? We'll try one more time. Shelley, um, did you have a comment that you'd like to make? you're wanting to. I see that the mute is off. forward. Is um any other public comment "
+    "text_preview": "Any other public comment here in the chambers? We'll try one more time. Shelley, um, did you have a comment that you'd like to make? you're wanting to. I see that the mute is off. forward. Is um any other public comment ",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 44,
-    "speaker": "Speaker_10_Dr_Kathy_Emmons_Council",
+    "speaker": "Speaker_10_Unverified_Voice",
     "speaker_turn": 3,
     "start": 1992.08,
     "end": 1996.15,
     "hms": "00h33m12s-00h33m16s",
     "file_name": "Speaker_10_Dr_Kathy_Emmons_Council_turn03_global044_00h33m12s-00h33m16s.mp4",
-    "text_preview": "Chairwoman, I move to approve on third and final reading."
+    "text_preview": "Chairwoman, I move to approve on third and final reading.",
+    "speaker_original_automatic_label": "Speaker_10_Dr_Kathy_Emmons_Council"
   },
   {
     "global_idx": 45,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 17,
     "start": 1996.96,
     "end": 2036.79,
     "hms": "00h33m17s-00h33m57s",
     "file_name": "Speaker_01_Meeting_Chair_turn17_global045_00h33m17s-00h33m57s.mp4",
-    "text_preview": "We have a motion from Dr. and a second from Dr. Renie. Is there any discussion? Seeing none, all in favor say I. [I.] Opposed? This item will move forward with a recommendation to approve on third and final reading. Next"
+    "text_preview": "We have a motion from Dr. and a second from Dr. Renie. Is there any discussion? Seeing none, all in favor say I. [I.] Opposed? This item will move forward with a recommendation to approve on third and final reading. Next",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 46,
-    "speaker": "Speaker_09_Seth_Lloyd_Planning",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 4,
     "start": 2036.8,
     "end": 2129.27,
     "hms": "00h33m57s-00h35m29s",
     "file_name": "Speaker_09_Seth_Lloyd_Planning_turn04_global046_00h33m57s-00h35m29s.mp4",
-    "text_preview": "Madam Chair, members of the committee, my name is Seth Lloyd. I'm with the City of Shine Planning and Development Department. Um this item coming before you on third reading um has had uh no changes except for one which "
+    "text_preview": "Madam Chair, members of the committee, my name is Seth Lloyd. I'm with the City of Shine Planning and Development Department. Um this item coming before you on third reading um has had uh no changes except for one which ",
+    "speaker_original_automatic_label": "Speaker_09_Seth_Lloyd_Planning"
   },
   {
     "global_idx": 47,
-    "speaker": "Speaker_02_Dr_Mark_Rinne_Council",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 8,
     "start": 2129.28,
     "end": 2164.87,
     "hms": "00h35m29s-00h36m05s",
     "file_name": "Speaker_02_Dr_Mark_Rinne_Council_turn08_global047_00h35m29s-00h36m05s.mp4",
-    "text_preview": "Okay. Seeing or hearing none. Oh, go ahead. Sorry, Dr. Under agricultural uses in the red language, we have um those things that are will be prohibited. Um I believe yeah, general agriculture specifically excludes and it"
+    "text_preview": "Okay. Seeing or hearing none. Oh, go ahead. Sorry, Dr. Under agricultural uses in the red language, we have um those things that are will be prohibited. Um I believe yeah, general agriculture specifically excludes and it",
+    "speaker_original_automatic_label": "Speaker_02_Dr_Mark_Rinne_Council"
   },
   {
     "global_idx": 48,
-    "speaker": "Speaker_09_Seth_Lloyd_Planning",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 5,
     "start": 2164.88,
     "end": 2244.87,
     "hms": "00h36m05s-00h37m25s",
     "file_name": "Speaker_09_Seth_Lloyd_Planning_turn05_global048_00h36m05s-00h37m25s.mp4",
-    "text_preview": "Madam Chair, um through you too, Dr. Rainey, the that section of code has a separate um use called nursery. Um and so we're keeping that use um so we're keeping nurseries as that separate use. next changes, um, under gar"
+    "text_preview": "Madam Chair, um through you too, Dr. Rainey, the that section of code has a separate um use called nursery. Um and so we're keeping that use um so we're keeping nurseries as that separate use. next changes, um, under gar",
+    "speaker_original_automatic_label": "Speaker_09_Seth_Lloyd_Planning"
   },
   {
     "global_idx": 49,
-    "speaker": "Speaker_05_David_Nicely",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 4,
     "start": 2244.88,
     "end": 2251.67,
     "hms": "00h37m25s-00h37m32s",
     "file_name": "Speaker_05_David_Nicely_turn04_global049_00h37m25s-00h37m32s.mp4",
-    "text_preview": "Thank you Madam Chair one. Thank you. Any other questions for staff?"
+    "text_preview": "Thank you Madam Chair one. Thank you. Any other questions for staff?",
+    "speaker_original_automatic_label": "Speaker_05_David_Nicely"
   },
   {
     "global_idx": 50,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 18,
     "start": 2251.68,
     "end": 2485.91,
     "hms": "00h37m32s-00h41m26s",
     "file_name": "Speaker_01_Meeting_Chair_turn18_global050_00h37m32s-00h41m26s.mp4",
-    "text_preview": "Okay. I hearing or seeing none. Is there anyone who would like to make public comment here in the chambers? Walters Yresh Farm. Um, there's a lot of good things in these proposed urban laws that we're excited to see. Um,"
+    "text_preview": "Okay. I hearing or seeing none. Is there anyone who would like to make public comment here in the chambers? Walters Yresh Farm. Um, there's a lot of good things in these proposed urban laws that we're excited to see. Um,",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 51,
@@ -531,43 +575,47 @@
   },
   {
     "global_idx": 54,
-    "speaker": "Speaker_15_Councilman_Tom_Laybourn",
+    "speaker": "Speaker_15_Unverified_Voice",
     "speaker_turn": 1,
     "start": 2492.88,
     "end": 2496.31,
     "hms": "00h41m33s-00h41m36s",
     "file_name": "Speaker_15_Councilman_Tom_Laybourn_turn01_global054_00h41m33s-00h41m36s.mp4",
-    "text_preview": "What we've asked"
+    "text_preview": "What we've asked",
+    "speaker_original_automatic_label": "Speaker_15_Councilman_Tom_Laybourn"
   },
   {
     "global_idx": 55,
-    "speaker": "Speaker_09_Seth_Lloyd_Planning",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 6,
     "start": 2496.32,
     "end": 2713.35,
     "hms": "00h41m36s-00h45m13s",
     "file_name": "Speaker_09_Seth_Lloyd_Planning_turn06_global055_00h41m36s-00h45m13s.mp4",
-    "text_preview": "in the uh David Nicely 200 Waltershide. Um it was included in the agenda um for last week's city council meeting. This document requests for amendments to rules regarding agriculture. various amendments to the city code "
+    "text_preview": "in the uh David Nicely 200 Waltershide. Um it was included in the agenda um for last week's city council meeting. This document requests for amendments to rules regarding agriculture. various amendments to the city code ",
+    "speaker_original_automatic_label": "Speaker_09_Seth_Lloyd_Planning"
   },
   {
     "global_idx": 56,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 19,
     "start": 2713.36,
     "end": 2720.55,
     "hms": "00h45m13s-00h45m21s",
     "file_name": "Speaker_01_Meeting_Chair_turn19_global056_00h45m13s-00h45m21s.mp4",
-    "text_preview": "Thank you, Mr. Nicely. Is there anyone else who would like to make public comment here in the chambers?"
+    "text_preview": "Thank you, Mr. Nicely. Is there anyone else who would like to make public comment here in the chambers?",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 57,
-    "speaker": "Speaker_05_David_Nicely",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 5,
     "start": 2720.56,
     "end": 2773.75,
     "hms": "00h45m21s-00h46m14s",
     "file_name": "Speaker_05_David_Nicely_turn05_global057_00h45m21s-00h46m14s.mp4",
-    "text_preview": "Okay, we will go out for public comment. Um, we'll start with Shelley Kurthers. And Shelley, um, looks like you're on mute right there. It looks like you're on mute. If you could unmute yourself, you should be able to ta"
+    "text_preview": "Okay, we will go out for public comment. Um, we'll start with Shelley Kurthers. And Shelley, um, looks like you're on mute right there. It looks like you're on mute. If you could unmute yourself, you should be able to ta",
+    "speaker_original_automatic_label": "Speaker_05_David_Nicely"
   },
   {
     "global_idx": 58,
@@ -581,163 +629,179 @@
   },
   {
     "global_idx": 59,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 20,
     "start": 2776.96,
     "end": 2777.91,
     "hms": "00h46m17s-00h46m18s",
     "file_name": "Speaker_01_Meeting_Chair_turn20_global059_00h46m17s-00h46m18s.mp4",
-    "text_preview": "Yes, we can."
+    "text_preview": "Yes, we can.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 60,
-    "speaker": "Speaker_03_Mr._Miller",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 5,
     "start": 2777.92,
     "end": 2924.63,
     "hms": "00h46m18s-00h48m45s",
     "file_name": "Speaker_03_Mr._Miller_turn05_global060_00h46m18s-00h48m45s.mp4",
-    "text_preview": "Madam Chairwoman, members of the committee, Charles Miller, the owners have now described repeated requests, specific proposed amendments, and their understanding that legal review cannot be completed before annexation. "
+    "text_preview": "Madam Chairwoman, members of the committee, Charles Miller, the owners have now described repeated requests, specific proposed amendments, and their understanding that legal review cannot be completed before annexation. ",
+    "speaker_original_automatic_label": "Speaker_03_Mr._Miller"
   },
   {
     "global_idx": 61,
-    "speaker": "Speaker_05_David_Nicely",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 6,
     "start": 2924.64,
     "end": 3050.87,
     "hms": "00h48m45s-00h50m51s",
     "file_name": "Speaker_05_David_Nicely_turn06_global061_00h48m45s-00h50m51s.mp4",
-    "text_preview": "Thank you, Mr. Miller. Um, we'll go back and try Shelley Kthers again. Shelley, unmute yourself? I can think of is um Tommy Do you have her um by phone where she could uh we could put her um by speaker phone into the mic"
+    "text_preview": "Thank you, Mr. Miller. Um, we'll go back and try Shelley Kthers again. Shelley, unmute yourself? I can think of is um Tommy Do you have her um by phone where she could uh we could put her um by speaker phone into the mic",
+    "speaker_original_automatic_label": "Speaker_05_David_Nicely"
   },
   {
     "global_idx": 62,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 21,
     "start": 3051.84,
     "end": 3070.79,
     "hms": "00h50m52s-00h51m11s",
     "file_name": "Speaker_01_Meeting_Chair_turn21_global062_00h50m52s-00h51m11s.mp4",
-    "text_preview": "Any other comments? Okay. Um I would entertain a motion. Chairwoman, I move to approve on third and final reading. [Second.] We have a motion from Dr. Amens, a second from Dr. Renie. Is there any discussion?"
+    "text_preview": "Any other comments? Okay. Um I would entertain a motion. Chairwoman, I move to approve on third and final reading. [Second.] We have a motion from Dr. Amens, a second from Dr. Renie. Is there any discussion?",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 63,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 22,
     "start": 3072.8,
     "end": 3080.23,
     "hms": "00h51m13s-00h51m20s",
     "file_name": "Speaker_01_Meeting_Chair_turn22_global063_00h51m13s-00h51m20s.mp4",
-    "text_preview": "Opposed. This item will move forward with our recommendation to approve on third and final reading. Next item, please."
+    "text_preview": "Opposed. This item will move forward with our recommendation to approve on third and final reading. Next item, please.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 64,
-    "speaker": "Speaker_07_Meeting_Clerk",
+    "speaker": "Speaker_07_Unverified_Voice",
     "speaker_turn": 3,
     "start": 3080.24,
     "end": 3094.47,
     "hms": "00h51m20s-00h51m34s",
     "file_name": "Speaker_07_Meeting_Clerk_turn03_global064_00h51m20s-00h51m34s.mp4",
-    "text_preview": "Number 12, ordinance third reading, amending section 6.2.8 8 of the unified development code to allow for onpave parking in certain sightsp specific situations."
+    "text_preview": "Number 12, ordinance third reading, amending section 6.2.8 8 of the unified development code to allow for onpave parking in certain sightsp specific situations.",
+    "speaker_original_automatic_label": "Speaker_07_Meeting_Clerk"
   },
   {
     "global_idx": 65,
-    "speaker": "Speaker_09_Seth_Lloyd_Planning",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 7,
     "start": 3096.4,
     "end": 3146.15,
     "hms": "00h51m36s-00h52m26s",
     "file_name": "Speaker_09_Seth_Lloyd_Planning_turn07_global065_00h51m36s-00h52m26s.mp4",
-    "text_preview": "Madam chair, members of the committee, Seth Lloyd with the city of Shine Planning and Development Department. Um, this ordinance on third reading has been to this committee and to the governing body and we have no update"
+    "text_preview": "Madam chair, members of the committee, Seth Lloyd with the city of Shine Planning and Development Department. Um, this ordinance on third reading has been to this committee and to the governing body and we have no update",
+    "speaker_original_automatic_label": "Speaker_09_Seth_Lloyd_Planning"
   },
   {
     "global_idx": 66,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 23,
     "start": 3146.16,
     "end": 3150.95,
     "hms": "00h52m26s-00h52m31s",
     "file_name": "Speaker_01_Meeting_Chair_turn23_global066_00h52m26s-00h52m31s.mp4",
-    "text_preview": "And these amendments could be done at any time. Is that correct,"
+    "text_preview": "And these amendments could be done at any time. Is that correct,",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 67,
-    "speaker": "Speaker_09_Seth_Lloyd_Planning",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 8,
     "start": 3150.96,
     "end": 3172.55,
     "hms": "00h52m31s-00h52m53s",
     "file_name": "Speaker_09_Seth_Lloyd_Planning_turn08_global067_00h52m31s-00h52m53s.mp4",
-    "text_preview": "Madame Chair? Um, the council can initiate amendments to these sections at any time. um or discussions with uh the staff that are enforcing those sections of code and and see what um what is workable, what what may be um"
+    "text_preview": "Madame Chair? Um, the council can initiate amendments to these sections at any time. um or discussions with uh the staff that are enforcing those sections of code and and see what um what is workable, what what may be um",
+    "speaker_original_automatic_label": "Speaker_09_Seth_Lloyd_Planning"
   },
   {
     "global_idx": 68,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 24,
     "start": 3172.56,
     "end": 3177.75,
     "hms": "00h52m53s-00h52m58s",
     "file_name": "Speaker_01_Meeting_Chair_turn24_global068_00h52m53s-00h52m58s.mp4",
-    "text_preview": "Great. Thank you for that clarification. Are there any questions? Uh Dr. Edmonds."
+    "text_preview": "Great. Thank you for that clarification. Are there any questions? Uh Dr. Edmonds.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 69,
-    "speaker": "Speaker_10_Dr_Kathy_Emmons_Council",
+    "speaker": "Speaker_10_Unverified_Voice",
     "speaker_turn": 4,
     "start": 3177.76,
     "end": 3197.35,
     "hms": "00h52m58s-00h53m17s",
     "file_name": "Speaker_10_Dr_Kathy_Emmons_Council_turn04_global069_00h52m58s-00h53m17s.mp4",
-    "text_preview": "Thank you, Madam Chairwoman. I just want to verify one more time so that we're all on the same page that the federal laws still supersede our regulations regarding ADA accessible parking. Is that correct,"
+    "text_preview": "Thank you, Madam Chairwoman. I just want to verify one more time so that we're all on the same page that the federal laws still supersede our regulations regarding ADA accessible parking. Is that correct,",
+    "speaker_original_automatic_label": "Speaker_10_Dr_Kathy_Emmons_Council"
   },
   {
     "global_idx": 70,
-    "speaker": "Speaker_15_Councilman_Tom_Laybourn",
+    "speaker": "Speaker_15_Unverified_Voice",
     "speaker_turn": 2,
     "start": 3197.36,
     "end": 3199.99,
     "hms": "00h53m17s-00h53m20s",
     "file_name": "Speaker_15_Councilman_Tom_Laybourn_turn02_global070_00h53m17s-00h53m20s.mp4",
-    "text_preview": "Madame Chair? That is correct."
+    "text_preview": "Madame Chair? That is correct.",
+    "speaker_original_automatic_label": "Speaker_15_Councilman_Tom_Laybourn"
   },
   {
     "global_idx": 71,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 25,
     "start": 3200.0,
     "end": 3324.23,
     "hms": "00h53m20s-00h55m24s",
     "file_name": "Speaker_01_Meeting_Chair_turn25_global071_00h53m20s-00h55m24s.mp4",
-    "text_preview": "Thank you. Thank you. Any other questions for staff? Okay. Hearing none, um we will go to uh comments here in the chambers. If anyone would like to make comments on the uh we are talking about the park unpaved parking in"
+    "text_preview": "Thank you. Thank you. Any other questions for staff? Okay. Hearing none, um we will go to uh comments here in the chambers. If anyone would like to make comments on the uh we are talking about the park unpaved parking in",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 72,
-    "speaker": "Speaker_05_David_Nicely",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 7,
     "start": 3324.24,
     "end": 3328.39,
     "hms": "00h55m24s-00h55m28s",
     "file_name": "Speaker_05_David_Nicely_turn07_global072_00h55m24s-00h55m28s.mp4",
-    "text_preview": "Thank you"
+    "text_preview": "Thank you",
+    "speaker_original_automatic_label": "Speaker_05_David_Nicely"
   },
   {
     "global_idx": 73,
-    "speaker": "Speaker_03_Mr._Miller",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 6,
     "start": 3329.28,
     "end": 3386.87,
     "hms": "00h55m29s-00h56m27s",
     "file_name": "Speaker_03_Mr._Miller_turn06_global073_00h55m29s-00h56m27s.mp4",
-    "text_preview": "David Nicely 200 Waltershide. Um I just like to thank the planning commission. There's been uh again um I started in February of this year asking that we could be kind and respectful. Um we've tried to live by that. um h"
+    "text_preview": "David Nicely 200 Waltershide. Um I just like to thank the planning commission. There's been uh again um I started in February of this year asking that we could be kind and respectful. Um we've tried to live by that. um h",
+    "speaker_original_automatic_label": "Speaker_03_Mr._Miller"
   },
   {
     "global_idx": 74,
-    "speaker": "Speaker_05_David_Nicely",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 8,
     "start": 3386.88,
     "end": 3396.86,
     "hms": "00h56m27s-00h56m37s",
     "file_name": "Speaker_05_David_Nicely_turn08_global074_00h56m27s-00h56m37s.mp4",
-    "text_preview": "Thank you. Okay, it looks like Mr. Miller, you have your hand raised."
+    "text_preview": "Thank you. Okay, it looks like Mr. Miller, you have your hand raised.",
+    "speaker_original_automatic_label": "Speaker_05_David_Nicely"
   },
   {
     "global_idx": 75,
@@ -751,73 +815,80 @@
   },
   {
     "global_idx": 76,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 26,
     "start": 3399.52,
     "end": 3560.63,
     "hms": "00h56m40s-00h59m21s",
     "file_name": "Speaker_01_Meeting_Chair_turn26_global076_00h56m40s-00h59m21s.mp4",
-    "text_preview": "Yes, we can. [snorts] Uh, Madam Chairwoman, members of the committee, Charles Miller. Staff has identified a route for reviewing the owner's separate municipal code requests. Council can initiate amendments or discussion"
+    "text_preview": "Yes, we can. [snorts] Uh, Madam Chairwoman, members of the committee, Charles Miller. Staff has identified a route for reviewing the owner's separate municipal code requests. Council can initiate amendments or discussion",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 77,
-    "speaker": "Speaker_10_Dr_Kathy_Emmons_Council",
+    "speaker": "Speaker_10_Unverified_Voice",
     "speaker_turn": 5,
     "start": 3560.64,
     "end": 3564.63,
     "hms": "00h59m21s-00h59m25s",
     "file_name": "Speaker_10_Dr_Kathy_Emmons_Council_turn05_global077_00h59m21s-00h59m25s.mp4",
-    "text_preview": "U Madam Chairwoman, I move to approve on third and final reading."
+    "text_preview": "U Madam Chairwoman, I move to approve on third and final reading.",
+    "speaker_original_automatic_label": "Speaker_10_Dr_Kathy_Emmons_Council"
   },
   {
     "global_idx": 78,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 27,
     "start": 3565.12,
     "end": 3569.03,
     "hms": "00h59m25s-00h59m29s",
     "file_name": "Speaker_01_Meeting_Chair_turn27_global078_00h59m25s-00h59m29s.mp4",
-    "text_preview": "We have a motion from Dr. Emmens, a second from Dr. Renie. Is there any discussion?"
+    "text_preview": "We have a motion from Dr. Emmens, a second from Dr. Renie. Is there any discussion?",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 79,
-    "speaker": "Speaker_02_Dr_Mark_Rinne_Council",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 9,
     "start": 3569.04,
     "end": 3617.75,
     "hms": "00h59m29s-01h00m18s",
     "file_name": "Speaker_02_Dr_Mark_Rinne_Council_turn09_global079_00h59m29s-01h00m18s.mp4",
-    "text_preview": "Madam Chairman, I do have a couple questions if I may. [Sure.] It's under 6.2.8. C3, which is the low usage overflow parking. Um I understand like in the last line I understand Rick like open space trail heads and you kn"
+    "text_preview": "Madam Chairman, I do have a couple questions if I may. [Sure.] It's under 6.2.8. C3, which is the low usage overflow parking. Um I understand like in the last line I understand Rick like open space trail heads and you kn",
+    "speaker_original_automatic_label": "Speaker_02_Dr_Mark_Rinne_Council"
   },
   {
     "global_idx": 80,
-    "speaker": "Speaker_09_Seth_Lloyd_Planning",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 9,
     "start": 3617.76,
     "end": 3686.87,
     "hms": "01h00m18s-01h01m27s",
     "file_name": "Speaker_09_Seth_Lloyd_Planning_turn09_global080_01h00m18s-01h01m27s.mp4",
-    "text_preview": "do we have a respon madam chair? This is Seth at the planning and development department. Um, that is one example of a potential application. Um there's also uh there's also um uh churches are often considered civic or e"
+    "text_preview": "do we have a respon madam chair? This is Seth at the planning and development department. Um, that is one example of a potential application. Um there's also uh there's also um uh churches are often considered civic or e",
+    "speaker_original_automatic_label": "Speaker_09_Seth_Lloyd_Planning"
   },
   {
     "global_idx": 81,
-    "speaker": "Speaker_02_Dr_Mark_Rinne_Council",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 10,
     "start": 3686.88,
     "end": 3721.67,
     "hms": "01h01m27s-01h02m02s",
     "file_name": "Speaker_02_Dr_Mark_Rinne_Council_turn10_global081_01h01m27s-01h02m02s.mp4",
-    "text_preview": "So Madam Chairman, if in the example of a church, if you have a church and they happen to have a field adjacent to their to the church that's part of their property and it happens to get used at Christmas and Easter. I m"
+    "text_preview": "So Madam Chairman, if in the example of a church, if you have a church and they happen to have a field adjacent to their to the church that's part of their property and it happens to get used at Christmas and Easter. I m",
+    "speaker_original_automatic_label": "Speaker_02_Dr_Mark_Rinne_Council"
   },
   {
     "global_idx": 82,
-    "speaker": "Speaker_09_Seth_Lloyd_Planning",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 10,
     "start": 3721.68,
     "end": 3798.95,
     "hms": "01h02m02s-01h03m19s",
     "file_name": "Speaker_09_Seth_Lloyd_Planning_turn10_global082_01h02m02s-01h03m19s.mp4",
-    "text_preview": "you Charles Bloom planning and development director. It really does depend on the the circumstance. for example, Cheyenne Hills um out on US30 in Christensen and the Berean Church which is located just south of Story on "
+    "text_preview": "you Charles Bloom planning and development director. It really does depend on the the circumstance. for example, Cheyenne Hills um out on US30 in Christensen and the Berean Church which is located just south of Story on ",
+    "speaker_original_automatic_label": "Speaker_09_Seth_Lloyd_Planning"
   },
   {
     "global_idx": 83,
@@ -831,43 +902,47 @@
   },
   {
     "global_idx": 84,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 28,
     "start": 3802.0,
     "end": 3863.75,
     "hms": "01h03m22s-01h04m24s",
     "file_name": "Speaker_01_Meeting_Chair_turn28_global084_01h03m22s-01h04m24s.mp4",
-    "text_preview": "Thank you, Madam Chairwoman. Um, I just wanted to respond to Mr. Miller that um, in his comment about getting rid of the ADA compliance. We cannot do that. That's a federal law that we that everybody has to comply with. "
+    "text_preview": "Thank you, Madam Chairwoman. Um, I just wanted to respond to Mr. Miller that um, in his comment about getting rid of the ADA compliance. We cannot do that. That's a federal law that we that everybody has to comply with. ",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 85,
-    "speaker": "Speaker_09_Seth_Lloyd_Planning",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 11,
     "start": 3863.76,
     "end": 3882.07,
     "hms": "01h04m24s-01h04m42s",
     "file_name": "Speaker_09_Seth_Lloyd_Planning_turn11_global085_01h04m24s-01h04m42s.mp4",
-    "text_preview": "Madam Chair, members of the committee, my name is Seth Lloyd. I'm with the City of Shine Planning and Development Department. Um, once again, this is a ordinance on third reading. We have no proposed changes from what yo"
+    "text_preview": "Madam Chair, members of the committee, my name is Seth Lloyd. I'm with the City of Shine Planning and Development Department. Um, once again, this is a ordinance on third reading. We have no proposed changes from what yo",
+    "speaker_original_automatic_label": "Speaker_09_Seth_Lloyd_Planning"
   },
   {
     "global_idx": 86,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 29,
     "start": 3882.08,
     "end": 3905.99,
     "hms": "01h04m42s-01h05m06s",
     "file_name": "Speaker_01_Meeting_Chair_turn29_global086_01h04m42s-01h05m06s.mp4",
-    "text_preview": "There any questions from committee for staff? Okay. Hearing or seeing none, we'll go out for public comment. Is there anyone who would in here in the chambers who would like to make comment on um this item? out for um Mr"
+    "text_preview": "There any questions from committee for staff? Okay. Hearing or seeing none, we'll go out for public comment. Is there anyone who would in here in the chambers who would like to make comment on um this item? out for um Mr",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 87,
-    "speaker": "Speaker_03_Mr._Miller",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 7,
     "start": 3907.28,
     "end": 4059.99,
     "hms": "01h05m07s-01h07m40s",
     "file_name": "Speaker_03_Mr._Miller_turn07_global087_01h05m07s-01h07m40s.mp4",
-    "text_preview": "Yes, we can. [snorts] Charles Miller, Madam Chairwoman, uh, members of the committee, Charles Miller, uh, proceeding comment. I expressly said, I am not asking the city to wave applicable accessibility obligations. I req"
+    "text_preview": "Yes, we can. [snorts] Charles Miller, Madam Chairwoman, uh, members of the committee, Charles Miller, uh, proceeding comment. I expressly said, I am not asking the city to wave applicable accessibility obligations. I req",
+    "speaker_original_automatic_label": "Speaker_03_Mr._Miller"
   },
   {
     "global_idx": 88,
@@ -881,83 +956,91 @@
   },
   {
     "global_idx": 89,
-    "speaker": "Speaker_05_David_Nicely",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 9,
     "start": 4063.84,
     "end": 4257.51,
     "hms": "01h07m44s-01h10m58s",
     "file_name": "Speaker_05_David_Nicely_turn09_global089_01h07m44s-01h10m58s.mp4",
-    "text_preview": "Yeah, David Nicely 200 Waltershide. Um, I think Mr. Miller has correctly identified the problem. Um Tyler Lindholm, who was uh had a hand in writing the uh Wyoming Food Freedom Act on seeing the urban farm amendments, id"
+    "text_preview": "Yeah, David Nicely 200 Waltershide. Um, I think Mr. Miller has correctly identified the problem. Um Tyler Lindholm, who was uh had a hand in writing the uh Wyoming Food Freedom Act on seeing the urban farm amendments, id",
+    "speaker_original_automatic_label": "Speaker_05_David_Nicely"
   },
   {
     "global_idx": 90,
-    "speaker": "Speaker_07_Meeting_Clerk",
+    "speaker": "Speaker_07_Unverified_Voice",
     "speaker_turn": 4,
     "start": 4259.36,
     "end": 4298.47,
     "hms": "01h10m59s-01h11m38s",
     "file_name": "Speaker_07_Meeting_Clerk_turn04_global090_01h10m59s-01h11m38s.mp4",
-    "text_preview": "Tommy Nicely, 200 Walters, Yresh Farm. um talking about trying to make Cheyenne a better place and we would really like to see a government that's more accessible um especially if forced annexations are going to continue"
+    "text_preview": "Tommy Nicely, 200 Walters, Yresh Farm. um talking about trying to make Cheyenne a better place and we would really like to see a government that's more accessible um especially if forced annexations are going to continue",
+    "speaker_original_automatic_label": "Speaker_07_Meeting_Clerk"
   },
   {
     "global_idx": 91,
-    "speaker": "Speaker_09_Seth_Lloyd_Planning",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 12,
     "start": 4300.48,
     "end": 4397.75,
     "hms": "01h11m40s-01h13m18s",
     "file_name": "Speaker_09_Seth_Lloyd_Planning_turn12_global091_01h11m40s-01h13m18s.mp4",
-    "text_preview": "Yeah, Madame Cher Chairman, I just had a question. Um now if I can find it might in regard to F4 um livestock brought in the city for the purpose of being shipped out of the city. We don't really have a stockyard anymore"
+    "text_preview": "Yeah, Madame Cher Chairman, I just had a question. Um now if I can find it might in regard to F4 um livestock brought in the city for the purpose of being shipped out of the city. We don't really have a stockyard anymore",
+    "speaker_original_automatic_label": "Speaker_09_Seth_Lloyd_Planning"
   },
   {
     "global_idx": 92,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 30,
     "start": 4397.76,
     "end": 4463.51,
     "hms": "01h13m18s-01h14m24s",
     "file_name": "Speaker_01_Meeting_Chair_turn30_global092_01h13m18s-01h14m24s.mp4",
-    "text_preview": "Thank you, Madam Chair. Thank you. Okay. Farm. I appreciate that um leniency to have a temporary um higher holding capacity. In the past with wildfires, we have opened up our farm for people that are retreating. And so t"
+    "text_preview": "Thank you, Madam Chair. Thank you. Okay. Farm. I appreciate that um leniency to have a temporary um higher holding capacity. In the past with wildfires, we have opened up our farm for people that are retreating. And so t",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 93,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 31,
     "start": 4463.92,
     "end": 4483.83,
     "hms": "01h14m24s-01h14m44s",
     "file_name": "Speaker_01_Meeting_Chair_turn31_global093_01h14m24s-01h14m44s.mp4",
-    "text_preview": "Opposed. This item will move forward with a recommendation to approve on third and final reading. Next item, please. Number 14, ordinance third reading, amending section 9.12.080 080 of the municipal code of the city of "
+    "text_preview": "Opposed. This item will move forward with a recommendation to approve on third and final reading. Next item, please. Number 14, ordinance third reading, amending section 9.12.080 080 of the municipal code of the city of ",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 94,
-    "speaker": "Speaker_10_Dr_Kathy_Emmons_Council",
+    "speaker": "Speaker_10_Unverified_Voice",
     "speaker_turn": 6,
     "start": 4483.84,
     "end": 4485.35,
     "hms": "01h14m44s-01h14m45s",
     "file_name": "Speaker_10_Dr_Kathy_Emmons_Council_turn06_global094_01h14m44s-01h14m45s.mp4",
-    "text_preview": "Okay. Staff report please."
+    "text_preview": "Okay. Staff report please.",
+    "speaker_original_automatic_label": "Speaker_10_Dr_Kathy_Emmons_Council"
   },
   {
     "global_idx": 95,
-    "speaker": "Speaker_09_Seth_Lloyd_Planning",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 13,
     "start": 4485.36,
     "end": 4541.99,
     "hms": "01h14m45s-01h15m42s",
     "file_name": "Speaker_09_Seth_Lloyd_Planning_turn13_global095_01h14m45s-01h15m42s.mp4",
-    "text_preview": "Chair, members of the committee. Charles Bloom, planning and development director. Um, this was third reading. This was discussed um at the last meeting um of of the regular sorry of the entirety of the governing body wi"
+    "text_preview": "Chair, members of the committee. Charles Bloom, planning and development director. Um, this was third reading. This was discussed um at the last meeting um of of the regular sorry of the entirety of the governing body wi",
+    "speaker_original_automatic_label": "Speaker_09_Seth_Lloyd_Planning"
   },
   {
     "global_idx": 96,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 32,
     "start": 4542.0,
     "end": 4558.95,
     "hms": "01h15m42s-01h15m59s",
     "file_name": "Speaker_01_Meeting_Chair_turn32_global096_01h15m42s-01h15m59s.mp4",
-    "text_preview": "Great. Thank you. Thanks for answering that. Um, okay. Any other questions from committee for staff? Okay. If not, we'll go out for public comment. So, is there anyone here in the chambers who would like to make public c"
+    "text_preview": "Great. Thank you. Thanks for answering that. Um, okay. Any other questions from committee for staff? Okay. If not, we'll go out for public comment. So, is there anyone here in the chambers who would like to make public c",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 97,
@@ -971,13 +1054,14 @@
   },
   {
     "global_idx": 98,
-    "speaker": "Speaker_03_Mr._Miller",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 8,
     "start": 4569.2,
     "end": 4736.47,
     "hms": "01h16m09s-01h18m56s",
     "file_name": "Speaker_03_Mr._Miller_turn08_global098_01h16m09s-01h18m56s.mp4",
-    "text_preview": "All right. Um, [clears throat] Madame Chairwoman, uh, members of the committee, Charles Miller, uh, staff has now said an actively installed electric fence would be grand grandfathered in. That answers one question, but "
+    "text_preview": "All right. Um, [clears throat] Madame Chairwoman, uh, members of the committee, Charles Miller, uh, staff has now said an actively installed electric fence would be grand grandfathered in. That answers one question, but ",
+    "speaker_original_automatic_label": "Speaker_03_Mr._Miller"
   },
   {
     "global_idx": 99,
@@ -991,103 +1075,113 @@
   },
   {
     "global_idx": 100,
-    "speaker": "Speaker_05_David_Nicely",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 10,
     "start": 4740.24,
     "end": 4932.47,
     "hms": "01h19m00s-01h22m12s",
     "file_name": "Speaker_05_David_Nicely_turn10_global100_01h19m00s-01h22m12s.mp4",
-    "text_preview": "Yeah, David Nicely 200 Waltershide. Just a historical note. Um, grandfathering for our fences is not an issue. For the last uh 15 years, we've been discussing and dealing with the city of Cheyenne because water from the "
+    "text_preview": "Yeah, David Nicely 200 Waltershide. Just a historical note. Um, grandfathering for our fences is not an issue. For the last uh 15 years, we've been discussing and dealing with the city of Cheyenne because water from the ",
+    "speaker_original_automatic_label": "Speaker_05_David_Nicely"
   },
   {
     "global_idx": 101,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 33,
     "start": 4932.48,
     "end": 4942.15,
     "hms": "01h22m12s-01h22m22s",
     "file_name": "Speaker_01_Meeting_Chair_turn33_global101_01h22m12s-01h22m22s.mp4",
-    "text_preview": "Thank you, Mr. Nicely. Any other public comment? Okay. Hearing none or seeing none, I would entertain a motion."
+    "text_preview": "Thank you, Mr. Nicely. Any other public comment? Okay. Hearing none or seeing none, I would entertain a motion.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 102,
-    "speaker": "Speaker_10_Dr_Kathy_Emmons_Council",
+    "speaker": "Speaker_10_Unverified_Voice",
     "speaker_turn": 7,
     "start": 4942.16,
     "end": 4947.19,
     "hms": "01h22m22s-01h22m27s",
     "file_name": "Speaker_10_Dr_Kathy_Emmons_Council_turn07_global102_01h22m22s-01h22m27s.mp4",
-    "text_preview": "Madam Chairwoman, I move to approve on third and final reading. Second."
+    "text_preview": "Madam Chairwoman, I move to approve on third and final reading. Second.",
+    "speaker_original_automatic_label": "Speaker_10_Dr_Kathy_Emmons_Council"
   },
   {
     "global_idx": 103,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 34,
     "start": 4947.2,
     "end": 4954.87,
     "hms": "01h22m27s-01h22m35s",
     "file_name": "Speaker_01_Meeting_Chair_turn34_global103_01h22m27s-01h22m35s.mp4",
-    "text_preview": "We have a motion from Dr. Emmens, a second from Dr. Renie. Is there any discussion? Hearing none. All in favor say I."
+    "text_preview": "We have a motion from Dr. Emmens, a second from Dr. Renie. Is there any discussion? Hearing none. All in favor say I.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 104,
-    "speaker": "Speaker_09_Seth_Lloyd_Planning",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 14,
     "start": 4955.6,
     "end": 5353.03,
     "hms": "01h22m36s-01h29m13s",
     "file_name": "Speaker_09_Seth_Lloyd_Planning_turn14_global104_01h22m36s-01h29m13s.mp4",
-    "text_preview": "Opposed. forward with a recommendation to approve on third and final reading. Uh, next item, please. Number 15, Ordinance, second reading, creating sections 1.1.8, 1.1.9, and 5.8.9, and amending sections 1.4.3, 4.5.3, an"
+    "text_preview": "Opposed. forward with a recommendation to approve on third and final reading. Uh, next item, please. Number 15, Ordinance, second reading, creating sections 1.1.8, 1.1.9, and 5.8.9, and amending sections 1.4.3, 4.5.3, an",
+    "speaker_original_automatic_label": "Speaker_09_Seth_Lloyd_Planning"
   },
   {
     "global_idx": 105,
-    "speaker": "Speaker_05_David_Nicely",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 11,
     "start": 5353.04,
     "end": 5360.87,
     "hms": "01h29m13s-01h29m21s",
     "file_name": "Speaker_05_David_Nicely_turn11_global105_01h29m13s-01h29m21s.mp4",
-    "text_preview": "Thank you. Are there any questions from committee for staff? Councilman Lebornne."
+    "text_preview": "Thank you. Are there any questions from committee for staff? Councilman Lebornne.",
+    "speaker_original_automatic_label": "Speaker_05_David_Nicely"
   },
   {
     "global_idx": 106,
-    "speaker": "Speaker_15_Councilman_Tom_Laybourn",
+    "speaker": "Speaker_15_Unverified_Voice",
     "speaker_turn": 3,
     "start": 5360.88,
     "end": 5441.75,
     "hms": "01h29m21s-01h30m42s",
     "file_name": "Speaker_15_Councilman_Tom_Laybourn_turn03_global106_01h29m21s-01h30m42s.mp4",
-    "text_preview": "Thank you, Madam Chairman. Um, and what public participation came as part of uh either the original or this amendment from the uh data center constructors, the data center owners or um was there a public hearing? Uh did "
+    "text_preview": "Thank you, Madam Chairman. Um, and what public participation came as part of uh either the original or this amendment from the uh data center constructors, the data center owners or um was there a public hearing? Uh did ",
+    "speaker_original_automatic_label": "Speaker_15_Councilman_Tom_Laybourn"
   },
   {
     "global_idx": 107,
-    "speaker": "Speaker_09_Seth_Lloyd_Planning",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 15,
     "start": 5441.76,
     "end": 5467.43,
     "hms": "01h30m42s-01h31m07s",
     "file_name": "Speaker_09_Seth_Lloyd_Planning_turn15_global107_01h30m42s-01h31m07s.mp4",
-    "text_preview": "Madame Chair? This is now a two-part ordinance. The planning commission actually had a hearing that addressed more than what is in the ordinance in front of you today. Um, but they postponed the other portion. Um so ever"
+    "text_preview": "Madame Chair? This is now a two-part ordinance. The planning commission actually had a hearing that addressed more than what is in the ordinance in front of you today. Um, but they postponed the other portion. Um so ever",
+    "speaker_original_automatic_label": "Speaker_09_Seth_Lloyd_Planning"
   },
   {
     "global_idx": 108,
-    "speaker": "Speaker_05_David_Nicely",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 12,
     "start": 5467.44,
     "end": 5468.87,
     "hms": "01h31m07s-01h31m09s",
     "file_name": "Speaker_05_David_Nicely_turn12_global108_01h31m07s-01h31m09s.mp4",
-    "text_preview": "Thank you."
+    "text_preview": "Thank you.",
+    "speaker_original_automatic_label": "Speaker_05_David_Nicely"
   },
   {
     "global_idx": 109,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 35,
     "start": 5468.88,
     "end": 5488.95,
     "hms": "01h31m09s-01h31m29s",
     "file_name": "Speaker_01_Meeting_Chair_turn35_global109_01h31m09s-01h31m29s.mp4",
-    "text_preview": "Any other questions from committee hear Dr. Okay. hearing or seeing none we'll go out for public comment. Is there anyone that would like to make public comment here in the chambers? Okay, Mr. Miller, it looks like you a"
+    "text_preview": "Any other questions from committee hear Dr. Okay. hearing or seeing none we'll go out for public comment. Is there anyone that would like to make public comment here in the chambers? Okay, Mr. Miller, it looks like you a",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 110,
@@ -1111,273 +1205,300 @@
   },
   {
     "global_idx": 112,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 36,
     "start": 5493.2,
     "end": 5678.79,
     "hms": "01h31m33s-01h34m39s",
     "file_name": "Speaker_01_Meeting_Chair_turn36_global112_01h31m33s-01h34m39s.mp4",
-    "text_preview": "All right. Um, uh, madame chairwoman, uh, members of the committee, Charles Miller, um, let me see here. item number 15 the UDC text amendment PLTA26-5 quarters public records and utilities. It seems as if you guys have "
+    "text_preview": "All right. Um, uh, madame chairwoman, uh, members of the committee, Charles Miller, um, let me see here. item number 15 the UDC text amendment PLTA26-5 quarters public records and utilities. It seems as if you guys have ",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 113,
-    "speaker": "Speaker_02_Dr_Mark_Rinne_Council",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 11,
     "start": 5678.8,
     "end": 5683.27,
     "hms": "01h34m39s-01h34m43s",
     "file_name": "Speaker_02_Dr_Mark_Rinne_Council_turn11_global113_01h34m39s-01h34m43s.mp4",
-    "text_preview": "Madam Chairwoman, I would move to approve on second reading."
+    "text_preview": "Madam Chairwoman, I would move to approve on second reading.",
+    "speaker_original_automatic_label": "Speaker_02_Dr_Mark_Rinne_Council"
   },
   {
     "global_idx": 114,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 37,
     "start": 5683.84,
     "end": 5692.95,
     "hms": "01h34m44s-01h34m53s",
     "file_name": "Speaker_01_Meeting_Chair_turn37_global114_01h34m44s-01h34m53s.mp4",
-    "text_preview": "We have a motion from Dr. Renie and a second from Dr. Emmens. Is there any discussion? Dr. Renie?"
+    "text_preview": "We have a motion from Dr. Renie and a second from Dr. Emmens. Is there any discussion? Dr. Renie?",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 115,
-    "speaker": "Speaker_05_David_Nicely",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 13,
     "start": 5694.08,
     "end": 5700.87,
     "hms": "01h34m54s-01h35m01s",
     "file_name": "Speaker_05_David_Nicely_turn13_global115_01h34m54s-01h35m01s.mp4",
-    "text_preview": "Mr. like one, but I'll let [Okay.] Gee, thanks."
+    "text_preview": "Mr. like one, but I'll let [Okay.] Gee, thanks.",
+    "speaker_original_automatic_label": "Speaker_05_David_Nicely"
   },
   {
     "global_idx": 116,
-    "speaker": "Speaker_15_Councilman_Tom_Laybourn",
+    "speaker": "Speaker_15_Unverified_Voice",
     "speaker_turn": 4,
     "start": 5700.88,
     "end": 5952.55,
     "hms": "01h35m01s-01h39m13s",
     "file_name": "Speaker_15_Councilman_Tom_Laybourn_turn04_global116_01h35m01s-01h39m13s.mp4",
-    "text_preview": "Uh, Madame Chairman, um, I speak in opposition to this It is uh premature. It is really something that requires a lot more understanding both on the part of ourselves and I think the construction community and particular"
+    "text_preview": "Uh, Madame Chairman, um, I speak in opposition to this It is uh premature. It is really something that requires a lot more understanding both on the part of ourselves and I think the construction community and particular",
+    "speaker_original_automatic_label": "Speaker_15_Councilman_Tom_Laybourn"
   },
   {
     "global_idx": 117,
-    "speaker": "Speaker_05_David_Nicely",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 14,
     "start": 5952.56,
     "end": 5954.71,
     "hms": "01h39m13s-01h39m15s",
     "file_name": "Speaker_05_David_Nicely_turn14_global117_01h39m13s-01h39m15s.mp4",
-    "text_preview": "Councilman Renie."
+    "text_preview": "Councilman Renie.",
+    "speaker_original_automatic_label": "Speaker_05_David_Nicely"
   },
   {
     "global_idx": 118,
-    "speaker": "Speaker_02_Dr_Mark_Rinne_Council",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 12,
     "start": 5954.72,
     "end": 6266.63,
     "hms": "01h39m15s-01h44m27s",
     "file_name": "Speaker_02_Dr_Mark_Rinne_Council_turn12_global118_01h39m15s-01h44m27s.mp4",
-    "text_preview": "Madam Chairwoman, thank you. Um, first of all, I guess before we go any further, I do have an amendment I would like to make, and I hope I get it in the right place. Um, first of all, on page one, line one, we need to am"
+    "text_preview": "Madam Chairwoman, thank you. Um, first of all, I guess before we go any further, I do have an amendment I would like to make, and I hope I get it in the right place. Um, first of all, on page one, line one, we need to am",
+    "speaker_original_automatic_label": "Speaker_02_Dr_Mark_Rinne_Council"
   },
   {
     "global_idx": 119,
-    "speaker": "Speaker_09_Seth_Lloyd_Planning",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 16,
     "start": 6266.64,
     "end": 6297.19,
     "hms": "01h44m27s-01h44m57s",
     "file_name": "Speaker_09_Seth_Lloyd_Planning_turn16_global119_01h44m27s-01h44m57s.mp4",
-    "text_preview": "Thank you, Dr. Renie. Mr. Strong, can you address that question? Cheyen Board of Public Utilities. I believe the question was it was a little hard to hear regards to the construction water and uh fill and flush water fro"
+    "text_preview": "Thank you, Dr. Renie. Mr. Strong, can you address that question? Cheyen Board of Public Utilities. I believe the question was it was a little hard to hear regards to the construction water and uh fill and flush water fro",
+    "speaker_original_automatic_label": "Speaker_09_Seth_Lloyd_Planning"
   },
   {
     "global_idx": 120,
-    "speaker": "Speaker_05_David_Nicely",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 15,
     "start": 6297.2,
     "end": 6305.83,
     "hms": "01h44m57s-01h45m06s",
     "file_name": "Speaker_05_David_Nicely_turn15_global120_01h44m57s-01h45m06s.mp4",
-    "text_preview": "Thank you. Councilman Lebornne."
+    "text_preview": "Thank you. Councilman Lebornne.",
+    "speaker_original_automatic_label": "Speaker_05_David_Nicely"
   },
   {
     "global_idx": 121,
-    "speaker": "Speaker_15_Councilman_Tom_Laybourn",
+    "speaker": "Speaker_15_Unverified_Voice",
     "speaker_turn": 5,
     "start": 6305.84,
     "end": 6606.07,
     "hms": "01h45m06s-01h50m06s",
     "file_name": "Speaker_15_Councilman_Tom_Laybourn_turn05_global121_01h45m06s-01h50m06s.mp4",
-    "text_preview": "Thank you, Madam Chairman. Well, I just heard uh the explanation of the very reason I'm opposing this and that is that this began in September. It is now the beginning of November and over those I don't know probably les"
+    "text_preview": "Thank you, Madam Chairman. Well, I just heard uh the explanation of the very reason I'm opposing this and that is that this began in September. It is now the beginning of November and over those I don't know probably les",
+    "speaker_original_automatic_label": "Speaker_15_Councilman_Tom_Laybourn"
   },
   {
     "global_idx": 122,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 38,
     "start": 6606.08,
     "end": 6779.27,
     "hms": "01h50m06s-01h52m59s",
     "file_name": "Speaker_01_Meeting_Chair_turn38_global122_01h50m06s-01h52m59s.mp4",
-    "text_preview": "Dr. Thank you, Madam Chairwoman. I I'm a little bit confused by all of this because for the last five months, we've heard about the need to make sure that we're protecting water, that we're protecting people from noise i"
+    "text_preview": "Dr. Thank you, Madam Chairwoman. I I'm a little bit confused by all of this because for the last five months, we've heard about the need to make sure that we're protecting water, that we're protecting people from noise i",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 123,
-    "speaker": "Speaker_05_David_Nicely",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 16,
     "start": 6779.28,
     "end": 6782.95,
     "hms": "01h52m59s-01h53m03s",
     "file_name": "Speaker_05_David_Nicely_turn16_global123_01h52m59s-01h53m03s.mp4",
-    "text_preview": "can you hear me? Yes, we can. [snorts]"
+    "text_preview": "can you hear me? Yes, we can. [snorts]",
+    "speaker_original_automatic_label": "Speaker_05_David_Nicely"
   },
   {
     "global_idx": 124,
-    "speaker": "Speaker_03_Mr._Miller",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 9,
     "start": 6782.96,
     "end": 6955.35,
     "hms": "01h53m03s-01h55m55s",
     "file_name": "Speaker_03_Mr._Miller_turn09_global124_01h53m03s-01h55m55s.mp4",
-    "text_preview": "Um madam, Madam Chairwoman, members of the committee, Charles Miller. Um, I'm speaking directly to the amendment restoring section 5.7.1. Uh, Dr. Renie has identified a serious discrepancy. Officials were public publicly"
+    "text_preview": "Um madam, Madam Chairwoman, members of the committee, Charles Miller. Um, I'm speaking directly to the amendment restoring section 5.7.1. Uh, Dr. Renie has identified a serious discrepancy. Officials were public publicly",
+    "speaker_original_automatic_label": "Speaker_03_Mr._Miller"
   },
   {
     "global_idx": 125,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 39,
     "start": 6955.36,
     "end": 6967.99,
     "hms": "01h55m55s-01h56m08s",
     "file_name": "Speaker_01_Meeting_Chair_turn39_global125_01h55m55s-01h56m08s.mp4",
-    "text_preview": "Thank you, Mr. Miller. Any other public comment on the amendment itself? motion in a second. So, um, all in favor say I."
+    "text_preview": "Thank you, Mr. Miller. Any other public comment on the amendment itself? motion in a second. So, um, all in favor say I.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 126,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 40,
     "start": 6970.4,
     "end": 6982.15,
     "hms": "01h56m10s-01h56m22s",
     "file_name": "Speaker_01_Meeting_Chair_turn40_global126_01h56m10s-01h56m22s.mp4",
-    "text_preview": "Okay. this item. The amendment has been approved with Councilman uh Renie and Councilwoman Emmens uh voting yes. Uh we're back now on the main motion."
+    "text_preview": "Okay. this item. The amendment has been approved with Councilman uh Renie and Councilwoman Emmens uh voting yes. Uh we're back now on the main motion.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 127,
-    "speaker": "Speaker_02_Dr_Mark_Rinne_Council",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 13,
     "start": 6982.16,
     "end": 7012.39,
     "hms": "01h56m22s-01h56m52s",
     "file_name": "Speaker_02_Dr_Mark_Rinne_Council_turn13_global127_01h56m22s-01h56m52s.mp4",
-    "text_preview": "Madam Chair, I just want to address Mr. Miller's question, which I'm sure other people will ask. Um the data center that I referred to that is still doing evaporative cooling had their approvals done in November of 2025."
+    "text_preview": "Madam Chair, I just want to address Mr. Miller's question, which I'm sure other people will ask. Um the data center that I referred to that is still doing evaporative cooling had their approvals done in November of 2025.",
+    "speaker_original_automatic_label": "Speaker_02_Dr_Mark_Rinne_Council"
   },
   {
     "global_idx": 128,
-    "speaker": "Speaker_05_David_Nicely",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 17,
     "start": 7012.4,
     "end": 7023.27,
     "hms": "01h56m52s-01h57m03s",
     "file_name": "Speaker_05_David_Nicely_turn17_global128_01h56m52s-01h57m03s.mp4",
-    "text_preview": "Thank you. Any other discussion on the committee? Labour."
+    "text_preview": "Thank you. Any other discussion on the committee? Labour.",
+    "speaker_original_automatic_label": "Speaker_05_David_Nicely"
   },
   {
     "global_idx": 129,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 41,
     "start": 7023.28,
     "end": 7305.19,
     "hms": "01h57m03s-02h01m45s",
     "file_name": "Speaker_01_Meeting_Chair_turn41_global129_01h57m03s-02h01m45s.mp4",
-    "text_preview": "So, we have a motion and a second. Um, we don't need regulation of this sort. I'm suggesting that the specificity is not here and I'm suggesting that um suggest that those of us that want actionable different opinion. Is"
+    "text_preview": "So, we have a motion and a second. Um, we don't need regulation of this sort. I'm suggesting that the specificity is not here and I'm suggesting that um suggest that those of us that want actionable different opinion. Is",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 130,
-    "speaker": "Speaker_05_David_Nicely",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 18,
     "start": 7305.2,
     "end": 7306.79,
     "hms": "02h01m45s-02h01m47s",
     "file_name": "Speaker_05_David_Nicely_turn18_global130_02h01m45s-02h01m47s.mp4",
-    "text_preview": "Opposed?"
+    "text_preview": "Opposed?",
+    "speaker_original_automatic_label": "Speaker_05_David_Nicely"
   },
   {
     "global_idx": 131,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 42,
     "start": 7307.28,
     "end": 7564.79,
     "hms": "02h01m47s-02h06m05s",
     "file_name": "Speaker_01_Meeting_Chair_turn42_global131_02h01m47s-02h06m05s.mp4",
-    "text_preview": "This item will move forward with a recommendation to approve on second reading. Next item, please. Other items. Letter A, Ordinance Third Reading, annexing to the city of Cheyenne, Wyoming various tracks of land complete"
+    "text_preview": "This item will move forward with a recommendation to approve on second reading. Next item, please. Other items. Letter A, Ordinance Third Reading, annexing to the city of Cheyenne, Wyoming various tracks of land complete",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 132,
-    "speaker": "Speaker_09_Seth_Lloyd_Planning",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 17,
     "start": 7567.44,
     "end": 7766.07,
     "hms": "02h06m07s-02h09m26s",
     "file_name": "Speaker_09_Seth_Lloyd_Planning_turn17_global132_02h06m07s-02h09m26s.mp4",
-    "text_preview": "Thank you. Um my friend Cody Smith who's uh runs multiple businesses, runs a farm, started an ice cream business with his wife, stood here in this podium and on March 9th and said um as it's written, as it was done, anne"
+    "text_preview": "Thank you. Um my friend Cody Smith who's uh runs multiple businesses, runs a farm, started an ice cream business with his wife, stood here in this podium and on March 9th and said um as it's written, as it was done, anne",
+    "speaker_original_automatic_label": "Speaker_09_Seth_Lloyd_Planning"
   },
   {
     "global_idx": 133,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 43,
     "start": 7766.08,
     "end": 7767.59,
     "hms": "02h09m26s-02h09m28s",
     "file_name": "Speaker_01_Meeting_Chair_turn43_global133_02h09m26s-02h09m28s.mp4",
-    "text_preview": "thank you, Mr. Nicely."
+    "text_preview": "thank you, Mr. Nicely.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 134,
-    "speaker": "Speaker_05_David_Nicely",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 19,
     "start": 7767.6,
     "end": 7787.11,
     "hms": "02h09m28s-02h09m47s",
     "file_name": "Speaker_05_David_Nicely_turn19_global134_02h09m28s-02h09m47s.mp4",
-    "text_preview": "Thank you. Okay. Is there any other public comment here in the chambers? Okay, we'll go ahead and go online. Mr. Miller,"
+    "text_preview": "Thank you. Okay. Is there any other public comment here in the chambers? Okay, we'll go ahead and go online. Mr. Miller,",
+    "speaker_original_automatic_label": "Speaker_05_David_Nicely"
   },
   {
     "global_idx": 135,
-    "speaker": "Speaker_03_Mr._Miller",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 10,
     "start": 7788.64,
     "end": 7918.87,
     "hms": "02h09m49s-02h11m59s",
     "file_name": "Speaker_03_Mr._Miller_turn10_global135_02h09m49s-02h11m59s.mp4",
-    "text_preview": "Yes, we can. the committee, Charles Miller, county pocket 10 annexation staff has just assured this committee [sighs and gasps] that the city has annexed 333 properties across nine ordinances, [clears throat] excuse me, "
+    "text_preview": "Yes, we can. the committee, Charles Miller, county pocket 10 annexation staff has just assured this committee [sighs and gasps] that the city has annexed 333 properties across nine ordinances, [clears throat] excuse me, ",
+    "speaker_original_automatic_label": "Speaker_03_Mr._Miller"
   },
   {
     "global_idx": 136,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 44,
     "start": 7918.88,
     "end": 7944.31,
     "hms": "02h11m59s-02h12m24s",
     "file_name": "Speaker_01_Meeting_Chair_turn44_global136_02h11m59s-02h12m24s.mp4",
-    "text_preview": "Thank you, Mr. Miller. Are there any other public comments? Jennifer, I don't see any online. Okay, I would hearing or seeing none, I would entertain a motion. Madam Chairwoman, I move to approve on third and final readi"
+    "text_preview": "Thank you, Mr. Miller. Are there any other public comments? Jennifer, I don't see any online. Okay, I would hearing or seeing none, I would entertain a motion. Madam Chairwoman, I move to approve on third and final readi",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 137,
-    "speaker": "Speaker_05_David_Nicely",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 20,
     "start": 7944.32,
     "end": 7946.47,
     "hms": "02h12m24s-02h12m26s",
     "file_name": "Speaker_05_David_Nicely_turn20_global137_02h12m24s-02h12m26s.mp4",
-    "text_preview": "Councilman Leborn."
+    "text_preview": "Councilman Leborn.",
+    "speaker_original_automatic_label": "Speaker_05_David_Nicely"
   },
   {
     "global_idx": 138,
-    "speaker": "Speaker_15_Councilman_Tom_Laybourn",
+    "speaker": "Speaker_15_Unverified_Voice",
     "speaker_turn": 6,
     "start": 7946.48,
     "end": 8126.63,
     "hms": "02h12m26s-02h15m27s",
     "file_name": "Speaker_15_Councilman_Tom_Laybourn_turn06_global138_02h12m26s-02h15m27s.mp4",
-    "text_preview": "Thank you, Madam Chairman. many challenging situations, I can't think of anything that quite measures up to this one. I believe that it is uh important for council people to take a vote yay or nay. I don't believe that t"
+    "text_preview": "Thank you, Madam Chairman. many challenging situations, I can't think of anything that quite measures up to this one. I believe that it is uh important for council people to take a vote yay or nay. I don't believe that t",
+    "speaker_original_automatic_label": "Speaker_15_Councilman_Tom_Laybourn"
   },
   {
     "global_idx": 139,
@@ -1391,33 +1512,36 @@
   },
   {
     "global_idx": 140,
-    "speaker": "Speaker_05_David_Nicely",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 21,
     "start": 8128.88,
     "end": 8131.99,
     "hms": "02h15m29s-02h15m32s",
     "file_name": "Speaker_05_David_Nicely_turn21_global140_02h15m29s-02h15m32s.mp4",
-    "text_preview": "All in favor say I."
+    "text_preview": "All in favor say I.",
+    "speaker_original_automatic_label": "Speaker_05_David_Nicely"
   },
   {
     "global_idx": 141,
-    "speaker": "Speaker_07_Meeting_Clerk",
+    "speaker": "Speaker_07_Unverified_Voice",
     "speaker_turn": 5,
     "start": 8133.44,
     "end": 8171.11,
     "hms": "02h15m33s-02h16m11s",
     "file_name": "Speaker_07_Meeting_Clerk_turn05_global141_02h15m33s-02h16m11s.mp4",
-    "text_preview": "This item will move forward with her recommendation to approve on third and final reading. Last item on the agenda, please. Letter B, ordinance third reading, amending the official zoning map of the city of Cheyenne esta"
+    "text_preview": "This item will move forward with her recommendation to approve on third and final reading. Last item on the agenda, please. Letter B, ordinance third reading, amending the official zoning map of the city of Cheyenne esta",
+    "speaker_original_automatic_label": "Speaker_07_Meeting_Clerk"
   },
   {
     "global_idx": 142,
-    "speaker": "Speaker_15_Councilman_Tom_Laybourn",
+    "speaker": "Speaker_15_Unverified_Voice",
     "speaker_turn": 7,
     "start": 8171.12,
     "end": 8236.95,
     "hms": "02h16m11s-02h17m17s",
     "file_name": "Speaker_15_Councilman_Tom_Laybourn_turn07_global142_02h16m11s-02h17m17s.mp4",
-    "text_preview": "Chair, members, committee, Conor Way, Planning and Development Department with any annexation as it's always stated has to have an assigned zone. So, this is the assigned zoning for these various parcels. Uh, parcel one "
+    "text_preview": "Chair, members, committee, Conor Way, Planning and Development Department with any annexation as it's always stated has to have an assigned zone. So, this is the assigned zoning for these various parcels. Uh, parcel one ",
+    "speaker_original_automatic_label": "Speaker_15_Councilman_Tom_Laybourn"
   },
   {
     "global_idx": 143,
@@ -1431,13 +1555,14 @@
   },
   {
     "global_idx": 144,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 45,
     "start": 8242.56,
     "end": 8264.88,
     "hms": "02h17m23s-02h17m45s",
     "file_name": "Speaker_01_Meeting_Chair_turn45_global144_02h17m23s-02h17m45s.mp4",
-    "text_preview": "Excuse me, I turned it off. Oh, is there any uh questions for staff from committee? Hearing or seeing none, we'll go out for public comment. Are there any public comments here in the chambers? hearing none, uh we'll go t"
+    "text_preview": "Excuse me, I turned it off. Oh, is there any uh questions for staff from committee? Hearing or seeing none, we'll go out for public comment. Are there any public comments here in the chambers? hearing none, uh we'll go t",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 145,
@@ -1451,132 +1576,145 @@
   },
   {
     "global_idx": 146,
-    "speaker": "Speaker_05_David_Nicely",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 22,
     "start": 8267.76,
     "end": 8271.42,
     "hms": "02h17m48s-02h17m51s",
     "file_name": "Speaker_05_David_Nicely_turn22_global146_02h17m48s-02h17m51s.mp4",
-    "text_preview": "Yes, we can."
+    "text_preview": "Yes, we can.",
+    "speaker_original_automatic_label": "Speaker_05_David_Nicely"
   },
   {
     "global_idx": 147,
-    "speaker": "Speaker_09_Seth_Lloyd_Planning",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 18,
     "start": 8271.84,
     "end": 8279.99,
     "hms": "02h17m52s-02h18m00s",
     "file_name": "Speaker_09_Seth_Lloyd_Planning_turn18_global147_02h17m52s-02h18m00s.mp4",
-    "text_preview": "All right. Uh, madame chairwoman, uh, members of the committee, Charles Miller,"
+    "text_preview": "All right. Uh, madame chairwoman, uh, members of the committee, Charles Miller,",
+    "speaker_original_automatic_label": "Speaker_09_Seth_Lloyd_Planning"
   },
   {
     "global_idx": 148,
-    "speaker": "Speaker_03_Mr._Miller",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 11,
     "start": 8280.0,
     "end": 8443.27,
     "hms": "02h18m00s-02h20m43s",
     "file_name": "Speaker_03_Mr._Miller_turn11_global148_02h18m00s-02h20m43s.mp4",
-    "text_preview": "uh, today, Councilman Leborn described the county pocket 10 proceedings as a failed process and said the city could do better. That deserves a response in the work, not just a place in the minutes. You do not have to acc"
+    "text_preview": "uh, today, Councilman Leborn described the county pocket 10 proceedings as a failed process and said the city could do better. That deserves a response in the work, not just a place in the minutes. You do not have to acc",
+    "speaker_original_automatic_label": "Speaker_03_Mr._Miller"
   },
   {
     "global_idx": 149,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 46,
     "start": 8443.28,
     "end": 8451.11,
     "hms": "02h20m43s-02h20m51s",
     "file_name": "Speaker_01_Meeting_Chair_turn46_global149_02h20m43s-02h20m51s.mp4",
-    "text_preview": "Thank you, Mr. Miller. Any other public comment? Seeing none, I would entertain a motion."
+    "text_preview": "Thank you, Mr. Miller. Any other public comment? Seeing none, I would entertain a motion.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 150,
-    "speaker": "Speaker_15_Councilman_Tom_Laybourn",
+    "speaker": "Speaker_15_Unverified_Voice",
     "speaker_turn": 8,
     "start": 8451.12,
     "end": 8454.71,
     "hms": "02h20m51s-02h20m55s",
     "file_name": "Speaker_15_Councilman_Tom_Laybourn_turn08_global150_02h20m51s-02h20m55s.mp4",
-    "text_preview": "Madam Chair, I would move to approve."
+    "text_preview": "Madam Chair, I would move to approve.",
+    "speaker_original_automatic_label": "Speaker_15_Councilman_Tom_Laybourn"
   },
   {
     "global_idx": 151,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 47,
     "start": 8454.72,
     "end": 8462.15,
     "hms": "02h20m55s-02h21m02s",
     "file_name": "Speaker_01_Meeting_Chair_turn47_global151_02h20m55s-02h21m02s.mp4",
-    "text_preview": "Second. Uh, we have a motion from Dr. Renie, a second from Dr. Emmens. Is there any discussion?"
+    "text_preview": "Second. Uh, we have a motion from Dr. Renie, a second from Dr. Emmens. Is there any discussion?",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 152,
-    "speaker": "Speaker_05_David_Nicely",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 23,
     "start": 8462.16,
     "end": 8463.43,
     "hms": "02h21m02s-02h21m03s",
     "file_name": "Speaker_05_David_Nicely_turn23_global152_02h21m02s-02h21m03s.mp4",
-    "text_preview": "Yes, Dr. Emmens."
+    "text_preview": "Yes, Dr. Emmens.",
+    "speaker_original_automatic_label": "Speaker_05_David_Nicely"
   },
   {
     "global_idx": 153,
-    "speaker": "Speaker_10_Dr_Kathy_Emmons_Council",
+    "speaker": "Speaker_10_Unverified_Voice",
     "speaker_turn": 8,
     "start": 8463.44,
     "end": 8512.07,
     "hms": "02h21m03s-02h21m52s",
     "file_name": "Speaker_10_Dr_Kathy_Emmons_Council_turn08_global153_02h21m03s-02h21m52s.mp4",
-    "text_preview": "Thank you, Madam Chairwoman. Um, I think Mr. Miller just made such an important point that exceptions don't work and once we start making exceptions, things fall apart. So, thank you for that, Mr. Miller. Um that my ques"
+    "text_preview": "Thank you, Madam Chairwoman. Um, I think Mr. Miller just made such an important point that exceptions don't work and once we start making exceptions, things fall apart. So, thank you for that, Mr. Miller. Um that my ques",
+    "speaker_original_automatic_label": "Speaker_10_Dr_Kathy_Emmons_Council"
   },
   {
     "global_idx": 154,
-    "speaker": "Speaker_09_Seth_Lloyd_Planning",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 19,
     "start": 8512.08,
     "end": 8524.07,
     "hms": "02h21m52s-02h22m04s",
     "file_name": "Speaker_09_Seth_Lloyd_Planning_turn19_global154_02h21m52s-02h22m04s.mp4",
-    "text_preview": "madam chair through you. Uh that is correct. So basically a use as long as that use continues or doesn't stop being a use for a year it is basically grandfathered."
+    "text_preview": "madam chair through you. Uh that is correct. So basically a use as long as that use continues or doesn't stop being a use for a year it is basically grandfathered.",
+    "speaker_original_automatic_label": "Speaker_09_Seth_Lloyd_Planning"
   },
   {
     "global_idx": 155,
-    "speaker": "Speaker_10_Dr_Kathy_Emmons_Council",
+    "speaker": "Speaker_10_Unverified_Voice",
     "speaker_turn": 9,
     "start": 8524.08,
     "end": 8529.27,
     "hms": "02h22m04s-02h22m09s",
     "file_name": "Speaker_10_Dr_Kathy_Emmons_Council_turn09_global155_02h22m04s-02h22m09s.mp4",
-    "text_preview": "So if the nicely decided not to continue somebody else could come in and"
+    "text_preview": "So if the nicely decided not to continue somebody else could come in and",
+    "speaker_original_automatic_label": "Speaker_10_Dr_Kathy_Emmons_Council"
   },
   {
     "global_idx": 156,
-    "speaker": "Speaker_09_Seth_Lloyd_Planning",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 20,
     "start": 8529.28,
     "end": 8530.63,
     "hms": "02h22m09s-02h22m11s",
     "file_name": "Speaker_09_Seth_Lloyd_Planning_turn20_global156_02h22m09s-02h22m11s.mp4",
-    "text_preview": "madam chair that's correct."
+    "text_preview": "madam chair that's correct.",
+    "speaker_original_automatic_label": "Speaker_09_Seth_Lloyd_Planning"
   },
   {
     "global_idx": 157,
-    "speaker": "Speaker_05_David_Nicely",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 24,
     "start": 8530.64,
     "end": 8536.95,
     "hms": "02h22m11s-02h22m17s",
     "file_name": "Speaker_05_David_Nicely_turn24_global157_02h22m11s-02h22m17s.mp4",
-    "text_preview": "Thank you. Any other discussion hearing? None. All in favor say I."
+    "text_preview": "Thank you. Any other discussion hearing? None. All in favor say I.",
+    "speaker_original_automatic_label": "Speaker_05_David_Nicely"
   },
   {
     "global_idx": 158,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 48,
     "start": 8538.32,
     "end": 8547.96,
     "hms": "02h22m18s-02h22m28s",
     "file_name": "Speaker_01_Meeting_Chair_turn48_global158_02h22m18s-02h22m28s.mp4",
-    "text_preview": "Okay. This item will move forward with a recommendation to approve on third and final reading. That concludes our agenda for today. Thank you and have a great day."
+    "text_preview": "Okay. This item will move forward with a recommendation to approve on third and final reading. That concludes our agenda for today. Thank you and have a great day.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   }
 ]

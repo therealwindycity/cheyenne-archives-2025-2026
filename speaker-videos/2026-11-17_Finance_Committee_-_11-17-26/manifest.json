@@ -1,512 +1,563 @@
 [
   {
     "global_idx": 1,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 1,
     "start": 14.32,
     "end": 61.11,
     "hms": "00h00m14s-00h01m01s",
     "file_name": "Speaker_01_Meeting_Chair_turn01_global001_00h00m14s-00h01m01s.mp4",
-    "text_preview": "Okay, Verizon says it's 12:00, so we'll get started. Welcome everyone to the November 17th, 2026 Finance Committee meeting. Just a couple of housekeeping items."
+    "text_preview": "Okay, Verizon says it's 12:00, so we'll get started. Welcome everyone to the November 17th, 2026 Finance Committee meeting. Just a couple of housekeeping items.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 2,
-    "speaker": "Speaker_02_Councilman_Moody",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 1,
     "start": 61.12,
     "end": 63.83,
     "hms": "00h01m01s-00h01m04s",
     "file_name": "Speaker_02_Councilman_Moody_turn01_global002_00h01m01s-00h01m04s.mp4",
-    "text_preview": "Staff report."
+    "text_preview": "Staff report.",
+    "speaker_original_automatic_label": "Speaker_02_Councilman_Moody"
   },
   {
     "global_idx": 3,
-    "speaker": "Speaker_03_Kylie_Soden",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 1,
     "start": 63.84,
     "end": 87.35,
     "hms": "00h01m04s-00h01m27s",
     "file_name": "Speaker_03_Kylie_Soden_turn01_global003_00h01m04s-00h01m27s.mp4",
-    "text_preview": "Members of the committee, Kylie Soden, city clerk. The item before you is an application for a bar and grill liquor license submitted by Bal's Wyoming LLC doing"
+    "text_preview": "Members of the committee, Kylie Soden, city clerk. The item before you is an application for a bar and grill liquor license submitted by Bal's Wyoming LLC doing",
+    "speaker_original_automatic_label": "Speaker_03_Kylie_Soden"
   },
   {
     "global_idx": 4,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 2,
     "start": 87.36,
     "end": 119.11,
     "hms": "00h01m27s-00h01m59s",
     "file_name": "Speaker_01_Meeting_Chair_turn02_global004_00h01m27s-00h01m59s.mp4",
-    "text_preview": "Any questions for Kylie? Thanks Kylie. Hearing none comments from the public anyone online? Okay. Uh hearing none. Do I have a motion? Mr. Chairman, I move to a"
+    "text_preview": "Any questions for Kylie? Thanks Kylie. Hearing none comments from the public anyone online? Okay. Uh hearing none. Do I have a motion? Mr. Chairman, I move to a",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 5,
-    "speaker": "Speaker_02_Councilman_Moody",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 2,
     "start": 119.12,
     "end": 120.55,
     "hms": "00h01m59s-00h02m01s",
     "file_name": "Speaker_02_Councilman_Moody_turn02_global005_00h01m59s-00h02m01s.mp4",
-    "text_preview": "I."
+    "text_preview": "I.",
+    "speaker_original_automatic_label": "Speaker_02_Councilman_Moody"
   },
   {
     "global_idx": 6,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 3,
     "start": 120.56,
     "end": 123.91,
     "hms": "00h02m01s-00h02m04s",
     "file_name": "Speaker_01_Meeting_Chair_turn03_global006_00h02m01s-00h02m04s.mp4",
-    "text_preview": "No one's opposed. That item will move forward. Next item, please."
+    "text_preview": "No one's opposed. That item will move forward. Next item, please.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 7,
-    "speaker": "Speaker_04_Meeting_Clerk",
+    "speaker": "Speaker_04_Unverified_Voice",
     "speaker_turn": 1,
     "start": 123.92,
     "end": 135.75,
     "hms": "00h02m04s-00h02m16s",
     "file_name": "Speaker_04_Meeting_Clerk_turn01_global007_00h02m04s-00h02m16s.mp4",
-    "text_preview": "Number 6 C. Application for a restaurant liquor license filed with the city clerk's office for Shack and Company LLC doing business as Wingshack, 5719 Yellowsto"
+    "text_preview": "Number 6 C. Application for a restaurant liquor license filed with the city clerk's office for Shack and Company LLC doing business as Wingshack, 5719 Yellowsto",
+    "speaker_original_automatic_label": "Speaker_04_Meeting_Clerk"
   },
   {
     "global_idx": 8,
-    "speaker": "Speaker_03_Kylie_Soden",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 2,
     "start": 136.72,
     "end": 158.87,
     "hms": "00h02m17s-00h02m39s",
     "file_name": "Speaker_03_Kylie_Soden_turn02_global008_00h02m17s-00h02m39s.mp4",
-    "text_preview": "Kylie Soden, city clerk's office. The item before you is an application for a restaurant liquor license submitted by Shack and Co. LLC doing business as Wing Sh"
+    "text_preview": "Kylie Soden, city clerk's office. The item before you is an application for a restaurant liquor license submitted by Shack and Co. LLC doing business as Wing Sh",
+    "speaker_original_automatic_label": "Speaker_03_Kylie_Soden"
   },
   {
     "global_idx": 9,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 4,
     "start": 158.88,
     "end": 160.95,
     "hms": "00h02m39s-00h02m41s",
     "file_name": "Speaker_01_Meeting_Chair_turn04_global009_00h02m39s-00h02m41s.mp4",
-    "text_preview": "Questions for Kylie. Real quick, Councilman Moody."
+    "text_preview": "Questions for Kylie. Real quick, Councilman Moody.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 10,
-    "speaker": "Speaker_02_Councilman_Moody",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 3,
     "start": 160.96,
     "end": 173.19,
     "hms": "00h02m41s-00h02m53s",
     "file_name": "Speaker_02_Councilman_Moody_turn03_global010_00h02m41s-00h02m53s.mp4",
-    "text_preview": "Yep. Thank you, Mr. Chairman. Uh, thank you, ma'am. Uh, after if this were to be approved, how many liquor licenses do we have just uh sitting there not being u"
+    "text_preview": "Yep. Thank you, Mr. Chairman. Uh, thank you, ma'am. Uh, after if this were to be approved, how many liquor licenses do we have just uh sitting there not being u",
+    "speaker_original_automatic_label": "Speaker_02_Councilman_Moody"
   },
   {
     "global_idx": 11,
-    "speaker": "Speaker_03_Kylie_Soden",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 3,
     "start": 173.2,
     "end": 190.87,
     "hms": "00h02m53s-00h03m11s",
     "file_name": "Speaker_03_Kylie_Soden_turn03_global011_00h02m53s-00h03m11s.mp4",
-    "text_preview": "through you, Chair, to Mr. Moody? Um, so the restaurant liquor licenses aren't limited in terms of um, the ones that we have available. I can tell you that we d"
+    "text_preview": "through you, Chair, to Mr. Moody? Um, so the restaurant liquor licenses aren't limited in terms of um, the ones that we have available. I can tell you that we d",
+    "speaker_original_automatic_label": "Speaker_03_Kylie_Soden"
   },
   {
     "global_idx": 12,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 5,
     "start": 190.88,
     "end": 207.99,
     "hms": "00h03m11s-00h03m28s",
     "file_name": "Speaker_01_Meeting_Chair_turn05_global012_00h03m11s-00h03m28s.mp4",
-    "text_preview": "Good question, Kylie. How and how many just full retail do? None available. None. Yep. Okay. Thank you. Any other questions for Kylie? Comments from the public?"
+    "text_preview": "Good question, Kylie. How and how many just full retail do? None available. None. Yep. Okay. Thank you. Any other questions for Kylie? Comments from the public?",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 13,
-    "speaker": "Speaker_02_Councilman_Moody",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 4,
     "start": 208.0,
     "end": 210.79,
     "hms": "00h03m28s-00h03m31s",
     "file_name": "Speaker_02_Councilman_Moody_turn04_global013_00h03m28s-00h03m31s.mp4",
-    "text_preview": "Mr. Chairman, I move to approve. Second."
+    "text_preview": "Mr. Chairman, I move to approve. Second.",
+    "speaker_original_automatic_label": "Speaker_02_Councilman_Moody"
   },
   {
     "global_idx": 14,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 6,
     "start": 210.8,
     "end": 243.59,
     "hms": "00h03m31s-00h04m04s",
     "file_name": "Speaker_01_Meeting_Chair_turn06_global014_00h03m31s-00h04m04s.mp4",
-    "text_preview": "It's been moved and seconded from the committee. Any comments. I'll just say that I'm very happy that uh the Godfather's location will be filled. Um all right. "
+    "text_preview": "It's been moved and seconded from the committee. Any comments. I'll just say that I'm very happy that uh the Godfather's location will be filled. Um all right. ",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 15,
-    "speaker": "Speaker_03_Kylie_Soden",
+    "speaker": "Speaker_03_Unverified_Voice",
     "speaker_turn": 4,
     "start": 244.8,
     "end": 328.15,
     "hms": "00h04m05s-00h05m28s",
     "file_name": "Speaker_03_Kylie_Soden_turn04_global015_00h04m05s-00h05m28s.mp4",
-    "text_preview": "Good afternoon, Mr. Chairman, members of city council. My name is Robin Lachin and I'm the city treasur. The resolution before you authorizes the write- off of "
+    "text_preview": "Good afternoon, Mr. Chairman, members of city council. My name is Robin Lachin and I'm the city treasur. The resolution before you authorizes the write- off of ",
+    "speaker_original_automatic_label": "Speaker_03_Kylie_Soden"
   },
   {
     "global_idx": 16,
-    "speaker": "Speaker_05_Mr._Gra",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 1,
     "start": 328.16,
     "end": 335.35,
     "hms": "00h05m28s-00h05m35s",
     "file_name": "Speaker_05_Mr._Gra_turn01_global016_00h05m28s-00h05m35s.mp4",
-    "text_preview": "Questions for our treasurer? Mr. Chairman, Councilman Wolf."
+    "text_preview": "Questions for our treasurer? Mr. Chairman, Councilman Wolf.",
+    "speaker_original_automatic_label": "Speaker_05_Mr._Gra"
   },
   {
     "global_idx": 17,
-    "speaker": "Speaker_06_Councilman_Wolf",
+    "speaker": "Speaker_06_Unverified_Voice",
     "speaker_turn": 1,
     "start": 335.36,
     "end": 342.63,
     "hms": "00h05m35s-00h05m43s",
     "file_name": "Speaker_06_Councilman_Wolf_turn01_global017_00h05m35s-00h05m43s.mp4",
-    "text_preview": "Um, thank you through you. Um we're actually aren't we required by GAP accounting to do this"
+    "text_preview": "Um, thank you through you. Um we're actually aren't we required by GAP accounting to do this",
+    "speaker_original_automatic_label": "Speaker_06_Councilman_Wolf"
   },
   {
     "global_idx": 18,
-    "speaker": "Speaker_05_Mr._Gra",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 2,
     "start": 342.64,
     "end": 455.91,
     "hms": "00h05m43s-00h07m36s",
     "file_name": "Speaker_05_Mr._Gra_turn02_global018_00h05m43s-00h07m36s.mp4",
-    "text_preview": "Mr. Chairman through you um to Mr. Wol. Yes. Thank you. So this is just part of our regular accounting process um really compelled by our compliance with the ge"
+    "text_preview": "Mr. Chairman through you um to Mr. Wol. Yes. Thank you. So this is just part of our regular accounting process um really compelled by our compliance with the ge",
+    "speaker_original_automatic_label": "Speaker_05_Mr._Gra"
   },
   {
     "global_idx": 19,
-    "speaker": "Speaker_02_Councilman_Moody",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 5,
     "start": 456.8,
     "end": 477.59,
     "hms": "00h07m37s-00h07m58s",
     "file_name": "Speaker_02_Councilman_Moody_turn05_global019_00h07m37s-00h07m58s.mp4",
-    "text_preview": "Uh thank you, Mr. Chairman. Um again, we need to do this, but I would just implore for the uh state legislature at meeting and this is related. Anybody that has"
+    "text_preview": "Uh thank you, Mr. Chairman. Um again, we need to do this, but I would just implore for the uh state legislature at meeting and this is related. Anybody that has",
+    "speaker_original_automatic_label": "Speaker_02_Councilman_Moody"
   },
   {
     "global_idx": 20,
-    "speaker": "Speaker_05_Mr._Gra",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 3,
     "start": 477.6,
     "end": 498.63,
     "hms": "00h07m58s-00h08m19s",
     "file_name": "Speaker_05_Mr._Gra_turn03_global020_00h07m58s-00h08m19s.mp4",
-    "text_preview": "I don't see why the state can't do that. We have no driver's licenses. But I do implore, could the city potentially look in if it's a business, they don't get t"
+    "text_preview": "I don't see why the state can't do that. We have no driver's licenses. But I do implore, could the city potentially look in if it's a business, they don't get t",
+    "speaker_original_automatic_label": "Speaker_05_Mr._Gra"
   },
   {
     "global_idx": 21,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 7,
     "start": 498.64,
     "end": 537.67,
     "hms": "00h08m19s-00h08m58s",
     "file_name": "Speaker_01_Meeting_Chair_turn07_global021_00h08m19s-00h08m58s.mp4",
-    "text_preview": "Thank you, Mr. Moody. And you're correct. other states do uh when you go uh to renew get your uh annual registration, they have it in their system right there a"
+    "text_preview": "Thank you, Mr. Moody. And you're correct. other states do uh when you go uh to renew get your uh annual registration, they have it in their system right there a",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 22,
-    "speaker": "Speaker_05_Mr._Gra",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 4,
     "start": 537.68,
     "end": 902.23,
     "hms": "00h08m58s-00h15m02s",
     "file_name": "Speaker_05_Mr._Gra_turn04_global022_00h08m58s-00h15m02s.mp4",
-    "text_preview": "Staff report. Uh, good afternoon again. Robin Lochman, city treasur. Before you is a resolution approving salary adjustments based on our 2026 compensation stud"
+    "text_preview": "Staff report. Uh, good afternoon again. Robin Lochman, city treasur. Before you is a resolution approving salary adjustments based on our 2026 compensation stud",
+    "speaker_original_automatic_label": "Speaker_05_Mr._Gra"
   },
   {
     "global_idx": 23,
-    "speaker": "Speaker_02_Councilman_Moody",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 6,
     "start": 902.24,
     "end": 924.87,
     "hms": "00h15m02s-00h15m25s",
     "file_name": "Speaker_02_Councilman_Moody_turn06_global023_00h15m02s-00h15m25s.mp4",
-    "text_preview": "Uh thank you, Mr. Chairman. Through you and to go off my colleague from uh pre Mr. President, I did say about a year and a half ago about our frontline workers "
+    "text_preview": "Uh thank you, Mr. Chairman. Through you and to go off my colleague from uh pre Mr. President, I did say about a year and a half ago about our frontline workers ",
+    "speaker_original_automatic_label": "Speaker_02_Councilman_Moody"
   },
   {
     "global_idx": 24,
-    "speaker": "Speaker_05_Mr._Gra",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 5,
     "start": 924.88,
     "end": 960.63,
     "hms": "00h15m25s-00h16m01s",
     "file_name": "Speaker_05_Mr._Gra_turn05_global024_00h15m25s-00h16m01s.mp4",
-    "text_preview": "Thank you. And uh to further answer uh the funding sources were clearly identified $142,998 from general fund, $69,500 from other funds. And then uh also it say"
+    "text_preview": "Thank you. And uh to further answer uh the funding sources were clearly identified $142,998 from general fund, $69,500 from other funds. And then uh also it say",
+    "speaker_original_automatic_label": "Speaker_05_Mr._Gra"
   },
   {
     "global_idx": 25,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 8,
     "start": 960.64,
     "end": 1040.63,
     "hms": "00h16m01s-00h17m21s",
     "file_name": "Speaker_01_Meeting_Chair_turn08_global025_00h16m01s-00h17m21s.mp4",
-    "text_preview": "I um I agree with all my fellow council men on this and and with one addition that um we've heard from Mr. Miller over and over again that this is a zero sum ga"
+    "text_preview": "I um I agree with all my fellow council men on this and and with one addition that um we've heard from Mr. Miller over and over again that this is a zero sum ga",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 26,
-    "speaker": "Speaker_04_Meeting_Clerk",
+    "speaker": "Speaker_04_Unverified_Voice",
     "speaker_turn": 2,
     "start": 1040.64,
     "end": 1051.51,
     "hms": "00h17m21s-00h17m32s",
     "file_name": "Speaker_04_Meeting_Clerk_turn02_global026_00h17m21s-00h17m32s.mp4",
-    "text_preview": "Number 27A, cooperative agreement between the city of Cheyenne and the Wyoming Department of Transportation for the 2027 camp stoolway project."
+    "text_preview": "Number 27A, cooperative agreement between the city of Cheyenne and the Wyoming Department of Transportation for the 2027 camp stoolway project.",
+    "speaker_original_automatic_label": "Speaker_04_Meeting_Clerk"
   },
   {
     "global_idx": 27,
-    "speaker": "Speaker_05_Mr._Gra",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 6,
     "start": 1051.52,
     "end": 1126.31,
     "hms": "00h17m32s-00h18m46s",
     "file_name": "Speaker_05_Mr._Gra_turn06_global027_00h17m32s-00h18m46s.mp4",
-    "text_preview": "Good afternoon, Chairman White, members of the finance committee. Tom Cobb, city engineer. before you and for your consideration is a cooperative agreement betw"
+    "text_preview": "Good afternoon, Chairman White, members of the finance committee. Tom Cobb, city engineer. before you and for your consideration is a cooperative agreement betw",
+    "speaker_original_automatic_label": "Speaker_05_Mr._Gra"
   },
   {
     "global_idx": 28,
-    "speaker": "Speaker_10_Mr._See",
+    "speaker": "Speaker_10_Unverified_Voice",
     "speaker_turn": 1,
     "start": 1127.52,
     "end": 1138.47,
     "hms": "00h18m48s-00h18m58s",
     "file_name": "Speaker_10_Mr._See_turn01_global028_00h18m48s-00h18m58s.mp4",
-    "text_preview": "through you. I just want to make sure people understand um camp stool is a pretty big road. This is right up right up by the uh Walmart on the east side of town"
+    "text_preview": "through you. I just want to make sure people understand um camp stool is a pretty big road. This is right up right up by the uh Walmart on the east side of town",
+    "speaker_original_automatic_label": "Speaker_10_Mr._See"
   },
   {
     "global_idx": 29,
-    "speaker": "Speaker_05_Mr._Gra",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 7,
     "start": 1138.48,
     "end": 1369.59,
     "hms": "00h18m58s-00h22m50s",
     "file_name": "Speaker_05_Mr._Gra_turn07_global029_00h18m58s-00h22m50s.mp4",
-    "text_preview": "chairman three Mr. Se. Yes, sir. Okay. I just want to make sure folks knew where we were um going to interrupt them next summer. Good, good point. Any other com"
+    "text_preview": "chairman three Mr. Se. Yes, sir. Okay. I just want to make sure folks knew where we were um going to interrupt them next summer. Good, good point. Any other com",
+    "speaker_original_automatic_label": "Speaker_05_Mr._Gra"
   },
   {
     "global_idx": 30,
-    "speaker": "Speaker_11_Mr._Moody",
+    "speaker": "Speaker_11_Unverified_Voice",
     "speaker_turn": 1,
     "start": 1369.6,
     "end": 1401.35,
     "hms": "00h22m50s-00h23m21s",
     "file_name": "Speaker_11_Mr._Moody_turn01_global030_00h22m50s-00h23m21s.mp4",
-    "text_preview": "Uh, thank you, Mr. Chairman. Through you. Another important element to this is lighting by the intersection of College Drive and South Industrial. I've actually"
+    "text_preview": "Uh, thank you, Mr. Chairman. Through you. Another important element to this is lighting by the intersection of College Drive and South Industrial. I've actually",
+    "speaker_original_automatic_label": "Speaker_11_Mr._Moody"
   },
   {
     "global_idx": 31,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 9,
     "start": 1401.36,
     "end": 1433.67,
     "hms": "00h23m21s-00h23m54s",
     "file_name": "Speaker_01_Meeting_Chair_turn09_global031_00h23m21s-00h23m54s.mp4",
-    "text_preview": "Thank you, sir. Mr. Croup, I'll just point out also on exhibit B under the note section, it says the above figures are for estimating purposes only and are subj"
+    "text_preview": "Thank you, sir. Mr. Croup, I'll just point out also on exhibit B under the note section, it says the above figures are for estimating purposes only and are subj",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 32,
-    "speaker": "Speaker_04_Meeting_Clerk",
+    "speaker": "Speaker_04_Unverified_Voice",
     "speaker_turn": 3,
     "start": 1433.68,
     "end": 1443.35,
     "hms": "00h23m54s-00h24m03s",
     "file_name": "Speaker_04_Meeting_Clerk_turn03_global032_00h23m54s-00h24m03s.mp4",
-    "text_preview": "Number 27B, cooperative agreement between the city of Cheyenne and the Wyoming Department of Transportation for the 2027 epoxy striping."
+    "text_preview": "Number 27B, cooperative agreement between the city of Cheyenne and the Wyoming Department of Transportation for the 2027 epoxy striping.",
+    "speaker_original_automatic_label": "Speaker_04_Meeting_Clerk"
   },
   {
     "global_idx": 33,
-    "speaker": "Speaker_05_Mr._Gra",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 8,
     "start": 1443.36,
     "end": 1531.27,
     "hms": "00h24m03s-00h25m31s",
     "file_name": "Speaker_05_Mr._Gra_turn08_global033_00h24m03s-00h25m31s.mp4",
-    "text_preview": "Welcome, Mr. Amon. Staff report. Yeah. Good afternoon, Mr. Chairman and members of the committee. I'm Rick Aean, city traffic engineer, providing the staff repo"
+    "text_preview": "Welcome, Mr. Amon. Staff report. Yeah. Good afternoon, Mr. Chairman and members of the committee. I'm Rick Aean, city traffic engineer, providing the staff repo",
+    "speaker_original_automatic_label": "Speaker_05_Mr._Gra"
   },
   {
     "global_idx": 34,
-    "speaker": "Speaker_12_Mr._Crave",
+    "speaker": "Speaker_12_Unverified_Voice",
     "speaker_turn": 1,
     "start": 1531.28,
     "end": 1578.79,
     "hms": "00h25m31s-00h26m19s",
     "file_name": "Speaker_12_Mr._Crave_turn01_global034_00h25m31s-00h26m19s.mp4",
-    "text_preview": "Mr. Chairman you sir can you just give us a brief idea of how this comes together is this is an annual project that we work with white on white dot on is that c"
+    "text_preview": "Mr. Chairman you sir can you just give us a brief idea of how this comes together is this is an annual project that we work with white on white dot on is that c",
+    "speaker_original_automatic_label": "Speaker_12_Mr._Crave"
   },
   {
     "global_idx": 35,
-    "speaker": "Speaker_05_Mr._Gra",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 9,
     "start": 1578.8,
     "end": 2025.27,
     "hms": "00h26m19s-00h33m45s",
     "file_name": "Speaker_05_Mr._Gra_turn09_global035_00h26m19s-00h33m45s.mp4",
-    "text_preview": "Followup. Mr. Chair, is there a capacity limit annually that white dot lets us um piggyback on there? I mean, I assume with the time and the the size of their p"
+    "text_preview": "Followup. Mr. Chair, is there a capacity limit annually that white dot lets us um piggyback on there? I mean, I assume with the time and the the size of their p",
+    "speaker_original_automatic_label": "Speaker_05_Mr._Gra"
   },
   {
     "global_idx": 36,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 10,
     "start": 2025.28,
     "end": 2042.39,
     "hms": "00h33m45s-00h34m02s",
     "file_name": "Speaker_01_Meeting_Chair_turn10_global036_00h33m45s-00h34m02s.mp4",
-    "text_preview": "Thank you. Any other comments or questions? Hearing none. All those in favor of the uh cooperative agreement, please signify by saying I. [I.] No one's opposed."
+    "text_preview": "Thank you. Any other comments or questions? Hearing none. All those in favor of the uh cooperative agreement, please signify by saying I. [I.] No one's opposed.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 37,
-    "speaker": "Speaker_04_Meeting_Clerk",
+    "speaker": "Speaker_04_Unverified_Voice",
     "speaker_turn": 4,
     "start": 2042.4,
     "end": 2058.39,
     "hms": "00h34m02s-00h34m18s",
     "file_name": "Speaker_04_Meeting_Clerk_turn04_global037_00h34m02s-00h34m18s.mp4",
-    "text_preview": "Number 28 C. Contract modification number three to contract number 8036 between the city of Cheyenne and Lotus Engineering to reflect an increase in funding for"
+    "text_preview": "Number 28 C. Contract modification number three to contract number 8036 between the city of Cheyenne and Lotus Engineering to reflect an increase in funding for",
+    "speaker_original_automatic_label": "Speaker_04_Meeting_Clerk"
   },
   {
     "global_idx": 38,
-    "speaker": "Speaker_05_Mr._Gra",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 10,
     "start": 2058.4,
     "end": 2242.39,
     "hms": "00h34m18s-00h37m22s",
     "file_name": "Speaker_05_Mr._Gra_turn10_global038_00h34m18s-00h37m22s.mp4",
-    "text_preview": "Staff report please. Good afternoon committee chair and members of the finance committee. My name is Elizabeth Finneo. I'm the economic resource administrator f"
+    "text_preview": "Staff report please. Good afternoon committee chair and members of the finance committee. My name is Elizabeth Finneo. I'm the economic resource administrator f",
+    "speaker_original_automatic_label": "Speaker_05_Mr._Gra"
   },
   {
     "global_idx": 39,
-    "speaker": "Speaker_02_Councilman_Moody",
+    "speaker": "Speaker_02_Unverified_Voice",
     "speaker_turn": 7,
     "start": 2242.4,
     "end": 2256.15,
     "hms": "00h37m22s-00h37m36s",
     "file_name": "Speaker_02_Councilman_Moody_turn07_global039_00h37m22s-00h37m36s.mp4",
-    "text_preview": "Yep. Thank you, Mr. Chairman. Three. Thank you, ma'am. So, when we got that report a month ago, so there's more. It's more than just what was in that report. Am"
+    "text_preview": "Yep. Thank you, Mr. Chairman. Three. Thank you, ma'am. So, when we got that report a month ago, so there's more. It's more than just what was in that report. Am",
+    "speaker_original_automatic_label": "Speaker_02_Councilman_Moody"
   },
   {
     "global_idx": 40,
-    "speaker": "Speaker_05_Mr._Gra",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 11,
     "start": 2256.16,
     "end": 2349.75,
     "hms": "00h37m36s-00h39m10s",
     "file_name": "Speaker_05_Mr._Gra_turn11_global040_00h37m36s-00h39m10s.mp4",
-    "text_preview": "Mr. Chairman, through you to Councilman Moody. That is correct. We are still required to conduct a follow-up report based on our completion of the items identif"
+    "text_preview": "Mr. Chairman, through you to Councilman Moody. That is correct. We are still required to conduct a follow-up report based on our completion of the items identif",
+    "speaker_original_automatic_label": "Speaker_05_Mr._Gra"
   },
   {
     "global_idx": 41,
-    "speaker": "Speaker_13_Charles_Miller",
+    "speaker": "Speaker_13_Unverified_Voice",
     "speaker_turn": 1,
     "start": 2349.76,
     "end": 2530.31,
     "hms": "00h39m10s-00h42m10s",
     "file_name": "Speaker_13_Charles_Miller_turn01_global041_00h39m10s-00h42m10s.mp4",
-    "text_preview": "All right. Um, so I, uh, this is Charles Miller for the record. Um, uh, committee, uh, item 28 C, contract modification number three to contract 8036 with Lotus"
+    "text_preview": "All right. Um, so I, uh, this is Charles Miller for the record. Um, uh, committee, uh, item 28 C, contract modification number three to contract 8036 with Lotus",
+    "speaker_original_automatic_label": "Speaker_13_Charles_Miller"
   },
   {
     "global_idx": 42,
-    "speaker": "Speaker_05_Mr._Gra",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 12,
     "start": 2530.32,
     "end": 2581.03,
     "hms": "00h42m10s-00h43m01s",
     "file_name": "Speaker_05_Mr._Gra_turn12_global042_00h42m10s-00h43m01s.mp4",
-    "text_preview": "Any other public comment hearing? None. Do I have a motion from the committee? Mr. Chairman, I move to approve contract modification number three in a in the am"
+    "text_preview": "Any other public comment hearing? None. Do I have a motion from the committee? Mr. Chairman, I move to approve contract modification number three in a in the am",
+    "speaker_original_automatic_label": "Speaker_05_Mr._Gra"
   },
   {
     "global_idx": 43,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 11,
     "start": 2581.04,
     "end": 2597.03,
     "hms": "00h43m01s-00h43m17s",
     "file_name": "Speaker_01_Meeting_Chair_turn11_global043_00h43m01s-00h43m17s.mp4",
-    "text_preview": "I'll just note that that again this is not city money. This is money that we uh received from the EPA. Um, if there are no other comments, all those in favor of"
+    "text_preview": "I'll just note that that again this is not city money. This is money that we uh received from the EPA. Um, if there are no other comments, all those in favor of",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 44,
-    "speaker": "Speaker_05_Mr._Gra",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 13,
     "start": 2597.04,
     "end": 2605.59,
     "hms": "00h43m17s-00h43m26s",
     "file_name": "Speaker_05_Mr._Gra_turn13_global044_00h43m17s-00h43m26s.mp4",
-    "text_preview": "I. Opposed? No. That item will move forward with Councilman Moody uh voting no."
+    "text_preview": "I. Opposed? No. That item will move forward with Councilman Moody uh voting no.",
+    "speaker_original_automatic_label": "Speaker_05_Mr._Gra"
   },
   {
     "global_idx": 45,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 12,
     "start": 2605.6,
     "end": 2623.59,
     "hms": "00h43m26s-00h43m44s",
     "file_name": "Speaker_01_Meeting_Chair_turn12_global045_00h43m26s-00h43m44s.mp4",
-    "text_preview": "Next. Next item, please. Number 29B, consideration of bid number S-3-27 for a contract between the city of Cheyenne and Ryman Court for the Van Beurren Avenue s"
+    "text_preview": "Next. Next item, please. Number 29B, consideration of bid number S-3-27 for a contract between the city of Cheyenne and Ryman Court for the Van Beurren Avenue s",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 46,
-    "speaker": "Speaker_05_Mr._Gra",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 14,
     "start": 2623.6,
     "end": 2951.67,
     "hms": "00h43m44s-00h49m12s",
     "file_name": "Speaker_05_Mr._Gra_turn14_global046_00h43m44s-00h49m12s.mp4",
-    "text_preview": "Good afternoon, Mr. Chairman and members of the committee. Doug Clon, city construction manager. before you and for your consideration today is the contract bet"
+    "text_preview": "Good afternoon, Mr. Chairman and members of the committee. Doug Clon, city construction manager. before you and for your consideration today is the contract bet",
+    "speaker_original_automatic_label": "Speaker_05_Mr._Gra"
   },
   {
     "global_idx": 47,
-    "speaker": "Speaker_09_Mr._Chair",
+    "speaker": "Speaker_09_Unverified_Voice",
     "speaker_turn": 1,
     "start": 2951.68,
     "end": 2960.87,
     "hms": "00h49m12s-00h49m21s",
     "file_name": "Speaker_09_Mr._Chair_turn01_global047_00h49m12s-00h49m21s.mp4",
-    "text_preview": "Mr. Crap. I'd like to give Mr. Clon an opportunity to address the um fire hydrants, plumbing, and that type of thing. If if you would,"
+    "text_preview": "Mr. Crap. I'd like to give Mr. Clon an opportunity to address the um fire hydrants, plumbing, and that type of thing. If if you would,",
+    "speaker_original_automatic_label": "Speaker_09_Mr._Chair"
   },
   {
     "global_idx": 48,
-    "speaker": "Speaker_05_Mr._Gra",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 15,
     "start": 2960.88,
     "end": 2962.23,
     "hms": "00h49m21s-00h49m22s",
     "file_name": "Speaker_05_Mr._Gra_turn15_global048_00h49m21s-00h49m22s.mp4",
-    "text_preview": "Mr. Clone."
+    "text_preview": "Mr. Clone.",
+    "speaker_original_automatic_label": "Speaker_05_Mr._Gra"
   },
   {
     "global_idx": 49,
-    "speaker": "Speaker_14_Mr._Clone",
+    "speaker": "Speaker_14_Unverified_Voice",
     "speaker_turn": 1,
     "start": 2962.24,
     "end": 3062.87,
     "hms": "00h49m22s-00h51m03s",
     "file_name": "Speaker_14_Mr._Clone_turn01_global049_00h49m22s-00h51m03s.mp4",
-    "text_preview": "Through you, Mr. Chairman. This does not include the installation of a 12-in M water man. What it does include for water man is the lowering of the water man th"
+    "text_preview": "Through you, Mr. Chairman. This does not include the installation of a 12-in M water man. What it does include for water man is the lowering of the water man th",
+    "speaker_original_automatic_label": "Speaker_14_Mr._Clone"
   },
   {
     "global_idx": 50,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 13,
     "start": 3062.88,
     "end": 3090.31,
     "hms": "00h51m03s-00h51m30s",
     "file_name": "Speaker_01_Meeting_Chair_turn13_global050_00h51m03s-00h51m30s.mp4",
-    "text_preview": "Thank you, sir. And uh we can also uh thank the voters for overwhelmingly approving six penny ballot initiatives for road maintenance. Um, any other comments or"
+    "text_preview": "Thank you, sir. And uh we can also uh thank the voters for overwhelmingly approving six penny ballot initiatives for road maintenance. Um, any other comments or",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 51,
-    "speaker": "Speaker_05_Mr._Gra",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 16,
     "start": 3090.32,
     "end": 3095.76,
     "hms": "00h51m30s-00h51m36s",
     "file_name": "Speaker_05_Mr._Gra_turn16_global051_00h51m30s-00h51m36s.mp4",
-    "text_preview": "Thank you, Mr. Chairman, and thank you for Yeah. joining us."
+    "text_preview": "Thank you, Mr. Chairman, and thank you for Yeah. joining us.",
+    "speaker_original_automatic_label": "Speaker_05_Mr._Gra"
   }
 ]

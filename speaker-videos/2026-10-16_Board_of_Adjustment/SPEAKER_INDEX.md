@@ -8,14 +8,16 @@
 
 - **`00h03m43s`** — Item A, request PUD-C-26-224. to be oriented toward the internal roadway in the NR2 neighborhood residential medium density zone. block one, Pronghorn Crossing, and the agent is Shane Hanson, and the case planner is Morgan Dennis, planner one. Um I think Charles will be filling i
 
+> ⚠️ **Speaker names corrected (2026-11-27):** automatically guessed names were unreliable and are now shown as `Unverified_Voice`; clip file names inside the ZIPs may still carry the old automatic label (listed as `speaker_original_automatic_label` in manifest.json).
+
 ## 🎭 Cast of Characters & Speaker Video Archives
 
 | Cast Member / Speaker | Turns | Archive Size | Download Clips ZIP |
 |---|---:|---:|---|
-| `Speaker_01_Meeting_Chair` | 28 | 74.4 MB | [Download `Speaker_01_Meeting_Chair_28_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-16-g_32gta97jM/Speaker_01_Meeting_Chair_28_clips.zip) |
+| `Speaker_01_Unverified_Voice` | 28 | 74.4 MB | [Download `Speaker_01_Unverified_Voice_28_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-16-g_32gta97jM/Speaker_01_Unverified_Voice_28_clips.zip) |
 | `Speaker_02_Voice_Cluster_03` | 6 | 4.7 MB | [Download `Speaker_02_Voice_Cluster_03_06_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-16-g_32gta97jM/Speaker_02_Voice_Cluster_03_06_clips.zip) |
 | `Speaker_03_Voice_Cluster_01` | 23 | 38.2 MB | [Download `Speaker_03_Voice_Cluster_01_23_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-16-g_32gta97jM/Speaker_03_Voice_Cluster_01_23_clips.zip) |
-| `Speaker_04_Meeting_Clerk` | 36 | 331.3 MB | [Download `Speaker_04_Meeting_Clerk_36_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-16-g_32gta97jM/Speaker_04_Meeting_Clerk_36_clips.zip) |
+| `Speaker_04_Unverified_Voice` | 36 | 331.3 MB | [Download `Speaker_04_Unverified_Voice_36_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-16-g_32gta97jM/Speaker_04_Unverified_Voice_36_clips.zip) |
 | `Speaker_05_Voice_Cluster_04` | 2 | 0.7 MB | [Download `Speaker_05_Voice_Cluster_04_02_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-16-g_32gta97jM/Speaker_05_Voice_Cluster_04_02_clips.zip) |
 | `Speaker_06_Voice_Cluster_07` | 2 | 2.3 MB | [Download `Speaker_06_Voice_Cluster_07_02_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-16-g_32gta97jM/Speaker_06_Voice_Cluster_07_02_clips.zip) |
 | `Speaker_07_Voice_Cluster_02` | 5 | 5.0 MB | [Download `Speaker_07_Voice_Cluster_02_05_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-16-g_32gta97jM/Speaker_07_Voice_Cluster_02_05_clips.zip) |
@@ -25,7 +27,7 @@
 
 ## ⏱️ Verbatim Turn Timestamps
 
-### `Speaker_01_Meeting_Chair` (28 turns)
+### `Speaker_01_Unverified_Voice` (28 turns)
 - **Turn 01** (`00h02m56s-00h03m03s`) — *Adjustments meeting for October 15th, 2000 or 2026 to order. And please call roll.*
 - **Turn 02** (`00h03m18s-00h03m36s`) — *Thank you. Okay, first item up is review of the August 20th, 2026 approval of minutes. Um, does uh does anyone have comment on the board? [Second.] All right, all in favor, please say I.*
 - **Turn 03** (`00h03m38s-00h03m43s`) — *All right, those minutes are approved. Let's go ahead and read the first item in, please.*
@@ -88,7 +90,7 @@
 - **Turn 22** (`01h15m37s-01h15m41s`) — *Aye. [Jared Campfield.] No.*
 - **Turn 23** (`01h15m45s-01h15m48s`) — *No.*
 
-### `Speaker_04_Meeting_Clerk` (36 turns)
+### `Speaker_04_Unverified_Voice` (36 turns)
 - **Turn 01** (`00h03m17s-00h03m18s`) — *Mr. Chair, you have a quorum.*
 - **Turn 02** (`00h03m43s-00h13m28s`) — *Item A, request PUD-C-26-224. to be oriented toward the internal roadway in the NR2 neighborhood residential medium density zone. block one, Pronghorn Crossing, and the agent is Shane Hanson, and the case planner is Morg*
 - **Turn 03** (`00h13m29s-00h17m18s`) — *the reason we didn't see compliance was um that this was developed um um by the um applicant um and there there could be a potential for them to have um developed this in accordance with the um with the development regul*

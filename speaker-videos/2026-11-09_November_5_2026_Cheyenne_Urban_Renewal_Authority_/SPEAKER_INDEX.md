@@ -4,13 +4,15 @@
 - **GitHub Release (Speaker Video ZIPs):** [`speaker-videos-2026-11-09-j2CCss3cLFM`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/tag/speaker-videos-2026-11-09-j2CCss3cLFM)
 - **Cast Size (Speakers):** 7 | **Speaking Turn Clips:** 32
 
+> ⚠️ **Speaker names corrected (2026-11-27):** automatically guessed names were unreliable and are now shown as `Unverified_Voice`; clip file names inside the ZIPs may still carry the old automatic label (listed as `speaker_original_automatic_label` in manifest.json).
+
 ## 🎭 Cast of Characters & Speaker Video Archives
 
 | Cast Member / Speaker | Turns | Archive Size | Download Clips ZIP |
 |---|---:|---:|---|
 | `Speaker_01_Voice_Cluster_04` | 13 | 76.7 MB | [Download `Speaker_01_Voice_Cluster_04_13_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-09-j2CCss3cLFM/Speaker_01_Voice_Cluster_04_13_clips.zip) |
 | `Speaker_03_Voice_Cluster_03` | 2 | 0.3 MB | [Download `Speaker_03_Voice_Cluster_03_02_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-09-j2CCss3cLFM/Speaker_03_Voice_Cluster_03_02_clips.zip) |
-| `Speaker_04_Meeting_Chair` | 7 | 4.7 MB | [Download `Speaker_04_Meeting_Chair_07_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-09-j2CCss3cLFM/Speaker_04_Meeting_Chair_07_clips.zip) |
+| `Speaker_04_Unverified_Voice` | 7 | 4.7 MB | [Download `Speaker_04_Unverified_Voice_07_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-09-j2CCss3cLFM/Speaker_04_Unverified_Voice_07_clips.zip) |
 | `Speaker_05_Voice_Cluster_02` | 6 | 2.4 MB | [Download `Speaker_05_Voice_Cluster_02_06_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-09-j2CCss3cLFM/Speaker_05_Voice_Cluster_02_06_clips.zip) |
 | `Speaker_06_Voice_Cluster_01` | 1 | 0.1 MB | [Download `Speaker_06_Voice_Cluster_01_01_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-09-j2CCss3cLFM/Speaker_06_Voice_Cluster_01_01_clips.zip) |
 | `Speaker_07_Voice_Cluster_06` | 2 | 0.5 MB | [Download `Speaker_07_Voice_Cluster_06_02_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-09-j2CCss3cLFM/Speaker_07_Voice_Cluster_06_02_clips.zip) |
@@ -37,7 +39,7 @@
 - **Turn 01** (`00h02m15s-00h02m17s`) — *I will second.*
 - **Turn 02** (`00h26m24s-00h26m26s`) — *Okay, thank you. And my last question*
 
-### `Speaker_04_Meeting_Chair` (7 turns)
+### `Speaker_04_Unverified_Voice` (7 turns)
 - **Turn 01** (`00h31m38s-00h32m03s`) — *Thank you, chair. now? uh through you to the board. Um, first I just want to make sure everybody can can hear me clearly. Is that uh true?*
 - **Turn 02** (`00h38m27s-00h38m47s`) — *Anybody online or on the phone that would like to address any public comment now's your time. next step is just any more comments out there or from us as the board Mr. Dougas?*
 - **Turn 03** (`00h41m50s-00h41m54s`) — *That's what I thought. Thank you. Appreciate that clarification.*

@@ -1,13 +1,14 @@
 [
   {
     "global_idx": 1,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 1,
     "start": 11.96,
     "end": 18.95,
     "hms": "00h00m12s-00h00m19s",
     "file_name": "Speaker_01_Meeting_Chair_turn01_global001_00h00m12s-00h00m19s.mp4",
-    "text_preview": "Adjustments meeting for October 15th, 2000 or 2026 to order. And please call roll."
+    "text_preview": "Adjustments meeting for October 15th, 2000 or 2026 to order. And please call roll.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 2,
@@ -51,23 +52,25 @@
   },
   {
     "global_idx": 6,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 1,
     "start": 32.6,
     "end": 33.67,
     "hms": "00h00m33s-00h00m34s",
     "file_name": "Speaker_05_Meeting_Clerk_turn01_global006_00h00m33s-00h00m34s.mp4",
-    "text_preview": "Mr. Chair, you have a quorum."
+    "text_preview": "Mr. Chair, you have a quorum.",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 7,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 2,
     "start": 33.68,
     "end": 48.71,
     "hms": "00h00m34s-00h00m49s",
     "file_name": "Speaker_01_Meeting_Chair_turn02_global007_00h00m34s-00h00m49s.mp4",
-    "text_preview": "Thank you. Okay, first item up is review of the August 20th, 2026 approval of minutes. Um, does uh, does anyone have comment on the board? Okay. All right, do we have a second?"
+    "text_preview": "Thank you. Okay, first item up is review of the August 20th, 2026 approval of minutes. Um, does uh, does anyone have comment on the board? Okay. All right, do we have a second?",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 8,
@@ -81,13 +84,14 @@
   },
   {
     "global_idx": 9,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 2,
     "start": 50.04,
     "end": 51.87,
     "hms": "00h00m50s-00h00m52s",
     "file_name": "Speaker_05_Meeting_Clerk_turn02_global009_00h00m50s-00h00m52s.mp4",
-    "text_preview": "All right, all in favor, please say I."
+    "text_preview": "All right, all in favor, please say I.",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 10,
@@ -101,13 +105,14 @@
   },
   {
     "global_idx": 11,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 3,
     "start": 58.48,
     "end": 861.71,
     "hms": "00h00m58s-00h14m22s",
     "file_name": "Speaker_05_Meeting_Clerk_turn03_global011_00h00m58s-00h14m22s.mp4",
-    "text_preview": "Item A, request PUD-26-224. to be oriented toward the internal roadway in the NR2 neighborhood residential medium density zone. block 1, Pronghorn Crossing, and the agent is Shane Hanson, and the case planner is Morgan D"
+    "text_preview": "Item A, request PUD-26-224. to be oriented toward the internal roadway in the NR2 neighborhood residential medium density zone. block 1, Pronghorn Crossing, and the agent is Shane Hanson, and the case planner is Morgan D",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 12,
@@ -121,23 +126,25 @@
   },
   {
     "global_idx": 13,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 3,
     "start": 863.36,
     "end": 867.35,
     "hms": "00h14m23s-00h14m27s",
     "file_name": "Speaker_01_Meeting_Chair_turn03_global013_00h14m23s-00h14m27s.mp4",
-    "text_preview": "Yeah, it's great to see you back in that seat. It's been too long. Yeah."
+    "text_preview": "Yeah, it's great to see you back in that seat. It's been too long. Yeah.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 14,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 4,
     "start": 867.36,
     "end": 904.83,
     "hms": "00h14m27s-00h15m05s",
     "file_name": "Speaker_05_Meeting_Clerk_turn04_global014_00h14m27s-00h15m05s.mp4",
-    "text_preview": "I know. I think I've had a couple of different conflicts and I said, \"I'm meeting all week long. Why not just throw a third evening meeting into that?\" That's for sure. Well, um with that, board, do you have any question"
+    "text_preview": "I know. I think I've had a couple of different conflicts and I said, \"I'm meeting all week long. Why not just throw a third evening meeting into that?\" That's for sure. Well, um with that, board, do you have any question",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 15,
@@ -151,13 +158,14 @@
   },
   {
     "global_idx": 16,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 5,
     "start": 969.64,
     "end": 1000.63,
     "hms": "00h16m10s-00h16m41s",
     "file_name": "Speaker_05_Meeting_Clerk_turn05_global016_00h16m10s-00h16m41s.mp4",
-    "text_preview": "Okay. um staff says the board could find criteria one and two met if the it views the decades without development and the short grant timeline as outside of the applicant's control, or treats lot ownership as the reasona"
+    "text_preview": "Okay. um staff says the board could find criteria one and two met if the it views the decades without development and the short grant timeline as outside of the applicant's control, or treats lot ownership as the reasona",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 17,
@@ -171,13 +179,14 @@
   },
   {
     "global_idx": 18,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 4,
     "start": 1006.0,
     "end": 1014.71,
     "hms": "00h16m46s-00h16m55s",
     "file_name": "Speaker_01_Meeting_Chair_turn04_global018_00h16m46s-00h16m55s.mp4",
-    "text_preview": "Okay. Any other questions? the applicant. Sir, can you please state your name?"
+    "text_preview": "Okay. Any other questions? the applicant. Sir, can you please state your name?",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 19,
@@ -191,13 +200,14 @@
   },
   {
     "global_idx": 20,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 6,
     "start": 1017.8,
     "end": 1019.15,
     "hms": "00h16m58s-00h16m59s",
     "file_name": "Speaker_05_Meeting_Clerk_turn06_global020_00h16m58s-00h16m59s.mp4",
-    "text_preview": "Sorry. Um"
+    "text_preview": "Sorry. Um",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 21,
@@ -211,23 +221,25 @@
   },
   {
     "global_idx": 22,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 5,
     "start": 1024.6,
     "end": 1025.63,
     "hms": "00h17m05s-00h17m06s",
     "file_name": "Speaker_01_Meeting_Chair_turn05_global022_00h17m05s-00h17m06s.mp4",
-    "text_preview": "All right, please proceed."
+    "text_preview": "All right, please proceed.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 23,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 7,
     "start": 1025.64,
     "end": 1037.71,
     "hms": "00h17m06s-00h17m18s",
     "file_name": "Speaker_05_Meeting_Clerk_turn07_global023_00h17m06s-00h17m18s.mp4",
-    "text_preview": "Okay. Uh Charles covered us pretty well. There's a handout. I'll hand you Here's one of them. Mr. Dorch, the executive director, will be here. He's going to hand out the rest of them to you all. And he'd like And"
+    "text_preview": "Okay. Uh Charles covered us pretty well. There's a handout. I'll hand you Here's one of them. Mr. Dorch, the executive director, will be here. He's going to hand out the rest of them to you all. And he'd like And",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 24,
@@ -271,83 +283,91 @@
   },
   {
     "global_idx": 28,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 6,
     "start": 1068.8,
     "end": 1093.71,
     "hms": "00h17m49s-00h18m14s",
     "file_name": "Speaker_01_Meeting_Chair_turn06_global028_00h17m49s-00h18m14s.mp4",
-    "text_preview": "Quickly just to confirm all board members have the AARP Wyoming and the one titled findings for approval. We don't have a third document running around, do we? name."
+    "text_preview": "Quickly just to confirm all board members have the AARP Wyoming and the one titled findings for approval. We don't have a third document running around, do we? name.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 29,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 8,
     "start": 1093.72,
     "end": 1100.99,
     "hms": "00h18m14s-00h18m21s",
     "file_name": "Speaker_05_Meeting_Clerk_turn08_global029_00h18m14s-00h18m21s.mp4",
-    "text_preview": "Uh good evening, chair, members of the board. Brandon Swain. Okay. And do you swear to tell the truth, the whole truth, and nothing but the truth in the matter before the Board of Adjustments tonight?"
+    "text_preview": "Uh good evening, chair, members of the board. Brandon Swain. Okay. And do you swear to tell the truth, the whole truth, and nothing but the truth in the matter before the Board of Adjustments tonight?",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 30,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 7,
     "start": 1101.48,
     "end": 1102.75,
     "hms": "00h18m21s-00h18m23s",
     "file_name": "Speaker_01_Meeting_Chair_turn07_global030_00h18m21s-00h18m23s.mp4",
-    "text_preview": "All right. Please proceed."
+    "text_preview": "All right. Please proceed.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 31,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 9,
     "start": 1102.76,
     "end": 1202.71,
     "hms": "00h18m23s-00h20m03s",
     "file_name": "Speaker_05_Meeting_Clerk_turn09_global031_00h18m23s-00h20m03s.mp4",
-    "text_preview": "Uh so, uh good evening. I appreciate your time and consideration on this um project. A little bit of background on me. Um I'm not on the Habitat Board, but I do have a great affection for Dan. Uh great affection for thes"
+    "text_preview": "Uh so, uh good evening. I appreciate your time and consideration on this um project. A little bit of background on me. Um I'm not on the Habitat Board, but I do have a great affection for Dan. Uh great affection for thes",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 32,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 8,
     "start": 1202.72,
     "end": 1207.71,
     "hms": "00h20m03s-00h20m08s",
     "file_name": "Speaker_01_Meeting_Chair_turn08_global032_00h20m03s-00h20m08s.mp4",
-    "text_preview": "Thank you. Board members do you have any questions for the applicant? Please go ahead."
+    "text_preview": "Thank you. Board members do you have any questions for the applicant? Please go ahead.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 33,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 10,
     "start": 1207.72,
     "end": 1247.83,
     "hms": "00h20m08s-00h20m48s",
     "file_name": "Speaker_05_Meeting_Clerk_turn10_global033_00h20m08s-00h20m48s.mp4",
-    "text_preview": "Mr. Swain, hi. Good to see you again. Um I've got several questions substantively about the submittals but I am not clear at all from this the staff report how the property is accessed and where parking occurs. Do you kn"
+    "text_preview": "Mr. Swain, hi. Good to see you again. Um I've got several questions substantively about the submittals but I am not clear at all from this the staff report how the property is accessed and where parking occurs. Do you kn",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 34,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 9,
     "start": 1247.84,
     "end": 1263.55,
     "hms": "00h20m48s-00h21m04s",
     "file_name": "Speaker_01_Meeting_Chair_turn09_global034_00h20m48s-00h21m04s.mp4",
-    "text_preview": "All right. I'll I'll talk to Dan as well. I'm just not seeing it on the drawing and I'm not clear how it works. Sure. Oh, I thought Charles put up a diagram. I thought that was dated and no longer valid because it reflec"
+    "text_preview": "All right. I'll I'll talk to Dan as well. I'm just not seeing it on the drawing and I'm not clear how it works. Sure. Oh, I thought Charles put up a diagram. I thought that was dated and no longer valid because it reflec",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 35,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 11,
     "start": 1263.56,
     "end": 1302.51,
     "hms": "00h21m04s-00h21m43s",
     "file_name": "Speaker_05_Meeting_Clerk_turn11_global035_00h21m04s-00h21m43s.mp4",
-    "text_preview": "Mr. Through you to members of the board that is That is the present plat right now. No, no, sorry. That is That is not the present plat right now. That is what they would wish the fee simple ownership to look like. Sorry"
+    "text_preview": "Mr. Through you to members of the board that is That is the present plat right now. No, no, sorry. That is That is not the present plat right now. That is what they would wish the fee simple ownership to look like. Sorry",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 36,
@@ -371,13 +391,14 @@
   },
   {
     "global_idx": 38,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 12,
     "start": 1309.56,
     "end": 1323.27,
     "hms": "00h21m50s-00h22m03s",
     "file_name": "Speaker_05_Meeting_Clerk_turn12_global038_00h21m50s-00h22m03s.mp4",
-    "text_preview": "Mr. Chair, 32, the board member Ordono, parking is on-site in designated parking spaces that meet all parking standards. [All right.] So, there are there are parking standards. There are parking spaces where the curb lin"
+    "text_preview": "Mr. Chair, 32, the board member Ordono, parking is on-site in designated parking spaces that meet all parking standards. [All right.] So, there are there are parking standards. There are parking spaces where the curb lin",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 39,
@@ -391,13 +412,14 @@
   },
   {
     "global_idx": 40,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 13,
     "start": 1325.04,
     "end": 1344.99,
     "hms": "00h22m05s-00h22m25s",
     "file_name": "Speaker_05_Meeting_Clerk_turn13_global040_00h22m05s-00h22m25s.mp4",
-    "text_preview": "And and if I may, this even though this is labeled as a plat, practically speaking, it's a plat plan. So, how you see the buildings drawn in, the parking, the access, all the curb, that's how it's built currently. So, th"
+    "text_preview": "And and if I may, this even though this is labeled as a plat, practically speaking, it's a plat plan. So, how you see the buildings drawn in, the parking, the access, all the curb, that's how it's built currently. So, th",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 41,
@@ -421,13 +443,14 @@
   },
   {
     "global_idx": 43,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 14,
     "start": 1360.52,
     "end": 1377.55,
     "hms": "00h22m41s-00h22m58s",
     "file_name": "Speaker_05_Meeting_Clerk_turn14_global043_00h22m41s-00h22m58s.mp4",
-    "text_preview": "Good evening. Dan Dorsch, 2207 Van Lennon. I'm also the executive director for Habitat for Humanity of Laramie County. Um Mr. Chair, members of the board, thank you for your time. Sorry. I'd like to swear you in. Can you"
+    "text_preview": "Good evening. Dan Dorsch, 2207 Van Lennon. I'm also the executive director for Habitat for Humanity of Laramie County. Um Mr. Chair, members of the board, thank you for your time. Sorry. I'd like to swear you in. Can you",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 44,
@@ -451,13 +474,14 @@
   },
   {
     "global_idx": 46,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 15,
     "start": 1379.16,
     "end": 2000.39,
     "hms": "00h22m59s-00h33m20s",
     "file_name": "Speaker_05_Meeting_Clerk_turn15_global046_00h22m59s-00h33m20s.mp4",
-    "text_preview": "Mr. Chairman, members of the board, thank you for your time this evening. Um, the handout you have is kind of our answers to why we feel this variance should be approved. Um, Mr. Bloom hit on some of these points, so I'm"
+    "text_preview": "Mr. Chairman, members of the board, thank you for your time this evening. Um, the handout you have is kind of our answers to why we feel this variance should be approved. Um, Mr. Bloom hit on some of these points, so I'm",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 47,
@@ -471,13 +495,14 @@
   },
   {
     "global_idx": 48,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 16,
     "start": 2002.8,
     "end": 2016.71,
     "hms": "00h33m23s-00h33m37s",
     "file_name": "Speaker_05_Meeting_Clerk_turn16_global048_00h33m23s-00h33m37s.mp4",
-    "text_preview": "In terms of the decision to want to change what your original application was. You were concluding that a property survey during the same time of applying for submittals with the city, correct?"
+    "text_preview": "In terms of the decision to want to change what your original application was. You were concluding that a property survey during the same time of applying for submittals with the city, correct?",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 49,
@@ -491,13 +516,14 @@
   },
   {
     "global_idx": 50,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 17,
     "start": 2030.08,
     "end": 2060.91,
     "hms": "00h33m50s-00h34m21s",
     "file_name": "Speaker_05_Meeting_Clerk_turn17_global050_00h33m50s-00h34m21s.mp4",
-    "text_preview": "challenges and then the initial reason for wanting to choose the layout change, right? So, we were aware of the topography and that there's that's why the retention pond in the northwest corner is there. There's actually"
+    "text_preview": "challenges and then the initial reason for wanting to choose the layout change, right? So, we were aware of the topography and that there's that's why the retention pond in the northwest corner is there. There's actually",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 51,
@@ -521,13 +547,14 @@
   },
   {
     "global_idx": 53,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 18,
     "start": 2105.88,
     "end": 2171.75,
     "hms": "00h35m06s-00h36m12s",
     "file_name": "Speaker_05_Meeting_Clerk_turn18_global053_00h35m06s-00h36m12s.mp4",
-    "text_preview": "Mr. Chairman, through you to Board Member O'Donnell. Thank you very much for your comments, sir. That is greatly appreciated. Um and you are absolutely correct. We are facing an affordable housing crisis here in Cheyenne"
+    "text_preview": "Mr. Chairman, through you to Board Member O'Donnell. Thank you very much for your comments, sir. That is greatly appreciated. Um and you are absolutely correct. We are facing an affordable housing crisis here in Cheyenne",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 54,
@@ -541,13 +568,14 @@
   },
   {
     "global_idx": 55,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 10,
     "start": 2208.6,
     "end": 2234.59,
     "hms": "00h36m49s-00h37m15s",
     "file_name": "Speaker_01_Meeting_Chair_turn10_global055_00h36m49s-00h37m15s.mp4",
-    "text_preview": "Thank you. Um any other questions for the applicant? Okay, just on a follow-up note, I couldn't said echo what my fellow board member just said there at the end. Thank you for your time and um is anyone else here to test"
+    "text_preview": "Thank you. Um any other questions for the applicant? Okay, just on a follow-up note, I couldn't said echo what my fellow board member just said there at the end. Thank you for your time and um is anyone else here to test",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 56,
@@ -571,13 +599,14 @@
   },
   {
     "global_idx": 58,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 19,
     "start": 2294.16,
     "end": 2371.43,
     "hms": "00h38m14s-00h39m31s",
     "file_name": "Speaker_05_Meeting_Clerk_turn19_global058_00h38m14s-00h39m31s.mp4",
-    "text_preview": "Um I would like the board to consider how specifically each criterion is not met. Um criterion one, special circumstances not caused by the applicant not met. The applicant chose the layout to fit the single lot single l"
+    "text_preview": "Um I would like the board to consider how specifically each criterion is not met. Um criterion one, special circumstances not caused by the applicant not met. The applicant chose the layout to fit the single lot single l",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 59,
@@ -601,13 +630,14 @@
   },
   {
     "global_idx": 61,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 11,
     "start": 2408.2,
     "end": 2430.83,
     "hms": "00h40m08s-00h40m31s",
     "file_name": "Speaker_01_Meeting_Chair_turn11_global061_00h40m08s-00h40m31s.mp4",
-    "text_preview": "Thank you. Other comments from the board? item is I do find the findings for approval to be substantially significant. Um as we move beyond comment to entertaining a motion, um the chair will entertain a motion on this i"
+    "text_preview": "Thank you. Other comments from the board? item is I do find the findings for approval to be substantially significant. Um as we move beyond comment to entertaining a motion, um the chair will entertain a motion on this i",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 62,
@@ -621,13 +651,14 @@
   },
   {
     "global_idx": 63,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 12,
     "start": 2457.8,
     "end": 2467.51,
     "hms": "00h40m58s-00h41m08s",
     "file_name": "Speaker_01_Meeting_Chair_turn12_global063_00h40m58s-00h41m08s.mp4",
-    "text_preview": "Okay. Aaron, is that an appropriate Did you capture that motion? [Yeah, we've got it. Thank you.] Okay. Thank you. Uh the chair will entertain a second."
+    "text_preview": "Okay. Aaron, is that an appropriate Did you capture that motion? [Yeah, we've got it. Thank you.] Okay. Thank you. Uh the chair will entertain a second.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 64,
@@ -641,13 +672,14 @@
   },
   {
     "global_idx": 65,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 13,
     "start": 2470.0,
     "end": 2474.47,
     "hms": "00h41m10s-00h41m14s",
     "file_name": "Speaker_01_Meeting_Chair_turn13_global065_00h41m10s-00h41m14s.mp4",
-    "text_preview": "Okay. We have a motion and we have a second. Please call roll."
+    "text_preview": "Okay. We have a motion and we have a second. Please call roll.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 66,
@@ -701,13 +733,14 @@
   },
   {
     "global_idx": 71,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 20,
     "start": 2489.64,
     "end": 2861.63,
     "hms": "00h41m30s-00h47m42s",
     "file_name": "Speaker_05_Meeting_Clerk_turn20_global071_00h41m30s-00h47m42s.mp4",
-    "text_preview": "Thank you. Okay. That said, let's move on to item number two. variance request for front and rear setbacks in the MR, medium density residential zone. Located at Lot 12, Block 11, Roberts Place. The agent is Shane Hanson"
+    "text_preview": "Thank you. Okay. That said, let's move on to item number two. variance request for front and rear setbacks in the MR, medium density residential zone. Located at Lot 12, Block 11, Roberts Place. The agent is Shane Hanson",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 72,
@@ -721,13 +754,14 @@
   },
   {
     "global_idx": 73,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 21,
     "start": 2877.4,
     "end": 2962.27,
     "hms": "00h47m57s-00h49m22s",
     "file_name": "Speaker_05_Meeting_Clerk_turn21_global073_00h47m57s-00h49m22s.mp4",
-    "text_preview": "Again, Shane Hanson style serving services. Uh Just want to point out that as as Charles stated earlier, this board is empowered to overrule any any recommendation from the staff. Just point that out. Um I I received uh "
+    "text_preview": "Again, Shane Hanson style serving services. Uh Just want to point out that as as Charles stated earlier, this board is empowered to overrule any any recommendation from the staff. Just point that out. Um I I received uh ",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 74,
@@ -751,33 +785,36 @@
   },
   {
     "global_idx": 76,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 22,
     "start": 2975.2,
     "end": 3029.99,
     "hms": "00h49m35s-00h50m30s",
     "file_name": "Speaker_05_Meeting_Clerk_turn22_global076_00h49m35s-00h50m30s.mp4",
-    "text_preview": "Thank you. Um board member members of the uh excuse me, board chair members of the board, Dan Dorsey, executive director for Habitat for Humanity of Laramie County. Um to save some money on on design. So, we're taking th"
+    "text_preview": "Thank you. Um board member members of the uh excuse me, board chair members of the board, Dan Dorsey, executive director for Habitat for Humanity of Laramie County. Um to save some money on on design. So, we're taking th",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 77,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 14,
     "start": 3030.0,
     "end": 3033.43,
     "hms": "00h50m30s-00h50m33s",
     "file_name": "Speaker_01_Meeting_Chair_turn14_global077_00h50m30s-00h50m33s.mp4",
-    "text_preview": "Thank you. Any questions for the applicant? Yeah, please go ahead."
+    "text_preview": "Thank you. Any questions for the applicant? Yeah, please go ahead.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 78,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 23,
     "start": 3033.44,
     "end": 3113.27,
     "hms": "00h50m33s-00h51m53s",
     "file_name": "Speaker_05_Meeting_Clerk_turn23_global078_00h50m33s-00h51m53s.mp4",
-    "text_preview": "Is this the only house design that you have in your arsenal? Currently? Mr. Chairman, through you to board member Campfield, it is not. Um we in 20 in 2024 we built a single-family home off of Wills Road that was was rou"
+    "text_preview": "Is this the only house design that you have in your arsenal? Currently? Mr. Chairman, through you to board member Campfield, it is not. Um we in 20 in 2024 we built a single-family home off of Wills Road that was was rou",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 79,
@@ -841,13 +878,14 @@
   },
   {
     "global_idx": 85,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 15,
     "start": 3244.56,
     "end": 3254.87,
     "hms": "00h54m05s-00h54m15s",
     "file_name": "Speaker_01_Meeting_Chair_turn15_global085_00h54m05s-00h54m15s.mp4",
-    "text_preview": "All right. Uh think I'll hold off there for the moment. Thank you. Thank you. Did we have a question this way? Yeah, please go ahead."
+    "text_preview": "All right. Uh think I'll hold off there for the moment. Thank you. Thank you. Did we have a question this way? Yeah, please go ahead.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 86,
@@ -881,13 +919,14 @@
   },
   {
     "global_idx": 89,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 24,
     "start": 3286.68,
     "end": 3370.59,
     "hms": "00h54m47s-00h56m11s",
     "file_name": "Speaker_05_Meeting_Clerk_turn24_global089_00h54m47s-00h56m11s.mp4",
-    "text_preview": "And that going to have on-street parking, and then where do the residents park? And that short distance there is just not that, but it's trash collection, and where would everybody trash bins? And then to service those, "
+    "text_preview": "And that going to have on-street parking, and then where do the residents park? And that short distance there is just not that, but it's trash collection, and where would everybody trash bins? And then to service those, ",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 90,
@@ -901,13 +940,14 @@
   },
   {
     "global_idx": 91,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 25,
     "start": 3415.32,
     "end": 3430.55,
     "hms": "00h56m55s-00h57m11s",
     "file_name": "Speaker_05_Meeting_Clerk_turn25_global091_00h56m55s-00h57m11s.mp4",
-    "text_preview": "Mr. Chairman through you to board member O'Donnell that's the goal to have those those large yards on the sides like that, and wherever the homeowner chooses to put their storage bins, they could potentially put it insid"
+    "text_preview": "Mr. Chairman through you to board member O'Donnell that's the goal to have those those large yards on the sides like that, and wherever the homeowner chooses to put their storage bins, they could potentially put it insid",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 92,
@@ -921,13 +961,14 @@
   },
   {
     "global_idx": 93,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 16,
     "start": 3434.24,
     "end": 3438.47,
     "hms": "00h57m14s-00h57m18s",
     "file_name": "Speaker_01_Meeting_Chair_turn16_global093_00h57m14s-00h57m18s.mp4",
-    "text_preview": "Thank you. Any other remaining questions? Yeah, please go ahead."
+    "text_preview": "Thank you. Any other remaining questions? Yeah, please go ahead.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 94,
@@ -951,13 +992,14 @@
   },
   {
     "global_idx": 96,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 26,
     "start": 3458.84,
     "end": 3490.11,
     "hms": "00h57m39s-00h58m10s",
     "file_name": "Speaker_05_Meeting_Clerk_turn26_global096_00h57m39s-00h58m10s.mp4",
-    "text_preview": "Chair, members of the board, I can answer that with an answer we don't really like. The solid waste division is moving towards curbside collection 100% and abandoning any any activity in the alley regarding trash collect"
+    "text_preview": "Chair, members of the board, I can answer that with an answer we don't really like. The solid waste division is moving towards curbside collection 100% and abandoning any any activity in the alley regarding trash collect",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 97,
@@ -971,13 +1013,14 @@
   },
   {
     "global_idx": 98,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 27,
     "start": 3502.52,
     "end": 3558.99,
     "hms": "00h58m23s-00h59m19s",
     "file_name": "Speaker_05_Meeting_Clerk_turn27_global098_00h58m23s-00h59m19s.mp4",
-    "text_preview": "Chair, if I if I may add real quick, this project did have a site plan or pre-application meeting where they just went over some conceptual items. Um due to the amount of curb line that was there, staff with concurrence "
+    "text_preview": "Chair, if I if I may add real quick, this project did have a site plan or pre-application meeting where they just went over some conceptual items. Um due to the amount of curb line that was there, staff with concurrence ",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 99,
@@ -1001,33 +1044,36 @@
   },
   {
     "global_idx": 101,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 28,
     "start": 3684.88,
     "end": 3898.63,
     "hms": "01h01m25s-01h04m59s",
     "file_name": "Speaker_05_Meeting_Clerk_turn28_global101_01h01m25s-01h04m59s.mp4",
-    "text_preview": "Man, I'm chomping at the bit to testify in this one. Folks, good evening. Brandon Swain. Um so I actually have projects developed. Uh one's currently developed just a few blocks west of this, Fifth Street and Snyder. I h"
+    "text_preview": "Man, I'm chomping at the bit to testify in this one. Folks, good evening. Brandon Swain. Um so I actually have projects developed. Uh one's currently developed just a few blocks west of this, Fifth Street and Snyder. I h",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 102,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 17,
     "start": 3899.04,
     "end": 3917.03,
     "hms": "01h04m59s-01h05m17s",
     "file_name": "Speaker_01_Meeting_Chair_turn17_global102_01h04m59s-01h05m17s.mp4",
-    "text_preview": "Uh, any questions for the applicant? Okay. Seeing none, thank you. [Thank you.] All right. With that, we'll ask if anyone else is here to testify, um, on behalf of the public. Okay. With that, we'll close public comment "
+    "text_preview": "Uh, any questions for the applicant? Okay. Seeing none, thank you. [Thank you.] All right. With that, we'll ask if anyone else is here to testify, um, on behalf of the public. Okay. With that, we'll close public comment ",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 103,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 18,
     "start": 3918.0,
     "end": 3919.67,
     "hms": "01h05m18s-01h05m20s",
     "file_name": "Speaker_01_Meeting_Chair_turn18_global103_01h05m18s-01h05m20s.mp4",
-    "text_preview": "Yeah, please."
+    "text_preview": "Yeah, please.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 104,
@@ -1061,23 +1107,25 @@
   },
   {
     "global_idx": 107,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 19,
     "start": 3994.8,
     "end": 4002.47,
     "hms": "01h06m35s-01h06m42s",
     "file_name": "Speaker_01_Meeting_Chair_turn19_global107_01h06m35s-01h06m42s.mp4",
-    "text_preview": "Oh, sorry. Let me go back. Let's Let's get a motion before we call roll. Sorry about that. Uh yeah, the chair will Oh, yeah, go ahead, Charles."
+    "text_preview": "Oh, sorry. Let me go back. Let's Let's get a motion before we call roll. Sorry about that. Uh yeah, the chair will Oh, yeah, go ahead, Charles.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 108,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 29,
     "start": 4002.48,
     "end": 4018.75,
     "hms": "01h06m42s-01h06m59s",
     "file_name": "Speaker_05_Meeting_Clerk_turn29_global108_01h06m42s-01h06m59s.mp4",
-    "text_preview": "Chairman of the board, um since we don't have review criteria identified that are satisfied, you all will need to elaborate on how it meets the the required findings for approval. So, before you take roll,"
+    "text_preview": "Chairman of the board, um since we don't have review criteria identified that are satisfied, you all will need to elaborate on how it meets the the required findings for approval. So, before you take roll,",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 109,
@@ -1101,13 +1149,14 @@
   },
   {
     "global_idx": 111,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 20,
     "start": 4129.8,
     "end": 4141.83,
     "hms": "01h08m50s-01h09m02s",
     "file_name": "Speaker_01_Meeting_Chair_turn20_global111_01h08m50s-01h09m02s.mp4",
-    "text_preview": "Okay. A technical question. Am I am I allowed to have my fellow board member make her comment when we have a motion pending?"
+    "text_preview": "Okay. A technical question. Am I am I allowed to have my fellow board member make her comment when we have a motion pending?",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 112,
@@ -1131,13 +1180,14 @@
   },
   {
     "global_idx": 114,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 30,
     "start": 4148.4,
     "end": 4229.23,
     "hms": "01h09m08s-01h10m29s",
     "file_name": "Speaker_05_Meeting_Clerk_turn30_global114_01h09m08s-01h10m29s.mp4",
-    "text_preview": "Um I would say how each criterion is not met. Criterion one, special circumstances not met by the applicant. The lot is standard single-family lot like others in the neighborhood. It has no irregular shape, narrowness, n"
+    "text_preview": "Um I would say how each criterion is not met. Criterion one, special circumstances not met by the applicant. The lot is standard single-family lot like others in the neighborhood. It has no irregular shape, narrowness, n",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 115,
@@ -1161,13 +1211,14 @@
   },
   {
     "global_idx": 117,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 31,
     "start": 4265.76,
     "end": 4304.99,
     "hms": "01h11m06s-01h11m45s",
     "file_name": "Speaker_05_Meeting_Clerk_turn31_global117_01h11m06s-01h11m45s.mp4",
-    "text_preview": "Thank you. Other comments from the board? Yeah, please go ahead. just trying to make things the most efficient and affordable. And waving all the rules continuously leads to a real dangerous precedence. In addition to th"
+    "text_preview": "Thank you. Other comments from the board? Yeah, please go ahead. just trying to make things the most efficient and affordable. And waving all the rules continuously leads to a real dangerous precedence. In addition to th",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 118,
@@ -1181,13 +1232,14 @@
   },
   {
     "global_idx": 119,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 32,
     "start": 4310.0,
     "end": 4358.39,
     "hms": "01h11m50s-01h12m38s",
     "file_name": "Speaker_05_Meeting_Clerk_turn32_global119_01h11m50s-01h12m38s.mp4",
-    "text_preview": "Um Mr. Chair, I would just like to note as an individual who cannot afford housing in this community in the community I live in, was born and raised and grew up in, I find that it is of the most importance that this boar"
+    "text_preview": "Um Mr. Chair, I would just like to note as an individual who cannot afford housing in this community in the community I live in, was born and raised and grew up in, I find that it is of the most importance that this boar",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 120,
@@ -1261,33 +1313,36 @@
   },
   {
     "global_idx": 127,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 33,
     "start": 4389.12,
     "end": 4560.07,
     "hms": "01h13m09s-01h16m00s",
     "file_name": "Speaker_05_Meeting_Clerk_turn33_global127_01h13m09s-01h16m00s.mp4",
-    "text_preview": "Thank you. business? bit late, uh just to remind you all that in order to pass a variance, you need a majority of the board, and that would be four members. So, you met that threshold. So, um the second item I have to no"
+    "text_preview": "Thank you. business? bit late, uh just to remind you all that in order to pass a variance, you need a majority of the board, and that would be four members. So, you met that threshold. So, um the second item I have to no",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 128,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 21,
     "start": 4560.08,
     "end": 4561.39,
     "hms": "01h16m00s-01h16m01s",
     "file_name": "Speaker_01_Meeting_Chair_turn21_global128_01h16m00s-01h16m01s.mp4",
-    "text_preview": "Yeah, I think we're termed out."
+    "text_preview": "Yeah, I think we're termed out.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   },
   {
     "global_idx": 129,
-    "speaker": "Speaker_05_Meeting_Clerk",
+    "speaker": "Speaker_05_Unverified_Voice",
     "speaker_turn": 34,
     "start": 4563.24,
     "end": 4604.75,
     "hms": "01h16m03s-01h16m45s",
     "file_name": "Speaker_05_Meeting_Clerk_turn34_global129_01h16m03s-01h16m45s.mp4",
-    "text_preview": "And then next month in November, we do not have any items, so that will not take place. Our next meeting will be December 17th. Okay, thank you. Any other business? the one thing I will note is we will keep providing upd"
+    "text_preview": "And then next month in November, we do not have any items, so that will not take place. Our next meeting will be December 17th. Okay, thank you. Any other business? the one thing I will note is we will keep providing upd",
+    "speaker_original_automatic_label": "Speaker_05_Meeting_Clerk"
   },
   {
     "global_idx": 130,
@@ -1301,12 +1356,13 @@
   },
   {
     "global_idx": 131,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 22,
     "start": 4607.0,
     "end": 4615.36,
     "hms": "01h16m47s-01h16m55s",
     "file_name": "Speaker_01_Meeting_Chair_turn22_global131_01h16m47s-01h16m55s.mp4",
-    "text_preview": "All right. With that, we'll close the Board of Adjustments meeting for October."
+    "text_preview": "All right. With that, we'll close the Board of Adjustments meeting for October.",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   }
 ]

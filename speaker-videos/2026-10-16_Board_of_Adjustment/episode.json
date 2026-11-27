@@ -10,10 +10,10 @@
   "archive_stream_url": "https://archive.org/download/cochwy-Board_of_Adjustment-g_32gta97jM/Board_of_Adjustment-g_32gta97jM.mp4",
   "cast": [
     {
-      "speaker": "Speaker_01_Meeting_Chair",
+      "speaker": "Speaker_01_Unverified_Voice",
       "clips_count": 28,
       "size_bytes": 74419311,
-      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-16-g_32gta97jM/Speaker_01_Meeting_Chair_28_clips.zip"
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-16-g_32gta97jM/Speaker_01_Unverified_Voice_28_clips.zip"
     },
     {
       "speaker": "Speaker_02_Voice_Cluster_03",
@@ -28,10 +28,10 @@
       "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-16-g_32gta97jM/Speaker_03_Voice_Cluster_01_23_clips.zip"
     },
     {
-      "speaker": "Speaker_04_Meeting_Clerk",
+      "speaker": "Speaker_04_Unverified_Voice",
       "clips_count": 36,
       "size_bytes": 331325288,
-      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-16-g_32gta97jM/Speaker_04_Meeting_Clerk_36_clips.zip"
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-16-g_32gta97jM/Speaker_04_Unverified_Voice_36_clips.zip"
     },
     {
       "speaker": "Speaker_05_Voice_Cluster_04",

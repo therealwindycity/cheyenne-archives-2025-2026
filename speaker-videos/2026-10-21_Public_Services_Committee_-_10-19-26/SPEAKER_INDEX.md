@@ -11,31 +11,33 @@
 - **`00h58m59s`** — Number 32, resolution granting special use approval for a gaming center pursuant to unified development code 2.2.7 and granting local approval of a site-specific application for simulcasting permit to be issued by the Wyoming Gaming Commission pursuant to Wyoming Statute 11-25-21
 - **`01h09m15s`** — Number 34F, grant of easement between the City of Cheyenne and the Department of the Air Force to grant and convey to the city a non-exclusive easement on FE Warren Air Force Base property for the construction, use, operation, and maintenance of a parking lot to serve patrons of 
 
+> ⚠️ **Speaker names corrected (2026-11-27):** automatically guessed names were unreliable and are now shown as `Unverified_Voice`; clip file names inside the ZIPs may still carry the old automatic label (listed as `speaker_original_automatic_label` in manifest.json).
+
 ## 🎭 Cast of Characters & Speaker Video Archives
 
 | Cast Member / Speaker | Turns | Archive Size | Download Clips ZIP |
 |---|---:|---:|---|
-| `Speaker_01_Meeting_Clerk` | 8 | 13.1 MB | [Download `Speaker_01_Meeting_Clerk_08_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_01_Meeting_Clerk_08_clips.zip) |
+| `Speaker_01_Unverified_Voice` | 8 | 13.1 MB | [Download `Speaker_01_Unverified_Voice_08_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_01_Unverified_Voice_08_clips.zip) |
 | `Speaker_02_Voice_Cluster_02` | 13 | 19.2 MB | [Download `Speaker_02_Voice_Cluster_02_13_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_02_Voice_Cluster_02_13_clips.zip) |
-| `Speaker_03_Councilwoman_Runyon` | 9 | 42.7 MB | [Download `Speaker_03_Councilwoman_Runyon_09_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_03_Councilwoman_Runyon_09_clips.zip) |
-| `Speaker_04_Meeting_Chair` | 26 | 86.3 MB | [Download `Speaker_04_Meeting_Chair_26_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_04_Meeting_Chair_26_clips.zip) |
-| `Speaker_05_Dr._Winnie` | 6 | 15.6 MB | [Download `Speaker_05_Dr._Winnie_06_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_05_Dr._Winnie_06_clips.zip) |
+| `Speaker_03_Unverified_Voice` | 9 | 42.7 MB | [Download `Speaker_03_Unverified_Voice_09_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_03_Unverified_Voice_09_clips.zip) |
+| `Speaker_04_Unverified_Voice` | 26 | 86.3 MB | [Download `Speaker_04_Unverified_Voice_26_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_04_Unverified_Voice_26_clips.zip) |
+| `Speaker_05_Unverified_Voice` | 6 | 15.6 MB | [Download `Speaker_05_Unverified_Voice_06_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_05_Unverified_Voice_06_clips.zip) |
 | `Speaker_06_Voice_Cluster_05` | 1 | 0.7 MB | [Download `Speaker_06_Voice_Cluster_05_01_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_06_Voice_Cluster_05_01_clips.zip) |
-| `Speaker_07_Dr_Kathy_Emmons_Council` | 11 | 19.6 MB | [Download `Speaker_07_Dr_Kathy_Emmons_Council_11_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_07_Dr_Kathy_Emmons_Council_11_clips.zip) |
+| `Speaker_07_Unverified_Voice` | 11 | 19.6 MB | [Download `Speaker_07_Unverified_Voice_11_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_07_Unverified_Voice_11_clips.zip) |
 | `Speaker_09_Voice_Cluster_09` | 2 | 0.4 MB | [Download `Speaker_09_Voice_Cluster_09_02_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_09_Voice_Cluster_09_02_clips.zip) |
 | `Speaker_11_Voice_Cluster_03` | 1 | 0.8 MB | [Download `Speaker_11_Voice_Cluster_03_01_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_11_Voice_Cluster_03_01_clips.zip) |
 | `Speaker_12_Voice_Cluster_06` | 2 | 0.5 MB | [Download `Speaker_12_Voice_Cluster_06_02_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_12_Voice_Cluster_06_02_clips.zip) |
-| `Speaker_13_Seth_Lloyd_Planning` | 17 | 133.3 MB | [Download `Speaker_13_Seth_Lloyd_Planning_17_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_13_Seth_Lloyd_Planning_17_clips.zip) |
-| `Speaker_14_Dr_Mark_Rinne_Council` | 5 | 12.5 MB | [Download `Speaker_14_Dr_Mark_Rinne_Council_05_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_14_Dr_Mark_Rinne_Council_05_clips.zip) |
+| `Speaker_13_Unverified_Voice` | 17 | 133.3 MB | [Download `Speaker_13_Unverified_Voice_17_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_13_Unverified_Voice_17_clips.zip) |
+| `Speaker_14_Unverified_Voice` | 5 | 12.5 MB | [Download `Speaker_14_Unverified_Voice_05_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_14_Unverified_Voice_05_clips.zip) |
 | `Speaker_15_Voice_Cluster_01` | 6 | 31.8 MB | [Download `Speaker_15_Voice_Cluster_01_06_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_15_Voice_Cluster_01_06_clips.zip) |
-| `Speaker_16_Councilman_Rooney` | 5 | 10.3 MB | [Download `Speaker_16_Councilman_Rooney_05_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_16_Councilman_Rooney_05_clips.zip) |
-| `Speaker_17_Brennan_Rhodes` | 1 | 4.7 MB | [Download `Speaker_17_Brennan_Rhodes_01_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_17_Brennan_Rhodes_01_clips.zip) |
-| `Speaker_18_Councilman_Tom_Laybourn` | 2 | 11.9 MB | [Download `Speaker_18_Councilman_Tom_Laybourn_02_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_18_Councilman_Tom_Laybourn_02_clips.zip) |
+| `Speaker_16_Unverified_Voice` | 5 | 10.3 MB | [Download `Speaker_16_Unverified_Voice_05_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_16_Unverified_Voice_05_clips.zip) |
+| `Speaker_17_Unverified_Voice` | 1 | 4.7 MB | [Download `Speaker_17_Unverified_Voice_01_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_17_Unverified_Voice_01_clips.zip) |
+| `Speaker_18_Unverified_Voice` | 2 | 11.9 MB | [Download `Speaker_18_Unverified_Voice_02_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_18_Unverified_Voice_02_clips.zip) |
 | `Speaker_19_Voice_Cluster_07` | 1 | 0.5 MB | [Download `Speaker_19_Voice_Cluster_07_01_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-21-ei5DMOblRIE/Speaker_19_Voice_Cluster_07_01_clips.zip) |
 
 ## ⏱️ Verbatim Turn Timestamps
 
-### `Speaker_01_Meeting_Clerk` (8 turns)
+### `Speaker_01_Unverified_Voice` (8 turns)
 - **Turn 01** (`00h01m09s-00h01m58s`) — *meeting on on October 19th. Um, if you are here in chambers with us and you have your cell phone with if you would put it on manners mode, we would appreciate it. Um, if you would like to make comment, um, please approac*
 - **Turn 02** (`00h02m12s-00h02m14s`) — *We can't hardly hear you, Connor.*
 - **Turn 03** (`00h06m55s-00h06m57s`) — *Councilwoman Runyon, any other questions?*
@@ -60,7 +62,7 @@
 - **Turn 12** (`01h15m18s-01h15m36s`) — *Thank you. Any other public comment here in the chambers? Miller has a comment.*
 - **Turn 13** (`01h21m55s-01h22m50s`) — *Opposed? This item will move forward with recommendation to approve on at the next meeting of the council. With that, we have finished today's agenda much earlier than anticipated. So we are adjourned.*
 
-### `Speaker_03_Councilwoman_Runyon` (9 turns)
+### `Speaker_03_Unverified_Voice` (9 turns)
 - **Turn 01** (`00h02m14s-00h03m30s`) — *Sorry. Bring this forward. Here are members of the committee, Connor White, Planning and Development Department. The annexation before you is for Christensen Road. So, just over 8 acres. Um it is just annexing basically *
 - **Turn 02** (`00h05m53s-00h06m55s`) — *Madam Chairwoman. I guess I understand why it's going to be a BP zone cuz that's the adjacent area, but if it's going to stay public right away and be platted as such, why not just give it a P zone? Connor White. So agai*
 - **Turn 03** (`00h08m06s-00h11m58s`) — *Chair and members of the committee, Connor Roy, Planning Development Department. to go over with this annexation. Uh this is over off of College Drive. It is by the Reed property. Um this is in a county pocket. This is a*
@@ -71,7 +73,7 @@
 - **Turn 08** (`00h16m06s-00h17m43s`) — *Chair members of committee, Conway Planning and Development Department. The zone change before you is an applicant requested zone change. Uh it's from the assigned zoning of AG to BP business park. Uh the plan as stated *
 - **Turn 09** (`00h59m27s-01h04m07s`) — *Chair and members of the Connor White, Planning and Development Department. So, the application before you is a special use for a gaming center. Um this is a request in the CB community business zone district. The previo*
 
-### `Speaker_04_Meeting_Chair` (26 turns)
+### `Speaker_04_Unverified_Voice` (26 turns)
 - **Turn 01** (`00h03m30s-00h03m48s`) — *Hey, are there any questions from committee? For staff. Hearing and not seeing none, um any public comment? Jennifer. Hey, with that, I would entertain a motion.*
 - **Turn 02** (`00h03m51s-00h05m53s`) — *We have a motion from Councilman Leybourn, second from Councilman Rennie. Is there any discussion? [I.] Opposed? This item will move forward with our recommendation to approve on second reading. Next item, please. Number*
 - **Turn 03** (`00h07m06s-00h08m06s`) — *Sorry. Um Chair, through you, Connor White, Planning and Development Department. It's basically the map that we just have to sign that gets recorded with the recording office. So they're called mylars. They're a special *
@@ -99,7 +101,7 @@
 - **Turn 25** (`01h19m37s-01h19m45s`) — *Thank you, Mr. Cobb. Okay, any other public comment? Seeing or hearing none, I would entertain a motion.*
 - **Turn 26** (`01h19m48s-01h19m57s`) — *We have a motion from Councilman Leybourn, a second from Councilwoman Immens. Um is there any discussion by the committee?*
 
-### `Speaker_05_Dr._Winnie` (6 turns)
+### `Speaker_05_Unverified_Voice` (6 turns)
 - **Turn 01** (`00h06m57s-00h06m59s`) — *Thank you, Madam Chairwoman.*
 - **Turn 02** (`00h35m27s-00h35m50s`) — *Thank you, Madam Chairman. So, to Dr. Bloom, so any business then, if they say, "I really am not our business is not anticipating that we're going to have walk-in customers or drive-up customers." would be allowed um wou*
 - **Turn 03** (`00h36m07s-00h36m34s`) — *But um Madam Chairman, through outside of the ADA requirement for the ADA space, if I'm building a if I'm establishing a new business and and building it and saying, "Look, we're I'm just sending my guys out. We're not W*
@@ -110,7 +112,7 @@
 ### `Speaker_06_Voice_Cluster_05` (1 turns)
 - **Turn 01** (`00h06m59s-00h07m01s`) — *Uh Councilwoman Emmons.*
 
-### `Speaker_07_Dr_Kathy_Emmons_Council` (11 turns)
+### `Speaker_07_Unverified_Voice` (11 turns)
 - **Turn 01** (`00h07m01s-00h07m06s`) — *Thank you, Madam Chairwoman. Um what's my what's the mylar?*
 - **Turn 02** (`00h12m01s-00h12m10s`) — *Thank you, Madam Chairwoman. Um so, the Hobels are the owners and they're the ones that have asked for the annexation. Is that correct?*
 - **Turn 03** (`00h12m12s-00h12m19s`) — *Okay. Just want to be real clear. We're not annexing this. We're not initiating this. They are.*
@@ -134,7 +136,7 @@
 - **Turn 01** (`00h48m12s-00h48m13s`) — *Yes, we can.*
 - **Turn 02** (`01h15m37s-01h15m57s`) — *Yes, we can. right. Oh, sorry, my Uh Charles Miller uh for the record here on F.*
 
-### `Speaker_13_Seth_Lloyd_Planning` (17 turns)
+### `Speaker_13_Unverified_Voice` (17 turns)
 - **Turn 01** (`00h18m44s-00h24m50s`) — *Madam Chairman, members of Public Services Committee, my name is Seth Lloyd. I'm with the City of Cheyenne Planning and Development Department. The proposal in front of you is to amend various sections of the Unified Dev*
 - **Turn 02** (`00h25m15s-00h26m09s`) — *Any other comments or questions from committee? Okay. Um I do have a question um for you. If uh when I look at page and it's at the very very very end, it gives the um situations where the director can make allowances or*
 - **Turn 03** (`00h27m13s-00h27m45s`) — *Yes, Madam Chair. That is with the parking lot amendment that will be next on the agenda. Um the staff report for the planning commission wasn't included in its entirety which did include some references to the parking a*
@@ -153,7 +155,7 @@
 - **Turn 16** (`01h14m58s-01h15m18s`) — *Uh Madam Chairman, um Councilman, uh yes, our intent is to park people there and then use the buses to bring them across. And we're we know once people are sitting there waiting for the buses and they see how close their*
 - **Turn 17** (`01h15m57s-01h18m45s`) — *Um Excuse [clears throat] me. Uh Engineer Cobb just told this committee this parking lot will have 2,868 stalls and that 39 of them are ADA stalls, which are concrete paved. Uh I'd asked directly, what are the other 2,82*
 
-### `Speaker_14_Dr_Mark_Rinne_Council` (5 turns)
+### `Speaker_14_Unverified_Voice` (5 turns)
 - **Turn 01** (`00h24m55s-00h25m14s`) — *Madam Chairman, going back to what Mr. Lloyd just referenced in 1.3.11 of the UDC of that we need something in there to probably clean things up. I would think that would be a good amendment to have ready next time.*
 - **Turn 02** (`00h43m15s-00h43m49s`) — *Yeah. spelled it out well, the ADA requirements for new businesses and a spot's required. I believe the full spot would be I think 17 and a half, no, 9 and a half feet by 8 feet with the 8-foot section to the side of it *
 - **Turn 03** (`00h57m39s-00h58m07s`) — *Madam Chairwoman. [Yes, sir.] I I say hate to admit it, I think Mr. Miller, at least to me, brought up legitimate question. Um I think it was a legitimate question that was brought up. And that in section B, should we ha*
@@ -168,17 +170,17 @@
 - **Turn 05** (`01h09m35s-01h12m48s`) — *Good afternoon, Madam Chair, members of the Public Service Committee. Tom Cobb, City Engineer. Jennifer, would you mind pulling up a slide for me so I can do a visual? Under my folder, under the S drive, Public Services *
 - **Turn 06** (`01h18m45s-01h19m37s`) — *Um Madam Chair, through you, I I guess the first thing to state is this is not within the city limits and it is in the jurisdiction of the United States Air Force. Um we have no jurisdictional control over the Air Force *
 
-### `Speaker_16_Councilman_Rooney` (5 turns)
+### `Speaker_16_Unverified_Voice` (5 turns)
 - **Turn 01** (`00h37m00s-00h37m12s`) — *Well, I'm not I'm just worried I'm considering more the gravel lot and not the ADA. I understand the ADA space is a federal requirement, so I'm not really asking about that. I'm just asking about the lot in particular.*
 - **Turn 02** (`00h43m51s-00h43m55s`) — *I'm sorry, I'm Greg Smith, part of the mayor's council disabilities.*
 - **Turn 03** (`00h58m07s-00h58m09s`) — *That's my question.*
 - **Turn 04** (`01h07m54s-01h08m57s`) — *Madam Chairwoman, first of all, um two two points. Um first of all, I think that the hours 10:00 a.m. to 2:00 a.m. reflect state statute. I I remember because I was instrumental in helping write the changes to the gaming*
 - **Turn 05** (`01h21m21s-01h21m53s`) — *Madam Chairman, I um speaking in favor, I as Ms. Hill noted um Frontier days really is kind of a pain to the people that live in that area south of of the park and so I'm hoping that this will give them some relief and m*
 
-### `Speaker_17_Brennan_Rhodes` (1 turns)
+### `Speaker_17_Unverified_Voice` (1 turns)
 - **Turn 01** (`01h04m47s-01h05m30s`) — *Madam Chairwoman, Committee, my name is Brennan Rhodes. I'm a representative of Cowboy, uh, or sorry, 307 Horse Racing in Wyoming Downs. Um, I'm the one who's been sending you all emails. Yeah, I don't have a whole lot t*
 
-### `Speaker_18_Councilman_Tom_Laybourn` (2 turns)
+### `Speaker_18_Unverified_Voice` (2 turns)
 - **Turn 01** (`01h05m50s-01h06m26s`) — *Yes, we can. Charles Miller. Uh Madam Chair, members of the committee, Charles Miller for the record, item 32. Um I'd like it noted that the applicant Wyoming Downs LLC is not new to this community. A Wyoming Downs off-t*
 - **Turn 02** (`01h19m57s-01h21m18s`) — *Yeah, Madam Chairman. [Yes, Councilman Leybourn.] Thank you. Well, this is a long sought and really wonderful project that uh certainly was difficult, but it's going to elevate Well, I don't I It's we're not really eleva*
 

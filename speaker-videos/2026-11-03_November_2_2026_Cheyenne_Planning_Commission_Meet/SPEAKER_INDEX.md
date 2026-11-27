@@ -9,19 +9,21 @@
 - **`00h16m09s`** — Item B, PUDC-26-230, expedited plat.
 - **`00h46m09s`** — Item C, PLTA-26-3, power generation facilities text amendment. updated report?
 
+> ⚠️ **Speaker names corrected (2026-11-27):** automatically guessed names were unreliable and are now shown as `Unverified_Voice`; clip file names inside the ZIPs may still carry the old automatic label (listed as `speaker_original_automatic_label` in manifest.json).
+
 ## 🎭 Cast of Characters & Speaker Video Archives
 
 | Cast Member / Speaker | Turns | Archive Size | Download Clips ZIP |
 |---|---:|---:|---|
-| `Speaker_01_Meeting_Chair` | 29 | 69.1 MB | [Download `Speaker_01_Meeting_Chair_29_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-stladJEUQ2w/Speaker_01_Meeting_Chair_29_clips.zip) |
+| `Speaker_01_Unverified_Voice` | 29 | 69.1 MB | [Download `Speaker_01_Unverified_Voice_29_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-stladJEUQ2w/Speaker_01_Unverified_Voice_29_clips.zip) |
 | `Speaker_02_Voice_Cluster_06` | 24 | 18.1 MB | [Download `Speaker_02_Voice_Cluster_06_24_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-stladJEUQ2w/Speaker_02_Voice_Cluster_06_24_clips.zip) |
-| `Speaker_03_Justin_Trip` | 6 | 5.3 MB | [Download `Speaker_03_Justin_Trip_06_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-stladJEUQ2w/Speaker_03_Justin_Trip_06_clips.zip) |
+| `Speaker_03_Unverified_Voice` | 6 | 5.3 MB | [Download `Speaker_03_Unverified_Voice_06_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-stladJEUQ2w/Speaker_03_Unverified_Voice_06_clips.zip) |
 | `Speaker_04_Voice_Cluster_07` | 3 | 3.0 MB | [Download `Speaker_04_Voice_Cluster_07_03_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-stladJEUQ2w/Speaker_04_Voice_Cluster_07_03_clips.zip) |
-| `Speaker_05_Seth_Lloyd_Planning` | 33 | 160.3 MB | [Download `Speaker_05_Seth_Lloyd_Planning_33_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-stladJEUQ2w/Speaker_05_Seth_Lloyd_Planning_33_clips.zip) |
+| `Speaker_05_Unverified_Voice` | 33 | 160.3 MB | [Download `Speaker_05_Unverified_Voice_33_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-stladJEUQ2w/Speaker_05_Unverified_Voice_33_clips.zip) |
 | `Speaker_06_Voice_Cluster_08` | 1 | 0.3 MB | [Download `Speaker_06_Voice_Cluster_08_01_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-stladJEUQ2w/Speaker_06_Voice_Cluster_08_01_clips.zip) |
-| `Speaker_07_Kristin_Lee_Attorney` | 6 | 31.9 MB | [Download `Speaker_07_Kristin_Lee_Attorney_06_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-stladJEUQ2w/Speaker_07_Kristin_Lee_Attorney_06_clips.zip) |
+| `Speaker_07_Unverified_Voice` | 6 | 31.9 MB | [Download `Speaker_07_Unverified_Voice_06_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-stladJEUQ2w/Speaker_07_Unverified_Voice_06_clips.zip) |
 | `Speaker_08_Voice_Cluster_02` | 7 | 5.4 MB | [Download `Speaker_08_Voice_Cluster_02_07_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-stladJEUQ2w/Speaker_08_Voice_Cluster_02_07_clips.zip) |
-| `Speaker_09_Meeting_Clerk` | 4 | 7.0 MB | [Download `Speaker_09_Meeting_Clerk_04_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-stladJEUQ2w/Speaker_09_Meeting_Clerk_04_clips.zip) |
+| `Speaker_09_Unverified_Voice` | 4 | 7.0 MB | [Download `Speaker_09_Unverified_Voice_04_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-stladJEUQ2w/Speaker_09_Unverified_Voice_04_clips.zip) |
 | `Speaker_10_Voice_Cluster_03` | 3 | 1.4 MB | [Download `Speaker_10_Voice_Cluster_03_03_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-stladJEUQ2w/Speaker_10_Voice_Cluster_03_03_clips.zip) |
 | `Speaker_11_Voice_Cluster_01` | 2 | 0.6 MB | [Download `Speaker_11_Voice_Cluster_01_02_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-stladJEUQ2w/Speaker_11_Voice_Cluster_01_02_clips.zip) |
 | `Speaker_13_Voice_Cluster_04` | 2 | 0.8 MB | [Download `Speaker_13_Voice_Cluster_04_02_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-stladJEUQ2w/Speaker_13_Voice_Cluster_04_02_clips.zip) |
@@ -30,7 +32,7 @@
 
 ## ⏱️ Verbatim Turn Timestamps
 
-### `Speaker_01_Meeting_Chair` (29 turns)
+### `Speaker_01_Unverified_Voice` (29 turns)
 - **Turn 01** (`00h00m22s-00h00m38s`) — *Um, and welcome. Um, I'm going to call this uh November 2nd, 2026 meeting of the city of Cheyenne Planning Commission to order. Will staff please call roll.*
 - **Turn 02** (`00h00m59s-00h02m02s`) — *Wait a present. Mr. Chair, we do have a quorum. Okay, thank you. Uh first item up is uh are there any modifications to the agenda for tonight? Hearing none, the chair will uh will entertain a motion for approval of the m*
 - **Turn 03** (`00h03m04s-00h03m21s`) — *Oh, not much. I'm just happy to answer questions if they come up. I'm a representative of the developer who is the applicant. Um so happy to answer questions if you have them. Can you please walk through the the proposal*
@@ -87,7 +89,7 @@
 - **Turn 23** (`02h01m25s-02h01m28s`) — *I. [Tony Lair.] Yes.*
 - **Turn 24** (`02h01m30s-02h01m34s`) — *Yes. Mr. Chair, that motion passes.*
 
-### `Speaker_03_Justin_Trip` (6 turns)
+### `Speaker_03_Unverified_Voice` (6 turns)
 - **Turn 01** (`00h27m59s-00h28m03s`) — *Um, all right. Uh, Mr. Chairman,*
 - **Turn 02** (`00h39m11s-00h40m07s`) — *I just want to assure that we're saying we're not gonna, you know, put this on the homeowners if that's the true, which I believe Habitat, I mean, I I honest I I'm 100% I I agree on this. I just want to make sure that th*
 - **Turn 03** (`01h04m19s-01h04m22s`) — *Mr. Chairman, this is Justin Trip.*
@@ -100,7 +102,7 @@
 - **Turn 02** (`00h13m15s-00h13m30s`) — *Okay. No, thank you. Are there any other questions of either the the applicant or the well of the staff from the from the chairman through you? Um Yes, sir.*
 - **Turn 03** (`01h37m44s-01h38m07s`) — *Okay. Thank you. Are there any other questions uh by the commission of staff? for public comment. Are there any members of the public that wish to comment on the item before us?*
 
-### `Speaker_05_Seth_Lloyd_Planning` (33 turns)
+### `Speaker_05_Unverified_Voice` (33 turns)
 - **Turn 01** (`00h03m21s-00h06m51s`) — *Uh sure. Yeah. So, um I guess the item that's on the docket this evening is um an expedited plat for a subdivision. Um it's near the intersection of Story and Ridge Road, just a little bit south of Story. Um so the plat *
 - **Turn 02** (`00h10m16s-00h13m03s`) — *Um, Mr. Chair, counterweight planning and development department. So, that is basically a stub. Um, now it will more than likely never extend further south because it does go into the back of residential lots that are ei*
 - **Turn 03** (`00h13m45s-00h14m33s`) — *So, Mr. share it through you and I'll probably hand it over to um Aaron Gates in a second, but they do have two detention ponds proposed with this plat as well as they have to do a drainage study that has to meet all UDC*
@@ -138,7 +140,7 @@
 ### `Speaker_06_Voice_Cluster_08` (1 turns)
 - **Turn 01** (`00h13m03s-00h13m08s`) — *Chair. Um, again, a traffic study has been completed*
 
-### `Speaker_07_Kristin_Lee_Attorney` (6 turns)
+### `Speaker_07_Unverified_Voice` (6 turns)
 - **Turn 01** (`00h13m10s-00h13m15s`) — *So, what was addressed in the traffic study meets the standards in the UD UDC.*
 - **Turn 02** (`01h07m28s-01h15m30s`) — *Mr. Chair, this is sway with the planning and development department. The purpose of the community power generation facility is to allow smallcale largely um renewable resources. Um if you have an emergency backup genera*
 - **Turn 03** (`01h39m31s-01h41m23s`) — *Good evening, Mr. Chairman and Commissioners, my name is Kristen Lee and I am an attorney with Hathaway and Coun at 2515 Warren Avenue, sweet 500. And tonight I'm here representing Related Digital that has a data center *
@@ -155,7 +157,7 @@
 - **Turn 06** (`01h59m33s-01h59m41s`) — *Um, I'll let them correct me if I'm wrong if there's not if there is a midmon or not. I don't believe there is though.*
 - **Turn 07** (`02h01m19s-02h01m25s`) — *Be nice and quick. Bob Mata. [Yes.] Amy Hernandez.*
 
-### `Speaker_09_Meeting_Clerk` (4 turns)
+### `Speaker_09_Unverified_Voice` (4 turns)
 - **Turn 01** (`00h16m09s-00h16m21s`) — *Item B, PUDC-26-230, expedited plat.*
 - **Turn 02** (`00h21m48s-00h23m15s`) — *Uh Mr. Chair through you. So it's basically ultimately it's a parking lot and it's a access road kind of for the development itself. We don't require those to be publicly dedicated. Um especially if it's going to be a pa*
 - **Turn 03** (`00h37m13s-00h38m07s`) — *Mr. Chair, would it you would it be appropriate that we make an amendment to require that be in place before or when we pass this on to the city council or you know before their final approval. Development Department, yo*

@@ -53,20 +53,20 @@ MAX_RELEASE_ASSET_BYTES = 1_900_000_000
 # Canonicalizer for recurring Cheyenne officials & staff across YouTube ASR homophones
 CANONICAL_RULES = [
     (r"(rinne|rennie|renny|rainey|renie)", "Dr_Mark_Rinne_Council"),
-    (r"(emmons|emmens|immens|nimens|edmonds|\bmins\b)", "Dr_Kathy_Emmons_Council"),
-    (r"(laybourn|layborne|layborn|leybourn|leborn|labour|\blay\b)", "Councilman_Tom_Laybourn"),
+    (r"(emmons|emmens|immens|nimens|edmonds)", "Dr_Kathy_Emmons_Council"),
+    (r"(laybourn|layborne|layborn|leybourn|leborn|labour)", "Councilman_Pete_Laybourn"),
     (r"(aldrich|aldridge)", "Michelle_Aldrich_Council"),
     (r"(mayor_collins|patrick_collins)", "Mayor_Patrick_Collins"),
-    (r"(wolf|wolfe)", "Councilman_Larry_Wolf"),
-    (r"(moody)", "Councilman_Ken_Moody"),
-    (r"(esquibel|esabel|escoel)", "Councilman_Richard_Johnson_or_Esquibel"),
-    (r"(segrave|crave|seagrave)", "Councilman_Pete_Laybourn_or_Segrave"),
-    (r"(seth_lloyd|seth_white|sethway|subway_planning|\blloyd\b)", "Seth_Lloyd_Planning"),
+    (r"(wolf|wolfe)", "Councilman_Lawrence_Wolfe"),
+    (r"(moody)", "Councilman_Mark_Moody"),
+    (r"(esquibel|esabel|escoel)", "Councilman_Ken_Esquibel"),
+    (r"(segrave|seagrave)", "Councilman_Tom_Segrave"),
+    (r"(seth_lloyd|\blloyd\b)", "Seth_Lloyd_Planning"),
     (r"(charles_bloom|\bbloom\b)", "Charles_Bloom_Planning_Director"),
     (r"(charles_miller|\bmiller\b)", "Charles_Miller"),
     (r"(mrs\.?_nais|tammy_nicely)", "Tammy_Nicely"),
     (r"(nicely|naisli|naisely)", "David_Nicely"),
-    (r"(kristin_lee|kristen_lee|ms\.?_lee)", "Kristin_Lee_Attorney"),
+    (r"(kristin_lee|kristen_lee|ms\.?_lee)", "Kristen_Lee_Deputy_City_Attorney"),
     (r"(brody)", "John_Brody_City_Attorney"),
     (r"(hopkinson)", "David_Hopkinson_Deputy_City_Attorney"),
     (r"(chestnut)", "Dr_Lori_Chestnut"),
@@ -373,10 +373,8 @@ def extract_speaker_hint(text: str, prev_text: str) -> str | None:
         ]
     ):
         return "Meeting_Chair"
-    tail = prev_text[-65:]
-    m_rec = re.search(r"((?:Councilman|Councilwoman|Mayor|Dr\.|Mr\.|Ms\.|Mrs\.)\s+[A-Z][a-z]+)\.?$", tail)
-    if m_rec:
-        return canonicalize_speaker(sanitize_name(m_rec.group(1)))
+    # NOTE: a name at the end of the PREVIOUS caption line ("Seconded by Mr. Wolf.") is NOT used any more: it named
+    # whoever spoke next after any mention, motion or second (e.g. the presiding officer became "Larry Wolf").
     return None
 
 
@@ -402,13 +400,6 @@ def diarize_and_merge_turns(turns: list[list], wav_path: str | None) -> list[dic
             )
         feats_norm = StandardScaler().fit_transform(np.array(feats))
 
-        named_centroids = {}
-        for spk in set(h for h in hints if h):
-            idxs = [j for j, h in enumerate(hints) if h == spk and (turns[j][1] - turns[j][0]) >= 1.8] or [
-                j for j, h in enumerate(hints) if h == spk
-            ]
-            named_centroids[spk] = np.mean(feats_norm[idxs], axis=0)
-
         unlabeled = [j for j, h in enumerate(hints) if not h]
         if unlabeled:
             if len(unlabeled) >= 4:
@@ -418,15 +409,10 @@ def diarize_and_merge_turns(turns: list[list], wav_path: str | None) -> list[dic
                 )
             else:
                 labels = np.zeros(len(unlabeled), dtype=int)
+            # Unnamed turns stay anonymous voice clusters.  They are NOT given the name of the most similar "named"
+            # voice any more: at the old cosine >= 0.32 threshold staff, chairs and public commenters were merged
+            # into council members' clips.  Names now come only from a speaker introducing themself in that turn.
             for pos, j in enumerate(unlabeled):
-                if named_centroids:
-                    best_spk, best_sim = max(
-                        ((s, float(cosine_similarity(feats_norm[j : j + 1], c.reshape(1, -1))[0, 0])) for s, c in named_centroids.items()),
-                        key=lambda kv: kv[1],
-                    )
-                    if best_sim >= 0.32:
-                        hints[j] = best_spk
-                        continue
                 hints[j] = f"Voice_Cluster_{labels[pos] + 1:02d}"
     else:
         hints = [h or "Speaker_Unknown" for h in hints]

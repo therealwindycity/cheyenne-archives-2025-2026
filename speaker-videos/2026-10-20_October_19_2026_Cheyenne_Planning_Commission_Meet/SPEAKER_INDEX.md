@@ -4,30 +4,32 @@
 - **GitHub Release (Speaker Video ZIPs):** [`speaker-videos-2026-10-20-Wu4g09Zv02c`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/tag/speaker-videos-2026-10-20-Wu4g09Zv02c)
 - **Cast Size (Speakers):** 16 | **Speaking Turn Clips:** 239
 
+> ⚠️ **Speaker names corrected (2026-11-27):** automatically guessed names were unreliable and are now shown as `Unverified_Voice`; clip file names inside the ZIPs may still carry the old automatic label (listed as `speaker_original_automatic_label` in manifest.json).
+
 ## 🎭 Cast of Characters & Speaker Video Archives
 
 | Cast Member / Speaker | Turns | Archive Size | Download Clips ZIP |
 |---|---:|---:|---|
-| `Speaker_01_Meeting_Chair` | 15 | 28.0 MB | [Download `Speaker_01_Meeting_Chair_15_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-20-Wu4g09Zv02c/Speaker_01_Meeting_Chair_15_clips.zip) |
+| `Speaker_01_Unverified_Voice` | 15 | 28.0 MB | [Download `Speaker_01_Unverified_Voice_15_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-20-Wu4g09Zv02c/Speaker_01_Unverified_Voice_15_clips.zip) |
 | `Speaker_02_Voice_Cluster_03` | 51 | 58.4 MB | [Download `Speaker_02_Voice_Cluster_03_51_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-20-Wu4g09Zv02c/Speaker_02_Voice_Cluster_03_51_clips.zip) |
-| `Speaker_03_Commissioner_Matthia` | 17 | 22.9 MB | [Download `Speaker_03_Commissioner_Matthia_17_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-20-Wu4g09Zv02c/Speaker_03_Commissioner_Matthia_17_clips.zip) |
+| `Speaker_03_Unverified_Voice` | 17 | 22.9 MB | [Download `Speaker_03_Unverified_Voice_17_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-20-Wu4g09Zv02c/Speaker_03_Unverified_Voice_17_clips.zip) |
 | `Speaker_04_Voice_Cluster_06` | 1 | 0.6 MB | [Download `Speaker_04_Voice_Cluster_06_01_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-20-Wu4g09Zv02c/Speaker_04_Voice_Cluster_06_01_clips.zip) |
 | `Speaker_05_Voice_Cluster_04` | 7 | 3.3 MB | [Download `Speaker_05_Voice_Cluster_04_07_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-20-Wu4g09Zv02c/Speaker_05_Voice_Cluster_04_07_clips.zip) |
 | `Speaker_06_Voice_Cluster_09` | 2 | 0.8 MB | [Download `Speaker_06_Voice_Cluster_09_02_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-20-Wu4g09Zv02c/Speaker_06_Voice_Cluster_09_02_clips.zip) |
-| `Speaker_07_Jim_Churro` | 14 | 53.1 MB | [Download `Speaker_07_Jim_Churro_14_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-20-Wu4g09Zv02c/Speaker_07_Jim_Churro_14_clips.zip) |
-| `Speaker_08_Seth_Lloyd_Planning` | 47 | 565.6 MB | [Download `Speaker_08_Seth_Lloyd_Planning_47_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-20-Wu4g09Zv02c/Speaker_08_Seth_Lloyd_Planning_47_clips.zip) |
+| `Speaker_07_Unverified_Voice` | 14 | 53.1 MB | [Download `Speaker_07_Unverified_Voice_14_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-20-Wu4g09Zv02c/Speaker_07_Unverified_Voice_14_clips.zip) |
+| `Speaker_08_Unverified_Voice` | 47 | 565.6 MB | [Download `Speaker_08_Unverified_Voice_47_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-20-Wu4g09Zv02c/Speaker_08_Unverified_Voice_47_clips.zip) |
 | `Speaker_09_Voice_Cluster_02` | 4 | 9.5 MB | [Download `Speaker_09_Voice_Cluster_02_04_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-20-Wu4g09Zv02c/Speaker_09_Voice_Cluster_02_04_clips.zip) |
-| `Speaker_10_Southway_Planning` | 6 | 9.5 MB | [Download `Speaker_10_Southway_Planning_06_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-20-Wu4g09Zv02c/Speaker_10_Southway_Planning_06_clips.zip) |
-| `Speaker_12_Cesus_Planning` | 17 | 54.2 MB | [Download `Speaker_12_Cesus_Planning_17_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-20-Wu4g09Zv02c/Speaker_12_Cesus_Planning_17_clips.zip) |
-| `Speaker_13_Mr._Miller` | 28 | 129.9 MB | [Download `Speaker_13_Mr._Miller_28_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-20-Wu4g09Zv02c/Speaker_13_Mr._Miller_28_clips.zip) |
-| `Speaker_14_Seth_Planning` | 20 | 74.4 MB | [Download `Speaker_14_Seth_Planning_20_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-20-Wu4g09Zv02c/Speaker_14_Seth_Planning_20_clips.zip) |
+| `Speaker_10_Unverified_Voice` | 6 | 9.5 MB | [Download `Speaker_10_Unverified_Voice_06_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-20-Wu4g09Zv02c/Speaker_10_Unverified_Voice_06_clips.zip) |
+| `Speaker_12_Unverified_Voice` | 17 | 54.2 MB | [Download `Speaker_12_Unverified_Voice_17_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-20-Wu4g09Zv02c/Speaker_12_Unverified_Voice_17_clips.zip) |
+| `Speaker_13_Unverified_Voice` | 28 | 129.9 MB | [Download `Speaker_13_Unverified_Voice_28_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-20-Wu4g09Zv02c/Speaker_13_Unverified_Voice_28_clips.zip) |
+| `Speaker_14_Unverified_Voice` | 20 | 74.4 MB | [Download `Speaker_14_Unverified_Voice_20_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-20-Wu4g09Zv02c/Speaker_14_Unverified_Voice_20_clips.zip) |
 | `Speaker_15_Voice_Cluster_07` | 7 | 6.7 MB | [Download `Speaker_15_Voice_Cluster_07_07_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-20-Wu4g09Zv02c/Speaker_15_Voice_Cluster_07_07_clips.zip) |
 | `Speaker_17_Voice_Cluster_01` | 1 | 0.4 MB | [Download `Speaker_17_Voice_Cluster_01_01_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-20-Wu4g09Zv02c/Speaker_17_Voice_Cluster_01_01_clips.zip) |
 | `Speaker_18_Voice_Cluster_10` | 2 | 1.8 MB | [Download `Speaker_18_Voice_Cluster_10_02_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-10-20-Wu4g09Zv02c/Speaker_18_Voice_Cluster_10_02_clips.zip) |
 
 ## ⏱️ Verbatim Turn Timestamps
 
-### `Speaker_01_Meeting_Chair` (15 turns)
+### `Speaker_01_Unverified_Voice` (15 turns)
 - **Turn 01** (`00h08m19s-00h08m35s`) — *this uh Monday, October 19th, 2026 uh city of Cheyenne Planning Commission meeting to order. Will staff please call roll. Tony Leairard*
 - **Turn 02** (`00h08m58s-00h09m02s`) — *present. Mr. Chair, one member is absent. We do have a quorum.*
 - **Turn 03** (`00h09m42s-00h10m18s`) — *Okay. Thank you. Um I'll entertain a motion on approval of the minutes of this September 21st meeting. Second. Okay. Are there any comments or amendments to the minutes? um will staff please call a roll on approve.*
@@ -97,7 +99,7 @@
 - **Turn 50** (`03h05m52s-03h05m58s`) — *Yes. Justin Trip. Yes.*
 - **Turn 51** (`03h11m55s-03h12m09s`) — *Okay. Thank you. Anything else from staff? Anything else from the commission? And I can adjourn the meeting. I can adjourn the meeting. Thank you.*
 
-### `Speaker_03_Commissioner_Matthia` (17 turns)
+### `Speaker_03_Unverified_Voice` (17 turns)
 - **Turn 01** (`00h08m40s-00h08m42s`) — *present remotely.*
 - **Turn 02** (`00h34m30s-00h34m33s`) — *I don't. Thank you, Seth.*
 - **Turn 03** (`00h47m25s-00h47m48s`) — *Oh, thanks, Mr. Chair. Back to the um discernable noise um limits. And I do apologize if I missed this. Were there repercussions or fines for exceeding those? were the enforcement mechanisms used in the previous noise vi*
@@ -132,7 +134,7 @@
 - **Turn 01** (`00h08m54s-00h08m56s`) — *here remotely.*
 - **Turn 02** (`01h35m23s-01h35m28s`) — *Katherine Stevens. Thank you. Can you hear me?*
 
-### `Speaker_07_Jim_Churro` (14 turns)
+### `Speaker_07_Unverified_Voice` (14 turns)
 - **Turn 01** (`00h09m02s-00h09m18s`) — *Okay. Thank you. Do we have any disclosures of conflicts of interest, exparte, communications, etc. Even though I don't think exparte matters when we're dealing with the text amendment hearing? None.*
 - **Turn 02** (`00h19m34s-00h19m39s`) — *Thank you, Chief. I had a feeling I thought I saw you over there. So,*
 - **Turn 03** (`01h04m17s-01h06m16s`) — *Jim Churro, ward one, uh, corner of 20th and Huger. Um, you guys don't like my wild card. I've come for over a year and a half with city council. The majority of them don't care. They don't listen to the residents. Uh, t*
@@ -148,7 +150,7 @@
 - **Turn 13** (`02h36m19s-02h36m22s`) — *Is this a mo motion to amend? [It is.] Okay.*
 - **Turn 14** (`02h43m35s-02h43m46s`) — *That's where I would have put it. Uh do we have a a the seconding commissioner. Is that acceptable to you?*
 
-### `Speaker_08_Seth_Lloyd_Planning` (47 turns)
+### `Speaker_08_Unverified_Voice` (47 turns)
 - **Turn 01** (`00h09m18s-00h09m42s`) — *Mr. Not on that item, but on the agenda question, I just I was curious, didn't we not postpone the power generation item to this meeting as well? It's not on the agenda. Seth say no. Mr. Chair, the power generation item *
 - **Turn 02** (`00h10m24s-00h10m31s`) — *Mr. Chair, this is a motion on the minutes. Yes. This is the motion to approve the the minutes.*
 - **Turn 03** (`00h10m47s-00h18m49s`) — *Okay. Thank you. Will staff please read them read item A into the record. Item A, PLTA-26-5 text amendment computer uh data centers and construction. I'll note that uh uh there was a presentation by the staff at the prio*
@@ -203,7 +205,7 @@
 - **Turn 03** (`03h04m30s-03h05m44s`) — *Mr. Ch, that motion passes. Okay, let me see. I need to get to the next section. and and with the postponement um we're just word smithing I think is is the directive Um constru uh temporary construction use. amendments *
 - **Turn 04** (`03h05m58s-03h06m15s`) — *Mr. Chair, that motion passes. And correct me if I'm wrong. we were that were was divided out.*
 
-### `Speaker_10_Southway_Planning` (6 turns)
+### `Speaker_10_Unverified_Voice` (6 turns)
 - **Turn 01** (`00h18m51s-00h19m34s`) — *I do. Um, do we, uh, item C that we just viewed mentions the data center standards and includes fire safety. And I'm wondering do we have any data or or anything that covers uh where we are not only as a city but around *
 - **Turn 02** (`00h31m24s-00h31m27s`) — *Mr. share through you.*
 - **Turn 03** (`02h10m11s-02h10m13s`) — *Mr. Chair, Commissioner Leard,*
@@ -211,7 +213,7 @@
 - **Turn 05** (`02h23m29s-02h23m30s`) — *do we need a motion?*
 - **Turn 06** (`02h25m52s-02h25m54s`) — *M Mr. Chair,*
 
-### `Speaker_12_Cesus_Planning` (17 turns)
+### `Speaker_12_Unverified_Voice` (17 turns)
 - **Turn 01** (`00h23m39s-00h24m06s`) — *Mr. Chair, as this is the definition section here, um I believe that this would apply anywhere else where we want to use noise. Um I believe that for example, the power generation amendment that you have heard and postpo*
 - **Turn 02** (`00h24m29s-00h26m25s`) — *Mr. chair through you. At the planning stages, we require a sound study um showing that it meets standards. Now, um obviously a sound study on paper before the project gets developed can only go so far. Um we've definite*
 - **Turn 03** (`00h31m39s-00h32m18s`) — *Mr. Chair, um through you uh sound does uh diminish over distance whether low frequency, high frequency or audible range. Um, so these sound limits are applicable at any potentially affected property line per the way we *
@@ -230,7 +232,7 @@
 - **Turn 16** (`02h59m56s-03h01m15s`) — *Mr. Chair, this is Seth, the planning and development department. Um the directed if you give us a directive to create craft a separate ordinance that um addresses setbacks and um the use table and different uses. Um tha*
 - **Turn 17** (`03h06m15s-03h06m28s`) — *Mr. Chair, that is correct. So at the end of the that is the last item. Um so at the end of the day, all sections were forwarded to the governing body with the exception of 5.7 which was um postponed for two weeks.*
 
-### `Speaker_13_Mr._Miller` (28 turns)
+### `Speaker_13_Unverified_Voice` (28 turns)
 - **Turn 01** (`00h24m06s-00h24m29s`) — *Thank you Mr. Chair through you. I just wonder who's responsible for taking these noise measurements say well both during construction and and planning and also suppose a a citizen comes in and has a complaint about nois*
 - **Turn 02** (`00h31m27s-00h31m39s`) — *In terms of distance for measuring the noise, are you what are your distance limits that you know if it's more than three miles is it no longer considered a problem?*
 - **Turn 03** (`00h34m33s-00h35m15s`) — *Um, and I guess I've got a followup there. Um, in in the RAND comments, uh, there were some suggested, uh, uh, decibel levels, um, that were lower than what our proposal is. Did I hear you say that things are is there an*
@@ -260,7 +262,7 @@
 - **Turn 27** (`02h51m34s-02h52m00s`) — *yes. And then the second one is data centers that run fuel cells around the clock. And three is data center well and number two would be 2,00 uh feet and data centers with backup diesel generators only. Um 2,000 ft away.*
 - **Turn 28** (`03h01m16s-03h01m20s`) — *Okay, it's been moved and seconded. Commissioner Leair.*
 
-### `Speaker_14_Seth_Planning` (20 turns)
+### `Speaker_14_Unverified_Voice` (20 turns)
 - **Turn 01** (`00h30m20s-00h31m22s`) — *Mr. Mr. Chair, the sound limits in the table are based off of information from the Environmental Protection Agency and from the World Health Organization. I guess as a followup, do we in in some of the public comment, it*
 - **Turn 02** (`00h35m15s-00h35m58s`) — *Mr. chair. Um the comments received came after the publication of the staff report. So if the planning commission feels like these comments are um something that we should take action on and change that number, that can *
 - **Turn 03** (`01h35m28s-01h35m29s`) — *Yes, we can.*

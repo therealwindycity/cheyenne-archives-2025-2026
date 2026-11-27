@@ -9,14 +9,16 @@
 - **`00h02m11s`** — Item number 22A, contract modification number one to contract number 8081 between the city of Cheyenne and the National Forest Foundation to reflect an extens extension in the performance period and an increase in funding.
 - **`00h08m01s`** — item number 22B, contract modification number two to contract number 7782 between the city of Cheyenne and DHM Design Corporation for the Reed Avenue rail corridor design project. members of the finance committee. Tom Cobb, city engineer. before you and for your consideration is 
 
+> ⚠️ **Speaker names corrected (2026-11-27):** automatically guessed names were unreliable and are now shown as `Unverified_Voice`; clip file names inside the ZIPs may still carry the old automatic label (listed as `speaker_original_automatic_label` in manifest.json).
+
 ## 🎭 Cast of Characters & Speaker Video Archives
 
 | Cast Member / Speaker | Turns | Archive Size | Download Clips ZIP |
 |---|---:|---:|---|
 | `Speaker_01_Voice_Cluster_03` | 12 | 26.0 MB | [Download `Speaker_01_Voice_Cluster_03_12_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-R2J7kutcmDA/Speaker_01_Voice_Cluster_03_12_clips.zip) |
 | `Speaker_02_Voice_Cluster_07` | 1 | 1.0 MB | [Download `Speaker_02_Voice_Cluster_07_01_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-R2J7kutcmDA/Speaker_02_Voice_Cluster_07_01_clips.zip) |
-| `Speaker_03_Councilman_Larry_Wolf` | 7 | 34.0 MB | [Download `Speaker_03_Councilman_Larry_Wolf_07_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-R2J7kutcmDA/Speaker_03_Councilman_Larry_Wolf_07_clips.zip) |
-| `Speaker_04_Meeting_Clerk` | 13 | 145.5 MB | [Download `Speaker_04_Meeting_Clerk_13_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-R2J7kutcmDA/Speaker_04_Meeting_Clerk_13_clips.zip) |
+| `Speaker_03_Unverified_Voice` | 7 | 34.0 MB | [Download `Speaker_03_Unverified_Voice_07_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-R2J7kutcmDA/Speaker_03_Unverified_Voice_07_clips.zip) |
+| `Speaker_04_Unverified_Voice` | 13 | 145.5 MB | [Download `Speaker_04_Unverified_Voice_13_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-R2J7kutcmDA/Speaker_04_Unverified_Voice_13_clips.zip) |
 | `Speaker_06_Voice_Cluster_01` | 6 | 11.6 MB | [Download `Speaker_06_Voice_Cluster_01_06_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-R2J7kutcmDA/Speaker_06_Voice_Cluster_01_06_clips.zip) |
 | `Speaker_07_Voice_Cluster_05` | 1 | 0.9 MB | [Download `Speaker_07_Voice_Cluster_05_01_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-03-R2J7kutcmDA/Speaker_07_Voice_Cluster_05_01_clips.zip) |
 
@@ -39,7 +41,7 @@
 ### `Speaker_02_Voice_Cluster_07` (1 turns)
 - **Turn 01** (`00h01m28s-00h01m30s`) — *You missed it.*
 
-### `Speaker_03_Councilman_Larry_Wolf` (7 turns)
+### `Speaker_03_Unverified_Voice` (7 turns)
 - **Turn 01** (`00h01m30s-00h02m11s`) — *I did. Okay. Well, it's high noon in Old Cheyenne. Like to call the November 3rd meeting of the finance committee to order. A few housekeeping items. If you have a cell phone with you, make sure it's either vibrate or mu*
 - **Turn 02** (`00h05m21s-00h05m50s`) — *Councilman White. Um, Elizabeth, I wonder if you can um tell me, you know, I certainly support the grant and the purpose, but when you start talking about the distance between us and encampment, that seems a little far. *
 - **Turn 03** (`00h24m13s-00h26m05s`) — *Oh, thank you, Mr. uh, Chairman, and um, thank you, Mr. Cobb. Uh, through you, Mr. Chairman. Um, this is, uh, but this is the very first thing I did when I was appointed to the council was to jump into this Reed Avenue p*
@@ -48,7 +50,7 @@
 - **Turn 06** (`00h36m45s-00h37m55s`) — *Um thank you, Mr. Chairman, through you. Um I I want to join in the comments of uh Councilman White and Councilman Lebornne and also to commend them. I guess Councilman Lew left, but uh they've they've they've stayed wit*
 - **Turn 07** (`00h42m49s-00h42m56s`) — *Mr. uh chairman, I move to approve an amount not to exceed $142,800.*
 
-### `Speaker_04_Meeting_Clerk` (13 turns)
+### `Speaker_04_Unverified_Voice` (13 turns)
 - **Turn 01** (`00h02m11s-00h02m28s`) — *Item number 22A, contract modification number one to contract number 8081 between the city of Cheyenne and the National Forest Foundation to reflect an extens extension in the performance period and an increase in fundin*
 - **Turn 02** (`00h02m38s-00h05m17s`) — *Good afternoon. Elizabeth Finino. I'm the economic resource administrator for the city of Cheyenne. Before you today, I have contract modification number one for city contract 80081 between the city of Cheyenne and the N*
 - **Turn 03** (`00h05m50s-00h06m48s`) — *Yes. Uh, through you, Mr. Chairman. So, City of Cheyenne is receiving our water from Rob Roy, which just so happens to be up the hill from this entire program. Unfortunately, Wyoming knows too well that fires don't under*

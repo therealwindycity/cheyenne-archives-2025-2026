@@ -12,30 +12,32 @@
 - **`01h04m24s`** — Madam Chair, members of the committee, my name is Seth Lloyd. I'm with the City of Shine Planning and Development Department. Um, once again, this is a ordinance on third reading. We have no proposed changes from what you last heard, and we haven't had any public comments on this
 - **`01h14m24s`** — Opposed. This item will move forward with a recommendation to approve on third and final reading. Next item, please. Number 14, ordinance third reading, amending section 9.12.080 080 of the municipal code of the city of Cheyenne, Wyoming to allow electric fencing for certain agri
 
+> ⚠️ **Speaker names corrected (2026-11-27):** automatically guessed names were unreliable and are now shown as `Unverified_Voice`; clip file names inside the ZIPs may still carry the old automatic label (listed as `speaker_original_automatic_label` in manifest.json).
+
 ## 🎭 Cast of Characters & Speaker Video Archives
 
 | Cast Member / Speaker | Turns | Archive Size | Download Clips ZIP |
 |---|---:|---:|---|
-| `Speaker_01_Meeting_Chair` | 48 | 231.8 MB | [Download `Speaker_01_Meeting_Chair_48_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-02-Fg1Cn5ssNr4/Speaker_01_Meeting_Chair_48_clips.zip) |
-| `Speaker_02_Dr_Mark_Rinne_Council` | 13 | 94.2 MB | [Download `Speaker_02_Dr_Mark_Rinne_Council_13_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-02-Fg1Cn5ssNr4/Speaker_02_Dr_Mark_Rinne_Council_13_clips.zip) |
-| `Speaker_03_Mr._Miller` | 11 | 36.4 MB | [Download `Speaker_03_Mr._Miller_11_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-02-Fg1Cn5ssNr4/Speaker_03_Mr._Miller_11_clips.zip) |
+| `Speaker_01_Unverified_Voice` | 48 | 231.8 MB | [Download `Speaker_01_Unverified_Voice_48_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-02-Fg1Cn5ssNr4/Speaker_01_Unverified_Voice_48_clips.zip) |
+| `Speaker_02_Unverified_Voice` | 13 | 94.2 MB | [Download `Speaker_02_Unverified_Voice_13_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-02-Fg1Cn5ssNr4/Speaker_02_Unverified_Voice_13_clips.zip) |
+| `Speaker_03_Unverified_Voice` | 11 | 36.4 MB | [Download `Speaker_03_Unverified_Voice_11_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-02-Fg1Cn5ssNr4/Speaker_03_Unverified_Voice_11_clips.zip) |
 | `Speaker_04_Voice_Cluster_04` | 6 | 1.6 MB | [Download `Speaker_04_Voice_Cluster_04_06_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-02-Fg1Cn5ssNr4/Speaker_04_Voice_Cluster_04_06_clips.zip) |
-| `Speaker_05_David_Nicely` | 24 | 93.1 MB | [Download `Speaker_05_David_Nicely_24_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-02-Fg1Cn5ssNr4/Speaker_05_David_Nicely_24_clips.zip) |
+| `Speaker_05_Unverified_Voice` | 24 | 93.1 MB | [Download `Speaker_05_Unverified_Voice_24_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-02-Fg1Cn5ssNr4/Speaker_05_Unverified_Voice_24_clips.zip) |
 | `Speaker_06_Voice_Cluster_08` | 1 | 0.4 MB | [Download `Speaker_06_Voice_Cluster_08_01_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-02-Fg1Cn5ssNr4/Speaker_06_Voice_Cluster_08_01_clips.zip) |
-| `Speaker_07_Meeting_Clerk` | 5 | 14.2 MB | [Download `Speaker_07_Meeting_Clerk_05_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-02-Fg1Cn5ssNr4/Speaker_07_Meeting_Clerk_05_clips.zip) |
+| `Speaker_07_Unverified_Voice` | 5 | 14.2 MB | [Download `Speaker_07_Unverified_Voice_05_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-02-Fg1Cn5ssNr4/Speaker_07_Unverified_Voice_05_clips.zip) |
 | `Speaker_08_Voice_Cluster_07` | 1 | 0.8 MB | [Download `Speaker_08_Voice_Cluster_07_01_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-02-Fg1Cn5ssNr4/Speaker_08_Voice_Cluster_07_01_clips.zip) |
-| `Speaker_09_Seth_Lloyd_Planning` | 20 | 171.0 MB | [Download `Speaker_09_Seth_Lloyd_Planning_20_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-02-Fg1Cn5ssNr4/Speaker_09_Seth_Lloyd_Planning_20_clips.zip) |
-| `Speaker_10_Dr_Kathy_Emmons_Council` | 9 | 16.9 MB | [Download `Speaker_10_Dr_Kathy_Emmons_Council_09_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-02-Fg1Cn5ssNr4/Speaker_10_Dr_Kathy_Emmons_Council_09_clips.zip) |
+| `Speaker_09_Unverified_Voice` | 20 | 171.0 MB | [Download `Speaker_09_Unverified_Voice_20_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-02-Fg1Cn5ssNr4/Speaker_09_Unverified_Voice_20_clips.zip) |
+| `Speaker_10_Unverified_Voice` | 9 | 16.9 MB | [Download `Speaker_10_Unverified_Voice_09_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-02-Fg1Cn5ssNr4/Speaker_10_Unverified_Voice_09_clips.zip) |
 | `Speaker_11_Voice_Cluster_01` | 5 | 4.6 MB | [Download `Speaker_11_Voice_Cluster_01_05_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-02-Fg1Cn5ssNr4/Speaker_11_Voice_Cluster_01_05_clips.zip) |
 | `Speaker_12_Voice_Cluster_02` | 2 | 1.9 MB | [Download `Speaker_12_Voice_Cluster_02_02_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-02-Fg1Cn5ssNr4/Speaker_12_Voice_Cluster_02_02_clips.zip) |
 | `Speaker_13_Voice_Cluster_06` | 2 | 2.8 MB | [Download `Speaker_13_Voice_Cluster_06_02_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-02-Fg1Cn5ssNr4/Speaker_13_Voice_Cluster_06_02_clips.zip) |
 | `Speaker_14_Voice_Cluster_05` | 1 | 0.7 MB | [Download `Speaker_14_Voice_Cluster_05_01_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-02-Fg1Cn5ssNr4/Speaker_14_Voice_Cluster_05_01_clips.zip) |
-| `Speaker_15_Councilman_Tom_Laybourn` | 8 | 91.8 MB | [Download `Speaker_15_Councilman_Tom_Laybourn_08_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-02-Fg1Cn5ssNr4/Speaker_15_Councilman_Tom_Laybourn_08_clips.zip) |
+| `Speaker_15_Unverified_Voice` | 8 | 91.8 MB | [Download `Speaker_15_Unverified_Voice_08_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-02-Fg1Cn5ssNr4/Speaker_15_Unverified_Voice_08_clips.zip) |
 | `Speaker_17_Voice_Cluster_10` | 2 | 0.2 MB | [Download `Speaker_17_Voice_Cluster_10_02_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-11-02-Fg1Cn5ssNr4/Speaker_17_Voice_Cluster_10_02_clips.zip) |
 
 ## ⏱️ Verbatim Turn Timestamps
 
-### `Speaker_01_Meeting_Chair` (48 turns)
+### `Speaker_01_Unverified_Voice` (48 turns)
 - **Turn 01** (`00h01m53s-00h02m40s`) — *November 2nd public services committee meeting. If you are joining us here in the uh council chambers, if you would make sure that your phone is turned to uh manners mode, we would appreciate it. If you'd like to make pu*
 - **Turn 02** (`00h03m20s-00h03m43s`) — *Okay. Any questions for staff from the committee? Okay. We will go out for public comment. Is there anyone who would like to make public comment on item number six? If you'd like to go ahead and you have three minutes.*
 - **Turn 03** (`00h06m24s-00h07m11s`) — *We have a motion from Dr. Emmens and a second from Dr. Renie. Is there any discussion? Mr. Miller's comments accurate? Are we is our surveyor happy with the descriptions? U Madam Chair, through you the surveyor has revie*
@@ -85,7 +87,7 @@
 - **Turn 47** (`02h20m55s-02h21m02s`) — *Second. Uh, we have a motion from Dr. Renie, a second from Dr. Emmens. Is there any discussion?*
 - **Turn 48** (`02h22m18s-02h22m28s`) — *Okay. This item will move forward with a recommendation to approve on third and final reading. That concludes our agenda for today. Thank you and have a great day.*
 
-### `Speaker_02_Dr_Mark_Rinne_Council` (13 turns)
+### `Speaker_02_Unverified_Voice` (13 turns)
 - **Turn 01** (`00h02m40s-00h03m20s`) — *Chair, members of the committee, Conor Way, Planning and Development Department. Uh, the annexation before you, it's mainly for Christensen Road. So, it's annexing the rightway. As I'd mentioned, there is the little tria*
 - **Turn 02** (`00h07m48s-00h08m25s`) — *chair and members of committee Conor Way planning and development department. This assigned zoning is just for the triangular piece of portion that uh for the annexation that we just discussed that the city owns. Uh it's*
 - **Turn 03** (`00h11m22s-00h11m25s`) — *Madam Chairwoman, I would move to approve on third reading.*
@@ -100,7 +102,7 @@
 - **Turn 12** (`01h39m15s-01h44m27s`) — *Madam Chairwoman, thank you. Um, first of all, I guess before we go any further, I do have an amendment I would like to make, and I hope I get it in the right place. Um, first of all, on page one, line one, we need to am*
 - **Turn 13** (`01h56m22s-01h56m52s`) — *Madam Chair, I just want to address Mr. Miller's question, which I'm sure other people will ask. Um the data center that I referred to that is still doing evaporative cooling had their approvals done in November of 2025.*
 
-### `Speaker_03_Mr._Miller` (11 turns)
+### `Speaker_03_Unverified_Voice` (11 turns)
 - **Turn 01** (`00h03m43s-00h03m44s`) — *Can you hear me?*
 - **Turn 02** (`00h03m46s-00h06m24s`) — *All right. Uh madame chairwoman uh members of the committee Charles Miller uh the city has offered a practical reason for this annexation. It already con constructed and maintains Christensen Road and annexation would cl*
 - **Turn 03** (`00h08m54s-00h11m12s`) — *Oh, okay. Um, all right. Uh, uh, Madame Chairwoman, members of the committee, Charles Miller, uh, Christensen Road assigned zoning. This ordinance assigns business park zoning to a small city parcel that staff a city-own*
@@ -121,7 +123,7 @@
 - **Turn 05** (`01h31m29s-01h31m30s`) — *Can you hear me?*
 - **Turn 06** (`02h17m46s-02h17m48s`) — *can you hear me?*
 
-### `Speaker_05_David_Nicely` (24 turns)
+### `Speaker_05_Unverified_Voice` (24 turns)
 - **Turn 01** (`00h07m11s-00h07m14s`) — *Thank you madam chairman.*
 - **Turn 02** (`00h21m11s-00h21m14s`) — *Yes, we can.*
 - **Turn 03** (`00h30m36s-00h32m30s`) — *Thank you, Mr. Miller. I believe Shelley, um, you have your hand raised. Good afternoon. you'd like. right now. unmuted now. comment? like Mr. Lloyd has a comment and then we'll come back to Shelley if she's able to talk*
@@ -150,7 +152,7 @@
 ### `Speaker_06_Voice_Cluster_08` (1 turns)
 - **Turn 01** (`00h41m26s-00h41m27s`) — *Would you like to do that?*
 
-### `Speaker_07_Meeting_Clerk` (5 turns)
+### `Speaker_07_Unverified_Voice` (5 turns)
 - **Turn 01** (`00h07m26s-00h07m42s`) — *Number seven, ordinance, third reading, amending the official zoning map of the city of Cheyenne, establishing the zoning classification of BP Business Park for land annex to the city of Cheyenne, located south of Tate R*
 - **Turn 02** (`00h11m39s-00h11m53s`) — *Number eight, ordinance third reading. Annexing to the city of Cheyenne, Wyoming, land south of East Foxm Road, north of East Allison Road, and east of and adjacent to South College Drive. Staff report, please.*
 - **Turn 03** (`00h51m20s-00h51m34s`) — *Number 12, ordinance third reading, amending section 6.2.8 8 of the unified development code to allow for onpave parking in certain sightsp specific situations.*
@@ -160,7 +162,7 @@
 ### `Speaker_08_Voice_Cluster_07` (1 turns)
 - **Turn 01** (`00h11m12s-00h11m18s`) — *Thank you, Mr. Miller. Is there anyone else who would like to make public comment?*
 
-### `Speaker_09_Seth_Lloyd_Planning` (20 turns)
+### `Speaker_09_Unverified_Voice` (20 turns)
 - **Turn 01** (`00h14m44s-00h16m13s`) — *Could could another workaround be removing that particular parcel from the annexation prior to the annexation being done? Um, okay. And madam chair, yes, you could technically amend county pocket 10 to remove this parcel*
 - **Turn 02** (`00h26m25s-00h26m40s`) — *Um madam chair through you to Dr. Renie. No. Um and I believe it's even the same setback requirement along college in our BP and light industrial. I believe it's 25 ft from from the street is how far a building would hav*
 - **Turn 03** (`00h27m38s-00h27m56s`) — *Man, uh, through you, light industrial allows outdoor storage as a conditional use. [Okay.] So, it does have to go through an extra process. It does allow it. It's just another process that has to go through and then it *
@@ -182,7 +184,7 @@
 - **Turn 19** (`02h21m52s-02h22m04s`) — *madam chair through you. Uh that is correct. So basically a use as long as that use continues or doesn't stop being a use for a year it is basically grandfathered.*
 - **Turn 20** (`02h22m09s-02h22m11s`) — *madam chair that's correct.*
 
-### `Speaker_10_Dr_Kathy_Emmons_Council` (9 turns)
+### `Speaker_10_Unverified_Voice` (9 turns)
 - **Turn 01** (`00h19m18s-00h19m24s`) — *Chairwoman, I move to approve on third and final reading.*
 - **Turn 02** (`00h21m14s-00h23m30s`) — *Um, I'm sorry. I just lost my place here. Uh, Charles Miller, Madame Chairwoman, members of the committee, uh, Charles Miller, the has explained that this assigned zoning ordinance may become unnecessary if county pocket*
 - **Turn 03** (`00h33m12s-00h33m16s`) — *Chairwoman, I move to approve on third and final reading.*
@@ -211,7 +213,7 @@
 ### `Speaker_14_Voice_Cluster_05` (1 turns)
 - **Turn 01** (`00h41m27s-00h41m30s`) — *Would that work for you? What am I doing?*
 
-### `Speaker_15_Councilman_Tom_Laybourn` (8 turns)
+### `Speaker_15_Unverified_Voice` (8 turns)
 - **Turn 01** (`00h41m33s-00h41m36s`) — *What we've asked*
 - **Turn 02** (`00h53m17s-00h53m20s`) — *Madame Chair? That is correct.*
 - **Turn 03** (`01h29m21s-01h30m42s`) — *Thank you, Madam Chairman. Um, and what public participation came as part of uh either the original or this amendment from the uh data center constructors, the data center owners or um was there a public hearing? Uh did *

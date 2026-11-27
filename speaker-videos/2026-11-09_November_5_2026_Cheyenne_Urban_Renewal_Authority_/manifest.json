@@ -111,13 +111,14 @@
   },
   {
     "global_idx": 12,
-    "speaker": "Speaker_04_Meeting_Chair",
+    "speaker": "Speaker_04_Unverified_Voice",
     "speaker_turn": 1,
     "start": 1898.31,
     "end": 1923.1,
     "hms": "00h31m38s-00h32m03s",
     "file_name": "Speaker_04_Meeting_Chair_turn01_global012_00h31m38s-00h32m03s.mp4",
-    "text_preview": "Thank you, chair. now? uh through you to the board. Um, first I just want to make sure everybody can can hear me clearly. Is that uh true?"
+    "text_preview": "Thank you, chair. now? uh through you to the board. Um, first I just want to make sure everybody can can hear me clearly. Is that uh true?",
+    "speaker_original_automatic_label": "Speaker_04_Meeting_Chair"
   },
   {
     "global_idx": 13,
@@ -141,13 +142,14 @@
   },
   {
     "global_idx": 15,
-    "speaker": "Speaker_04_Meeting_Chair",
+    "speaker": "Speaker_04_Unverified_Voice",
     "speaker_turn": 2,
     "start": 2306.82,
     "end": 2327.31,
     "hms": "00h38m27s-00h38m47s",
     "file_name": "Speaker_04_Meeting_Chair_turn02_global015_00h38m27s-00h38m47s.mp4",
-    "text_preview": "Anybody online or on the phone that would like to address any public comment now's your time. next step is just any more comments out there or from us as the board Mr. Dougas?"
+    "text_preview": "Anybody online or on the phone that would like to address any public comment now's your time. next step is just any more comments out there or from us as the board Mr. Dougas?",
+    "speaker_original_automatic_label": "Speaker_04_Meeting_Chair"
   },
   {
     "global_idx": 16,
@@ -181,13 +183,14 @@
   },
   {
     "global_idx": 19,
-    "speaker": "Speaker_04_Meeting_Chair",
+    "speaker": "Speaker_04_Unverified_Voice",
     "speaker_turn": 3,
     "start": 2510.12,
     "end": 2514.41,
     "hms": "00h41m50s-00h41m54s",
     "file_name": "Speaker_04_Meeting_Chair_turn03_global019_00h41m50s-00h41m54s.mp4",
-    "text_preview": "That's what I thought. Thank you. Appreciate that clarification."
+    "text_preview": "That's what I thought. Thank you. Appreciate that clarification.",
+    "speaker_original_automatic_label": "Speaker_04_Meeting_Chair"
   },
   {
     "global_idx": 20,
@@ -201,13 +204,14 @@
   },
   {
     "global_idx": 21,
-    "speaker": "Speaker_04_Meeting_Chair",
+    "speaker": "Speaker_04_Unverified_Voice",
     "speaker_turn": 4,
     "start": 2582.62,
     "end": 2624.81,
     "hms": "00h43m03s-00h43m45s",
     "file_name": "Speaker_04_Meeting_Chair_turn04_global021_00h43m03s-00h43m45s.mp4",
-    "text_preview": "Okay, that makes sense. Thank you. With that, do we have a motion? on the screen? of the plan and project to the planning commission subject to staff's recommended modifications. Second. Any further discussion?"
+    "text_preview": "Okay, that makes sense. Thank you. With that, do we have a motion? on the screen? of the plan and project to the planning commission subject to staff's recommended modifications. Second. Any further discussion?",
+    "speaker_original_automatic_label": "Speaker_04_Meeting_Chair"
   },
   {
     "global_idx": 22,
@@ -241,13 +245,14 @@
   },
   {
     "global_idx": 25,
-    "speaker": "Speaker_04_Meeting_Chair",
+    "speaker": "Speaker_04_Unverified_Voice",
     "speaker_turn": 5,
     "start": 2700.72,
     "end": 2740.81,
     "hms": "00h45m01s-00h45m41s",
     "file_name": "Speaker_04_Meeting_Chair_turn05_global025_00h45m01s-00h45m41s.mp4",
-    "text_preview": "Right. Thank you. So, uh further amendment will be to uh include the addition of installing new utility um in the project. Okay. Any further discussion on that amendment? [Aye.] Aye. Any oppose? None it motion carries an"
+    "text_preview": "Right. Thank you. So, uh further amendment will be to uh include the addition of installing new utility um in the project. Okay. Any further discussion on that amendment? [Aye.] Aye. Any oppose? None it motion carries an",
+    "speaker_original_automatic_label": "Speaker_04_Meeting_Chair"
   },
   {
     "global_idx": 26,
@@ -291,13 +296,14 @@
   },
   {
     "global_idx": 30,
-    "speaker": "Speaker_04_Meeting_Chair",
+    "speaker": "Speaker_04_Unverified_Voice",
     "speaker_turn": 6,
     "start": 3160.12,
     "end": 3162.01,
     "hms": "00h52m40s-00h52m42s",
     "file_name": "Speaker_04_Meeting_Chair_turn06_global030_00h52m40s-00h52m42s.mp4",
-    "text_preview": "So moved."
+    "text_preview": "So moved.",
+    "speaker_original_automatic_label": "Speaker_04_Meeting_Chair"
   },
   {
     "global_idx": 31,
@@ -311,12 +317,13 @@
   },
   {
     "global_idx": 32,
-    "speaker": "Speaker_04_Meeting_Chair",
+    "speaker": "Speaker_04_Unverified_Voice",
     "speaker_turn": 7,
     "start": 3165.03,
     "end": 3173.01,
     "hms": "00h52m45s-00h52m53s",
     "file_name": "Speaker_04_Meeting_Chair_turn07_global032_00h52m45s-00h52m53s.mp4",
-    "text_preview": "Great. Have a great day."
+    "text_preview": "Great. Have a great day.",
+    "speaker_original_automatic_label": "Speaker_04_Meeting_Chair"
   }
 ]
