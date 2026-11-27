@@ -309,6 +309,19 @@
       "speakers": 14,
       "clips": 99,
       "status": "published"
+    },
+    "cochwy-September_8_2026_Cheyenne_Planning_Commission_Meeting_-_Part_2-gwRfYP56p6Q": {
+      "identifier": "cochwy-September_8_2026_Cheyenne_Planning_Commission_Meeting_-_Part_2-gwRfYP56p6Q",
+      "date": "2026-10-06",
+      "title": "September 8, 2026, Cheyenne Planning Commission Meeting - Part 2",
+      "repo": "therealwindycity/cheyenne-archives-2025-2026",
+      "release_tag": "speaker-videos-2026-10-06-gwRfYP56p6Q",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/tag/speaker-videos-2026-10-06-gwRfYP56p6Q",
+      "index_path": "speaker-videos/2026-10-06_September_8_2026_Cheyenne_Planning_Commission_Mee/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2026-10-06_September_8_2026_Cheyenne_Planning_Commission_Mee/episode.json",
+      "speakers": 10,
+      "clips": 323,
+      "status": "published"
     }
   }
 }
