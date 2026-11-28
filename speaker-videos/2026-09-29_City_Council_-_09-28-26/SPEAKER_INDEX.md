@@ -1,0 +1,695 @@
+# 🎬 Episode: City Council - 09-28-26 (2026-09-29)
+
+- **Internet Archive Source:** [cochwy-City_Council_-_09-28-26-nwoFTXVqsH8](https://archive.org/details/cochwy-City_Council_-_09-28-26-nwoFTXVqsH8)
+- **GitHub Release (Speaker Video ZIPs):** [`speaker-videos-2026-09-29-nwoFTXVqsH8`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/tag/speaker-videos-2026-09-29-nwoFTXVqsH8)
+- **Cast Size (Speakers):** 19 | **Speaking Turn Clips:** 611
+
+## 📜 Featured Ordinances, Resolutions & Agenda Scenes
+
+- **`00h04m56s`** — Number 18, please.
+- **`00h05m06s`** — Number 23.
+- **`00h05m44s`** — Number six, ordinance third reading, annexing to the city of Cheyenne, Wyoming land west of Round Top Road and adjacent to Happy Jack Road.
+- **`00h59m26s`** — Number seven. Ordinance third reading amending the official zoning map of the city of Cheyenne establishing the zoning classification of AG agricultural MP public for land annex to the city of Cheyenne located west of Round Top Road and adjacent to Happy Jack Road. All right. I s
+- **`01h08m05s`** — Number eight on page two, ordinance, third reading, amending the official zoning map of the city of Cheyenne, changing the zoning classification for land located west of Roundtop Road and adjacent to HappyJack Road from AG Agricultural to BP Business Park. All right, before us no
+- **`01h40m47s`** — Number nine, ordinance, second reading, annexing to the city of Cheyenne, Wyoming, land located south of Interstate 80, southeast of Otto Road and west of Interstate 25.
+- **`01h48m25s`** — All right, the annexation is approved on second reading. Number 10, ordinance, second reading, amending the official zoning map of the city of Cheyenne, establishing the zoning classification of AG Agricultural and LI Light Industrial for land annex to the city of Cheyenne, locat
+- **`01h50m01s`** — The uh zone districts are established on second reading. Number 11, ordinance, second reading, amending the official zoning map of the city of Cheyenne. Classification for land located south of Interstate 80, southeast of Otto Road and west of Interstate 25 from AG Agricultural a
+- **`01h51m24s`** — Those opposed, this zone change is approved on second reading. Number 12, ordinance, second reading, amending the official zoning map of the city of Cheyenne, changing the zoning classification for land located south of Interstate 80, east of Camp Stool Road and north of HR Ranch
+- **`03h49m35s`** — Number 15. Ordinance, second reading, amending the official zoning map of the city of Diane. Changing the zoning classification for land located west of South Gley Highway south of West College Drive and southwest of and adjacent to the intersection of Apple Street and York Avenu
+- **`04h16m47s`** — Number 18, resolution adopting a comprehensive climate action plan in accordance with the Environmental Protection AY's climate pollution reduction planning grant awarded to the city.
+- **`05h08m58s`** — Number 20. Resolution overruling the planning commission's denial of PUDC-26-176, a future land use map amendment for mixeduse residential to mixeduse employment.
+
+## 🎭 Cast of Characters & Speaker Video Archives
+
+| Cast Member / Speaker | Turns | Archive Size | Download Clips ZIP |
+|---|---:|---:|---|
+| `Speaker_01_Voice_Cluster_05` | 123 | 205.4 MB | [Download `Speaker_01_Voice_Cluster_05_123_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-09-29-nwoFTXVqsH8/Speaker_01_Voice_Cluster_05_123_clips.zip) |
+| `Speaker_02_Voice_Cluster_06` | 161 | 347.3 MB | [Download `Speaker_02_Voice_Cluster_06_161_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-09-29-nwoFTXVqsH8/Speaker_02_Voice_Cluster_06_161_clips.zip) |
+| `Speaker_03_Voice_Cluster_01` | 201 | 1406.7 MB | [Download `Speaker_03_Voice_Cluster_01_201_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-09-29-nwoFTXVqsH8/Speaker_03_Voice_Cluster_01_201_clips.zip) |
+| `Speaker_04_Voice_Cluster_04` | 24 | 34.4 MB | [Download `Speaker_04_Voice_Cluster_04_24_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-09-29-nwoFTXVqsH8/Speaker_04_Voice_Cluster_04_24_clips.zip) |
+| `Speaker_05_Voice_Cluster_02` | 9 | 10.9 MB | [Download `Speaker_05_Voice_Cluster_02_09_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-09-29-nwoFTXVqsH8/Speaker_05_Voice_Cluster_02_09_clips.zip) |
+| `Speaker_06_Meeting_Clerk` | 5 | 6.8 MB | [Download `Speaker_06_Meeting_Clerk_05_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-09-29-nwoFTXVqsH8/Speaker_06_Meeting_Clerk_05_clips.zip) |
+| `Speaker_07_Voice_Cluster_10` | 8 | 17.0 MB | [Download `Speaker_07_Voice_Cluster_10_08_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-09-29-nwoFTXVqsH8/Speaker_07_Voice_Cluster_10_08_clips.zip) |
+| `Speaker_08_Meeting_Chair` | 28 | 95.7 MB | [Download `Speaker_08_Meeting_Chair_28_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-09-29-nwoFTXVqsH8/Speaker_08_Meeting_Chair_28_clips.zip) |
+| `Speaker_09_Voice_Cluster_03` | 11 | 10.3 MB | [Download `Speaker_09_Voice_Cluster_03_11_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-09-29-nwoFTXVqsH8/Speaker_09_Voice_Cluster_03_11_clips.zip) |
+| `Speaker_10_Mity_Jones` | 1 | 0.4 MB | [Download `Speaker_10_Mity_Jones_01_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-09-29-nwoFTXVqsH8/Speaker_10_Mity_Jones_01_clips.zip) |
+| `Speaker_11_Voice_Cluster_08` | 29 | 125.4 MB | [Download `Speaker_11_Voice_Cluster_08_29_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-09-29-nwoFTXVqsH8/Speaker_11_Voice_Cluster_08_29_clips.zip) |
+| `Speaker_12_Voice_Cluster_07` | 2 | 1.4 MB | [Download `Speaker_12_Voice_Cluster_07_02_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-09-29-nwoFTXVqsH8/Speaker_12_Voice_Cluster_07_02_clips.zip) |
+| `Speaker_13_Voice_Cluster_09` | 2 | 1.6 MB | [Download `Speaker_13_Voice_Cluster_09_02_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-09-29-nwoFTXVqsH8/Speaker_13_Voice_Cluster_09_02_clips.zip) |
+| `Speaker_14_Mark_Christensen` | 2 | 13.0 MB | [Download `Speaker_14_Mark_Christensen_02_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-09-29-nwoFTXVqsH8/Speaker_14_Mark_Christensen_02_clips.zip) |
+| `Speaker_15_Orlando_Flores` | 1 | 5.6 MB | [Download `Speaker_15_Orlando_Flores_01_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-09-29-nwoFTXVqsH8/Speaker_15_Orlando_Flores_01_clips.zip) |
+| `Speaker_16_Tom_Herd` | 1 | 1.1 MB | [Download `Speaker_16_Tom_Herd_01_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-09-29-nwoFTXVqsH8/Speaker_16_Tom_Herd_01_clips.zip) |
+| `Speaker_17_Tom_Herod` | 1 | 16.5 MB | [Download `Speaker_17_Tom_Herod_01_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-09-29-nwoFTXVqsH8/Speaker_17_Tom_Herod_01_clips.zip) |
+| `Speaker_18_Ben_Rail` | 1 | 10.9 MB | [Download `Speaker_18_Ben_Rail_01_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-09-29-nwoFTXVqsH8/Speaker_18_Ben_Rail_01_clips.zip) |
+| `Speaker_19_Charles_Miller` | 1 | 6.1 MB | [Download `Speaker_19_Charles_Miller_01_clips.zip`](https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/download/speaker-videos-2026-09-29-nwoFTXVqsH8/Speaker_19_Charles_Miller_01_clips.zip) |
+
+## ⏱️ Verbatim Turn Timestamps
+
+### `Speaker_01_Voice_Cluster_05` (123 turns)
+- **Turn 01** (`00h03m09s-00h03m21s`) — *booth.*
+- **Turn 02** (`00h03m34s-00h03m37s`) — *Mr. White, [Mr. Wolf,] here.*
+- **Turn 03** (`00h03m39s-00h03m42s`) — *Here. [Mayor Collins] present.*
+- **Turn 04** (`00h03m52s-00h04m51s`) — *present. [One member is absent. We do have a quorum.] Would you all join me, please, in the pledge of allegiance? items listed with the designation of CA are considered to be routine items by the governing body and will *
+- **Turn 05** (`00h04m59s-00h05m01s`) — *Concur.*
+- **Turn 06** (`00h11m17s-00h11m21s`) — *Thank you for being here. Miss Callis.*
+- **Turn 07** (`00h17m37s-00h17m38s`) — *There you go. Thank you.*
+- **Turn 08** (`00h20m30s-00h20m33s`) — *Welcome, Erin.*
+- **Turn 09** (`00h32m17s-00h32m20s`) — *Anybody else?*
+- **Turn 10** (`00h33m22s-00h33m24s`) — *that's not true,*
+- **Turn 11** (`00h35m32s-00h35m36s`) — *Time's up. Thank you.*
+- **Turn 12** (`00h49m33s-00h49m37s`) — *Mr. Lorn, did you want to speak? [clears throat]*
+- **Turn 13** (`00h57m35s-00h57m37s`) — *Anybody else on the golfing body?*
+- **Turn 14** (`00h57m39s-00h57m42s`) — *Oh, excuse me. [snorts] Sorry about that.*
+- **Turn 15** (`00h58m59s-00h59m04s`) — *yes. Mr. White, yes. [Mr. Wolf,] no.*
+- **Turn 16** (`00h59m06s-00h59m09s`) — *yes. [Dr. Emmens,] yes.*
+- **Turn 17** (`01h00m08s-01h00m20s`) — *I know. Mr. Miller, you can go ahead.*
+- **Turn 18** (`01h03m15s-01h03m18s`) — *Thank you, Mr. Miller.*
+- **Turn 19** (`01h06m12s-01h06m20s`) — *what did they recommend?*
+- **Turn 20** (`01h06m49s-01h06m53s`) — *Thank you. Thank you.*
+- **Turn 21** (`01h07m04s-01h07m12s`) — *Chris, did you come to talk to us tonight? Okay.*
+- **Turn 22** (`01h07m43s-01h07m46s`) — *yes. [Mr. White,] yes.*
+- **Turn 23** (`01h07m50s-01h07m53s`) — *yes. [Dr. Emmens,] yes.*
+- **Turn 24** (`01h07m56s-01h07m59s`) — *no.*
+- **Turn 25** (`01h11m27s-01h11m30s`) — *Uh we won't give them the water. Yeah.*
+- **Turn 26** (`01h13m37s-01h13m42s`) — *No, ma'am. There's not. [Okay.] Yep. Thank you.*
+- **Turn 27** (`01h19m40s-01h19m51s`) — *You should address your comments to me and not to the members of the governing body. Okay. Thank you.*
+- **Turn 28** (`01h19m59s-01h20m03s`) — *I see. [clears throat]*
+- **Turn 29** (`01h29m42s-01h29m44s`) — *Mr. Seager.*
+- **Turn 30** (`01h34m20s-01h34m22s`) — *Michael,*
+- **Turn 31** (`01h36m20s-01h36m29s`) — *All right. Any other comments from members of the governing body? All right, [Mr. Mayor, Dr. Rainey.] Dr. Rainey.*
+- **Turn 32** (`01h40m25s-01h40m28s`) — *yes. [Mr. Crave,] yes.*
+- **Turn 33** (`01h40m31s-01h40m33s`) — *no. [Dr. Aldrich,] yes.*
+- **Turn 34** (`01h40m36s-01h40m38s`) — *yes. [Mr. Escoel,] I.*
+- **Turn 35** (`01h41m41s-01h41m43s`) — *Thanks, Mark.*
+- **Turn 36** (`01h41m59s-01h42m04s`) — *Jim Walter, you can go ahead.*
+- **Turn 37** (`01h44m48s-01h45m17s`) — *Mr. Miller you can go ahead. All right. Hearing no other comments. I'll go to Dr. Aldridge for a motion on this item. Please.*
+- **Turn 38** (`01h47m26s-01h47m27s`) — *Mr. Secret,*
+- **Turn 39** (`01h48m15s-01h48m19s`) — *Anybody else in the governing body?*
+- **Turn 40** (`01h51m00s-01h51m03s`) — *Anybody else in the audience?*
+- **Turn 41** (`01h55m16s-01h55m19s`) — *Thank you. Thank you,*
+- **Turn 42** (`01h56m02s-01h56m08s`) — *Thank you. Thank you, [Mr. Mayor.] Yes, doctor.*
+- **Turn 43** (`01h56m53s-01h57m01s`) — *Thank you, sir. Maybe you ought to come up and answer those questions for us if you don't mind. Mr. Mayor, members of the*
+- **Turn 44** (`01h57m26s-01h57m29s`) — *Is that better? Is that better? Yep. All right.*
+- **Turn 45** (`02h01m18s-02h01m20s`) — *Okay. Mr. Cedri,*
+- **Turn 46** (`02h01m56s-02h01m58s`) — *Thank you. Thank you, Mr. Mayor.*
+- **Turn 47** (`02h02m10s-02h02m16s`) — *That's correct. Thank you. And it's very poor agricultural land,*
+- **Turn 48** (`02h06m04s-02h06m07s`) — *Thank you, Mr. Mayor. Yeah, I have a question, please.*
+- **Turn 49** (`02h07m48s-02h07m51s`) — *Thank you. Thank you for being here this evening.*
+- **Turn 50** (`02h08m34s-02h08m36s`) — *Yes,*
+- **Turn 51** (`02h11m25s-02h11m29s`) — *Thanks. Go ahead. Did you have a question? [Yes, I do.] Please.*
+- **Turn 52** (`02h12m38s-02h12m41s`) — *Thank you.*
+- **Turn 53** (`02h14m13s-02h14m17s`) — *He was a special man. Yes. [Thank you so much.] Special. Thank you.*
+- **Turn 54** (`02h21m08s-02h21m13s`) — *just for the spelling. I live on Tails French Road.*
+- **Turn 55** (`02h21m24s-02h21m26s`) — *That's better. Thank you so much.*
+- **Turn 56** (`02h24m18s-02h24m22s`) — *Thank you, sir. Good evening, ma'am.*
+- **Turn 57** (`02h27m33s-02h27m38s`) — *Thanks for being here, sir.*
+- **Turn 58** (`02h32m07s-02h32m11s`) — *Okay. Can I stop you for just a second?*
+- **Turn 59** (`02h37m48s-02h37m51s`) — *Question, Mr. Mayor. Yeah, go ahead.*
+- **Turn 60** (`02h38m15s-02h38m21s`) — *Yes. Something. Thank you. Thank you so much, man.*
+- **Turn 61** (`02h38m23s-02h38m28s`) — *It's good to have you back on. Okay, we got you.*
+- **Turn 62** (`02h42m19s-02h42m22s`) — *Always appreciate you when you come. Thank you,*
+- **Turn 63** (`02h42m29s-02h42m33s`) — *Not okay.*
+- **Turn 64** (`02h43m01s-02h43m03s`) — *Yep.*
+- **Turn 65** (`02h47m05s-02h47m11s`) — *Thank you, Mr. Thank you. Okay, Dr. Aldrich.*
+- **Turn 66** (`02h50m36s-02h50m38s`) — *Car wash, bank,*
+- **Turn 67** (`02h53m52s-02h53m56s`) — *I think you're right, Jennifer.*
+- **Turn 68** (`02h55m43s-02h55m46s`) — *Okay.*
+- **Turn 69** (`02h57m52s-02h57m58s`) — *Thank you, Mr. White. Mr. Moody*
+- **Turn 70** (`03h01m32s-03h01m34s`) — *M. Leborn.*
+- **Turn 71** (`03h04m34s-03h04m38s`) — *I [I I] I.*
+- **Turn 72** (`03h06m17s-03h06m25s`) — *Yep.*
+- **Turn 73** (`03h08m40s-03h08m47s`) — *Thank you. Appreciate it. Heather, I know you want to talk to us.*
+- **Turn 74** (`03h11m54s-03h11m58s`) — *I have a question.*
+- **Turn 75** (`03h15m46s-03h16m00s`) — *Thank you, sir. what's your name? I just have something to say. Jay Feifer*
+- **Turn 76** (`03h17m07s-03h17m09s`) — *Wow.*
+- **Turn 77** (`03h19m41s-03h19m45s`) — *Okay. Thank you.*
+- **Turn 78** (`03h25m37s-03h25m45s`) — *Thank you. Anybody else in the audience want to speak?*
+- **Turn 79** (`03h28m38s-03h28m41s`) — *Jennifer,*
+- **Turn 80** (`03h32m43s-03h32m45s`) — *Mr. Wolf.*
+- **Turn 81** (`03h35m09s-03h35m15s`) — *Jennifer, any hands raised? [Dr. Emmens, you can go ahead.] Dr. Emmens.*
+- **Turn 82** (`03h36m25s-03h36m28s`) — *Mr. White.*
+- **Turn 83** (`03h38m49s-03h38m52s`) — *Okay. Thank you,*
+- **Turn 84** (`03h45m12s-03h45m14s`) — *No.*
+- **Turn 85** (`03h46m24s-03h46m29s`) — *We can. Ah, okay.*
+- **Turn 86** (`03h49m18s-03h49m21s`) — *Mr. [snorts] Leorn, are you?*
+- **Turn 87** (`03h55m20s-03h55m40s`) — *Questions for the developer? Anybody in the audience want to speak to uh the zone change uh to light industrial,*
+- **Turn 88** (`03h59m04s-03h59m07s`) — *Sir. Yes. Dr. Aldrich.*
+- **Turn 89** (`04h01m44s-04h02m20s`) — *Understood. Thank you. We'll put you down as a conflicted person. Anybody else in the audience? move on. Anybody else in the audience?*
+- **Turn 90** (`04h05m25s-04h05m27s`) — *Mr. Mayor. Yes.*
+- **Turn 91** (`04h05m40s-04h16m42s`) — *I appreciate that. Thank you. minutes are up. Let's go. [Are you feeling better, sir?] Okay. Myself included. They they can they can come and go.*
+- **Turn 92** (`04h23m24s-04h23m25s`) — *Questions? Yeah, go ahead.*
+- **Turn 93** (`04h28m24s-04h28m26s`) — *Thank you,*
+- **Turn 94** (`04h29m40s-04h29m43s`) — *Mr. White, you're first.*
+- **Turn 95** (`04h30m43s-04h30m46s`) — *Who's next? [And Dr. Emmens, you can go ahead.] Dr. Emmens.*
+- **Turn 96** (`04h31m14s-04h31m19s`) — *Thank you, Dr. Rainey. Oh.*
+- **Turn 97** (`04h32m26s-04h32m28s`) — *Thank you.*
+- **Turn 98** (`04h35m07s-04h35m15s`) — *Thanks for being here. Anybody else? Jennifer*
+- **Turn 99** (`04h35m22s-04h35m26s`) — *Good, thank you. What can we do for you? [gasps]*
+- **Turn 100** (`04h36m30s-04h36m49s`) — *Jennifer. Who do you have now? Mr. Miller, you can go ahead.*
+- **Turn 101** (`04h41m52s-04h42m01s`) — *Anybody else in the audience? Can you hear me?*
+- **Turn 102** (`04h44m39s-04h44m42s`) — *Yes, sir. [I have a point of clarification.] Yes.*
+- **Turn 103** (`04h45m08s-04h45m11s`) — *All right. Thank you, Mr. Wolf.*
+- **Turn 104** (`04h46m43s-04h46m45s`) — *Thank you,*
+- **Turn 105** (`04h58m14s-04h58m17s`) — *Dr. Renie.*
+- **Turn 106** (`05h00m39s-05h00m44s`) — *Very good, [Mr. Mayor.] Yes, doctor.*
+- **Turn 107** (`05h03m23s-05h03m24s`) — *No.*
+- **Turn 108** (`05h05m11s-05h05m40s`) — *Okay. Very good. All right. Out to the audience one more time. Thumbs up. Mr. Miller, you can go ahead. It is. Yes, we can.*
+- **Turn 109** (`05h09m38s-05h09m40s`) — *We can.*
+- **Turn 110** (`05h12m28s-05h12m31s`) — *Okay, Dr. Aldrich.*
+- **Turn 111** (`05h12m43s-05h12m47s`) — *Yes, sir. [clears throat]*
+- **Turn 112** (`05h15m46s-05h15m55s`) — *Mr. Brody to Councilman White. No. Thank you. [Anyone else in the governing body?] Mr. Mayor, Dr. Renie, welcome.*
+- **Turn 113** (`05h17m13s-05h17m15s`) — *Anyone else?*
+- **Turn 114** (`05h18m26s-05h18m53s`) — *Oh my lord. Anybody else in the audience? How about from the governing body? postponement for two weeks, please signify by saying I.*
+- **Turn 115** (`05h19m46s-05h19m57s`) — *I. [Those opposed?] No. Mr. Wolf and Moody or nose. The resolution is adopted.*
+- **Turn 116** (`05h23m21s-05h23m27s`) — *Anybody else in the audience want to speak to this item? All right, Mr. Mr. Esabel.*
+- **Turn 117** (`05h25m03s-05h25m09s`) — *Okay. Was there anything else? Nope, that's it. Thank you, Christie. Thank you.*
+- **Turn 118** (`05h26m15s-05h26m31s`) — *Mr. Miller, you can go ahead.*
+- **Turn 119** (`05h26m53s-05h26m56s`) — *No.*
+- **Turn 120** (`05h27m01s-05h27m07s`) — *Thank you. Anybody else? Mr. Escoel.*
+- **Turn 121** (`05h27m17s-05h27m23s`) — *second seconded by second Mr. Wolf.*
+- **Turn 122** (`05h31m58s-05h32m44s`) — *Okay, Jennifer. Mr. Miller can go ahead. in the audience want to speak under um other business? body? [Mr. Mayor.] Yes.*
+- **Turn 123** (`05h33m35s-05h33m37s`) — *Thank you, ma'am.*
+
+### `Speaker_02_Voice_Cluster_06` (161 turns)
+- **Turn 01** (`00h03m25s-00h03m34s`) — *Thank you, ma'am. Good evening, ladies and gentlemen. And I'd like to call the September 28th meeting of the governing body to order and ask the clerk if she would take the role, please.*
+- **Turn 02** (`00h04m51s-00h04m56s`) — *All right. Are there any items a member of the governing body would like to remove from the consent agenda? Dr. Aldridge.*
+- **Turn 03** (`00h05m01s-00h05m06s`) — *18 is the adoption of the comprehensive plan. We'll remove that item. Anybody else?*
+- **Turn 04** (`00h05m34s-00h05m44s`) — *I. Those opposed. The consent agenda is approved with items 18 and 23 removed. They'll be considered in their normal sequence on the agenda.*
+- **Turn 05** (`00h05m51s-00h06m25s`) — *All right, ladies and gentlemen, this is an owner who requested annexation of 1,259.91 acres that the owner would would like to uh convert into a business park. And a little bit of that is also a piece of the board of pu*
+- **Turn 06** (`00h15m26s-00h15m32s`) — *Thanks, Brian. Anybody else here want to speak? Heather, welcome back.*
+- **Turn 07** (`00h17m26s-00h17m29s`) — *I know we better push that button. Turn that microphone so people can hear you.*
+- **Turn 08** (`00h29m39s-00h29m46s`) — *sir? This will if if this process goes through, they'll be on city water and sewer. There won't be any wells on the property. It'll actually be handled by the municipal*
+- **Turn 09** (`00h29m49s-00h30m09s`) — *No. What I'm saying is the development that's being proposed will not be taking water out. They're not going to be drilling wells and doing that. So, they won't have an effect on the area that you're talking about. Uh no*
+- **Turn 10** (`00h30m21s-00h30m22s`) — *The pilot*
+- **Turn 11** (`00h30m36s-00h30m47s`) — *Sir, I think I'm tracking what you're saying and and I think the development you're also talking about is in the city and so we'd be required they'd be on city water and sewer would not be drilling wells and competing wi*
+- **Turn 12** (`00h31m25s-00h31m51s`) — *All the ones that are in the city limits. Yes, sir. That's correct. We don't allow wells to be drilled. Now, there are a couple south of town, uh, tall grass in the Google property, Vantage, they are drilling wells, but *
+- **Turn 13** (`00h31m55s-00h32m17s`) — *I can tell you from the city's perspective, we don't drill wells on property. They're all on a municipal system. And the wastewater is also treated through our municipal system uh to protect your your your wells and your*
+- **Turn 14** (`00h32m20s-00h32m22s`) — *Jennifer, did you have somebody have their hand raised?*
+- **Turn 15** (`00h32m42s-00h32m49s`) — *I can. Mr. Miller. Hey, I asked you to call the office so we could have a conversation, but you haven't done that. Are you planning on calling me?*
+- **Turn 16** (`00h33m24s-00h33m26s`) — *Mr. Miller. That's not true.*
+- **Turn 17** (`00h33m31s-00h33m46s`) — *Well, not if they're not true. You're not going to. That doesn't seem fair, does it? You're saying that we're annexing to create contiguity. No, we can annex city property anytime we want because it's city property and i*
+- **Turn 18** (`00h35m37s-00h36m44s`) — *Hang on just hang on just a second. Mr. Miller, I do want to say one thing. When the Cox Ranch was out and they let us know they were going to be doing the annexation and they had a surveyor out in the uh in the field, w*
+- **Turn 19** (`00h37m22s-00h37m36s`) — *Thank you, Jennifer. Do you have anybody else? How about in the audience? Anybody else want to speak? and we'll go to Dr. Aldridge for a motion.*
+- **Turn 20** (`00h37m42s-00h37m50s`) — *It's been seconded by Mr. Cagrave. Comments from members of the governing body on the annexation on third and final reading. [Yes, sir.] Dr. Aldridge.*
+- **Turn 21** (`00h49m37s-00h53m40s`) — *Thank you, Mr. Mayor. From the very beginning of this question, my concern has been the washwater that comes out of the treatment plant. And so that's a very complex matter and one that our very complex collection system*
+- **Turn 22** (`00h55m47s-00h55m48s`) — *Jennifer, who do you have?*
+- **Turn 23** (`00h57m32s-00h57m35s`) — *Jennifer, do you have any other hands raised?*
+- **Turn 24** (`00h57m42s-00h58m56s`) — *Well, [clears throat] these are complex issues. that affect people's lives, businesses, and certainly our city ourselves. So that vigorous discussion is only appropriate. And it concerns me that in a number of cases ther*
+- **Turn 25** (`01h06m08s-01h06m12s`) — *I don't believe we were overruling the planning commission on this issue. But*
+- **Turn 26** (`01h06m53s-01h07m04s`) — *All right. [sighs and gasps] There's nobody else in the audience or is there anybody? All right. Hearing none, we'll close public comment. We'll go to*
+- **Turn 27** (`01h07m12s-01h07m20s`) — *It's good to see you though. All right. We're going to close public comment and we'll go to Dr. Aldridge for a motion on the establishment of the zone.*
+- **Turn 28** (`01h07m26s-01h07m40s`) — *It's been seconded by Mr. Crave. Comments from members of the governing body on the establishment of the AG and the P zone. third reading, would you take the vote?*
+- **Turn 29** (`01h07m59s-01h08m05s`) — *The zone districts are established on third and final reading with Mr. Moody voting no.*
+- **Turn 30** (`01h10m46s-01h11m19s`) — *Marin. Just before you leave, um have done with us permitted systems shall include um but not limited to closed loop systems, air cooled systems, liquid to the chip, emerging cooling or future technologies of similar goa*
+- **Turn 31** (`01h11m22s-01h11m25s`) — *They signed it as uh as their pledge to us.*
+- **Turn 32** (`01h11m30s-01h13m19s`) — *I mean, we won't give them a building permit to uh to build an evaporative cooling system. Um they they they have committed to us that they will use the large power compact service to uh make sure that the uh the power t*
+- **Turn 33** (`01h13m22s-01h13m31s`) — *Um we did not talk about um uh the sound is there but um we didn't talk about the style of uh of backup generation.*
+- **Turn 34** (`01h19m55s-01h19m59s`) — *Nope. Just the rules are you have to address your comments to the chair and I'm the chair. So, thank you.*
+- **Turn 35** (`01h24m18s-01h24m23s`) — *Seconded by Mr. Crave. Comments from members of the governing body on the zone change before us.*
+- **Turn 36** (`01h34m50s-01h36m20s`) — *Thank you, [clears throat] Mr. Mayor. As was just recently pointed out here in the public testimony, there's a big difference between a series of promises in writing and a contract. And obviously we would be better off i*
+- **Turn 37** (`01h39m35s-01h39m37s`) — *Thank you sir. Jennifer,*
+- **Turn 38** (`01h40m20s-01h40m21s`) — *Madam clerk, would you take the vote?*
+- **Turn 39** (`01h40m41s-01h40m47s`) — *This uh zone changes approved on third and final reading with Mrs. Wolf and Moody voting no.*
+- **Turn 40** (`01h40m57s-01h41m30s`) — *All right, good news. This is not a data center. This is a owner requested annexation for 652 acres to be the new home for the Pearl Rodeo Cowboy Association and the related data center that will go or not data center. L*
+- **Turn 41** (`01h41m43s-01h41m59s`) — *Anybody else in the audience that would like to speak to um this uh annexation of land to uh create the new home for the PRCA? Nobody else in the audience. Jennifer,*
+- **Turn 42** (`01h45m22s-01h45m29s`) — *It's been seconded by Mr. Crave. Comments from members of the governing bond in the annexation for the PRCA home.*
+- **Turn 43** (`01h48m45s-01h49m08s`) — *All right. Again, we just annexed a piece of property on second reading. We need to give it a zone and uh we establish that zone as the closest to the county and uh in this case, it would be agricultural and light indust*
+- **Turn 44** (`01h50m21s-01h50m40s`) — *All right. The owner of this property is asked to uh change that zoning from the AG and LI to business park. And that would be for the PRCA and related activities. And we'll go back out to the audience to see if anybody *
+- **Turn 45** (`01h51m12s-01h51m19s`) — *Seconded by Mr. Crave. Comments by members of the governing body on the zone change before us.*
+- **Turn 46** (`01h56m28s-01h56m30s`) — *Would that be better for the representative also, Mr. Christensen?*
+- **Turn 47** (`01h56m42s-01h56m53s`) — *Thank you, Dr. Emmens. When the representative gets up here from the the owner of the land, we'll we'll get that answer for you. [Thank you.] Anything else for Mr. Christensen and Avi?*
+- **Turn 48** (`01h57m01s-01h57m05s`) — *Can you Mark, can you push the button and turn that microphone on so people can hear you?*
+- **Turn 49** (`01h57m22s-01h57m24s`) — *Pull that microphone up and talk right into it. So,*
+- **Turn 50** (`02h02m17s-02h02m18s`) — *Yes, Mr. Wolf.*
+- **Turn 51** (`02h02m24s-02h02m25s`) — *wonderful people?*
+- **Turn 52** (`02h07m52s-02h08m21s`) — *Thank you, Heather. when the document that you all just got will be available to the public because I don't think it was probably in the supporting documents. electronically to uh to Kylie maybe while you're sitting ther*
+- **Turn 53** (`02h11m29s-02h12m00s`) — *Excuse [clears throat] me. Um perhaps you could speak to the question of uh the condition of birds in our country and around the world right now and how [snorts] um different that is from 20 years ago or 30 years ago. Ar*
+- **Turn 54** (`02h12m41s-02h12m49s`) — *Welcome. You have to push that button and tell us your name. [I did have a question. Hello. My name is] Oh, wait, wait, I'm sorry. We had a question over here for the for Lori. Go ahead, Dr. Alders.*
+- **Turn 55** (`02h14m17s-02h14m20s`) — *All right. I apologize for cutting you off and please and welcome.*
+- **Turn 56** (`02h17m09s-02h17m14s`) — *can I get you to bring that microphone over so you walk so people in the back can hear There you go. Thank you so much.*
+- **Turn 57** (`02h21m16s-02h21m23s`) — *Sir, I think we're going to have a real hard time hearing you in the back. Can you bring that [clears throat] microphone real close? You're a soft spoken man and I want to make sure everybody gets to hear your your state*
+- **Turn 58** (`02h32m16s-02h32m40s`) — *I would I'd love to talk to you about that that effort. This governing body spent a lot of time looking at annexation and trying to make it easier for people to come into the city if they had a hardship for water or sewe*
+- **Turn 59** (`02h32m48s-02h32m50s`) — *Why don't you just give us credit for what we did now?*
+- **Turn 60** (`02h35m10s-02h35m13s`) — *Cottonwood trees get uh drink 20 gallons of water per cal per inch.*
+- **Turn 61** (`02h40m52s-02h40m57s`) — *Mr. White, you realize the last annexation we did was on the north side for a data center and we just passed that.*
+- **Turn 62** (`02h42m22s-02h42m29s`) — *sir. This I think the one is that you were asking about earlier. This might be the one you were asking about earlier.*
+- **Turn 63** (`02h42m35s-02h42m36s`) — *identify yourself, please.*
+- **Turn 64** (`02h43m03s-02h43m07s`) — *It's not the final vote though, sir. It's the second reading. We still have We'll still have two more weeks to go before*
+- **Turn 65** (`02h43m26s-02h43m39s`) — *Yeah. H. All right. Anybody else in the audience here tonight that want to speak on this uh zone change before us? All right, Jennifer, who do you got?*
+- **Turn 66** (`02h45m59s-02h46m07s`) — *Jennifer, do you have anybody else? Anybody else in the audience? All right, we'll close the public hearing and go to Dr. Aldridge for a motion.*
+- **Turn 67** (`02h46m12s-02h46m18s`) — *Seconded by Mr. Craig. Comments from members of the governing body on this uh zone change before us.*
+- **Turn 68** (`02h47m00s-02h47m02s`) — *And Mr. White, do you know did that happen?*
+- **Turn 69** (`02h50m27s-02h50m30s`) — *So like a truck stop, truck stop, hotel,*
+- **Turn 70** (`02h50m35s-02h50m36s`) — *car wash, don't forget that.*
+- **Turn 71** (`02h50m52s-02h50m54s`) — *Thank you, Dr. Did that answer your question?*
+- **Turn 72** (`02h53m08s-02h53m10s`) — *Dr. Emis, did it answer your question? Ma'am,*
+- **Turn 73** (`02h53m58s-02h54m01s`) — *Mr. White, welcome, sir.*
+- **Turn 74** (`02h55m23s-02h55m25s`) — *Always different questions we get.*
+- **Turn 75** (`02h55m48s-02h55m56s`) — *Connor, you or Charles have any uh any feedback on that as far as u you know*
+- **Turn 76** (`02h56m05s-02h56m08s`) — *Okay. Followup. Uh Mr.*
+- **Turn 77** (`03h01m34s-03h04m16s`) — *Thank you, Mr. Mayor. I think the point really is that this is zoned uh AG and LI light industrial. There are opportunities for development there in this very challenged uh piece of property. It's very unique. It's certa*
+- **Turn 78** (`03h07m46s-03h07m50s`) — *Jim, have you seen the plan for the landscape buffer that's supposed to be there?*
+- **Turn 79** (`03h08m08s-03h08m11s`) — *we need to grow tall trees is what you're telling me.*
+- **Turn 80** (`03h19m45s-03h19m50s`) — *Yes, ma'am. Come forward. You're going to have to bring that microphone way down.*
+- **Turn 81** (`03h28m41s-03h28m41s`) — *who do you have?*
+- **Turn 82** (`03h29m41s-03h29m51s`) — *Jennifer, do you have anybody else on your list? All right, nobody else here in the audience. We're going to close public comment. Go to Dr. Aldridge for a motion. Please.*
+- **Turn 83** (`03h30m00s-03h30m07s`) — *It's been seconded by Mr. Crave. We'll go out to the council and see what comments you might have. Mr. Escoel,*
+- **Turn 84** (`03h30m22s-03h30m33s`) — *You know, sir, I don't know the answer to that, but I made a note here tonight again to uh make sure I reach out to them and and have a conversation about lighting and direction and things like that.*
+- **Turn 85** (`03h31m32s-03h31m34s`) — *Mr. Secret, do you have a comment, sir?*
+- **Turn 86** (`03h38m19s-03h38m25s`) — *Mr. White, I'm going to ask the guy from Tremol Crow if he would give us an update on the date and the place of the meeting.*
+- **Turn 87** (`03h38m52s-03h38m55s`) — *Jennifer. Do you have anybody else's hands up?*
+- **Turn 88** (`03h45m41s-03h46m04s`) — *All right, we just gave it uh annexed a piece of property on second reading. So, we're on second reading here and we need to give it a city zone that's closest to what it's currently in this in the county, which would be*
+- **Turn 89** (`03h49m10s-03h49m18s`) — *It's been seconded by Mr. C. Gravey to establish the zoning as agricultural. Comments from members of the governing body,*
+- **Turn 90** (`03h49m29s-03h49m35s`) — *Mr. Moody is a no. The zone district is established on second reading.*
+- **Turn 91** (`03h49m51s-03h50m06s`) — *All right. This is an owner requested zone change to go from agricultural to light industrial. And again, they've told us this will be for data center development. And uh go ahead, sir, if you want to start us off.*
+- **Turn 92** (`03h55m47s-03h55m50s`) — *I believe he lives in northern or in Colorado.*
+- **Turn 93** (`03h55m54s-03h55m57s`) — *You need to address your comments to the to the chair. Okay.*
+- **Turn 94** (`03h58m57s-03h59m04s`) — *It's been seconded by Mr. Cagrave. Comments from members of the governing body on the zone change from agricultural to light industrial.*
+- **Turn 95** (`04h00m33s-04h00m43s`) — *Thank you. Anybody else in the governing body on the zone change? those in favor, please signify by saying I.*
+- **Turn 96** (`04h01m09s-04h01m31s`) — *All right. In November, we get an opportunity to vote for the fifth penny sales tax which benefits all the governing bodies, county, Alban, Pine Bluffs, Burns, and the city of Cheyenne. Um, and this is our list of priori*
+- **Turn 97** (`04h02m28s-04h02m30s`) — *Seconded by Mr. Moody. Mr. Escoel.*
+- **Turn 98** (`04h03m08s-04h03m09s`) — *I think that's the next step in this process.*
+- **Turn 99** (`04h03m23s-04h03m25s`) — *All right. The substitute is adopted. Mr. Escoel.*
+- **Turn 100** (`04h04m00s-04h04m08s`) — *All right. The amendment is approved and we're back on the main motion, which is the fifth penny sales tax. Comments for members of the governing body.*
+- **Turn 101** (`04h04m27s-04h04m37s`) — *Yeah, sir. 80% of the money raised on the fifth penny goes to roads and 9% goes to public safety, our fire and police department. So, that's where we're at on those. [Thank you.] All right. Hearing*
+- **Turn 102** (`04h05m21s-04h05m25s`) — *All right. The resolution is adopted as amended. Item number 17.*
+- **Turn 103** (`04h05m34s-04h05m40s`) — *All right. Let's let's take a 10-minute break. It's 10:02. We'll come back at uh 10:12.*
+- **Turn 104** (`04h16m42s-04h16m47s`) — *All right, Madam Clerk, would you read into the record item number 18, please?*
+- **Turn 105** (`04h16m57s-04h17m10s`) — *All right, let's go out to the audience and maybe we'll start with Mr. Bloom as staff and uh maybe we can get a quick uh comment from the consultant who through our meeting. Thank you for being here and uh we'll go out t*
+- **Turn 106** (`04h18m19s-04h18m22s`) — *Tom, thanks for sitting through our meeting and welcome.*
+- **Turn 107** (`04h18m26s-04h18m29s`) — *Can I get you to bring that microphone up so people in the audience can hear you?*
+- **Turn 108** (`04h23m21s-04h23m24s`) — *You did an awesome job. Thank you so much, Mr. Mayor.*
+- **Turn 109** (`04h26m31s-04h26m38s`) — *Tom, what kind of scientists are you that do this work? And uh and can you just share with us uh how you think the EPA will look at the results?*
+- **Turn 110** (`04h28m26s-04h28m53s`) — *Jennifer. Anybody online that has questions for uh for our staff? you know, city councilman that might want to um talk about uh questions. So, we'll wait Mr. I think Mr. Graves has a question while we're seeing if anybod*
+- **Turn 111** (`04h29m35s-04h29m37s`) — *Jennifer, did any council members want to ask?*
+- **Turn 112** (`04h30m39s-04h30m41s`) — *Did that answer your question, Mr. White?*
+- **Turn 113** (`04h31m19s-04h31m23s`) — *All right. So, if we have no other questions for the Yes, sir.*
+- **Turn 114** (`04h31m53s-04h31m55s`) — *Tom, did you have a a follow-up comment?*
+- **Turn 115** (`04h35m18s-04h35m21s`) — *Alan, we haven't heard your voice for a while. How are you?*
+- **Turn 116** (`04h39m45s-04h39m50s`) — *Nope. Um, we are in Dr. Aldridge for a motion.*
+- **Turn 117** (`04h40m00s-04h40m05s`) — *I want to give you just a second here. And uh uh we'll we'll make a motion. Okay. Amend.*
+- **Turn 118** (`04h40m53s-04h41m20s`) — *for discussion. All right. Um, anybody I just want to speak to the amendment to change from acknowledge to uh acknowledge to u or to adopt to acknowledge to perceive. Anybody? this evening is a prudent uh decision. Uh wh*
+- **Turn 119** (`04h42m01s-04h42m04s`) — *Yeah. Mr. Miller, you're going to call me, right?*
+- **Turn 120** (`04h43m05s-04h43m08s`) — *do you have anything new to say?*
+- **Turn 121** (`04h44m21s-04h44m39s`) — *Mr. Sheldon. proposing the amendment and I support it. Thanks. Sheldon. Anybody else? All right. How about from the governing body?*
+- **Turn 122** (`04h44m58s-04h45m08s`) — *The very first the very first uh word in the resolution is adopt. And she's changing that to acknowledging receipt of a comprehensive action plan in accordance with the Environmental Protection Agency.*
+- **Turn 123** (`04h45m31s-04h45m35s`) — *Tom or uh Mr. Bloom, any either one of you,*
+- **Turn 124** (`04h51m48s-04h57m14s`) — *Thank you, Mr. Mayor. Well, when we talk about something as broad and u [snorts] difficult to exactly pin down as uh air pollution or uh needs in the community, I'd like to remind everyone here that we do a lot of these *
+- **Turn 125** (`04h59m06s-04h59m08s`) — *Tom, did you hear the question? Did understand it?*
+- **Turn 126** (`04h59m57s-04h59m59s`) — *Mr. Broaddy, did you have comment?*
+- **Turn 127** (`05h03m24s-05h03m51s`) — *Okay. May I see the hands and nose? That was Dr. Emmens. Mr. Escoel and um Mr. Leborn, the uh amendment passes. And now we're back. [Dr. No.] Okay. So, we have four nos. Did you get those? Okay. And we're back on the mai*
+- **Turn 128** (`05h04m18s-05h04m20s`) — *job. I would*
+- **Turn 129** (`05h04m33s-05h04m55s`) — *Is that acceptable as far as the um um the goal of the people gave us the money. Um are we still okay with making the the change? Mayor, members of council, um I do believe that that language is is acceptable.*
+- **Turn 130** (`05h07m06s-05h07m21s`) — *All right. The uh I heard Dr. Emmens and Mr. Laybourne as nos. The motion to amend again passes and we're back on the main motion. Comments from members of the governing body.*
+- **Turn 131** (`05h07m27s-05h07m33s`) — *Dr. Emmens and Mr. Moody knows the resolution is adopted as amended.*
+- **Turn 132** (`05h08m09s-05h08m30s`) — *All right, folks. This is for the uh hitching post district and it's the intention of the governing body to postpone this because we have to uh um we're only on second reading and this would be out of order. So um Aldric*
+- **Turn 133** (`05h08m40s-05h08m49s`) — *All right, we'll go out to the audience on the postponement. Anybody want to speak to the postponement on uh on this item for two weeks? How about from the governing body?*
+- **Turn 134** (`05h08m54s-05h08m58s`) — *The item is postponed for two weeks.*
+- **Turn 135** (`05h09m09s-05h09m30s`) — *All right. If I understand this, this is for the Orchard Hills um land use plan. I get that one right. And uh overruling the planning commission. We'll go out to the audience if anybody wants to uh speak to us um on item*
+- **Turn 136** (`05h10m35s-05h10m47s`) — *Mr. Miller, these were entered into the record just a little bit ago by the uh by the applicant. Um, and he went through all four of those things. So we have on the record the reasons for that. So it's not arbitrary, nor*
+- **Turn 137** (`05h12m35s-05h12m42s`) — *It's been seconded by Mr. Crave. Comments from members of the governing body on the resolution.*
+- **Turn 138** (`05h12m47s-05h15m26s`) — *I think this highlights uh some issues we have with the whole way our planning commission is being run right now. And that might not be wholeheartedly the fault of the members. I think it's the fault of the information t*
+- **Turn 139** (`05h16m13s-05h16m16s`) — *But you did you did participate from the road, so we appreciate that.*
+- **Turn 140** (`05h17m53s-05h18m01s`) — *All right. And as I understand it, this is another one of those items that needs to be postponed for two weeks. Is that right, Mr. White? So, I'm going to go to Dr. Aldridge and ask for a motion.*
+- **Turn 141** (`05h18m11s-05h18m21s`) — *It's been moved by uh Dr. Aldridge and seconded by Mr. Crave to postpone for two weeks. We'll go out to the audience on the postponement.*
+- **Turn 142** (`05h19m16s-05h19m28s`) — *All right, we'll go out to the audience. Does anybody in the audience want to speak to this resolution to change the future land use map?*
+- **Turn 143** (`05h19m35s-05h19m45s`) — *Seconded by Mr. Crave. Comments from members of the governing body on the land use amendment. signify by saying I.*
+- **Turn 144** (`05h20m09s-05h20m17s`) — *All right. Before we go anywhere, I'm going to go out to Mr. White and uh give him an opportunity to declare a conflict of interest. Uh Mr. White.*
+- **Turn 145** (`05h20m26s-05h20m39s`) — *Hard to say this late in the evening. Thank you, Mr. White. Now, we'll go out to the audience and see if anybody wants to talk about this lease between the city and depot museum.*
+- **Turn 146** (`05h20m52s-05h20m57s`) — *Mr. Miller, I give you 20 seconds and if you can't answer in 20 seconds, you're not prepared and I'm not going to do it anymore.*
+- **Turn 147** (`05h23m32s-05h23m39s`) — *Seconded by Mr. Moody. Comments from members of the governing body on the Cheyen depot museum lease. [Yes, sir.] Dr. Aldridge.*
+- **Turn 148** (`05h24m07s-05h24m12s`) — *Mr. Mayor, I do have Christy McCarthy on. Christie, thanks for sitting through this meeting.*
+- **Turn 149** (`05h25m40s-05h25m44s`) — *Other comments from members of the governing body on the lease agreement.*
+- **Turn 150** (`05h26m05s-05h26m14s`) — *All right, we'll go out to the audience. Does anybody want to speak to this uh purchase of gear for our firefighters?*
+- **Turn 151** (`05h26m48s-05h26m53s`) — *And this is uh approval of accounts payable voucher report. Is that correct?*
+- **Turn 152** (`05h26m56s-05h27m01s`) — *Oh, okay. Uh I will go ahead and and pass here. Thank you.*
+- **Turn 153** (`05h27m29s-05h27m42s`) — *Second. through what the uh amendment is? I understand it just changes the model to the gear we currently have. Is that correct?*
+- **Turn 154** (`05h29m22s-05h29m26s`) — *Those opposed, the consideration of purchase is approved as amended.*
+- **Turn 155** (`05h29m33s-05h29m43s`) — *All right. I don't get to vote on the uh uh appointments, but I will run the the operation here. I'd look forward to um a motion to appoint.*
+- **Turn 156** (`05h30m08s-05h30m14s`) — *All right. Same same thing, Mr. [I would move.] Thanks for sitting through our meeting. We appreciate you being here tonight. Dr. Aldrich,*
+- **Turn 157** (`05h30m30s-05h30m53s`) — *those opposed those appointments are also um approved and we appreciate their service to the community. [31C voucher report.] Anybody in the audience or on the governing body that would like to speak to the vouchers? Oka*
+- **Turn 158** (`05h31m54s-05h31m58s`) — *All right. Is there anybody in the audience that would to speak to us under other business this evening?*
+- **Turn 159** (`05h33m08s-05h33m11s`) — *We're happy that you're progressing well, ma'am.*
+- **Turn 160** (`05h34m33s-05h34m43s`) — *Thanks for sitting through the meeting from a long distance. Uh Mr. I appreciate your dedication to being here. Thank you. How about anybody from the governing body on online? Dr. Aldridge,*
+- **Turn 161** (`05h35m57s-05h36m04s`) — *Thanks everyone. Well, if there's nothing else for the good of the group, we are ajourned. Thank you.*
+
+### `Speaker_03_Voice_Cluster_01` (201 turns)
+- **Turn 01** (`00h03m42s-00h03m45s`) — *Dr. Emmens [present.] Mr. Esel*
+- **Turn 02** (`00h03m45s-00h03m48s`) — *Mr. Leborn [present.] Mr. Moody*
+- **Turn 03** (`00h03m49s-00h03m52s`) — *Dr. Renie, [present.] Mr. Crave,*
+- **Turn 04** (`00h05m44s-00h05m51s`) — *Number six, ordinance third reading, annexing to the city of Cheyenne, Wyoming land west of Round Top Road and adjacent to Happy Jack Road.*
+- **Turn 05** (`00h06m27s-00h11m16s`) — *Thank you, Mayor Council. Good evening. My name is Tom Glymire. with Bow West. I am in support of the annexation and the proposed project. Uh I would like to first express my appreciation to this council, this governing *
+- **Turn 06** (`00h11m21s-00h13m30s`) — *Good evening, Mayor and City Council. My name is Marin Kellis and I'm a W1 candidate. Tonight I stand before you to express my reluctant approval of the Cox Ranch annexation. Not because I believe this is the best and th*
+- **Turn 07** (`00h15m32s-00h17m24s`) — *Thank you. Um, Heather Madre, Ward One. I usually come up here with a very wellressearched um, factbased argument or rather discussion, and I feel like somebody else said that just falls on deaf ears. So, I'm kind of don*
+- **Turn 08** (`00h17m29s-00h17m35s`) — *And why I haven't been here because I want other speakers and they are speaking. I keep hearing the same thing.*
+- **Turn 09** (`00h17m38s-00h19m34s`) — *I keep hearing there are other people who want these annexations. I have yet to see them. Furthermore, how do I know that I'm really getting represented in this county? First of all, we ran a big petition. 20 days it too*
+- **Turn 10** (`00h20m33s-00h25m46s`) — *Okay, this is political. Period. End of story. Trump signed that EO saying, "Oh, we can do whatever the hell we want to do without, you know, doing any environmental assessment whatsoever when the people of Wyoming did n*
+- **Turn 11** (`00h25m51s-00h29m39s`) — *Thank you. So, I'm opposed to the annexation as well, and the grounds for it have to do with an actual experience that my in-laws have. They live off the Archer Complex. My mother-in-law, she just turned 85 yesterday, an*
+- **Turn 12** (`00h29m46s-00h29m49s`) — *I'm in Hills Ranch. Are you going to annex that?*
+- **Turn 13** (`00h30m09s-00h30m21s`) — *So the annex or the uh data center that's going to go in out by uh by the pilot thing. They're not drilling any wells. They won't take any wellwater.*
+- **Turn 14** (`00h30m47s-00h31m25s`) — *Well, it doesn't help because the groundwater you're taking it from a great place or an area. So it may even though I'm not in that annex, it may affect my groundwater. So who's is there some way that we can hold you guy*
+- **Turn 15** (`00h31m51s-00h31m55s`) — *Does somebody know the answer? You guys are putting all this stuff in.*
+- **Turn 16** (`00h32m22s-00h32m39s`) — *I do. I also like the record to show that um Councilman White joined us at 6:22 p.m. Um I'm going to go to uh Charles Miller. You should be able to unmute yourself.*
+- **Turn 17** (`00h32m49s-00h33m22s`) — *Uh, yeah, I could I could probably reach out to you uh pro probably via email. Um, but uh Charles Miller, for the record, um, first continue this item. Your own section 8 says the ordinance shall be in full force upon ap*
+- **Turn 18** (`00h33m26s-00h33m31s`) — *Okay. So, maybe then we could address those uh items after I speak. Is that possible?*
+- **Turn 19** (`00h33m46s-00h35m32s`) — *Um well, if you would mind letting me finish, uh that'd be great. Um under town of Warland versus Lang, a municipality has zero inherent authority to annex. Those powers are strictly construed and require a unified munic*
+- **Turn 20** (`00h35m36s-00h35m37s`) — *Erin Fior can go ahead.*
+- **Turn 21** (`00h36m44s-00h37m22s`) — *thank you. Aaron Fiory, Ward One, I'll keep this short. I'm in favor of the annexation. Uh I believe that we should have more companies like Skybox uh partnering with our city. Um I love the economic development. I would*
+- **Turn 22** (`00h37m36s-00h37m41s`) — *Mr. Mayor, the recommendation of the public services committee is to approve on third and final reading and I so move.*
+- **Turn 23** (`00h37m50s-00h49m33s`) — *Mayor Collins for you. Um, I am going to be a yes vote on this this evening. I have sat um as many of you have through multiple public service committee meetings um and chaired those. I've sat through multiple city counc*
+- **Turn 24** (`00h55m48s-00h57m32s`) — *Dr. Emmens, you can go ahead. [Dr. Emmens.] Thank you, Mr. Chairman. Um, I'm incredibly disturbed by the pomposity that I just heard about how we've handled this situation. Um, I have a great deal of respect for all the *
+- **Turn 25** (`00h59m04s-00h59m06s`) — *Dr. Aldrich, [yes.] Mayor Collins,*
+- **Turn 26** (`00h59m09s-00h59m12s`) — *Mr. Esel, [hi.] Mr. Mr. Leborn.*
+- **Turn 27** (`00h59m12s-00h59m15s`) — *Mr. Moody. [No.] Dr. Renie.*
+- **Turn 28** (`00h59m26s-01h00m06s`) — *Number seven. Ordinance third reading amending the official zoning map of the city of Cheyenne establishing the zoning classification of AG agricultural MP public for land annex to the city of Cheyenne located west of Ro*
+- **Turn 29** (`01h00m21s-01h03m15s`) — *We can, Mr. Miller. Um, Charles Miller, for the record, uh, let's see here. Um this is in regards to the amending the zoning map from AG [clears throat] or to AG and P. Uh first continue this item. Your own staff report *
+- **Turn 30** (`01h03m30s-01h06m02s`) — *Can you bring that up so you we can microphone? Thank you. Now, I'm going to try to be level-headed. I'm just wondering why was the um planning commission overruled? notes. The planning commission was overruled. They had*
+- **Turn 31** (`01h06m30s-01h06m49s`) — *Chair, members of council Connorway, Planning and Development Department. For this specific item for the assigned zoning, the planning commission recommended approval of the assigned zoning. The overruling was most likel*
+- **Turn 32** (`01h07m20s-01h07m25s`) — *Mr. Mr. Mayor, the recommendation of the public services committee is to approve on third and final reading and I so move.*
+- **Turn 33** (`01h07m40s-01h07m43s`) — *Dr. Renie, [yes.] Mr. Crave,*
+- **Turn 34** (`01h07m46s-01h07m50s`) — *Mr. Wolf, [hi.] Dr. Aldrich, yes. Mayor Collins,*
+- **Turn 35** (`01h07m53s-01h07m55s`) — *Mr. Escapel, [I.] Mr. Leborn,*
+- **Turn 36** (`01h08m05s-01h10m46s`) — *Number eight on page two, ordinance, third reading, amending the official zoning map of the city of Cheyenne, changing the zoning classification for land located west of Roundtop Road and adjacent to HappyJack Road from *
+- **Turn 37** (`01h11m19s-01h11m22s`) — *Is it a pledge or is it a negotiated contract?*
+- **Turn 38** (`01h11m25s-01h11m27s`) — *And what happens if they don't do it?*
+- **Turn 39** (`01h13m19s-01h13m22s`) — *And what about uh diesel power generators?*
+- **Turn 40** (`01h13m31s-01h13m37s`) — *Okay. So that's not in there. And there's no site restoration plan for if it's decommissioned?*
+- **Turn 41** (`01h13m42s-01h15m18s`) — *Thank you, Miss Madre. Heather Madrid, Ward One. I just want to clarify that this wasn't postponed because we were listened to. This was postponed at the request of the developers so that they um there has never been a p*
+- **Turn 42** (`01h16m18s-01h19m40s`) — *passion, sir. Either be prepared or I'm going to call you out of order. Okay, first continue this item. This is BP Business Park. This is the BP Business Park loophole. City planner Connor White admitted on May 4th, quot*
+- **Turn 43** (`01h20m06s-01h24m17s`) — *Okay. Thanks for being here, sir. Skybox, part of the development. Uh first off, I want to thank everybody uh both in the city and outside uh whether you be in the county or anyone who came out to any one of our local en*
+- **Turn 44** (`01h24m25s-01h29m42s`) — *thank you through you. Uh I don't mind repeating what I said at that town hall. uh to understand the data center there. Why do they find Laramie County so lucrative is uh one or weather? The climate here is real good for*
+- **Turn 45** (`01h36m29s-01h39m35s`) — *Yeah, good evening. Um, I just have a couple comments to make. One, I wanted to go back and address the water again because it's been brought up. Um, we get 70% of our water comes from the West Slope um through the stage*
+- **Turn 46** (`01h39m37s-01h40m11s`) — *Dr. Emmens. [Dr. Evans.] Thank you. Thank you, Mr. Mayor. I just wanted to make one comment about the um information that uh city councilman Crave just presented just to point out to the rest of the council that two of t*
+- **Turn 47** (`01h40m21s-01h40m25s`) — *Mr. Moody, [no.] Dr. Renie,*
+- **Turn 48** (`01h40m28s-01h40m31s`) — *Mr. White, [yes.] Mr. Mr. Wolf,*
+- **Turn 49** (`01h40m33s-01h40m36s`) — *Mayor Collins, [yes.] Dr. Emmens,*
+- **Turn 50** (`01h40m47s-01h40m57s`) — *Number nine, ordinance, second reading, annexing to the city of Cheyenne, Wyoming, land located south of Interstate 80, southeast of Otto Road and west of Interstate 25.*
+- **Turn 51** (`01h42m07s-01h44m48s`) — *Good evening, Mr. Mayor, mayor, members of the council. Thank you for the opportunity to speak tonight and thank you for the consideration of development in general in our community. My name is Jim Walter. I'm the presid*
+- **Turn 52** (`01h45m17s-01h45m22s`) — *Mr. Mayor, the recommendation of the public services committee is to approve on second reading and I so move.*
+- **Turn 53** (`01h45m31s-01h47m26s`) — *over the past weekend, I noticed that uh for the events that were at Frontier Park, a lot more tourism going on. It's just not those 10 days in July that Cheyenne's becoming a tourist attraction. But, uh, there were peop*
+- **Turn 54** (`01h48m25s-01h48m45s`) — *All right, the annexation is approved on second reading. Number 10, ordinance, second reading, amending the official zoning map of the city of Cheyenne, establishing the zoning classification of AG Agricultural and LI Li*
+- **Turn 55** (`01h49m44s-01h49m49s`) — *Mr. Mayor, the recommendation of the public services committee is to approve on second reading and I so move.*
+- **Turn 56** (`01h50m01s-01h50m21s`) — *The uh zone districts are established on second reading. Number 11, ordinance, second reading, amending the official zoning map of the city of Cheyenne. Classification for land located south of Interstate 80, southeast o*
+- **Turn 57** (`01h50m42s-01h51m00s`) — *Heather Madrid, word one. I too am excited about this project and I think it's nice to hear that they've been planning this since 2021 and have spent um money investing in figuring it all out despite not knowing if they *
+- **Turn 58** (`01h51m03s-01h51m12s`) — *All right, Dr. for Aldridge. public services committee is to approve on second reading and I so move.*
+- **Turn 59** (`01h51m24s-01h51m43s`) — *Those opposed, this zone change is approved on second reading. Number 12, ordinance, second reading, amending the official zoning map of the city of Cheyenne, changing the zoning classification for land located south of *
+- **Turn 60** (`01h54m05s-01h55m16s`) — *Mr. Christensen? So, honorable mayor for you to council me member TRA uh the the easements that are located on the site definitely present some challenges to that. We haven't test fit any as we don't have a proposed use *
+- **Turn 61** (`01h55m21s-01h56m02s`) — *Mayor Collins, for you. Um when the public services committee met last week, uh one of the the HR land company representative was here and it was um strongly suggested that uh they take an opportunity to meet with um tho*
+- **Turn 62** (`01h56m08s-01h56m28s`) — *Um thank thank you through you to the representative. Um, when they annexed this land 20 years ago, which is a pretty long time ago, was there any specific plan then that they had or or what was the reason for wanting to*
+- **Turn 63** (`01h56m30s-01h56m42s`) — *Mayor, you I do believe that, but I will I do want to commend the city planning department as I was able to easily find the annexation. That's why I knew is 2006 and I found it when I was sitting out there. So kudos to t*
+- **Turn 64** (`01h57m05s-01h57m22s`) — *Good evening, Mr. Mayor, members of the council. My name is Mark Lo. Um, I am one of the managing partners for HR Land Company. Uh, just by way of background, HR Land was formed by Bill and Bob Barard and my father in th*
+- **Turn 65** (`01h57m24s-01h57m26s`) — *I'll talk right into it. [clears throat] My apologies.*
+- **Turn 66** (`01h57m29s-02h01m15s`) — *In 1979, uh, Dr. Hails approached my father to buy the land surrounding the ranch headquartered. My father agreed to this sale with the clear understanding that HR Land parcels north of the Herford Ranch headquartered wo*
+- **Turn 67** (`02h01m20s-02h01m31s`) — *through you, Mr. Mayor. [clears throat] When did you become a member of the business parkway? We joined the business parkway last year. [Okay.] I believe or year perhaps two years ago.*
+- **Turn 68** (`02h01m44s-02h01m56s`) — *I think if you were ask my father, he would say that this was always his intention to develop this interchange parcel, you know, with some sort of commercial or industrial development going back 50 years. We're a little *
+- **Turn 69** (`02h02m00s-02h02m10s`) — *Just a followup, Mayor Collins, for you. With all of the power lines and easements and things and gas lines going through here, this would not be conducive to housing. Is that correct?*
+- **Turn 70** (`02h02m18s-02h02m23s`) — *Uh, thank you, Mr. Mayor. Through you, um, welcome, Mr. Lom. I knew your parents. Um, so*
+- **Turn 71** (`02h02m25s-02h06m04s`) — *Yes. Um, did did your family grant this easement for the WA power line? You know, I can't answer that question, sir, through the mayor. I I can I can't answer that question. My father passed away four years ago, and we h*
+- **Turn 72** (`02h06m07s-02h06m08s`) — *Hello again. Hi.*
+- **Turn 73** (`02h06m35s-02h07m48s`) — *Yeah. Uh, so this, uh, this is a repeat question, right? [laughter] And you're good at it, huh? Well, um, yeah, I I empathize with the fact that they want to put some development there, but for birds that are migrating, *
+- **Turn 74** (`02h08m22s-02h08m34s`) — *Yep. Thanks for asking, Lori. It's so nice to have you back. Oh, thank you. Vicki is gonna hand out a another map, but the second page might actually be some help to you.*
+- **Turn 75** (`02h08m36s-02h11m25s`) — *mayor and members of council. My name is Dr. Lori Wayne Chesta and I live on Range View Drive. I'm president of the Cheyenne High Plains Ottabon Society. So, our mission is to promote the conservation and appreciation of*
+- **Turn 76** (`02h12m00s-02h12m38s`) — *Prairie and woods and repairing areas are being developed at a rapid pace and prairie birds in particularly are very endangered. Um, we're working to do a lot of education around that. The Wyoming Herford Ranch is a jewe*
+- **Turn 77** (`02h12m49s-02h14m13s`) — *I'm Mayor Collins for you. Um my question uh is with acknowledging that uh birds need um to have a quiet environment, no light, that type of thing. It um and it sounds like there's going to be additional development thro*
+- **Turn 78** (`02h14m20s-02h17m09s`) — *My name is Dr. Lita Campbell. I happen to be a resident of Hills Ranch off of Hills Ranch Road. I'm approaching this from a little bit of a different perspective. I have nothing against um innovation and data centers and*
+- **Turn 79** (`02h17m14s-02h20m35s`) — *I apologize. [Perfect. Thank you.] All right. So, this is a zone change. It's not a building permit. There is no tenant, no sight plan, no water source, no lighting noise or air plan. The planning commission recommended *
+- **Turn 80** (`02h21m04s-02h21m08s`) — *Ben Marley. Um, m a h r l e.*
+- **Turn 81** (`02h21m23s-02h21m24s`) — *Yeah. Well, I do too.*
+- **Turn 82** (`02h24m27s-02h27m33s`) — *Good morning. Or good evening, Linda. I live on nature ranch. In the US legal system, regulations are ruled created by government agencies to implement and detail the requirements set out in statutes laws passed by the l*
+- **Turn 83** (`02h27m38s-02h32m07s`) — *Mr. Mayor, council. My name is Spencer Stra. I've been a resident of HR Ranch for 14 years. In that 14 years, I have served on the board two times, and I have very much uh a lot of credible things that I know about the a*
+- **Turn 84** (`02h32m11s-02h32m14s`) — *If you'd like to meet with me privately, I would. I'd like to kind of*
+- **Turn 85** (`02h32m43s-02h32m48s`) — *And I understand that. But it's funny that you couldn't do that before when somebody wanted to come in.*
+- **Turn 86** (`02h32m50s-02h35m10s`) — *I mean, please. I We worked we've worked really really hard to try to be uh, you know, to make it easier for people and to be a good neighbor so that if they need water, they need sewer, they don't have to mortgage their*
+- **Turn 87** (`02h35m13s-02h37m48s`) — *Do they like to have their roots in the water that they're getting out there? They were specifically planted there exactly for that reason. want to see that if those trees live, thank you for those people. If they don't *
+- **Turn 88** (`02h37m51s-02h38m15s`) — *Thank you, Mr. Mayor. Three. Thank you, ma'am. And with your neighbors, nobody supports this uh being reszoned. Correct. Everybody in HR ranches. Okay. Thank you. And follow, Mr. Mayor. [Yep.] All right. Thank you, Mr. M*
+- **Turn 89** (`02h38m28s-02h40m52s`) — *Um, city council and mayor. You know, I listen to these pe people talk all the time and I live south of town where they're building data and they're building a big old mount of dirt. Where I used to see the prairies, I d*
+- **Turn 90** (`02h40m57s-02h42m18s`) — *But we got more on the south side on the north side. And then another thing concerns me is traffic. You guys don't go down there and watch traffic in the morning when I normally I got another place. I go to my dad's plac*
+- **Turn 91** (`02h42m36s-02h43m01s`) — *Kevin Murphy, I'm at Hell's Ranch Road. The questions that Councilman Seagrave brought up and that uh Dr. Aldridge brought up given to uh Mr. Christensen, they were good questions. He had no answer for them. My question *
+- **Turn 92** (`02h43m07s-02h43m18s`) — *the final vote. Can we get answers by then? [Yep. I'm seeing them nod their heads.] Just as a point of clarification, mayor, you just said we will have to vote yes. We will have to vote right tonight. We do not have to v*
+- **Turn 93** (`02h43m39s-02h43m42s`) — *Mr. Miller, you should be able to unmute yourself.*
+- **Turn 94** (`02h43m44s-02h45m59s`) — *Oh, thank heavens. Yeah, I uh was having some issues earlier. Um, uh, Mayor Collins, members of the council, Charles Miller, for the record, I'm here to formally lock in the statutory framework for judicial review of thi*
+- **Turn 95** (`02h46m07s-02h46m12s`) — *Mr. Mr. Mayor, the recommendation of the public services committee is to approve on second reading and ISO move.*
+- **Turn 96** (`02h46m30s-02h47m00s`) — *Mr. White, can you uh explain what the the law requires for notification for neighboring property owners? Mayor, members of council, Conor Way, Planning Development Department. So, per the UDC, when it comes to zone chan*
+- **Turn 97** (`02h47m02s-02h47m05s`) — *Yes. Uh mayor through you that did happen.*
+- **Turn 98** (`02h47m11s-02h49m09s`) — *Mr. Mayor, um I am going to be a no vote on this this evening and it's not um because I um haven't studied this or haven't heard um the developers perspective on this. Um and I may very well end up changing that. But I I*
+- **Turn 99** (`02h49m15s-02h50m27s`) — *So, as as was pointed out, this was annexed 20 years ago and the intent was that when it came into the city, um it would be CB a CB zone and obviously that intent was before we even had the gay distance park zone. So, co*
+- **Turn 100** (`02h50m30s-02h50m35s`) — *hotel, restaurant, coffee shop, everybody's favorite. Um*
+- **Turn 101** (`02h50m38s-02h50m52s`) — *bank. Get them all. So any of the commercial basically uses can go in the CB zone. Uh those are also permitted in the BP zone. The BP just does allow for additional industrial uses as well.*
+- **Turn 102** (`02h50m54s-02h53m08s`) — *It did, Mr. Mayor. Thank you. Um I guess so the development the intended development would be much like what is on the north side of the interstate vent. Is that correct? Mr. White did be what you would see kind of aroun*
+- **Turn 103** (`02h53m10s-02h53m52s`) — *it does. Um Mr. Mayor, through you. I do have one other comment that I'd like to make. Please. Um, I think it's great that we talk about this area as a greenway or um an area to, you know, to to be undeveloped, but that *
+- **Turn 104** (`02h53m56s-02h53m58s`) — *Lastly, um, Councilman White.*
+- **Turn 105** (`02h54m01s-02h55m23s`) — *Thank you, Mr. Mayor. Um, I have a question and I don't know, um, who could answer it. Perhaps Mr. Brody. You just ask it, sir. We'll get an answer. Okay. So my understanding uh with this part of the area uh to the south*
+- **Turn 106** (`02h55m46s-02h55m48s`) — *thank you. I appreciate that.*
+- **Turn 107** (`02h55m56s-02h56m05s`) — *I mean it's an important bird area. I get it. But it's not like a wildlife refuge or anything that's has legal protection.*
+- **Turn 108** (`02h56m08s-02h57m52s`) — *Yes. Uh yes, Mr. Mayor. The um I guess the second thing is and I did go out and tour this area uh a couple of weeks ago. And so while I certainly understand concerns about noise and light, um with all due respect from fr*
+- **Turn 109** (`02h58m48s-03h01m32s`) — *Uh, and thank you, Mr. Mayor, through you. Um, I've been out at that site now three times um to look at it uh carefully. Um, the hails were um almost 50-year friends of mine. Um, and um I spoke uh at the public service c*
+- **Turn 110** (`03h04m40s-03h06m16s`) — *See the hands of the nose. Mr. Esabel, Dr. Aldridge, Mr. Leborn, Mr. Moody, and Mr. Wolf. That means this item fails on second reading. annexing to the city of Cheyenne, Wyoming land, west of South Kley Highway, south of*
+- **Turn 111** (`03h06m27s-03h07m46s`) — *Hello. My name is Jim Sutter. I own two properties on York Avenue. Um I lived in one as I built the other. So, my gamble of building my home with a York address, but my view to the south um where there used to be a barn *
+- **Turn 112** (`03h07m52s-03h08m08s`) — *Some it's what you've done is uh flat so it's not dimensional. Um it has my house is quite elevated right there. So it would look over any trees or your little landscape um embankment. And*
+- **Turn 113** (`03h08m11s-03h08m40s`) — *Really tall trees. Um but also if if you're out doing nothing sometime um cruise down York at dark uh you won't be able to find my address. That's I when it was first built u I actually set my bright lights to I thought *
+- **Turn 114** (`03h08m47s-03h11m54s`) — *Heather Madrid Ward one. This one I'm going to try to keep it together. Um, you need This is a quarter mile from my house. Meta is already there. They're horrible neighbors. Horrible. You need to start listening to your *
+- **Turn 115** (`03h11m58s-03h15m46s`) — *Thank you, SM. Uh, thank you, Miss Madrid. you. Would you say that your neighbors also are deemingly opposed to it and they're not coming here because they feel like their voices are not being heard? Yeah, people have gi*
+- **Turn 116** (`03h16m00s-03h17m07s`) — *in general about all of these annexations and resonings is they're just happening so quickly like the speed of light. Um, and I guess now according to Mr. White to have any sort of protections, they have to be legal now.*
+- **Turn 117** (`03h17m09s-03h19m40s`) — *Mr. White, welcome back. I'm familiar with the area they're talking about. My son lives there and I'm familiar with that light down York Street because when I go down York Street, there's a light straight ahead facing to*
+- **Turn 118** (`03h19m50s-03h25m37s`) — *Good evening, Mayor and Council. Um through you. I'm Susan Gensel and my property line is on this property in question and I am all for the annexation. I know that we have to progress as a city and grow but how we do it *
+- **Turn 119** (`03h25m49s-03h28m38s`) — *I have Mr. Miller. Can you hear me? Mr. Miller. Charles Miller, for the record. I'm here to formally lock in the statutory framework for judicial review of this item under WS163114CI. purpose determining whether the mand*
+- **Turn 120** (`03h28m41s-03h28m47s`) — *Orlando Flores. You can unmute yourself. [Mr. Flores, welcome.] Hello. Can you guys hear me?*
+- **Turn 121** (`03h29m51s-03h29m59s`) — *Mr. Mayor, the recommendation of the public services uh committee is to approve on second reading and I so move.*
+- **Turn 122** (`03h30m07s-03h30m22s`) — *Mr. Mayor, through you. From what I've been told about the light that is happening at Meta during the construction is significantly more than what's going to be there after they're in operations. Is that correct?*
+- **Turn 123** (`03h30m37s-03h31m32s`) — *Thanks, Mayor Collins. you're reading my mind. Um, I am going to uh be a yes vote for this this evening. And I have uh spent quite a bit of time in that neighborhood. I spent 15 years, in fact, well, 10 of the 15 years t*
+- **Turn 124** (`03h32m45s-03h35m09s`) — *Uh Mr. Mayor, thank you through you. Um I've I've already given my one long lecture, so I won't uh prolong this. Um, unofferably opposed to data centers. Uh, I voted for the Reed zoning change, uh, which is the property *
+- **Turn 125** (`03h35m15s-03h36m25s`) — *Thank you, Mr. Mayor. Um I want to agree with my esteemed councilman um Wolf. Um when I first was uh confronted with this my um initial idea was this is not a good idea because I also don't believe that data centers belo*
+- **Turn 126** (`03h36m28s-03h38m19s`) — *Um thank you Mr. Mayor through you. Uh kind of sharing my uh Dr. Emmens uh thoughts. I I too have attended two of the community uh meetings that uh the developer has held. I found the discussion uh very direct um very co*
+- **Turn 127** (`03h38m25s-03h38m49s`) — *Yeah, Mr. Mayor, through you to Councilman Wolf and and Councilman White. Um, our meeting is Monday, October 5th, so a week from tonight at 700 p.m. um at LC and it's in room CIC130. Um, and we are having um Fred's barbe*
+- **Turn 128** (`03h45m14s-03h45m41s`) — *The uh annexation is approved on second reading with Mrs. Moody and Wolf voting. No. amending the official zoning map of the city of Cheyenne, establishing the zoning classification of AG Agricultural for Annex to the ci*
+- **Turn 129** (`03h46m29s-03h48m57s`) — *Um, Mayor Collins, members of the council, Charles Miller, for the record. Um, two corrections to my own record on item 13 before speech 14, so nobody else has to make them. The review statute for annexation is WS-151409*
+- **Turn 130** (`03h49m04s-03h49m09s`) — *Mr. Mayor, the recommendation of the public services committee is to approve on second reading, and I so move.*
+- **Turn 131** (`03h50m06s-03h55m20s`) — *Good evening, mayor, members of the council. Again, Jeff Nakushima with Traml Crow Company. Uh thank you for the opportunity tonight to speak regarding the Orchard Hills comprehensive plan amendment. We have reviewed the*
+- **Turn 132** (`03h55m50s-03h55m54s`) — *Okay. And if you weren't getting paid to tell us all this stuff, how would you feel if this was your backyard?*
+- **Turn 133** (`03h55m57s-03h56m36s`) — *Through you. How would he feel if this was in his neighborhood in his backyard pretending that they're protecting school districts and adding sidewalks? It's the handshake people. Just you're acting like they're better t*
+- **Turn 134** (`03h58m48s-03h58m56s`) — *I'm going to let Mr. Esel do the next one after this. Mr. Mayor, the recommendation of the public services committee is to approve on second reading and I so move.*
+- **Turn 135** (`03h59m07s-04h00m33s`) — *Mayor Collins. you. I just um you know in listening to uh the residents and thinking about this area, I'm looking at the um most recent copy of the commitment to the Cheyenne community that has been prepared by uh Traml *
+- **Turn 136** (`04h00m46s-04h01m09s`) — *Mrs. Moody and Wolf are nose. The zone changes approved on second reading. continuation of the optional 1% sales tax for calendar years 2027 through 2030 and pledging that all revenues derived from this tax will be used *
+- **Turn 137** (`04h01m31s-04h01m44s`) — *Mr. Mayor? Yes. Uh this is through you. This is uh Kathy. Uh the organization I work with is on that list. So I'm going to walk away conflict.*
+- **Turn 138** (`04h02m20s-04h02m27s`) — *All right. Hearing none. Mr. Esabel. A motion, please. Mr. Mayor, the recommendation of the finance committee is to adopt and I so move.*
+- **Turn 139** (`04h02m30s-04h03m08s`) — *Mr. Mayor, I move to amend by substitute dated September 22nd, 2026. [Second.] All right. That's been moved by Mr. Escoel, seconded by Mr. Moody. uh for the audience there was just uh a correction on some of the percenta*
+- **Turn 140** (`04h17m10s-04h18m19s`) — *mayor, members of of council, Charles Bloom, planning a development director. Um just want to really quickly give a high level overview. This is uh uh the the C the CCAP, which is the climate pollution, it was basically *
+- **Turn 141** (`04h23m25s-04h24m32s`) — *All right. Thank you, Mr. Mayor. Through you. Uh thank you, sir. Uh just for the public to know, where is your company based out of? What city and state? Uh Mr. Mayor, through you to to council member Moody, we are in De*
+- **Turn 142** (`04h24m33s-04h26m31s`) — *I can clarify. Um, just can you name me did this for the public to know like three cities you done consulting for besides us? Mr. Mayor, through you. Uh, similar to this, we've done Albuquerque, uh, New Mexico. Um, we ha*
+- **Turn 143** (`04h26m38s-04h28m24s`) — *Thank you, Mr. R through you uh to Council Member Wolf. Um maybe I'll give a I'll try to keep this brief. Uh in terms of my background, I grew up in in Nebraska. We have a family ranch in western Nebraska. I've seen all *
+- **Turn 144** (`04h29m37s-04h29m40s`) — *They did. Um, so I have Councilman White can go ahead.*
+- **Turn 145** (`04h29m43s-04h30m39s`) — *Thank you, Mr. Mayor, through you. And I don't know uh who can answer this question, either uh the gentleman at the podium or maybe Charles. If if the program and Charles I think you said this in in the introduction, if *
+- **Turn 146** (`04h30m46s-04h31m14s`) — *Thank you, Mr. Mayor, I'm just curious from Councilman Moody. As someone who works in Weld County every day, do you have a concern about this contractor? projects they do in Wel County where you work and she was wonderin*
+- **Turn 147** (`04h31m23s-04h31m53s`) — *Mr. Mayor, sorry I couldn't get off the unmute button. [I love that.] I just wanted I know I just wanted to echo what um my colleague from war 2 said in regard to establishing a baseline. I do think it's important to hav*
+- **Turn 148** (`04h31m55s-04h32m26s`) — *Yes, Mr. Mayor. I I did um want to address uh how this can be used for additional funding. One one great example here in the state of Wyoming, the home energy efficiency rebate program that the state is continuing to con*
+- **Turn 149** (`04h34m08s-04h34m16s`) — *uh perforations in roofs and incre increased costs of roof roof replacements increase insurance premiums.*
+- **Turn 150** (`04h34m18s-04h35m07s`) — *Well, it's a I put out some marketing emails then because that'd be uh greatly appreciated to a lot of the people that I work with. Uh the other concern I had there was uh the encouraged uh reduction in combustion engine*
+- **Turn 151** (`04h35m15s-04h35m18s`) — *Alan Sheldon, you can go ahead.*
+- **Turn 152** (`04h35m26s-04h36m30s`) — *Yeah, so I just like to speak on this one. I'm glad you guys brought it off consent agenda. Um, I find the interest uh the idea this climate action plan a little confusing. For many months, we've spoken about almost noth*
+- **Turn 153** (`04h36m52s-04h39m45s`) — *Oh, okay. Um, Mayor Collins, members of the council, Charles Miller, for the record, I'm here to formally lock in the statutory framework for judicial review of this item under WS-151103 and 163114CI. asked to adopt the *
+- **Turn 154** (`04h39m50s-04h39m54s`) — *Mr. Mayor, the recommendation of the public services committee is to adopt an ISO move.*
+- **Turn 155** (`04h39m58s-04h40m00s`) — *Don't you want to know how I want to amend it first?*
+- **Turn 156** (`04h40m05s-04h40m39s`) — *I would like to amend this uh to uh read that I've got it written here. Um that the governing body uh hereby acknowledges receipt of prospering together Laramie Countyy's path to a sustainable future comprehensive climat*
+- **Turn 157** (`04h41m20s-04h41m52s`) — *Uh as uh multiple people of the council here have uh stated, there's some concerns there over the actual even existence of this program and these federal grants. And then it also lends us to be uh subject to any politica*
+- **Turn 158** (`04h42m11s-04h43m05s`) — *Okay. Thank you. Uh members of council Charles Miller, for the record, this sudden floor amendment reading that the governing body hereby acknowledges receipt of the comprehensive climate action plan is a stunning explic*
+- **Turn 159** (`04h43m08s-04h44m21s`) — *Yeah. Uh, accepting this report tonight, even under the cowardly guise of a receipt, you are formally embedding a fraudulent data model into the city's archives that pretends to track a 41% emissions reduction while comp*
+- **Turn 160** (`04h44m42s-04h44m58s`) — *Uh to the sponsor, uh what can you just uh tell us exactly where uh in the resolution which words we're changing again? Exactly. We're changing from adopt to acknowledge receipt. Okay. And that's at the top.*
+- **Turn 161** (`04h45m11s-04h45m31s`) — *Mr. Mayor. Thank you. Through you. I I guess a question to maybe to Mr. Bloom. I mean, do we have any legal requirements having accepted this grant and and um and used the proceeds of it uh that would be affected by such*
+- **Turn 162** (`04h45m35s-04h46m43s`) — *Mayor, members of council, Council Member Wolf. Um, under the grant, we'd have to ask the EPA administrator if there is a requirement that is formally adopted or if this would suffice. Um, so that is some a question that*
+- **Turn 163** (`04h46m45s-04h51m46s`) — *Mr. Miss, I got Dr. Aldridge. I'll come to you, Dr. Rainey. Mayor, I would like to explain the reason for my desire to acknowledge a receipt rather than to adopt this report. Um, if you look at page 21, it talks about um*
+- **Turn 164** (`04h57m15s-04h58m13s`) — *Dr. I would just like to um say that I think words are important and I think when you say that you're adopting something that that means your intention is to put that into effect and I'm not saying that there aren't some*
+- **Turn 165** (`04h58m17s-04h59m06s`) — *Uh Mr. I'd like to ask our staff or our consultant is there if if we do adopt it, is there anything in here that my assumption is I guess I kind of agree with both sides. I think I do think there are some things that may*
+- **Turn 166** (`04h59m08s-04h59m57s`) — *Mr. Mayor, I I believe I did and I I will try to answer that. Um the the requirements of this grant were to identify emissions reduction strategies and and I I understand that not all of these are things that are perfect*
+- **Turn 167** (`05h00m44s-05h03m07s`) — *Thank you, Mr. Mayor. Um I wanted to point out exactly what uh Mr. Brody just pointed out is that we clearly say this is not a binding agreement that we're going to do everything in it. Second of all, we just spent I don*
+- **Turn 168** (`05h04m20s-05h04m33s`) — *I would move to amend um and I'm sorry I don't have the [clears throat] document directly in front of me but may be used as a planning document. Can we put may be used in there? Okay.*
+- **Turn 169** (`05h07m33s-05h08m09s`) — *Excu Excuse me, Mr. Mayor. Did you say Dr. and Mr. Moody voted no. [I did.] Okay. Thank you. amending the future land use map of plan Cheyenne by changing the land use designation from agricultural rural open space and p*
+- **Turn 170** (`05h08m30s-05h08m40s`) — *Mr. Mayor, the recommendation of the public services committee is to adopt and I so move. Mr. Mr. Mayor, I move to postpone until the October 12th, 2026 meeting of the governing body.*
+- **Turn 171** (`05h10m47s-05h12m25s`) — *Well, I I would venture to say that uh a resolution read from the floor is not a rational planning bridge. It is a political shortcut designed to force an industrial footprint toward us on forward on specul speculation a*
+- **Turn 172** (`05h12m31s-05h12m35s`) — *Mr. Mr. Mayor, the recommendation of the public services committee is to adopt and I so move.*
+- **Turn 173** (`05h15m26s-05h15m46s`) — *I do have Councilman White with his hand raised. [Mr. White.] Mr. Mayor Tru, uh, some cl point of clarification from Mr. Brody. Mr. Brody, is there anything in state statute or anywhere else that precludes uh, this gover*
+- **Turn 174** (`05h17m24s-05h17m53s`) — *Mr. Moody and Mr. Wolf are nos. The uh resolution is adopted. future land use map of plan Cheyenne, changing the land use designation from mixed youth residential to mixeduse employment for property generally located wes*
+- **Turn 175** (`05h18m01s-05h18m10s`) — *Mr. Mr. Mayor, the recommendation of the public services committee is to adopt and I so move. [Second.] Mr. Mayor, I move to postpone until the October 12th, 2026 meeting of the governing body.*
+- **Turn 176** (`05h18m23s-05h18m26s`) — *Mr. Miller, you can go ahead.*
+- **Turn 177** (`05h18m54s-05h19m16s`) — *Those opposed, the resolution is postponed for two weeks. Next item is number 23, resolution amending the future land use map of plan Cheyenne, changing the land use designation from urban transition residential to mixed*
+- **Turn 178** (`05h19m31s-05h19m35s`) — *Mr. Mayor, the recommendation of the public services committee is to adopt and I so move.*
+- **Turn 179** (`05h19m57s-05h20m09s`) — *Next item is number 29 C on page five. Lease agreement between the city of Cheyenne and the Cheyenne Depot Museum, Inc. for the operation and use of the depot building.*
+- **Turn 180** (`05h20m17s-05h20m26s`) — *Thank you, Mr. Mayor. Uh due to the nature of my wife's position with the Cheyen Depot Museum, I will be rec recusing myself from this item.*
+- **Turn 181** (`05h20m41s-05h20m52s`) — *Mr. Miller, you can go ahead. [Can you hear me?] Yes, Mr. Miller, we can hear you. Oh, maybe you could give me a couple more seconds uh next time if you can't.*
+- **Turn 182** (`05h20m57s-05h23m21s`) — *Mayor Collins, members of council, Charles Miller, for the record, I'm here to formally lock in the statutory framework for judicial review of this municipal property disposition under, excuse me, WS-151 [clears throat] *
+- **Turn 183** (`05h23m27s-05h23m31s`) — *Mr. Mayor, the recommendation of the finance committee is to approve and I so move.*
+- **Turn 184** (`05h23m39s-05h24m07s`) — *U Mayor Collins. I am just curious if um and I don't know if we have any if Christy stayed up this late or not, but um I'm wondering about in the lease agreement, it talks about income from rental um of the different off*
+- **Turn 185** (`05h24m12s-05h24m13s`) — *Of course. Can you hear me?*
+- **Turn 186** (`05h24m17s-05h24m56s`) — *Yes. Uh, mayor, through you, uh, to Dr. Aldridge. Uh, the percentages for each um, they vary through by year by year. Um, right now, our percentage for the gift shopping museum is the higher percentage. is about 50 to it*
+- **Turn 187** (`05h25m01s-05h25m03s`) — *Uh beer sales about 20%.*
+- **Turn 188** (`05h25m12s-05h25m40s`) — *Uh thank you, Mr. Mayor. Threw you. And uh just for the public to know said at the finance committee, this is a better agreement than the previous one. as somebody that actually uh supports the mu uh museum, donates ever*
+- **Turn 189** (`05h25m52s-05h26m05s`) — *Next item is number 38 on page six. Consideration to purchase between the city of Cheyenne and LN Curtis and Suns, Inc. for the purchase of 90 sets of firefighting turnout gear for Cheyenne Fire Rescue.*
+- **Turn 190** (`05h26m35s-05h26m48s`) — *Mayor Collins, members of council, Charles Miller, for the record, I'm rising to speak independently to item 3A, the accounts. Uh, I'm [clears throat] sorry, this is 30 3A. Is that correct? Yes.*
+- **Turn 191** (`05h27m07s-05h27m16s`) — *Mr. Mayor, the recommendation of the finance committee is to approve an amount not to exceed $331,49160.*
+- **Turn 192** (`05h27m23s-05h27m29s`) — *Mr. Mayor, I move to amend by substitute quoted date September 18th, 2026.*
+- **Turn 193** (`05h27m42s-05h28m42s`) — *Yes, sir. Uh Mr. Mayor, council, thank you for letting me speak tonight. I appreciate your time. I'll be very brief. So, what the substitute does, we tried some new gear, a new model of gear. Unfortunately, when we got i*
+- **Turn 194** (`05h29m26s-05h29m33s`) — *Next item is 31A on page seven. Reappoint of Kristen Lee to the Cheyenne Housing Authority.*
+- **Turn 195** (`05h29m56s-05h30m08s`) — *Those opposed, we'll appreciate her reappoint. Thank you. 31B appointments of Matthew Hurt, Jessica Knifler, and Richard Brown Jr. to the mayor's council for people with disabilities.*
+- **Turn 196** (`05h31m16s-05h31m54s`) — *31E. announcement of a public hearing to be held October 12th, 2026 at 6:00 p.m. and city council chambers 21101 O'Neal Avenue Shan Wyoming and via electronic conference meeting to determine whether compliance of annexat*
+- **Turn 197** (`05h32m44s-05h33m08s`) — *Uh Mr. Mayor through you. Uh, two things. I wanted to just put it on the record that um I was not at the meeting this evening because I've not been cleared yet after surgery to come back to city council, especially the m*
+- **Turn 198** (`05h33m11s-05h33m35s`) — *Thank you. Secondly, I just wanted to um let everyone know that the Larmy County Community College Board of Trustees voted unanimously um to change the name of the college to Wyoming State College, which will go into eff*
+- **Turn 199** (`05h33m37s-05h34m33s`) — *Yes, ma'am. and Councilman White. just wanted on the record that the reason I didn't show up tonight is that uh my employer uh asked me to attend a conference uh in Phoenix uh which is where I'm at right now uh in my hot*
+- **Turn 200** (`05h34m43s-05h35m02s`) — *Mayor Collins for you. I just wanted to uh say that after a public article in the newspaper this last week about one of our neighboring communities and the paint job that they had of their striping downtown that I really*
+- **Turn 201** (`05h35m09s-05h35m57s`) — *Thank you, Mr. Mayor. I'll make this real quick. I just want to give a shout out to the uh uh transfer station for when we had our free dump day. Very professional, you know, showed me around, you know, really were helpi*
+
+### `Speaker_04_Voice_Cluster_04` (24 turns)
+- **Turn 01** (`00h30m22s-00h30m26s`) — *um it's I 80 and*
+- **Turn 02** (`00h53m41s-00h53m43s`) — *Mr. Secret.*
+- **Turn 03** (`01h06m02s-01h06m08s`) — *Just the question she asked about the planning committee and you guys overruled it. Is that a fact?*
+- **Turn 04** (`01h15m45s-01h15m51s`) — *Hello. Can you hear me? [Yes.] Oh, you can hear me?*
+- **Turn 05** (`01h15m52s-01h16m18s`) — *Oh, thank heavens. Okay. Sorry. I thought I almost got uh pushed aside there. Um, just one moment. Uh, Charles Miller for the record. this, Mr. Mayor. Uh, but I'm*
+- **Turn 06** (`01h48m23s-01h48m25s`) — *I. Those opposed.*
+- **Turn 07** (`02h01m58s-02h02m00s`) — *Yes, Dr. Aldrich.*
+- **Turn 08** (`02h20m35s-02h21m01s`) — *Please. just and noise are not just conducive to data centers. It's for any business property that is put into use there. Thank you for your time. I appreciate it.*
+- **Turn 09** (`02h24m22s-02h24m27s`) — *I don't know if it is or not. My name is Linda Doyle.*
+- **Turn 10** (`02h43m18s-02h43m23s`) — *I knew what he meant. [Yes, we will have to vote tonight.] I knew what he meant. Yeah. Okay. Thank you.*
+- **Turn 11** (`02h43m42s-02h43m43s`) — *Can you hear me?*
+- **Turn 12** (`03h49m26s-03h49m27s`) — *I. I. I.*
+- **Turn 13** (`03h56m36s-03h58m48s`) — *Sir, welcome the border of this property and uh from what Traml Crow has promised and their um far as what they're going to help us with. And by by that I mean what they're going to keep from uh from happening that Meta *
+- **Turn 14** (`04h00m43s-04h00m44s`) — *I. I.*
+- **Turn 15** (`04h03m20s-04h03m23s`) — *I. Those opposed.*
+- **Turn 16** (`04h03m58s-04h04m00s`) — *I. I. [Those opposed?] I.*
+- **Turn 17** (`04h05m19s-04h05m21s`) — *I. Those opposed.*
+- **Turn 18** (`04h42m04s-04h42m11s`) — *You got it. Um, Mayor Collins, members of council. Mr. Miller, are you going to call me? I I will call you.*
+- **Turn 19** (`05h07m02s-05h07m03s`) — *I. I.*
+- **Turn 20** (`05h08m52s-05h08m54s`) — *I. [Those opposed?] I.*
+- **Turn 21** (`05h09m37s-05h09m38s`) — *Can you hear me?*
+- **Turn 22** (`05h25m09s-05h25m11s`) — *You're welcome, Mr. Mayor.*
+- **Turn 23** (`05h29m20s-05h29m22s`) — *I. I. I.*
+- **Turn 24** (`05h30m28s-05h30m30s`) — *I. I. I*
+
+### `Speaker_05_Voice_Cluster_02` (9 turns)
+- **Turn 01** (`00h19m35s-00h20m20s`) — *Hi. I don't know if you can hear me. Okay, I'm back again. Donna Frostto, Ward One. [Say your name again, please.] Donna Frostto, Ward One. Um, I'm always against annexations just to pump the brakes and see what it does *
+- **Turn 02** (`00h30m26s-00h30m36s`) — *Yeah. Okay. or is that all city water? [clears throat]*
+- **Turn 03** (`02h49m09s-02h49m15s`) — *Sir, Mr. Mayor, I have a question for staff. Please ask it.*
+- **Turn 04** (`03h28m47s-03h28m49s`) — *We can hear you, Greg, sir.*
+- **Turn 05** (`03h30m33s-03h30m37s`) — *Dr. Aldridge, I know you want to talk.*
+- **Turn 06** (`03h55m43s-03h55m47s`) — *Question for the developer. Where do you live?*
+- **Turn 07** (`04h30m41s-04h30m43s`) — *Yes.*
+- **Turn 08** (`04h34m16s-04h34m18s`) — *Not true with my company.*
+- **Turn 09** (`05h26m32s-05h26m35s`) — *In the nick of time, sir.*
+
+### `Speaker_06_Meeting_Clerk` (5 turns)
+- **Turn 01** (`00h04m56s-00h04m58s`) — *Number 18, please.*
+- **Turn 02** (`00h05m06s-00h05m08s`) — *Number 23.*
+- **Turn 03** (`03h49m35s-03h49m51s`) — *Number 15. Ordinance, second reading, amending the official zoning map of the city of Diane. Changing the zoning classification for land located west of South Gley Highway south of West College Drive and southwest of and*
+- **Turn 04** (`04h16m47s-04h16m57s`) — *Number 18, resolution adopting a comprehensive climate action plan in accordance with the Environmental Protection AY's climate pollution reduction planning grant awarded to the city.*
+- **Turn 05** (`05h08m58s-05h09m09s`) — *Number 20. Resolution overruling the planning commission's denial of PUDC-26-176, a future land use map amendment for mixeduse residential to mixeduse employment.*
+
+### `Speaker_07_Voice_Cluster_10` (8 turns)
+- **Turn 01** (`00h13m32s-00h15m26s`) — *Okay, you probably I know you I know. Just identify yourself real quick. Okay. Brian Pixley. [Thank you, Brian. Welcome back.] I know I've been here millions and millions of times. So, you know, I live off of Happy Jack *
+- **Turn 02** (`00h57m37s-00h57m39s`) — *Madam Clerk, would you take the vote?*
+- **Turn 03** (`01h45m29s-01h45m30s`) — *Mr. [snorts] Mayor,*
+- **Turn 04** (`02h42m18s-02h42m19s`) — *Thank you for allowing me to speak.*
+- **Turn 05** (`03h19m40s-03h19m41s`) — *Point well taken.*
+- **Turn 06** (`03h38m55s-03h38m58s`) — *All right. Anybody else in the governor body? Mr. Leborn.*
+- **Turn 07** (`05h30m14s-05h30m16s`) — *I would move to approve.*
+- **Turn 08** (`05h35m02s-05h35m04s`) — *That was a pretty brutal picture.*
+
+### `Speaker_08_Meeting_Chair` (28 turns)
+- **Turn 01** (`00h05m08s-00h05m34s`) — *Concur. uh future land use plan and we've got to we've got to pass the annexation before that can go through and so it can't be on the consent agenda. Anybody else? Hearing none, I would entertain a motion. [Move.] Secon*
+- **Turn 02** (`00h59m15s-00h59m26s`) — *Yes. final reading with Mr. Wolf and Mr. Moody voting no. Next item, please.*
+- **Turn 03** (`01h34m45s-01h34m50s`) — *All right, we have a motion and a second. Um Mr. Labour.*
+- **Turn 04** (`01h40m11s-01h40m20s`) — *Thank you. All right. We have a motion and a second to change the zone from agricultural to business park. Is there last comments?*
+- **Turn 05** (`01h48m19s-01h48m23s`) — *All right, we have a motion and a second. All those in favor, please signify by saying I.*
+- **Turn 06** (`01h49m08s-01h49m44s`) — *Jennifer, yourself. Anybody else? All right, Dr. Aldrich, may we have a motion, please?*
+- **Turn 07** (`01h49m50s-01h49m59s`) — *Seconded by Mr. Crave. Comments from members of the governing body establishing the zone districts of AG and LII. Hearing none, all those in favor, please signify by saying I.*
+- **Turn 08** (`01h51m19s-01h51m23s`) — *All right, hearing none. All those in favor, please signify by saying I.*
+- **Turn 09** (`03h04m16s-03h04m34s`) — *All right. Anybody online? All right, we have a motion and a second to amend the zoning from AG to Business Park. All those in favor, please signify by saying I.*
+- **Turn 10** (`03h38m58s-03h45m10s`) — *Thank you, Mr. Mayor. Well, we've sure come a long way with our understanding of annexation and the conditions that uh should be met here. Um I remember [clears throat] a few months ago we didn't uh really understand it *
+- **Turn 11** (`03h48m57s-03h49m04s`) — *Anybody else? Jennifer, anybody else in the audience? All right, hearing none. Dr. Aldrich, may we have a motion, please?*
+- **Turn 12** (`03h49m21s-03h49m26s`) — *All right. Hearing none, all those in favor of the zone, establishment of the zone, please signify by saying I.*
+- **Turn 13** (`04h03m09s-04h03m20s`) — *Just wanted to make sure. Thank you. Yes, ma'am. Thank you. All right, hearing none. How about from the governing body on the substitute dated 922? Hearing none. All those in favor, please signify by saying I.*
+- **Turn 14** (`04h03m25s-04h03m58s`) — *Mr. Mayor, I move to amend to additionally correct the percentage for the community recreation and events department parking lot maintenance item on page three to read 1.75%. had it on there as 0175, which is numerically*
+- **Turn 15** (`04h04m37s-04h05m19s`) — *uh just Mr. Mayor, um through you, um I just want to commend the people, you know, in your department and your office who've worked on this. I wish every voter would would read this and see how critical to this city the *
+- **Turn 16** (`04h40m39s-04h40m51s`) — *Not a problem. Mr. Wolf was the uh was the second on that. And now we have a motion to um to amend to acknowledge receipt. Is there a second to that?*
+- **Turn 17** (`05h03m07s-05h03m20s`) — *Okay. We have an amendment to uh change um adopt to acknowledge receipt. Is there any last minute comments? All right. I hear none. All those in favor of the amendment, please signify by saying I.*
+- **Turn 18** (`05h04m55s-05h05m09s`) — *Okay. So, we have a motion by Dr. Aldridge, seconded by was it Mr. Moody to change that this may be used as our planning document. Is that Mr. Brody? Correct.*
+- **Turn 19** (`05h05m40s-05h07m02s`) — *All right. Collins, members of council, Charles Miller, for the record, the this latest floor amendment stating that the comprehensive climate action plan may be used as a planning document is a semantic shell game. It i*
+- **Turn 20** (`05h07m21s-05h07m24s`) — *Hearing none. All those in favor, please signify by saying I.*
+- **Turn 21** (`05h08m49s-05h08m52s`) — *Hearing none. All those in favor, please signify by saying I.*
+- **Turn 22** (`05h17m15s-05h17m21s`) — *All right, the motion is to overturn the planning commission. All those in favor, please signify by saying I.*
+- **Turn 23** (`05h25m44s-05h25m47s`) — *Hearing none. All those in favor, please signify by saying I.*
+- **Turn 24** (`05h28m43s-05h29m05s`) — *All right. Thank you so much. All right. Um, anybody in the audience want to speak to um the amended quote for um the the right gear, I guess, is what I'm looking for that our department wants to make sure we get. How ab*
+- **Turn 25** (`05h29m07s-05h29m20s`) — *Those opposed? All right, we have uh adopted that amendment and we're now back on the main motion. Comments from members of the governing body. All right, hearing none. All those in favor, please signify by saying I.*
+- **Turn 26** (`05h29m44s-05h29m54s`) — *Moved by Mr. Crave, second by Dr. Aldridge. Uh all those in favor of the appointment of Kristen Lee to the housing uh Shine Housing Authority, please signify by saying I.*
+- **Turn 27** (`05h30m16s-05h30m28s`) — *It's been moved by Dr. Aldrich, seconded by Mr. Crave to uh appoint uh Matthew Hurt, Jessica, and Richard to the Mayor's Council for People with Disabilities. All those in favor, please signify by saying I.*
+- **Turn 28** (`05h30m53s-05h31m16s`) — *Mr. Miller, you can go ahead. Anybody else in the governing body want to speak to the revenue? All right. Hearing the next item, please.*
+
+### `Speaker_09_Voice_Cluster_03` (11 turns)
+- **Turn 01** (`00h17m35s-00h17m37s`) — *Will you identify yourself?*
+- **Turn 02** (`01h55m19s-01h55m21s`) — *Dr. Aldrich. Hang on, Mark just for a second.*
+- **Turn 03** (`02h01m15s-02h01m18s`) — *Dr. Alders, did you get your did you get your question? Yes, sir. Thank you.*
+- **Turn 04** (`02h43m23s-02h43m26s`) — *Thank you. That came across different, didn't it? Thank you.*
+- **Turn 05** (`04h04m08s-04h04m10s`) — *Mr. Mayor, Mr. Craig,*
+- **Turn 06** (`04h35m21s-04h35m22s`) — *I'm pretty good. How about you?*
+- **Turn 07** (`04h36m50s-04h36m52s`) — *We can hear you.*
+- **Turn 08** (`04h40m51s-04h40m53s`) — *Seconded by Mr. Crave*
+- **Turn 09** (`05h24m13s-05h24m17s`) — *We can hear you. Great. Thank you so much. Did you hear the question, ma'am?*
+- **Turn 10** (`05h24m56s-05h25m01s`) — *Thank you. in beer sales.*
+- **Turn 11** (`05h35m04s-05h35m09s`) — *That was a quick Thank you. Anybody else? [Real quick,] Mr. Moody.*
+
+### `Speaker_10_Mity_Jones` (1 turns)
+- **Turn 01** (`00h25m46s-00h25m49s`) — *Hi, my name is Mity Jones and I live in Happy Valley.*
+
+### `Speaker_11_Voice_Cluster_08` (29 turns)
+- **Turn 01** (`00h53m43s-00h55m47s`) — *Well, after getting lectured um by Councilman Wolf, I find it ironic that he's been on council 10 months. He says, "We have no ordinances. We're undermining statutory criteria. We don't have any traffic uh requirements."*
+- **Turn 02** (`01h29m44s-01h34m20s`) — *Mr. Mayor, last week there was a short letter to the editor that summarizes my feelings on this issue. And if you'll allow me, it'll take about two minutes to read it, but I think it's it's pretty important. It was writt*
+- **Turn 03** (`01h34m22s-01h34m45s`) — *sorry, I I'm not familiar with I don't know. But I thought that pretty well summed up my thoughts on the issue. And u to me, this is this makes logical sense. It's it's next to the existing uh business park. Um the utili*
+- **Turn 04** (`01h47m27s-01h48m15s`) — *very briefly, thank you. I I agree with my colleagues. Um, of all the projects that I've seen in my years on the council, uh, this one perhaps is the most exciting. Um, just the change, the variety. Um, I also, Mr. Escob*
+- **Turn 05** (`01h53m27s-01h54m05s`) — *Thank you. Uh Mr. Cra through you Mr. Mayor Mr. Christensen looking at the map with the transmission lines the uh gas line and the proposed u bopu easement. use that could be put here? In other words, could you build und*
+- **Turn 06** (`02h01m31s-02h01m44s`) — *So you've you've had [clears throat] excuse me, pardon me. You've had plans to develop this as part of the as a part of the business community rather than a residential or some other type of development. Is that*
+- **Turn 07** (`02h06m08s-02h06m35s`) — *Thank you for being here. Certainly, the property owner has a right to develop their property. Um, if it's not developed commercially, uh, we just heard testimony that it's not appropriate for residential because of the *
+- **Turn 08** (`02h21m13s-02h21m16s`) — *And I am just as concerned as everyone else.*
+- **Turn 09** (`02h21m26s-02h24m18s`) — *Um, Mr. Mayor and Council through you. Uh to me the current zoning allows plenty of commercial development. The only reason I can see for wanting it to be business park is for a data center. And I know [clears throat] th*
+- **Turn 10** (`02h32m14s-02h32m16s`) — *I would I would pass this*
+- **Turn 11** (`02h38m21s-02h38m23s`) — *It's Mr. White, isn't it?*
+- **Turn 12** (`02h46m20s-02h46m30s`) — *is it possible to give some clarification on notification um what the requirements are and why some folks may or may not have gotten notice.*
+- **Turn 13** (`02h55m25s-02h55m43s`) — *Yeah. Um Mr. Mayor John Brody, city attorney, that is my understanding. What I I guess I would just caveat that with I'd prefer to um dig into that a little more so that you're more thoroughly informed as to the ramifica*
+- **Turn 14** (`02h57m58s-02h58m48s`) — *Yeah. Thank you, Mr. Mayor. I think I think my colleagues have pretty much said everything I wanted to say. Um, I am going to support this tonight because I want the citizen to have an opportunity to answer the questions*
+- **Turn 15** (`03h07m50s-03h07m52s`) — *Does that help some of that?*
+- **Turn 16** (`03h31m34s-03h32m43s`) — *I do, Mr. Mayor. Speaking in favor of the annexation, I'd [clears throat] like to although we just heard it, I'd like to once again get it on the record. I believe the annexation would improve the health, safety, and wel*
+- **Turn 17** (`03h45m11s-03h45m12s`) — *And those opposed?*
+- **Turn 18** (`04h00m44s-04h00m45s`) — *And those opposed?*
+- **Turn 19** (`04h04m10s-04h04m27s`) — *I just I want to make it clear. Um, a lot of folks understand that this tax is called the um road tax. [Yes, sir.] So, I just want to make sure everybody understands that that's what we're dealing with. I believe a large*
+- **Turn 20** (`04h05m27s-04h05m34s`) — *I apologize, but can we take a little recess? We've been going for about four hours, and uh I could use a recess.*
+- **Turn 21** (`04h28m54s-04h29m35s`) — *through you, Mr. Mayor. I'm I'm just thrilled with the current activity in our community that we do have this baseline. Um something we can look back on. Uh I think we heard tonight concerns from the community about part*
+- **Turn 22** (`04h59m59s-05h00m39s`) — *Um Mr. Mayor, John Brody, city attorney. I would just point out that in the second resolved uh statement that it it does explicitly state that adoption of the plan does not commit the city of Cheyenne to implement any of*
+- **Turn 23** (`05h03m21s-05h03m23s`) — *And those opposed?*
+- **Turn 24** (`05h03m51s-05h04m18s`) — *So, Mr. Mayor. Yes. Sorry to point this out again, but I just as the person that's going to have to stamp this, I just want to make sure I'm capturing the governing body's uh intent here. Um you're acknowledging receipt,*
+- **Turn 25** (`05h05m09s-05h05m11s`) — *From a drafting standpoint, I appreciate that. Yeah.*
+- **Turn 26** (`05h15m55s-05h16m13s`) — *Thank you. Um, for I guess I'm one of those W two members that just doesn't care to show up. But, um, for the public, my wife had a an appointment with a health specialist in Omaha this morning and I just got back into t*
+- **Turn 27** (`05h16m16s-05h17m13s`) — *So, anyway, um, in regard to overturning our planning commission, I mean, all of us have some of us have attended some of their meetings. I've attended some. I know there are two members of the planning commission and I'*
+- **Turn 28** (`05h17m22s-05h17m24s`) — *I. Those opposed.*
+- **Turn 29** (`05h25m47s-05h25m52s`) — *I. I. Those opposed. The lease agreement is approved.*
+
+### `Speaker_12_Voice_Cluster_07` (2 turns)
+- **Turn 01** (`02h32m40s-02h32m43s`) — *less expensive for humanitarian reasons.*
+- **Turn 02** (`04h18m29s-04h18m30s`) — *Absolutely. Little better.*
+
+### `Speaker_13_Voice_Cluster_09` (2 turns)
+- **Turn 01** (`00h58m57s-00h58m59s`) — *Mr. Crave,*
+- **Turn 02** (`04h39m54s-04h39m58s`) — *Mr. Mayor, I would like to move to amend.*
+
+### `Speaker_14_Mark_Christensen` (2 turns)
+- **Turn 01** (`01h41m30s-01h41m41s`) — *Honorable mayor, members of the council, my name is Mark Christensen. I am with AVI. I am filling in for Brad Evans this evening. Uh just wanted to let it be known that we are available for any questions and excited for *
+- **Turn 02** (`01h51m43s-01h53m27s`) — *All right, we have another owner uh requested zone change to go from agricultural to business park. We'll open it up to the audience. Um Mr. Christensen, welcome. council, my name is Mark Christensen. I am with AVIPC. Ag*
+
+### `Speaker_15_Orlando_Flores` (1 turns)
+- **Turn 01** (`03h28m49s-03h29m41s`) — *All right. So, my name is Orlando Flores. I'm 2404 Draper Road, right on the north side of where this all this is happening. So yeah, like I was I said the meeting before I have kids. I decided to move here from Colorado*
+
+### `Speaker_16_Tom_Herd` (1 turns)
+- **Turn 01** (`04h18m22s-04h18m26s`) — *Thank you. Uh Mr. Mayor, um members of council, my name is Tom Herd.*
+
+### `Speaker_17_Tom_Herod` (1 turns)
+- **Turn 01** (`04h18m30s-04h23m21s`) — *Much better. Uh my name is Tom Herod. I'm a managing director with Lotus Engineering and Sustainability. We were hired by the city to complete the requirements of the climate pollution reduction grant on behalf of the ci*
+
+### `Speaker_18_Ben_Rail` (1 turns)
+- **Turn 01** (`04h32m28s-04h34m08s`) — *All right. If there's nothing else, we'll go out to the audience and uh um see and I see our first person who's waited patiently for four hours uh to uh to be part of this. Thank you for being here and sitting through ou*
+
+### `Speaker_19_Charles_Miller` (1 turns)
+- **Turn 01** (`05h09m40s-05h10m35s`) — *Um, [clears throat] just for the record, this is Charles Miller for the record. Uh, I had my hand raised on on the last item for the post moment. Uh but uh anywh who uh I am here to formally establish the statutory frame*
