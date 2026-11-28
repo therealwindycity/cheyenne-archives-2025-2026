@@ -1,0 +1,3432 @@
+[
+  {
+    "global_idx": 1,
+    "speaker": "Speaker_01_Voice_Cluster_01",
+    "speaker_turn": 1,
+    "start": 115.12,
+    "end": 117.19,
+    "hms": "00h01m55s-00h01m57s",
+    "file_name": "Speaker_01_Voice_Cluster_01_turn01_global001_00h01m55s-00h01m57s.mp4",
+    "text_preview": "hello to everyone?"
+  },
+  {
+    "global_idx": 2,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 1,
+    "start": 117.2,
+    "end": 123.35,
+    "hms": "00h01m57s-00h02m03s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn01_global002_00h01m57s-00h02m03s.mp4",
+    "text_preview": "Hello everyone."
+  },
+  {
+    "global_idx": 3,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 1,
+    "start": 157.28,
+    "end": 159.43,
+    "hms": "00h02m37s-00h02m39s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn01_global003_00h02m37s-00h02m39s.mp4",
+    "text_preview": "I can. Can you hear me?"
+  },
+  {
+    "global_idx": 4,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 2,
+    "start": 159.44,
+    "end": 194.07,
+    "hms": "00h02m39s-00h03m14s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn02_global004_00h02m39s-00h03m14s.mp4",
+    "text_preview": "Yes. Thank you. Thank you. Thanks for your patience as we work through some technical difficulties in the booth. But uh at this time, I'd like to call the September 14th meeting of the governing body to order and ask our"
+  },
+  {
+    "global_idx": 5,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 2,
+    "start": 194.08,
+    "end": 196.71,
+    "hms": "00h03m14s-00h03m17s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn02_global005_00h03m14s-00h03m17s.mp4",
+    "text_preview": "Dr. Aldrich present. Mayor Collins"
+  },
+  {
+    "global_idx": 6,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 1,
+    "start": 197.2,
+    "end": 199.43,
+    "hms": "00h03m17s-00h03m19s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn01_global006_00h03m17s-00h03m19s.mp4",
+    "text_preview": "Dr. Emmens"
+  },
+  {
+    "global_idx": 7,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 3,
+    "start": 200.24,
+    "end": 202.55,
+    "hms": "00h03m20s-00h03m23s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn03_global007_00h03m20s-00h03m23s.mp4",
+    "text_preview": "Mr. Esel [here.] Mr. Lebornne"
+  },
+  {
+    "global_idx": 8,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 3,
+    "start": 202.56,
+    "end": 204.39,
+    "hms": "00h03m23s-00h03m24s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn03_global008_00h03m23s-00h03m24s.mp4",
+    "text_preview": "here. [Mr. Moody] here."
+  },
+  {
+    "global_idx": 9,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 2,
+    "start": 204.4,
+    "end": 205.83,
+    "hms": "00h03m24s-00h03m26s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn02_global009_00h03m24s-00h03m26s.mp4",
+    "text_preview": "Dr. Renie."
+  },
+  {
+    "global_idx": 10,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 4,
+    "start": 205.84,
+    "end": 208.47,
+    "hms": "00h03m26s-00h03m28s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn04_global010_00h03m26s-00h03m28s.mp4",
+    "text_preview": "Mr. Crave [present.] Mr. White"
+  },
+  {
+    "global_idx": 11,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 5,
+    "start": 209.2,
+    "end": 263.67,
+    "hms": "00h03m29s-00h04m24s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn05_global011_00h03m29s-00h04m24s.mp4",
+    "text_preview": "One member is absent. We do have a quorum. Would you please join me in the pledge of allegiance? United States of America and to the republic for which it stands. One nation under God, indivisible, with liberty and justi"
+  },
+  {
+    "global_idx": 12,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 1,
+    "start": 263.68,
+    "end": 292.31,
+    "hms": "00h04m24s-00h04m52s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn01_global012_00h04m24s-00h04m52s.mp4",
+    "text_preview": "All right. Just uh a little point of information for people watching on Zoom tonight. Apparently our video is not working. Uh people can hear us. if they want to watch us, they have to go to YouTube. And I guess our YouT"
+  },
+  {
+    "global_idx": 13,
+    "speaker": "Speaker_08_Meeting_Clerk",
+    "speaker_turn": 1,
+    "start": 292.32,
+    "end": 295.19,
+    "hms": "00h04m52s-00h04m55s",
+    "file_name": "Speaker_08_Meeting_Clerk_turn01_global013_00h04m52s-00h04m55s.mp4",
+    "text_preview": "Number 18."
+  },
+  {
+    "global_idx": 14,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 4,
+    "start": 296.0,
+    "end": 297.75,
+    "hms": "00h04m56s-00h04m58s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn04_global014_00h04m56s-00h04m58s.mp4",
+    "text_preview": "Concur."
+  },
+  {
+    "global_idx": 15,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 2,
+    "start": 297.76,
+    "end": 301.27,
+    "hms": "00h04m58s-00h05m01s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn02_global015_00h04m58s-00h05m01s.mp4",
+    "text_preview": "Okay. Number 18 has been removed from the consent agenda"
+  },
+  {
+    "global_idx": 16,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 5,
+    "start": 302.08,
+    "end": 303.67,
+    "hms": "00h05m02s-00h05m04s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn05_global016_00h05m02s-00h05m04s.mp4",
+    "text_preview": "and"
+  },
+  {
+    "global_idx": 17,
+    "speaker": "Speaker_08_Meeting_Clerk",
+    "speaker_turn": 2,
+    "start": 303.68,
+    "end": 307.83,
+    "hms": "00h05m04s-00h05m08s",
+    "file_name": "Speaker_08_Meeting_Clerk_turn02_global017_00h05m04s-00h05m08s.mp4",
+    "text_preview": "number 26"
+  },
+  {
+    "global_idx": 18,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 6,
+    "start": 309.76,
+    "end": 313.19,
+    "hms": "00h05m10s-00h05m13s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn06_global018_00h05m10s-00h05m13s.mp4",
+    "text_preview": "D is in David E. Okay."
+  },
+  {
+    "global_idx": 19,
+    "speaker": "Speaker_10_Meeting_Chair",
+    "speaker_turn": 1,
+    "start": 313.92,
+    "end": 320.63,
+    "hms": "00h05m14s-00h05m21s",
+    "file_name": "Speaker_10_Meeting_Chair_turn01_global019_00h05m14s-00h05m21s.mp4",
+    "text_preview": "Concur. Hearing none, I would entertain a motion."
+  },
+  {
+    "global_idx": 20,
+    "speaker": "Speaker_10_Meeting_Chair",
+    "speaker_turn": 2,
+    "start": 322.0,
+    "end": 331.19,
+    "hms": "00h05m22s-00h05m31s",
+    "file_name": "Speaker_10_Meeting_Chair_turn02_global020_00h05m22s-00h05m31s.mp4",
+    "text_preview": "Been moved by Mr. Crave and seconded by Mr. White. All those in favor of the consent agenda with items 18 and 26D removed, please signify by saying I."
+  },
+  {
+    "global_idx": 21,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 3,
+    "start": 331.76,
+    "end": 341.11,
+    "hms": "00h05m32s-00h05m41s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn03_global021_00h05m32s-00h05m41s.mp4",
+    "text_preview": "Those opposed, the consent agenda is approved as amended with numbers 18 and 26D removed. They'll be taken in their normal sequence on the agenda."
+  },
+  {
+    "global_idx": 22,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 7,
+    "start": 341.12,
+    "end": 343.51,
+    "hms": "00h05m41s-00h05m44s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn07_global022_00h05m41s-00h05m44s.mp4",
+    "text_preview": "Mr. Mayor, Mr. Crave."
+  },
+  {
+    "global_idx": 23,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 6,
+    "start": 343.52,
+    "end": 359.67,
+    "hms": "00h05m44s-00h06m00s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn06_global023_00h05m44s-00h06m00s.mp4",
+    "text_preview": "I move to suspend the rules to change the order of the agenda to allow for the consideration of item 29A, appointment of Andrew Sickenberger to municipal court judge prior to item number 6A."
+  },
+  {
+    "global_idx": 24,
+    "speaker": "Speaker_10_Meeting_Chair",
+    "speaker_turn": 3,
+    "start": 359.68,
+    "end": 372.71,
+    "hms": "00h06m00s-00h06m13s",
+    "file_name": "Speaker_10_Meeting_Chair_turn03_global024_00h06m00s-00h06m13s.mp4",
+    "text_preview": "We have a motion and a second to change the order of the day to move item number 29A to um be the next item on our agenda. Um, all those in favor of that motion, please signify by saying I."
+  },
+  {
+    "global_idx": 25,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 4,
+    "start": 373.12,
+    "end": 379.75,
+    "hms": "00h06m13s-00h06m20s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn04_global025_00h06m13s-00h06m20s.mp4",
+    "text_preview": "Those opposed. All right, we'll move that item up. And madame clerk, if you would read that into the record, please."
+  },
+  {
+    "global_idx": 26,
+    "speaker": "Speaker_08_Meeting_Clerk",
+    "speaker_turn": 3,
+    "start": 379.76,
+    "end": 383.91,
+    "hms": "00h06m20s-00h06m24s",
+    "file_name": "Speaker_08_Meeting_Clerk_turn03_global026_00h06m20s-00h06m24s.mp4",
+    "text_preview": "Number 29A, appointment of Andrew Sickenberger to municipal court judge."
+  },
+  {
+    "global_idx": 27,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 7,
+    "start": 383.92,
+    "end": 392.95,
+    "hms": "00h06m24s-00h06m33s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn07_global027_00h06m24s-00h06m33s.mp4",
+    "text_preview": "Hang on a second. U Mr. Mayor, um, under Robert's rules of order, chapter 6, subsidiary motions, there is an option for limiting or extending limits of debate in"
+  },
+  {
+    "global_idx": 28,
+    "speaker": "Speaker_11_Voice_Cluster_06",
+    "speaker_turn": 1,
+    "start": 392.96,
+    "end": 394.79,
+    "hms": "00h06m33s-00h06m35s",
+    "file_name": "Speaker_11_Voice_Cluster_06_turn01_global028_00h06m33s-00h06m35s.mp4",
+    "text_preview": "Can we take that after we do this item, please?"
+  },
+  {
+    "global_idx": 29,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 8,
+    "start": 395.12,
+    "end": 408.15,
+    "hms": "00h06m35s-00h06m48s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn08_global029_00h06m35s-00h06m48s.mp4",
+    "text_preview": "I'd appreciate that. Thank you very much. Go ahead and read that for me, please. to municipal court judge."
+  },
+  {
+    "global_idx": 30,
+    "speaker": "Speaker_10_Meeting_Chair",
+    "speaker_turn": 4,
+    "start": 408.16,
+    "end": 428.87,
+    "hms": "00h06m48s-00h07m09s",
+    "file_name": "Speaker_10_Meeting_Chair_turn04_global030_00h06m48s-00h07m09s.mp4",
+    "text_preview": "All right. We uh had an opening for a municipal judge. Um we did interviews and uh one of our magistrates, Andrew Sikenberger, was the uh person selected by the committee to uh to make that selection. Uh I would entertai"
+  },
+  {
+    "global_idx": 31,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 5,
+    "start": 429.36,
+    "end": 435.99,
+    "hms": "00h07m09s-00h07m16s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn05_global031_00h07m09s-00h07m16s.mp4",
+    "text_preview": "second moved by Dr. Aljids, seconded by Mr. Crave. Uh comments on the appointment question."
+  },
+  {
+    "global_idx": 32,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 9,
+    "start": 436.96,
+    "end": 442.63,
+    "hms": "00h07m17s-00h07m23s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn09_global032_00h07m17s-00h07m23s.mp4",
+    "text_preview": "Thank Mr. Mayor through you. Just a couple questions. Um when was the gentleman admitted to the bar? What year?"
+  },
+  {
+    "global_idx": 33,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 6,
+    "start": 442.64,
+    "end": 456.55,
+    "hms": "00h07m23s-00h07m37s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn06_global033_00h07m23s-00h07m37s.mp4",
+    "text_preview": "Um Mr. Sikenberger, could you come forward and answer that question because quite frankly I don't remember. can you push that button and turn the microphone on? Thank you."
+  },
+  {
+    "global_idx": 34,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 10,
+    "start": 456.56,
+    "end": 462.63,
+    "hms": "00h07m37s-00h07m43s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn10_global034_00h07m37s-00h07m43s.mp4",
+    "text_preview": "Certainly, Mr. Mayor. Through you, Mr. Mayor, to Councilman Moody. I was admitted to the bar in September of 2021."
+  },
+  {
+    "global_idx": 35,
+    "speaker": "Speaker_09_Voice_Cluster_10",
+    "speaker_turn": 1,
+    "start": 462.64,
+    "end": 463.59,
+    "hms": "00h07m43s-00h07m44s",
+    "file_name": "Speaker_09_Voice_Cluster_10_turn01_global035_00h07m43s-00h07m44s.mp4",
+    "text_preview": "Okay. Follow, Mr. Mayor."
+  },
+  {
+    "global_idx": 36,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 11,
+    "start": 464.24,
+    "end": 537.43,
+    "hms": "00h07m44s-00h08m57s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn11_global036_00h07m44s-00h08m57s.mp4",
+    "text_preview": "Thank you, Mr. Mayor. Through you, and uh what is your prior experience? Mr. Mayor, through you a clarifying question uh to Councilman Moody, just generally with the law, sir. Uh experience in the courtroom, defense atto"
+  },
+  {
+    "global_idx": 37,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 7,
+    "start": 537.44,
+    "end": 541.35,
+    "hms": "00h08m57s-00h09m01s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn07_global037_00h08m57s-00h09m01s.mp4",
+    "text_preview": "And Mr. Mr. Kimberger, you are currently one of our magistrates working in the court."
+  },
+  {
+    "global_idx": 38,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 12,
+    "start": 541.36,
+    "end": 542.63,
+    "hms": "00h09m01s-00h09m03s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn12_global038_00h09m01s-00h09m03s.mp4",
+    "text_preview": "That is correct, Mr. Mayor."
+  },
+  {
+    "global_idx": 39,
+    "speaker": "Speaker_10_Meeting_Chair",
+    "speaker_turn": 5,
+    "start": 542.64,
+    "end": 550.23,
+    "hms": "00h09m03s-00h09m10s",
+    "file_name": "Speaker_10_Meeting_Chair_turn05_global039_00h09m03s-00h09m10s.mp4",
+    "text_preview": "Yeah. Thank you. Thank you. Any other questions? All right. Hearing none. All those in favor of the appointment, please signify by saying I."
+  },
+  {
+    "global_idx": 40,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 8,
+    "start": 550.96,
+    "end": 560.23,
+    "hms": "00h09m11s-00h09m20s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn08_global040_00h09m11s-00h09m20s.mp4",
+    "text_preview": "Those opposed? [No.] Okay. Mr. Moody is a no. The appointment is approved. And Madame Clerk, would you please swear the justice in?"
+  },
+  {
+    "global_idx": 41,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 8,
+    "start": 560.24,
+    "end": 571.19,
+    "hms": "00h09m20s-00h09m31s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn08_global041_00h09m20s-00h09m31s.mp4",
+    "text_preview": "Raise your right hand. Repeat after me. I state your name. [I, Andrew Sikenberger,] do solemnly swear. do solemnly swear that I will support the Constitution and laws of the United States"
+  },
+  {
+    "global_idx": 42,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 13,
+    "start": 571.2,
+    "end": 574.23,
+    "hms": "00h09m31s-00h09m34s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn13_global042_00h09m31s-00h09m34s.mp4",
+    "text_preview": "that I will support the Constitution and laws of the United States"
+  },
+  {
+    "global_idx": 43,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 9,
+    "start": 574.24,
+    "end": 576.95,
+    "hms": "00h09m34s-00h09m37s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn09_global043_00h09m34s-00h09m37s.mp4",
+    "text_preview": "the Constitution and laws of the state of Wyoming"
+  },
+  {
+    "global_idx": 44,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 14,
+    "start": 576.96,
+    "end": 579.51,
+    "hms": "00h09m37s-00h09m40s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn14_global044_00h09m37s-00h09m40s.mp4",
+    "text_preview": "the Constitution and laws of the state of Wyoming"
+  },
+  {
+    "global_idx": 45,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 10,
+    "start": 579.52,
+    "end": 582.31,
+    "hms": "00h09m40s-00h09m42s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn10_global045_00h09m40s-00h09m42s.mp4",
+    "text_preview": "and the charter and ordinances of the city of Cheyenne"
+  },
+  {
+    "global_idx": 46,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 15,
+    "start": 582.32,
+    "end": 585.03,
+    "hms": "00h09m42s-00h09m45s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn15_global046_00h09m42s-00h09m45s.mp4",
+    "text_preview": "and the charter and ordinances of the city of Cheyenne"
+  },
+  {
+    "global_idx": 47,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 11,
+    "start": 585.04,
+    "end": 587.83,
+    "hms": "00h09m45s-00h09m48s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn11_global047_00h09m45s-00h09m48s.mp4",
+    "text_preview": "and that I will faithfully, honestly, and impartially"
+  },
+  {
+    "global_idx": 48,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 16,
+    "start": 587.84,
+    "end": 590.47,
+    "hms": "00h09m48s-00h09m50s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn16_global048_00h09m48s-00h09m50s.mp4",
+    "text_preview": "And that I will faithfully, honestly, and impartially"
+  },
+  {
+    "global_idx": 49,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 12,
+    "start": 590.48,
+    "end": 592.87,
+    "hms": "00h09m50s-00h09m53s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn12_global049_00h09m50s-00h09m53s.mp4",
+    "text_preview": "discharge the duties of municipal court judge"
+  },
+  {
+    "global_idx": 50,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 17,
+    "start": 592.88,
+    "end": 601.51,
+    "hms": "00h09m53s-00h10m02s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn17_global050_00h09m53s-00h10m02s.mp4",
+    "text_preview": "discharge the duties of municipal court judge of the city of Cheyenne. of the city of Cheyenne. [To the best of my ability and understanding.] to the best of my ability and understanding."
+  },
+  {
+    "global_idx": 51,
+    "speaker": "Speaker_05_Voice_Cluster_04",
+    "speaker_turn": 1,
+    "start": 602.32,
+    "end": 614.07,
+    "hms": "00h10m02s-00h10m14s",
+    "file_name": "Speaker_05_Voice_Cluster_04_turn01_global051_00h10m02s-00h10m14s.mp4",
+    "text_preview": "Thank you. Congratulations, welcome to the the court."
+  },
+  {
+    "global_idx": 52,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 13,
+    "start": 614.08,
+    "end": 628.47,
+    "hms": "00h10m14s-00h10m28s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn13_global052_00h10m14s-00h10m28s.mp4",
+    "text_preview": "Thank you, Mr. Mayor. floor."
+  },
+  {
+    "global_idx": 53,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 18,
+    "start": 628.48,
+    "end": 664.15,
+    "hms": "00h10m28s-00h11m04s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn18_global053_00h10m28s-00h11m04s.mp4",
+    "text_preview": "Yes. Thank you, Mayor Collins. Um, under Robert's rules of order, chapter 6, subsidiary motions, there is an option for limiting or extending limits of debate in section 15. It appears that the council may establish limi"
+  },
+  {
+    "global_idx": 54,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 14,
+    "start": 664.16,
+    "end": 665.99,
+    "hms": "00h11m04s-00h11m06s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn14_global054_00h11m04s-00h11m06s.mp4",
+    "text_preview": "Second."
+  },
+  {
+    "global_idx": 55,
+    "speaker": "Speaker_10_Meeting_Chair",
+    "speaker_turn": 6,
+    "start": 666.0,
+    "end": 685.11,
+    "hms": "00h11m06s-00h11m25s",
+    "file_name": "Speaker_10_Meeting_Chair_turn06_global055_00h11m06s-00h11m25s.mp4",
+    "text_preview": "All right, we have a motion and a second to limit speech for, as I take it, Dr. Aldridge, not only members of the audience, but also members of the governing body. [That's correct.] Okay. Um, it's a non-debatable motion."
+  },
+  {
+    "global_idx": 56,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 15,
+    "start": 685.12,
+    "end": 687.91,
+    "hms": "00h11m25s-00h11m28s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn15_global056_00h11m25s-00h11m28s.mp4",
+    "text_preview": "I. [Those opposed?] No."
+  },
+  {
+    "global_idx": 57,
+    "speaker": "Speaker_10_Meeting_Chair",
+    "speaker_turn": 7,
+    "start": 687.92,
+    "end": 706.23,
+    "hms": "00h11m28s-00h11m46s",
+    "file_name": "Speaker_10_Meeting_Chair_turn07_global057_00h11m28s-00h11m46s.mp4",
+    "text_preview": "May I see the hands or the nose, please? Mr. Moody, Mr. Wolf, and Mr. Leborn, the motion is approved. Tonight, we will have a a time limit of three minutes per speaker. Uh, and it looks like we'll be limited to one speec"
+  },
+  {
+    "global_idx": 58,
+    "speaker": "Speaker_01_Voice_Cluster_01",
+    "speaker_turn": 2,
+    "start": 706.24,
+    "end": 709.43,
+    "hms": "00h11m46s-00h11m49s",
+    "file_name": "Speaker_01_Voice_Cluster_01_turn02_global058_00h11m46s-00h11m49s.mp4",
+    "text_preview": "clarification, sir, that's for the members of the governing body."
+  },
+  {
+    "global_idx": 59,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 19,
+    "start": 709.44,
+    "end": 941.67,
+    "hms": "00h11m49s-00h15m42s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn19_global059_00h11m49s-00h15m42s.mp4",
+    "text_preview": "Yes, sir. That's correct. determine whether compliance of annexation conditions required by Wyoming statute 15-1-402 exists for about 162.42 acres of land located west of South Gley Highway south of West College Drive an"
+  },
+  {
+    "global_idx": 60,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 9,
+    "start": 941.68,
+    "end": 946.87,
+    "hms": "00h15m42s-00h15m47s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn09_global060_00h15m42s-00h15m47s.mp4",
+    "text_preview": "And Mr. White, this is a owner initiated annexation, meaning the owner of the property asked to be annexed."
+  },
+  {
+    "global_idx": 61,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 20,
+    "start": 946.88,
+    "end": 949.11,
+    "hms": "00h15m47s-00h15m49s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn20_global061_00h15m47s-00h15m49s.mp4",
+    "text_preview": "Uh, mayor through you. Yes, that is correct."
+  },
+  {
+    "global_idx": 62,
+    "speaker": "Speaker_10_Meeting_Chair",
+    "speaker_turn": 8,
+    "start": 949.12,
+    "end": 981.59,
+    "hms": "00h15m49s-00h16m22s",
+    "file_name": "Speaker_10_Meeting_Chair_turn08_global062_00h15m49s-00h16m22s.mp4",
+    "text_preview": "Okay. Any questions for staff from uh members of the governing body? Mr. Dwight, thank you. We'll go out to the audience. Now, this is an opportunity if you want to talk to us about the annexation of what I believe is be"
+  },
+  {
+    "global_idx": 63,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 21,
+    "start": 981.6,
+    "end": 1027.51,
+    "hms": "00h16m22s-00h17m08s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn21_global063_00h16m22s-00h17m08s.mp4",
+    "text_preview": "Heather Madrid, Ward One. I guess my only um concern is that I agree like just annexing this one piece of property isn't putting the rest of Orchard Valley at risk of being annexed, but that's typically not how this has "
+  },
+  {
+    "global_idx": 64,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 16,
+    "start": 1027.52,
+    "end": 1036.23,
+    "hms": "00h17m08s-00h17m16s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn16_global064_00h17m08s-00h17m16s.mp4",
+    "text_preview": "Anyone else want to speak tonight on the"
+  },
+  {
+    "global_idx": 65,
+    "speaker": "Speaker_01_Voice_Cluster_01",
+    "speaker_turn": 3,
+    "start": 1038.4,
+    "end": 1061.43,
+    "hms": "00h17m18s-00h17m41s",
+    "file_name": "Speaker_01_Voice_Cluster_01_turn03_global065_00h17m18s-00h17m41s.mp4",
+    "text_preview": "Um, Janet Tolman, Ward 2. Um, I just would like to ask a question. It just seems like requested to be annexed is next to property that isn't annexed. Is that correct?"
+  },
+  {
+    "global_idx": 66,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 10,
+    "start": 1061.44,
+    "end": 1082.15,
+    "hms": "00h17m41s-00h18m02s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn10_global066_00h17m41s-00h18m02s.mp4",
+    "text_preview": "I say that's true, ma'am. It's next to an area that is already annexed. So, it's contiguous to the existing city, but it's also um next to some land that's not been annexed. Yeah. So, it's kind of in between. It's I thin"
+  },
+  {
+    "global_idx": 67,
+    "speaker": "Speaker_01_Voice_Cluster_01",
+    "speaker_turn": 4,
+    "start": 1082.16,
+    "end": 1099.59,
+    "hms": "00h18m02s-00h18m20s",
+    "file_name": "Speaker_01_Voice_Cluster_01_turn04_global067_00h18m02s-00h18m20s.mp4",
+    "text_preview": "Okay. And are the homes are those already in the city or there some of the homes not in the city? The area that's being annexed, I don't has think has any homes on it. It's it's it's the I mean I mean the properties that"
+  },
+  {
+    "global_idx": 68,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 11,
+    "start": 1099.6,
+    "end": 1120.87,
+    "hms": "00h18m20s-00h18m41s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn11_global068_00h18m20s-00h18m41s.mp4",
+    "text_preview": "um the the property to the south is where the meta data center is, I believe, and that is in the city limits and the property to the north is um is in the unincorporated county and those are homes. You can see on the map"
+  },
+  {
+    "global_idx": 69,
+    "speaker": "Speaker_01_Voice_Cluster_01",
+    "speaker_turn": 5,
+    "start": 1122.16,
+    "end": 1181.99,
+    "hms": "00h18m42s-00h19m42s",
+    "file_name": "Speaker_01_Voice_Cluster_01_turn05_global069_00h18m42s-00h19m42s.mp4",
+    "text_preview": "I could see the concern that they would have because they're not in the city, but then this property south of them is wanting to be annexed into the city. And so I it would almost be like an encroachment. I I'm not aware"
+  },
+  {
+    "global_idx": 70,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 17,
+    "start": 1182.0,
+    "end": 1184.87,
+    "hms": "00h19m42s-00h19m45s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn17_global070_00h19m42s-00h19m45s.mp4",
+    "text_preview": "Thank you, ma'am. Mr. White,"
+  },
+  {
+    "global_idx": 71,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 22,
+    "start": 1184.88,
+    "end": 1205.75,
+    "hms": "00h19m45s-00h20m06s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn22_global071_00h19m45s-00h20m06s.mp4",
+    "text_preview": "mayor, uh Conway Planning Development Department, I was just going to make a clarifying uh comment for everybody. the shaded red that's to the south of the subject property, that is what is currently annexed in the city."
+  },
+  {
+    "global_idx": 72,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 18,
+    "start": 1205.76,
+    "end": 1208.79,
+    "hms": "00h20m06s-00h20m09s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn18_global072_00h20m06s-00h20m09s.mp4",
+    "text_preview": "Thank you,"
+  },
+  {
+    "global_idx": 73,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 12,
+    "start": 1208.8,
+    "end": 1301.67,
+    "hms": "00h20m09s-00h21m42s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn12_global073_00h20m09s-00h21m42s.mp4",
+    "text_preview": "Mr. White. Through you, Mr. Chairman, Michael White. Um, I'd like to make a point of order. Uh if you're going to limit everybody on the council, you need to you'll need to limit Connor White's um time frame, too. Point "
+  },
+  {
+    "global_idx": 74,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 23,
+    "start": 1301.68,
+    "end": 1458.15,
+    "hms": "00h21m42s-00h24m18s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn23_global074_00h21m42s-00h24m18s.mp4",
+    "text_preview": "Sir, please. city council. My name is Jeff Nakushima with Tremble Crow Company. I am here tonight to speak in support of the owner initiated annexation of the 162 acre Orchard Hills property. While there's understandably"
+  },
+  {
+    "global_idx": 75,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 19,
+    "start": 1458.16,
+    "end": 1463.67,
+    "hms": "00h24m18s-00h24m24s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn19_global075_00h24m18s-00h24m24s.mp4",
+    "text_preview": "Thank you, sir. Erin, did you want to speak? Yes."
+  },
+  {
+    "global_idx": 76,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 24,
+    "start": 1463.68,
+    "end": 1473.83,
+    "hms": "00h24m24s-00h24m34s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn24_global076_00h24m24s-00h24m34s.mp4",
+    "text_preview": "Welcome I believe um"
+  },
+  {
+    "global_idx": 77,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 13,
+    "start": 1473.84,
+    "end": 1475.59,
+    "hms": "00h24m34s-00h24m36s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn13_global077_00h24m34s-00h24m36s.mp4",
+    "text_preview": "it doesn't matter. I know you live in the city,"
+  },
+  {
+    "global_idx": 78,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 25,
+    "start": 1477.52,
+    "end": 1555.67,
+    "hms": "00h24m38s-00h25m56s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn25_global078_00h24m38s-00h25m56s.mp4",
+    "text_preview": "Well, here's my thing. I'm a biologist. I was asked if I had done any research on data centers whatsoever. Well, you know what? Now I have. and the results that I have seen so far are not good. I don't understand why the"
+  },
+  {
+    "global_idx": 79,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 14,
+    "start": 1555.68,
+    "end": 1571.35,
+    "hms": "00h25m56s-00h26m11s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn14_global079_00h25m56s-00h26m11s.mp4",
+    "text_preview": "point I apologize, Aaron, what we're talking about right now is the annexation. I think what you want to talk about is the zone change which is coming up a little bit later um you know in the meeting. So do you have any "
+  },
+  {
+    "global_idx": 80,
+    "speaker": "Speaker_05_Voice_Cluster_04",
+    "speaker_turn": 2,
+    "start": 1571.36,
+    "end": 1582.23,
+    "hms": "00h26m11s-00h26m22s",
+    "file_name": "Speaker_05_Voice_Cluster_04_turn02_global080_00h26m11s-00h26m22s.mp4",
+    "text_preview": "Sure. We all know what the annexation for and these people they don't care about us in this city."
+  },
+  {
+    "global_idx": 81,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 26,
+    "start": 1584.4,
+    "end": 1685.19,
+    "hms": "00h26m24s-00h28m05s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn26_global081_00h26m24s-00h28m05s.mp4",
+    "text_preview": "This is a correct me if I'm wrong. This is a public hearing. [Yep.] And so no votes going to be taken on this tonight. That's correct. It'll be it'll be referred to the public services committee next week and come back i"
+  },
+  {
+    "global_idx": 82,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 27,
+    "start": 1686.24,
+    "end": 1697.67,
+    "hms": "00h28m06s-00h28m18s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn27_global082_00h28m06s-00h28m18s.mp4",
+    "text_preview": "If you go over two streets, actually one right on the corner there. So, it's almost center of the boundary line."
+  },
+  {
+    "global_idx": 83,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 20,
+    "start": 1697.68,
+    "end": 1702.07,
+    "hms": "00h28m18s-00h28m22s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn20_global083_00h28m18s-00h28m22s.mp4",
+    "text_preview": "Okay. So, thank you."
+  },
+  {
+    "global_idx": 84,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 15,
+    "start": 1702.08,
+    "end": 1708.87,
+    "hms": "00h28m22s-00h28m29s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn15_global084_00h28m22s-00h28m29s.mp4",
+    "text_preview": "Thank you. Yes, ma'am. Welcome. Now, you got to bring that microphone down and talk right into it for us. There you go."
+  },
+  {
+    "global_idx": 85,
+    "speaker": "Speaker_05_Voice_Cluster_04",
+    "speaker_turn": 3,
+    "start": 1708.88,
+    "end": 1710.07,
+    "hms": "00h28m29s-00h28m30s",
+    "file_name": "Speaker_05_Voice_Cluster_04_turn03_global085_00h28m29s-00h28m30s.mp4",
+    "text_preview": "They're saying I'm short."
+  },
+  {
+    "global_idx": 86,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 28,
+    "start": 1710.08,
+    "end": 1769.59,
+    "hms": "00h28m30s-00h29m30s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn28_global086_00h28m30s-00h29m30s.mp4",
+    "text_preview": "I didn't say that, but thank you. This is Jay Leser. I am W and also in the county. I would like to propose that in the in the agenda that we put all the things for the same property right next to each other and we follo"
+  },
+  {
+    "global_idx": 87,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 16,
+    "start": 1769.6,
+    "end": 1800.95,
+    "hms": "00h29m30s-00h30m01s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn16_global087_00h29m30s-00h30m01s.mp4",
+    "text_preview": "The state law says we have to have a public hearing. That's what we're doing now. Okay. And then after the public hearing, then we get to put these things on the agenda. So, the agenda is not to be discussed today. They'"
+  },
+  {
+    "global_idx": 88,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 29,
+    "start": 1800.96,
+    "end": 1808.23,
+    "hms": "00h30m01s-00h30m08s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn29_global088_00h30m01s-00h30m08s.mp4",
+    "text_preview": "Well, can you reference then from like six in number six that to reference 15 and 16 at least something like that. So that makes"
+  },
+  {
+    "global_idx": 89,
+    "speaker": "Speaker_09_Voice_Cluster_10",
+    "speaker_turn": 2,
+    "start": 1808.24,
+    "end": 1809.27,
+    "hms": "00h30m08s-00h30m09s",
+    "file_name": "Speaker_09_Voice_Cluster_10_turn02_global089_00h30m08s-00h30m09s.mp4",
+    "text_preview": "others are aware."
+  },
+  {
+    "global_idx": 90,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 17,
+    "start": 1809.28,
+    "end": 1812.07,
+    "hms": "00h30m09s-00h30m12s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn17_global090_00h30m09s-00h30m12s.mp4",
+    "text_preview": "Yes, ma'am. And you've made them aware tonight. Thank you for that."
+  },
+  {
+    "global_idx": 91,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 21,
+    "start": 1812.08,
+    "end": 1815.19,
+    "hms": "00h30m12s-00h30m15s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn21_global091_00h30m12s-00h30m15s.mp4",
+    "text_preview": "Appreciate you."
+  },
+  {
+    "global_idx": 92,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 18,
+    "start": 1815.2,
+    "end": 1819.99,
+    "hms": "00h30m15s-00h30m20s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn18_global092_00h30m15s-00h30m20s.mp4",
+    "text_preview": "Yes, ma'am. Please identify yourself and pull that microphone down."
+  },
+  {
+    "global_idx": 93,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 30,
+    "start": 1820.0,
+    "end": 1920.31,
+    "hms": "00h30m20s-00h32m00s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn30_global093_00h30m20s-00h32m00s.mp4",
+    "text_preview": "Thank you, mayor. My name is Susan Gensel and I just live on the uh county side of the annexed proposal property. Uh in fact, my fence line is buted up right against it and I'm not really in favor of any changes right th"
+  },
+  {
+    "global_idx": 94,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 19,
+    "start": 1920.32,
+    "end": 1921.67,
+    "hms": "00h32m00s-00h32m02s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn19_global094_00h32m00s-00h32m02s.mp4",
+    "text_preview": "in under the wire."
+  },
+  {
+    "global_idx": 95,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 22,
+    "start": 1921.68,
+    "end": 1937.03,
+    "hms": "00h32m02s-00h32m17s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn22_global095_00h32m02s-00h32m17s.mp4",
+    "text_preview": "Yeah. Mr. Smith, you may go ahead and speak. [We can hear you.] Go ahead."
+  },
+  {
+    "global_idx": 96,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 31,
+    "start": 1937.04,
+    "end": 2108.71,
+    "hms": "00h32m17s-00h35m09s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn31_global096_00h32m17s-00h35m09s.mp4",
+    "text_preview": "Mayor Collins, members of the council, Charles Miller. Um, this is in regards to item number 6A. the public hearing on the 162 acre annexation west of South Gley Highway. This hearing has one purpose, to determine whethe"
+  },
+  {
+    "global_idx": 97,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 23,
+    "start": 2108.72,
+    "end": 2111.11,
+    "hms": "00h35m09s-00h35m11s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn23_global097_00h35m09s-00h35m11s.mp4",
+    "text_preview": "Mr. Miller, thank you for your comments."
+  },
+  {
+    "global_idx": 98,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 32,
+    "start": 2111.12,
+    "end": 2113.83,
+    "hms": "00h35m11s-00h35m14s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn32_global098_00h35m11s-00h35m14s.mp4",
+    "text_preview": "We have one more person that would like to speak."
+  },
+  {
+    "global_idx": 99,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 24,
+    "start": 2113.84,
+    "end": 2120.55,
+    "hms": "00h35m14s-00h35m21s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn24_global099_00h35m14s-00h35m21s.mp4",
+    "text_preview": "Please let him on. Go ahead, Mr. Russell or Miss Russell. Russell."
+  },
+  {
+    "global_idx": 100,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 20,
+    "start": 2121.6,
+    "end": 2123.75,
+    "hms": "00h35m22s-00h35m24s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn20_global100_00h35m22s-00h35m24s.mp4",
+    "text_preview": "We can hear you just fine, ma'am."
+  },
+  {
+    "global_idx": 101,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 33,
+    "start": 2123.76,
+    "end": 2180.95,
+    "hms": "00h35m24s-00h36m21s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn33_global101_00h35m24s-00h36m21s.mp4",
+    "text_preview": "Awesome. My name is Paige Russell. I live on the county side of the um currently proposed annexation. I just wanted to point out that there have been five owner requested annexations that have led to business park zoning"
+  },
+  {
+    "global_idx": 102,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 25,
+    "start": 2181.6,
+    "end": 2197.35,
+    "hms": "00h36m22s-00h36m37s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn25_global102_00h36m22s-00h36m37s.mp4",
+    "text_preview": "Thank you, ma'am. All right. Is anybody else online? public hearing. Uh are there any comments from members of the governing body? Mr. Mayor, Mr. White,"
+  },
+  {
+    "global_idx": 103,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 34,
+    "start": 2197.36,
+    "end": 2212.47,
+    "hms": "00h36m37s-00h36m52s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn34_global103_00h36m37s-00h36m52s.mp4",
+    "text_preview": "just uh some point of information that the developer and um folks associated with the proposed project have held three public meetings and they will be holding another one this Thursday at 7 o'clock at Rossman Elementary"
+  },
+  {
+    "global_idx": 104,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 21,
+    "start": 2212.48,
+    "end": 2218.15,
+    "hms": "00h36m52s-00h36m58s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn21_global104_00h36m52s-00h36m58s.mp4",
+    "text_preview": "Thank you, Mr. White. Plus, they have really good barbecue. If you haven't had Fred's barbecue, it's worth going just to have a little piece of their brisket."
+  },
+  {
+    "global_idx": 105,
+    "speaker": "Speaker_11_Voice_Cluster_06",
+    "speaker_turn": 2,
+    "start": 2218.16,
+    "end": 2220.71,
+    "hms": "00h36m58s-00h37m01s",
+    "file_name": "Speaker_11_Voice_Cluster_06_turn02_global105_00h36m58s-00h37m01s.mp4",
+    "text_preview": "We should have received an invitation on that this afternoon."
+  },
+  {
+    "global_idx": 106,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 26,
+    "start": 2220.72,
+    "end": 2228.55,
+    "hms": "00h37m01s-00h37m09s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn26_global106_00h37m01s-00h37m09s.mp4",
+    "text_preview": "I think we did. Yep. [Is open to the public.] Thank you, sir. Next,"
+  },
+  {
+    "global_idx": 107,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 35,
+    "start": 2228.56,
+    "end": 2235.19,
+    "hms": "00h37m09s-00h37m15s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn35_global107_00h37m09s-00h37m15s.mp4",
+    "text_preview": "sorry. It is this Thursday night, 700 p.m. at Rossman Elementary in the gymnasium."
+  },
+  {
+    "global_idx": 108,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 22,
+    "start": 2235.2,
+    "end": 2250.87,
+    "hms": "00h37m15s-00h37m31s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn22_global108_00h37m15s-00h37m31s.mp4",
+    "text_preview": "So, if you came to the meeting before, you should get you should be getting an email from what I saw. And um so opportunity to come and learn more about the project if you'd like to. And like I said, they have great barb"
+  },
+  {
+    "global_idx": 109,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 36,
+    "start": 2250.88,
+    "end": 2359.51,
+    "hms": "00h37m31s-00h39m20s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn36_global109_00h37m31s-00h39m20s.mp4",
+    "text_preview": "Yes. Like I was wondering if someone could answer the question about the lighting now during construction. So we're talking about the meta property and when we heard from Microsoft that they had the black shields over th"
+  },
+  {
+    "global_idx": 110,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 23,
+    "start": 2360.88,
+    "end": 2361.67,
+    "hms": "00h39m21s-00h39m22s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn23_global110_00h39m21s-00h39m22s.mp4",
+    "text_preview": "Please go ahead."
+  },
+  {
+    "global_idx": 111,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 37,
+    "start": 2361.68,
+    "end": 2519.67,
+    "hms": "00h39m22s-00h42m00s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn37_global111_00h39m22s-00h42m00s.mp4",
+    "text_preview": "Okay. Mr. Mayor, members of the council, Morgan Dennis, Planning and Development. This annexation is for two parcels totaling roughly 652.67 acres of land generally located south of Interstate 80, southeast of Auto Road "
+  },
+  {
+    "global_idx": 112,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 24,
+    "start": 2519.68,
+    "end": 2555.67,
+    "hms": "00h42m00s-00h42m36s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn24_global112_00h42m00s-00h42m36s.mp4",
+    "text_preview": "And so for the audience, this is where the Pro Rodeo Cowboy Association headquarters where their Hall of Fame and their museum will go. And it is designed to be a uh uh an entertainment uh area. Um, and as I understand, "
+  },
+  {
+    "global_idx": 113,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 27,
+    "start": 2555.68,
+    "end": 2558.71,
+    "hms": "00h42m36s-00h42m39s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn27_global113_00h42m36s-00h42m39s.mp4",
+    "text_preview": "Mr. Mayor. [Yeah,] I have some questions for"
+  },
+  {
+    "global_idx": 114,
+    "speaker": "Speaker_09_Voice_Cluster_10",
+    "speaker_turn": 3,
+    "start": 2558.72,
+    "end": 2560.07,
+    "hms": "00h42m39s-00h42m40s",
+    "file_name": "Speaker_09_Voice_Cluster_10_turn03_global114_00h42m39s-00h42m40s.mp4",
+    "text_preview": "Go right ahead, sir."
+  },
+  {
+    "global_idx": 115,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 38,
+    "start": 2560.08,
+    "end": 2617.59,
+    "hms": "00h42m40s-00h43m38s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn38_global115_00h42m40s-00h43m38s.mp4",
+    "text_preview": "Thank you. So, uh could we go back to the map without the So there in the lower uh right hand corner is the proposed PRCA uh area there um near to the McDonald's and the truck stops. And so the upper part that uh you're "
+  },
+  {
+    "global_idx": 116,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 39,
+    "start": 2618.4,
+    "end": 2695.59,
+    "hms": "00h43m38s-00h44m56s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn39_global116_00h43m38s-00h44m56s.mp4",
+    "text_preview": "Yes, we are annexing both parcels at the same time as they have the same property owner. So, we can we can do that. Well, it's a lot of property. Um, and this is a question uh that I'm sure will be coming up as we procee"
+  },
+  {
+    "global_idx": 117,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 25,
+    "start": 2695.6,
+    "end": 2698.95,
+    "hms": "00h44m56s-00h44m59s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn25_global117_00h44m56s-00h44m59s.mp4",
+    "text_preview": "Mr. Cobb, is that you or Mr. White? Do you have the answer to that?"
+  },
+  {
+    "global_idx": 118,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 40,
+    "start": 2698.96,
+    "end": 2723.75,
+    "hms": "00h44m59s-00h45m24s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn40_global118_00h44m59s-00h45m24s.mp4",
+    "text_preview": "Well, I full disclosure, I work at White Dot, but this is way out of my wheelhouse. However, uh what I do know is that number one, that project cost would be in the billions and there is no timeline. While I'm everyone w"
+  },
+  {
+    "global_idx": 119,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 28,
+    "start": 2723.76,
+    "end": 2729.43,
+    "hms": "00h45m24s-00h45m29s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn28_global119_00h45m24s-00h45m29s.mp4",
+    "text_preview": "they're working currently on how how to get a design done. Is that correct? Yeah."
+  },
+  {
+    "global_idx": 120,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 41,
+    "start": 2729.44,
+    "end": 2763.59,
+    "hms": "00h45m29s-00h46m04s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn41_global120_00h45m29s-00h46m04s.mp4",
+    "text_preview": "Uh to continue, Mr. Mayor, I think there's a lot of interest and concern on how that area there uh off I25 that is going to be the access to the Hitching Post District and that bridge with the crossover arrangement. Um, "
+  },
+  {
+    "global_idx": 121,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 26,
+    "start": 2763.6,
+    "end": 2770.87,
+    "hms": "00h46m04s-00h46m11s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn26_global121_00h46m04s-00h46m11s.mp4",
+    "text_preview": "Mr. Emmens, do you have an answer to when the double diamond or the converging whatever you call that the the diamond intersection? I"
+  },
+  {
+    "global_idx": 122,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 42,
+    "start": 2770.88,
+    "end": 2863.67,
+    "hms": "00h46m11s-00h47m44s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn42_global122_00h46m11s-00h47m44s.mp4",
+    "text_preview": "Mr. Mayor through you to the council. Um the uh diverging diamond when it was originally built the bridge was set up to add two more lanes. Um so that will be at some point need to be expanded and widened. Um we have tur"
+  },
+  {
+    "global_idx": 123,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 29,
+    "start": 2863.68,
+    "end": 2867.19,
+    "hms": "00h47m44s-00h47m47s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn29_global123_00h47m44s-00h47m47s.mp4",
+    "text_preview": "Thank you, Mr. Emmens. Thank you."
+  },
+  {
+    "global_idx": 124,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 43,
+    "start": 2867.2,
+    "end": 2919.19,
+    "hms": "00h47m47s-00h48m39s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn43_global124_00h47m47s-00h48m39s.mp4",
+    "text_preview": "Anyone else? Okay, up to the audience. We have the hitching post district for the PRCA. Does anybody want to speak to the annexation of this area? everything, but I just have a question. I'm not opposed to this annexatio"
+  },
+  {
+    "global_idx": 125,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 27,
+    "start": 2919.2,
+    "end": 2928.47,
+    "hms": "00h48m39s-00h48m48s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn27_global125_00h48m39s-00h48m48s.mp4",
+    "text_preview": "Heather I think Mr. Emmens was hired by the owner to uh be his expert and to be here on their behalf to speak and so that's why they're here to do that."
+  },
+  {
+    "global_idx": 126,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 44,
+    "start": 2928.48,
+    "end": 2940.47,
+    "hms": "00h48m48s-00h49m00s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn44_global126_00h48m48s-00h49m00s.mp4",
+    "text_preview": "Yeah, I I understand that. I just don't what I don't understand is why there is no expectation of any of the owners to speak about these properties that they want air next especially if they're here."
+  },
+  {
+    "global_idx": 127,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 30,
+    "start": 2940.48,
+    "end": 2948.63,
+    "hms": "00h49m00s-00h49m09s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn30_global127_00h49m00s-00h49m09s.mp4",
+    "text_preview": "It just doesn't make a lot of sense to me. Anybody else? Mr. Evans, you want to answer that?"
+  },
+  {
+    "global_idx": 128,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 45,
+    "start": 2948.64,
+    "end": 2964.15,
+    "hms": "00h49m09s-00h49m24s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn45_global128_00h49m09s-00h49m24s.mp4",
+    "text_preview": "Mr. for mayor through you. Um, currently, uh, Doug Samson, owner of Swan Ranch, is out of town. He cannot make tonight's public hearing, but he is, um, scheduled to be in at the public service meeting, so he can answer a"
+  },
+  {
+    "global_idx": 129,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 31,
+    "start": 2964.16,
+    "end": 2969.35,
+    "hms": "00h49m24s-00h49m29s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn31_global129_00h49m24s-00h49m29s.mp4",
+    "text_preview": "Thank you, Mr. Neper. Did you come speak to us tonight? I am coming."
+  },
+  {
+    "global_idx": 130,
+    "speaker": "Speaker_12_John_Neper",
+    "speaker_turn": 1,
+    "start": 2969.36,
+    "end": 3165.43,
+    "hms": "00h49m29s-00h52m45s",
+    "file_name": "Speaker_12_John_Neper_turn01_global130_00h49m29s-00h52m45s.mp4",
+    "text_preview": "Welcome back. Mr. Mayor, members of the council, my name is John Neper. I'm an attorney here in Cheyenne, although I'm not here on behalf of any uh client. So, I'm just here in my personal capacity as a resident of war. "
+  },
+  {
+    "global_idx": 131,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 32,
+    "start": 3165.44,
+    "end": 3206.23,
+    "hms": "00h52m45s-00h53m26s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn32_global131_00h52m45s-00h53m26s.mp4",
+    "text_preview": "Thank you, Mr. Nipper. Appreciate it. That's all I have. Anybody else on the Hitching Post District before us this evening? Yes. Go ahead, Mr. Miller. down? All right. Hearing none, then the purpose of the Well, let's se"
+  },
+  {
+    "global_idx": 132,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 46,
+    "start": 3206.24,
+    "end": 3234.79,
+    "hms": "00h53m26s-00h53m55s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn46_global132_00h53m26s-00h53m55s.mp4",
+    "text_preview": "Just a quick comment, Mr. Mayor. Mr. Um, as someone who's supported this uh, Hitching Post PRCA project from its inception, just a little bit of background that that the county has submitted um, investment money into thi"
+  },
+  {
+    "global_idx": 133,
+    "speaker": "Speaker_10_Meeting_Chair",
+    "speaker_turn": 9,
+    "start": 3234.8,
+    "end": 3275.51,
+    "hms": "00h53m55s-00h54m36s",
+    "file_name": "Speaker_10_Meeting_Chair_turn09_global133_00h53m55s-00h54m36s.mp4",
+    "text_preview": "Mr. Esabel. Thank you, Mr. Mayor. through you and whatever we do with access, I can tell you it's going to be a heck of a lot better than what Colorado Springs has for access to theirs now. So, count on that. Amen. All r"
+  },
+  {
+    "global_idx": 134,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 28,
+    "start": 3275.52,
+    "end": 3428.95,
+    "hms": "00h54m36s-00h57m09s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn28_global134_00h54m36s-00h57m09s.mp4",
+    "text_preview": "All right. This is, I think, is most commonly known as the Cox Ranch uh annexation. It's an owner requested annexation of 1,252.09 09 acres. And to my knowledge, um the uh the folks who are asking for this annexation hav"
+  },
+  {
+    "global_idx": 135,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 47,
+    "start": 3428.96,
+    "end": 3647.83,
+    "hms": "00h57m09s-01h00m48s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn47_global135_00h57m09s-01h00m48s.mp4",
+    "text_preview": "Well, if that was the case, Mr. Mayor, through you then it should have been brought up to council a long time ago when the BOPU wanted to annex it. So, um that's my opinion. I respect your opinion. I'm not saying I said "
+  },
+  {
+    "global_idx": 136,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 33,
+    "start": 3647.84,
+    "end": 3652.23,
+    "hms": "01h00m48s-01h00m52s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn33_global136_01h00m48s-01h00m52s.mp4",
+    "text_preview": "Thank you, sir. Sir, welcome. How are you tonight?"
+  },
+  {
+    "global_idx": 137,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 48,
+    "start": 3652.24,
+    "end": 4096.63,
+    "hms": "01h00m52s-01h08m17s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn48_global137_01h00m52s-01h08m17s.mp4",
+    "text_preview": "I'm good, Mr. Mayor. Thank you, Mr. Mayor. Council members, Rick Kesler, Rolling Hills Estates. Um, I'm here to talk against the the annexation, not against data centers, but the annexation. Um, I think we should be hone"
+  },
+  {
+    "global_idx": 138,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 34,
+    "start": 4096.64,
+    "end": 4101.03,
+    "hms": "01h08m17s-01h08m21s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn34_global138_01h08m17s-01h08m21s.mp4",
+    "text_preview": "Yes, ma'am. Please welcome."
+  },
+  {
+    "global_idx": 139,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 29,
+    "start": 4101.04,
+    "end": 4105.11,
+    "hms": "01h08m21s-01h08m25s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn29_global139_01h08m21s-01h08m25s.mp4",
+    "text_preview": "You got to push that button for me. Turn on that microphone, please. There you go."
+  },
+  {
+    "global_idx": 140,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 49,
+    "start": 4105.12,
+    "end": 4244.31,
+    "hms": "01h08m25s-01h10m44s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn49_global140_01h08m25s-01h10m44s.mp4",
+    "text_preview": "Susan Roa. I live out um off a roundtop where you're talking about the annexation. Um you know, I hear about the open commun open and honest communication, but then I read things like what's going out there is not one da"
+  },
+  {
+    "global_idx": 141,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 35,
+    "start": 4244.32,
+    "end": 4251.43,
+    "hms": "01h10m44s-01h10m51s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn35_global141_01h10m44s-01h10m51s.mp4",
+    "text_preview": "Thank you. Yes, ma'am. Please."
+  },
+  {
+    "global_idx": 142,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 30,
+    "start": 4251.92,
+    "end": 4253.43,
+    "hms": "01h10m52s-01h10m53s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn30_global142_01h10m52s-01h10m53s.mp4",
+    "text_preview": "Hi. You're gonna have to bring it up."
+  },
+  {
+    "global_idx": 143,
+    "speaker": "Speaker_06_Voice_Cluster_03",
+    "speaker_turn": 1,
+    "start": 4253.44,
+    "end": 4255.67,
+    "hms": "01h10m53s-01h10m56s",
+    "file_name": "Speaker_06_Voice_Cluster_03_turn01_global143_01h10m53s-01h10m56s.mp4",
+    "text_preview": "Can you hear me? Okay. I hear you. Great."
+  },
+  {
+    "global_idx": 144,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 50,
+    "start": 4255.68,
+    "end": 4359.91,
+    "hms": "01h10m56s-01h12m40s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn50_global144_01h10m56s-01h12m40s.mp4",
+    "text_preview": "Okay. My name is Shelley Russell. I'm a local contractor here in Cheyenne. Um my concern is with the Cox Ranch annexation. I'm against it as you can see on my shirt, but do do you have in that area the resources that you"
+  },
+  {
+    "global_idx": 145,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 51,
+    "start": 4366.88,
+    "end": 4755.11,
+    "hms": "01h12m47s-01h19m15s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn51_global145_01h12m47s-01h19m15s.mp4",
+    "text_preview": "Mr. Mayor. Council Gay Woodhouse. I'm an attorney. I work with Woodhouse, Rhden, Ames, and Brennan. Uh I am representing the um Mark T. Cox I 4th and Beverly Cox Black who are the people who have the people who are burie"
+  },
+  {
+    "global_idx": 146,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 31,
+    "start": 4755.12,
+    "end": 4835.91,
+    "hms": "01h19m15s-01h20m36s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn31_global146_01h19m15s-01h20m36s.mp4",
+    "text_preview": "I think I do. [Thank you.] You know, so let let me answer one question first. I still don't think that we are um as a staff um experts in all of the areas that a data center needs to have, but there are 19 agencies that "
+  },
+  {
+    "global_idx": 147,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 52,
+    "start": 4835.92,
+    "end": 4851.59,
+    "hms": "01h20m36s-01h20m52s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn52_global147_01h20m36s-01h20m52s.mp4",
+    "text_preview": "And that was my question. Will you use that for all of the citizens of Cheyenne, even us that are opposing data centers? Because every day more and more information is available and we are seeing communities suffer acros"
+  },
+  {
+    "global_idx": 148,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 36,
+    "start": 4851.6,
+    "end": 4857.59,
+    "hms": "01h20m52s-01h20m58s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn36_global148_01h20m52s-01h20m58s.mp4",
+    "text_preview": "Yes, ma'am. Okay. Thank you. Thanks for being here. Good evening."
+  },
+  {
+    "global_idx": 149,
+    "speaker": "Speaker_13_Sharon_Brown",
+    "speaker_turn": 1,
+    "start": 4857.6,
+    "end": 4904.71,
+    "hms": "01h20m58s-01h21m45s",
+    "file_name": "Speaker_13_Sharon_Brown_turn01_global149_01h20m58s-01h21m45s.mp4",
+    "text_preview": "I wasn't going to speak. I'm I don't consider myself prepared, but Mr. Mayor, council members, my name is Sharon Brown McCurven. I'm Mr. Kesler's neighbor, next door neighbor on Burke Road. We'll be facing to the west. T"
+  },
+  {
+    "global_idx": 150,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 53,
+    "start": 4906.0,
+    "end": 4918.95,
+    "hms": "01h21m46s-01h21m59s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn53_global150_01h21m46s-01h21m59s.mp4",
+    "text_preview": "I I want to know if you're going to annex north, you're annexing east, west, south. Are you an annexing north or is the growth in Cheyenne just going to go north for the people? You know,"
+  },
+  {
+    "global_idx": 151,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 32,
+    "start": 4918.96,
+    "end": 4960.31,
+    "hms": "01h21m59s-01h22m40s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn32_global151_01h21m59s-01h22m40s.mp4",
+    "text_preview": "I think I'm understanding your question. So, the annexations, the vast majority of annexations, almost all of them, maybe not in number, but in size, are owner initiated annexations, meaning it's not the city who's makin"
+  },
+  {
+    "global_idx": 152,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 54,
+    "start": 4960.32,
+    "end": 5014.87,
+    "hms": "01h22m40s-01h23m35s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn54_global152_01h22m40s-01h23m35s.mp4",
+    "text_preview": "Are there north owners who want to be annexed? you know, to my knowledge. So, we have one today and that's the only one I'm aware of. I'm just It's just odd. And and the cities, is that where you want the city to be is j"
+  },
+  {
+    "global_idx": 153,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 37,
+    "start": 5017.6,
+    "end": 5021.35,
+    "hms": "01h23m38s-01h23m41s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn37_global153_01h23m38s-01h23m41s.mp4",
+    "text_preview": "Good evening."
+  },
+  {
+    "global_idx": 154,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 55,
+    "start": 5024.32,
+    "end": 5135.11,
+    "hms": "01h23m44s-01h25m35s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn55_global154_01h23m44s-01h25m35s.mp4",
+    "text_preview": "Um, I don't want any more data centers. I mean, put them up where you want this and that. I don't want any more by me. I have a whole field full of lights to the south of me. It's a whole other city by itself. My horse h"
+  },
+  {
+    "global_idx": 155,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 33,
+    "start": 5135.12,
+    "end": 5144.47,
+    "hms": "01h25m35s-01h25m44s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn33_global155_01h25m35s-01h25m44s.mp4",
+    "text_preview": "That's what I'm saying. So, the development would actually have city water and wells. So, they wouldn't be drilling in into your wells anymore, which hopefully should protect you and your wells, right?"
+  },
+  {
+    "global_idx": 156,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 38,
+    "start": 5144.48,
+    "end": 5147.83,
+    "hms": "01h25m44s-01h25m48s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn38_global156_01h25m44s-01h25m48s.mp4",
+    "text_preview": "Yes, ma'am. I had a question."
+  },
+  {
+    "global_idx": 157,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 56,
+    "start": 5147.84,
+    "end": 5191.03,
+    "hms": "01h25m48s-01h26m31s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn56_global157_01h25m48s-01h26m31s.mp4",
+    "text_preview": "Oh, Mr. Moody. Yeah. I had a question for the person. Uh, thank you for your testimony, ma'am. I just want to say, have you noticed you and your neighbors negative impacts to agricultural animals, horses, cattle, etc. Ha"
+  },
+  {
+    "global_idx": 158,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 39,
+    "start": 5191.04,
+    "end": 5197.83,
+    "hms": "01h26m31s-01h26m38s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn39_global158_01h26m31s-01h26m38s.mp4",
+    "text_preview": "Thank you, ma'am. Thank you for putting that on the record. Thank you so much. Yes, ma'am. Welcome."
+  },
+  {
+    "global_idx": 159,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 57,
+    "start": 5197.84,
+    "end": 5403.11,
+    "hms": "01h26m38s-01h30m03s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn57_global159_01h26m38s-01h30m03s.mp4",
+    "text_preview": "Thank you, Mr. Mayor and city council members. Here we are again asking you to listen to your constituents and hoping maybe this time you will actually do that. How many times do the citizens of Laramie County have to sh"
+  },
+  {
+    "global_idx": 160,
+    "speaker": "Speaker_05_Voice_Cluster_04",
+    "speaker_turn": 4,
+    "start": 5403.12,
+    "end": 5406.95,
+    "hms": "01h30m03s-01h30m07s",
+    "file_name": "Speaker_05_Voice_Cluster_04_turn04_global160_01h30m03s-01h30m07s.mp4",
+    "text_preview": "Thank you."
+  },
+  {
+    "global_idx": 161,
+    "speaker": "Speaker_14_Heidi_Harg",
+    "speaker_turn": 1,
+    "start": 5413.36,
+    "end": 5416.39,
+    "hms": "01h30m13s-01h30m16s",
+    "file_name": "Speaker_14_Heidi_Harg_turn01_global161_01h30m13s-01h30m16s.mp4",
+    "text_preview": "Um, my name is Heidi Harg Graves. Um,"
+  },
+  {
+    "global_idx": 162,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 58,
+    "start": 5416.4,
+    "end": 5600.63,
+    "hms": "01h30m16s-01h33m21s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn58_global162_01h30m16s-01h33m21s.mp4",
+    "text_preview": "can you bring that microphone up and so it it aims at you a little bit? There you taller. I'm a little taller girl. [There you go.] Um, my name's Heidi Hargraves. Um, born and raised in Cheyenne, Wyoming. We live out wes"
+  },
+  {
+    "global_idx": 163,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 40,
+    "start": 5600.64,
+    "end": 5608.23,
+    "hms": "01h33m21s-01h33m28s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn40_global163_01h33m21s-01h33m28s.mp4",
+    "text_preview": "but thank you. Thank you for being here."
+  },
+  {
+    "global_idx": 164,
+    "speaker": "Speaker_09_Voice_Cluster_10",
+    "speaker_turn": 4,
+    "start": 5608.96,
+    "end": 5610.31,
+    "hms": "01h33m29s-01h33m30s",
+    "file_name": "Speaker_09_Voice_Cluster_10_turn04_global164_01h33m29s-01h33m30s.mp4",
+    "text_preview": "How you guys doing today?"
+  },
+  {
+    "global_idx": 165,
+    "speaker": "Speaker_15_Brian_Pixley",
+    "speaker_turn": 1,
+    "start": 5610.32,
+    "end": 5701.59,
+    "hms": "01h33m30s-01h35m02s",
+    "file_name": "Speaker_15_Brian_Pixley_turn01_global165_01h33m30s-01h35m02s.mp4",
+    "text_preview": "Good. Uh my name is Brian Pixley and I live uh for Brown Top and I live over by uh Treadway Trail, you know, by right where the uh the Cox Ranch is and over by uh the Microsoft and everything. I hear that son of son of a"
+  },
+  {
+    "global_idx": 166,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 59,
+    "start": 5702.48,
+    "end": 5711.67,
+    "hms": "01h35m02s-01h35m12s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn59_global166_01h35m02s-01h35m12s.mp4",
+    "text_preview": "Okay. Hi. Well, as long as we were talking about water, I did find a few facts about water. [Would you introduce yourself, please?] I'm Aaron Madson."
+  },
+  {
+    "global_idx": 167,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 41,
+    "start": 5711.68,
+    "end": 5712.71,
+    "hms": "01h35m12s-01h35m13s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn41_global167_01h35m12s-01h35m13s.mp4",
+    "text_preview": "Thank you, Aaron."
+  },
+  {
+    "global_idx": 168,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 60,
+    "start": 5712.72,
+    "end": 5855.35,
+    "hms": "01h35m13s-01h37m35s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn60_global168_01h35m13s-01h37m35s.mp4",
+    "text_preview": "I do have a few facts about water that I would like to share with you. the um in the Dallas, Oregon, Google came in and used 29% of the city drinking water in a year. In Council Bluffs, Iowa, 21% in a single year. Now, I"
+  },
+  {
+    "global_idx": 169,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 34,
+    "start": 5857.6,
+    "end": 5861.59,
+    "hms": "01h37m38s-01h37m42s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn34_global169_01h37m38s-01h37m42s.mp4",
+    "text_preview": "could you pull that microphone up just a little bit so we can hear you in the back? Certainly. Oh, thank you."
+  },
+  {
+    "global_idx": 170,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 61,
+    "start": 5861.6,
+    "end": 5960.23,
+    "hms": "01h37m42s-01h39m20s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn61_global170_01h37m42s-01h39m20s.mp4",
+    "text_preview": "Um, my name's Mary Jernigan. I wasn't going to speak, but I guess I have some questions. Uh, I feel like data centers were in the east and they've done damage on the east coast and I've heard of the drinking water and I'"
+  },
+  {
+    "global_idx": 171,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 35,
+    "start": 5960.24,
+    "end": 5983.59,
+    "hms": "01h39m20s-01h39m44s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn35_global171_01h39m20s-01h39m44s.mp4",
+    "text_preview": "Yeah, my very first meeting is September 25th. Oh, so we we just got appointed. Um we had an orientation and our very very first meeting comes up here on the 25th. And so I'll be happy to report back in my mayor's minute"
+  },
+  {
+    "global_idx": 172,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 62,
+    "start": 5983.6,
+    "end": 5988.07,
+    "hms": "01h39m44s-01h39m48s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn62_global172_01h39m44s-01h39m48s.mp4",
+    "text_preview": "So my voice basically I want to say they need our wind and not our water."
+  },
+  {
+    "global_idx": 173,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 36,
+    "start": 5988.08,
+    "end": 6005.27,
+    "hms": "01h39m48s-01h40m05s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn36_global173_01h39m48s-01h40m05s.mp4",
+    "text_preview": "Thank you. And ma'am, I think that's why we don't use so much water here because um we are cool and windy here and it it gives them natural cooling and uh so it makes it much more efficient than a lot of places. Thank yo"
+  },
+  {
+    "global_idx": 174,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 42,
+    "start": 6005.28,
+    "end": 6011.83,
+    "hms": "01h40m05s-01h40m12s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn42_global174_01h40m05s-01h40m12s.mp4",
+    "text_preview": "Mr. Miller, go ahead."
+  },
+  {
+    "global_idx": 175,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 63,
+    "start": 6012.8,
+    "end": 6189.27,
+    "hms": "01h40m13s-01h43m09s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn63_global175_01h40m13s-01h43m09s.mp4",
+    "text_preview": "can you hear me? Yes. Okay. I'm gonna try to to speed read through my speech here because it's a little long. Charles Miller for the record. Um proceeding has just been memorialized. It completely strips away your discre"
+  },
+  {
+    "global_idx": 176,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 43,
+    "start": 6189.28,
+    "end": 6191.91,
+    "hms": "01h43m09s-01h43m12s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn43_global176_01h43m09s-01h43m12s.mp4",
+    "text_preview": "Yes ma'am."
+  },
+  {
+    "global_idx": 177,
+    "speaker": "Speaker_01_Voice_Cluster_01",
+    "speaker_turn": 6,
+    "start": 6191.92,
+    "end": 6255.83,
+    "hms": "01h43m12s-01h44m16s",
+    "file_name": "Speaker_01_Voice_Cluster_01_turn06_global177_01h43m12s-01h44m16s.mp4",
+    "text_preview": "My name is Janna Tolman. I'm in W two according to my ballot. According to the internet, I'm in W three. That's why I said W three last time because I didn't know. So, I looked it up and my neighbor told me I was in war "
+  },
+  {
+    "global_idx": 178,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 44,
+    "start": 6259.84,
+    "end": 6271.35,
+    "hms": "01h44m20s-01h44m31s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn44_global178_01h44m20s-01h44m31s.mp4",
+    "text_preview": "a percentage?"
+  },
+  {
+    "global_idx": 179,
+    "speaker": "Speaker_11_Voice_Cluster_06",
+    "speaker_turn": 3,
+    "start": 6273.76,
+    "end": 6275.43,
+    "hms": "01h44m34s-01h44m35s",
+    "file_name": "Speaker_11_Voice_Cluster_06_turn03_global179_01h44m34s-01h44m35s.mp4",
+    "text_preview": "Excuse me, guys."
+  },
+  {
+    "global_idx": 180,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 64,
+    "start": 6275.44,
+    "end": 6289.11,
+    "hms": "01h44m35s-01h44m49s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn64_global180_01h44m35s-01h44m49s.mp4",
+    "text_preview": "Mayor, members of council, we don't have that percentage calculated right now, but that's information we could get to you all and we could have that ready for the upcoming discussion on public services at the next counci"
+  },
+  {
+    "global_idx": 181,
+    "speaker": "Speaker_01_Voice_Cluster_01",
+    "speaker_turn": 7,
+    "start": 6289.12,
+    "end": 6367.43,
+    "hms": "01h44m49s-01h46m07s",
+    "file_name": "Speaker_01_Voice_Cluster_01_turn07_global181_01h44m49s-01h46m07s.mp4",
+    "text_preview": "Okay. Because I'm thinking just calculating in my head and not knowing the specific data, it's going to be almost a half of Cheyenne. And then my concern is and what I've you know read is people in regard to electricity "
+  },
+  {
+    "global_idx": 182,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 65,
+    "start": 6367.44,
+    "end": 6389.91,
+    "hms": "01h46m07s-01h46m30s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn65_global182_01h46m07s-01h46m30s.mp4",
+    "text_preview": "Thank you, ma'am. Yes, ma'am. just residents here, all of us in green, obviously. Um, that we're just asking you guys to listen to us. It feels like so many people stopped coming to these meetings and stopped fighting be"
+  },
+  {
+    "global_idx": 183,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 37,
+    "start": 6390.64,
+    "end": 6392.63,
+    "hms": "01h46m31s-01h46m33s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn37_global183_01h46m31s-01h46m33s.mp4",
+    "text_preview": "can you bring that up a little bit? They can't hear you in the back."
+  },
+  {
+    "global_idx": 184,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 45,
+    "start": 6392.64,
+    "end": 6393.99,
+    "hms": "01h46m33s-01h46m34s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn45_global184_01h46m33s-01h46m34s.mp4",
+    "text_preview": "Can you hear me?"
+  },
+  {
+    "global_idx": 185,
+    "speaker": "Speaker_09_Voice_Cluster_10",
+    "speaker_turn": 5,
+    "start": 6394.0,
+    "end": 6395.19,
+    "hms": "01h46m34s-01h46m35s",
+    "file_name": "Speaker_09_Voice_Cluster_10_turn05_global185_01h46m34s-01h46m35s.mp4",
+    "text_preview": "That's helps. Thank you."
+  },
+  {
+    "global_idx": 186,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 66,
+    "start": 6395.2,
+    "end": 6443.91,
+    "hms": "01h46m35s-01h47m24s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn66_global186_01h46m35s-01h47m24s.mp4",
+    "text_preview": "No, we're just asking that you guys listen to us, the citizens, everybody in green. Nobody is paid here in green. Everybody else, they're corporations. They're paid in some kind of money. Feels like we are just steamroll"
+  },
+  {
+    "global_idx": 187,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 46,
+    "start": 6443.92,
+    "end": 6459.51,
+    "hms": "01h47m24s-01h47m40s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn46_global187_01h47m24s-01h47m40s.mp4",
+    "text_preview": "We're happy you're here. Shay Viper, go ahead. [Yes,] we can hear you."
+  },
+  {
+    "global_idx": 188,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 67,
+    "start": 6459.52,
+    "end": 6643.43,
+    "hms": "01h47m40s-01h50m43s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn67_global188_01h47m40s-01h50m43s.mp4",
+    "text_preview": "Okay. Um sorry I was unable to attend so I have just scribbled down some thoughts on paper towel but um just talking about this annexation again as we do over and over and over and over again. Um, you know, you are quite"
+  },
+  {
+    "global_idx": 189,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 47,
+    "start": 6643.44,
+    "end": 6651.03,
+    "hms": "01h50m43s-01h50m51s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn47_global189_01h50m43s-01h50m51s.mp4",
+    "text_preview": "Thank you for your comments. Your time's up. Anybody else?"
+  },
+  {
+    "global_idx": 190,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 68,
+    "start": 6652.96,
+    "end": 6706.07,
+    "hms": "01h50m53s-01h51m46s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn68_global190_01h50m53s-01h51m46s.mp4",
+    "text_preview": "Good evening, Mr. Mayor, members of the city council. My name is Jerry Henderson. I'm representing the Wyoming Business Alliance this evening. Um, thank you all. I think um have not too much for you this evening. Um, exc"
+  },
+  {
+    "global_idx": 191,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 48,
+    "start": 6706.08,
+    "end": 6709.83,
+    "hms": "01h51m46s-01h51m50s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn48_global191_01h51m46s-01h51m50s.mp4",
+    "text_preview": "Thank you. I have a question Mr. Mayor."
+  },
+  {
+    "global_idx": 192,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 69,
+    "start": 6709.84,
+    "end": 6734.63,
+    "hms": "01h51m50s-01h52m15s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn69_global192_01h51m50s-01h52m15s.mp4",
+    "text_preview": "Yep. Thank you. Thank you sir. So how did you the Wyoming business count alliance come to the conclusion of supporting this? Did you have a vote amongst your members? Was it the panel? How did you do that? Vice Mayor thr"
+  },
+  {
+    "global_idx": 193,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 49,
+    "start": 6734.64,
+    "end": 6738.63,
+    "hms": "01h52m15s-01h52m19s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn49_global193_01h52m15s-01h52m19s.mp4",
+    "text_preview": "Followup. How many people is that?"
+  },
+  {
+    "global_idx": 194,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 70,
+    "start": 6738.64,
+    "end": 6746.07,
+    "hms": "01h52m19s-01h52m26s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn70_global194_01h52m19s-01h52m26s.mp4",
+    "text_preview": "Um Mr. Mayor through you. I'll have to double check for you, Councilman. Um I'm not confident."
+  },
+  {
+    "global_idx": 195,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 50,
+    "start": 6746.08,
+    "end": 6755.19,
+    "hms": "01h52m26s-01h52m35s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn50_global195_01h52m26s-01h52m35s.mp4",
+    "text_preview": "Thank you. Thank you for being here. Good evening again. How are you? Good evening."
+  },
+  {
+    "global_idx": 196,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 71,
+    "start": 6755.2,
+    "end": 6908.39,
+    "hms": "01h52m35s-01h55m08s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn71_global196_01h52m35s-01h55m08s.mp4",
+    "text_preview": "Push that button. There you go. talked about the drought and how it's affected clear across the state. In the newspaper recently, it's beginning of September. They talked in about a data center called Juniper. I believe "
+  },
+  {
+    "global_idx": 197,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 51,
+    "start": 6911.76,
+    "end": 6913.75,
+    "hms": "01h55m12s-01h55m14s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn51_global197_01h55m12s-01h55m14s.mp4",
+    "text_preview": "Hello."
+  },
+  {
+    "global_idx": 198,
+    "speaker": "Speaker_16_Wayne_Lax",
+    "speaker_turn": 1,
+    "start": 6913.76,
+    "end": 6982.31,
+    "hms": "01h55m14s-01h56m22s",
+    "file_name": "Speaker_16_Wayne_Lax_turn01_global198_01h55m14s-01h56m22s.mp4",
+    "text_preview": "Hi, my name is Wayne Lax. I live in the county. Got two things I want to say to you. Appreciate your time. First of all, I think uh a definite variable to all these statistics about water use is not counting what the pow"
+  },
+  {
+    "global_idx": 199,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 52,
+    "start": 6986.72,
+    "end": 6993.83,
+    "hms": "01h56m27s-01h56m34s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn52_global199_01h56m27s-01h56m34s.mp4",
+    "text_preview": "Yes. Go ahead, Erin. we can."
+  },
+  {
+    "global_idx": 200,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 72,
+    "start": 6993.84,
+    "end": 7081.67,
+    "hms": "01h56m34s-01h58m02s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn72_global200_01h56m34s-01h58m02s.mp4",
+    "text_preview": "Okay. Aaron Fiori, Ward One. Uh just for context, there's a lot of people in the audience that are against data centers. Uh from my experience running for city council, uh I went to over 4,000 homes and I've talked to hu"
+  },
+  {
+    "global_idx": 201,
+    "speaker": "Speaker_05_Voice_Cluster_04",
+    "speaker_turn": 5,
+    "start": 7081.68,
+    "end": 7103.11,
+    "hms": "01h58m02s-01h58m23s",
+    "file_name": "Speaker_05_Voice_Cluster_04_turn05_global201_01h58m02s-01h58m23s.mp4",
+    "text_preview": "Thank you. Anybody else online or in the room? All right, we'll close public comment. We'll go to Dr. Aldrich for a motion. public services committee is to approve on second reading and I so move. Second."
+  },
+  {
+    "global_idx": 202,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 53,
+    "start": 7103.12,
+    "end": 7116.71,
+    "hms": "01h58m23s-01h58m37s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn53_global202_01h58m23s-01h58m37s.mp4",
+    "text_preview": "Seconded by Mr. Crave. Comments from members of the governing body. [Thank you, Mr. Mayor,] I'll remind everybody that we do have three minutes."
+  },
+  {
+    "global_idx": 203,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 73,
+    "start": 7116.72,
+    "end": 7301.11,
+    "hms": "01h58m37s-02h01m41s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn73_global203_01h58m37s-02h01m41s.mp4",
+    "text_preview": "Um, I hope I can get this handled uh quickly, but I think that uh the idea that a council member is limited to uh certain discussions is uh really inappropriate. But in any case, I want to mention that what I want to tal"
+  },
+  {
+    "global_idx": 204,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 54,
+    "start": 7301.12,
+    "end": 7304.31,
+    "hms": "02h01m41s-02h01m44s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn54_global204_02h01m41s-02h01m44s.mp4",
+    "text_preview": "Thank you, Dr. Aldridge."
+  },
+  {
+    "global_idx": 205,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 74,
+    "start": 7304.32,
+    "end": 7433.51,
+    "hms": "02h01m44s-02h03m54s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn74_global205_02h01m44s-02h03m54s.mp4",
+    "text_preview": "Mayor Collins, through you. First and foremost, I want to express my appreciation for those of you that um have made public comment tonight and who have sent emails and phone calls and um reached out to us um during this"
+  },
+  {
+    "global_idx": 206,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 55,
+    "start": 7433.52,
+    "end": 7435.59,
+    "hms": "02h03m54s-02h03m56s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn55_global206_02h03m54s-02h03m56s.mp4",
+    "text_preview": "Thank you, Mr. Escoel."
+  },
+  {
+    "global_idx": 207,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 75,
+    "start": 7435.6,
+    "end": 7550.31,
+    "hms": "02h03m56s-02h05m50s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn75_global207_02h03m56s-02h05m50s.mp4",
+    "text_preview": "Thank you, Mr. Mayor. through you and I get the sense that people here and I do appreciate them showing up to our meetings think that if we don't annex if we don't follow state law and we don't annex that means no annexa"
+  },
+  {
+    "global_idx": 208,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 56,
+    "start": 7550.32,
+    "end": 7553.91,
+    "hms": "02h05m50s-02h05m54s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn56_global208_02h05m50s-02h05m54s.mp4",
+    "text_preview": "Mr. Eley's here, so he can speak for himself."
+  },
+  {
+    "global_idx": 209,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 76,
+    "start": 7553.92,
+    "end": 7771.67,
+    "hms": "02h05m54s-02h09m32s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn76_global209_02h05m54s-02h09m32s.mp4",
+    "text_preview": "I didn't see you, sir. I apologize. again this evening. here tonight. Uh I'm going to hit a couple of things just off the top. There's a reason land owners or property owners don't show up at these things. They're afraid"
+  },
+  {
+    "global_idx": 210,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 57,
+    "start": 7771.68,
+    "end": 7778.63,
+    "hms": "02h09m32s-02h09m39s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn57_global210_02h09m32s-02h09m39s.mp4",
+    "text_preview": "Mr. No further questions. Okay. Thank you. Thank you, Mr. Mr. Wolf."
+  },
+  {
+    "global_idx": 211,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 77,
+    "start": 7778.64,
+    "end": 7931.11,
+    "hms": "02h09m39s-02h12m11s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn77_global211_02h09m39s-02h12m11s.mp4",
+    "text_preview": "Thank you, Mr. Mayor. Uh first of all, I object to this threeminut limitation, and you'll continue to hear that. Um second of all, I'm going to vote no on this. I'm going to vote no on the zonings. Uh we have uh a lot mo"
+  },
+  {
+    "global_idx": 212,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 38,
+    "start": 7931.12,
+    "end": 7935.27,
+    "hms": "02h12m11s-02h12m15s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn38_global212_02h12m11s-02h12m15s.mp4",
+    "text_preview": "Any other members of the governing body? Mr. Mood it out."
+  },
+  {
+    "global_idx": 213,
+    "speaker": "Speaker_06_Voice_Cluster_03",
+    "speaker_turn": 2,
+    "start": 7935.28,
+    "end": 7964.23,
+    "hms": "02h12m15s-02h12m44s",
+    "file_name": "Speaker_06_Voice_Cluster_03_turn02_global213_02h12m15s-02h12m44s.mp4",
+    "text_preview": "Thank you, Mr. Mayor. Through you. Thank you again everybody. I hear you. I hear you. I'll be a no vote as always. Again, the impact to agriculture. I think that's the one aspect we keep overlooking. It's what we're know"
+  },
+  {
+    "global_idx": 214,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 58,
+    "start": 7964.24,
+    "end": 7965.67,
+    "hms": "02h12m44s-02h12m46s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn58_global214_02h12m44s-02h12m46s.mp4",
+    "text_preview": "Mr. Secret."
+  },
+  {
+    "global_idx": 215,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 78,
+    "start": 7965.68,
+    "end": 8040.63,
+    "hms": "02h12m46s-02h14m01s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn78_global215_02h12m46s-02h14m01s.mp4",
+    "text_preview": "Mr. Mayor, thank you. Um, I'm not going to repeat what everybody else has talked about, but I would like to point out one thing. Um, you've encouraged us to listen. We have. We've also listened and watched the election t"
+  },
+  {
+    "global_idx": 216,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 59,
+    "start": 8040.64,
+    "end": 8045.67,
+    "hms": "02h14m01s-02h14m06s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn59_global216_02h14m01s-02h14m06s.mp4",
+    "text_preview": "All right. Any other last questions, comments? All right. Hearing none."
+  },
+  {
+    "global_idx": 217,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 79,
+    "start": 8045.68,
+    "end": 8050.95,
+    "hms": "02h14m06s-02h14m11s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn79_global217_02h14m06s-02h14m11s.mp4",
+    "text_preview": "Mayor Collins, can we please let the record reflect that Dr. Ernie joined the meeting at 8:10 p.m.?"
+  },
+  {
+    "global_idx": 218,
+    "speaker": "Speaker_10_Meeting_Chair",
+    "speaker_turn": 10,
+    "start": 8050.96,
+    "end": 8068.39,
+    "hms": "02h14m11s-02h14m28s",
+    "file_name": "Speaker_10_Meeting_Chair_turn10_global218_02h14m11s-02h14m28s.mp4",
+    "text_preview": "Okay. Thank you very much. Welcome, Dr. Rainey. Uh, at this time, we have a motion uh by Dr. Aldard, seconded by Mr. C grave to uh um approve the annexation of the Cox Ranch. Uh all those in favor, please signify by sayi"
+  },
+  {
+    "global_idx": 219,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 60,
+    "start": 8070.64,
+    "end": 8799.51,
+    "hms": "02h14m31s-02h26m40s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn60_global219_02h14m31s-02h26m40s.mp4",
+    "text_preview": "No. They see the hands and nose. Mr. Leborn, Mr. Moody, and Mr. Wolf. The annexation is approved on second reading. Can we take five? We can. Let's take a five minute break and come back here. Let's make it 10 minutes at"
+  },
+  {
+    "global_idx": 220,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 80,
+    "start": 8799.52,
+    "end": 8974.63,
+    "hms": "02h26m40s-02h29m35s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn80_global220_02h26m40s-02h29m35s.mp4",
+    "text_preview": "Um, excuse me. Mayor Collins, members of the city council, Charles Miller for the permanent administrative record. Item 8, second reading, amending the official zoning map establishing AG agricultural and P public or lan"
+  },
+  {
+    "global_idx": 221,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 61,
+    "start": 8974.64,
+    "end": 8983.19,
+    "hms": "02h29m35s-02h29m43s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn61_global221_02h29m35s-02h29m43s.mp4",
+    "text_preview": "thank you, Mr. Miller. Your time's up. Anybody else? All right. Hearing none. Dr. Aldridge."
+  },
+  {
+    "global_idx": 222,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 81,
+    "start": 8983.2,
+    "end": 8988.87,
+    "hms": "02h29m43s-02h29m49s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn81_global222_02h29m43s-02h29m49s.mp4",
+    "text_preview": "Mr. Mayor, the recommendation of the public services committee is to approve on second reading and I so move."
+  },
+  {
+    "global_idx": 223,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 62,
+    "start": 8988.88,
+    "end": 8996.07,
+    "hms": "02h29m49s-02h29m56s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn62_global223_02h29m49s-02h29m56s.mp4",
+    "text_preview": "Seconded by Mr. White. Comments from members of the governing body establishing the AG and P zone."
+  },
+  {
+    "global_idx": 224,
+    "speaker": "Speaker_10_Meeting_Chair",
+    "speaker_turn": 11,
+    "start": 8996.08,
+    "end": 8998.79,
+    "hms": "02h29m56s-02h29m59s",
+    "file_name": "Speaker_10_Meeting_Chair_turn11_global224_02h29m56s-02h29m59s.mp4",
+    "text_preview": "Hearing none. All those in favor, please signify by saying I."
+  },
+  {
+    "global_idx": 225,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 63,
+    "start": 8998.8,
+    "end": 9001.59,
+    "hms": "02h29m59s-02h30m02s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn63_global225_02h29m59s-02h30m02s.mp4",
+    "text_preview": "I. [Those opposed?] No."
+  },
+  {
+    "global_idx": 226,
+    "speaker": "Speaker_10_Meeting_Chair",
+    "speaker_turn": 12,
+    "start": 9001.6,
+    "end": 9009.03,
+    "hms": "02h30m02s-02h30m09s",
+    "file_name": "Speaker_10_Meeting_Chair_turn12_global226_02h30m02s-02h30m09s.mp4",
+    "text_preview": "Mr. Leborn, Mr. Moody, and Mr. Wolfer knows the uh ordinance is approved on second reading. Next item, please."
+  },
+  {
+    "global_idx": 227,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 82,
+    "start": 9009.04,
+    "end": 9021.27,
+    "hms": "02h30m09s-02h30m21s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn82_global227_02h30m09s-02h30m21s.mp4",
+    "text_preview": "Number nine, ordinance second reading, amending the official zoning map of the city of Cheyenne, changing the zoning classification for land located west of Roundtop Road and adjacent to HappyJack Road from AG Agricultur"
+  },
+  {
+    "global_idx": 228,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 39,
+    "start": 9021.28,
+    "end": 9045.83,
+    "hms": "02h30m21s-02h30m46s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn39_global228_02h30m21s-02h30m46s.mp4",
+    "text_preview": "All right, I think this is the one most people are here for. Um, this is an owner requested zone change to allow the development of that data center campus which creates um and they're asking for the business park um zon"
+  },
+  {
+    "global_idx": 229,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 83,
+    "start": 9047.52,
+    "end": 9239.59,
+    "hms": "02h30m48s-02h34m00s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn83_global229_02h30m48s-02h34m00s.mp4",
+    "text_preview": "Thank you, Heather Madrid. Ward one. Um just want to touch on the very wellfunded by many um pro business packs election which absolutely played a role in the way that that turned out. Um I have just kind of some points "
+  },
+  {
+    "global_idx": 230,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 64,
+    "start": 9239.6,
+    "end": 9246.71,
+    "hms": "02h34m00s-02h34m07s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn64_global230_02h34m00s-02h34m07s.mp4",
+    "text_preview": "She must be a Bronco fan. I am. Sir,"
+  },
+  {
+    "global_idx": 231,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 84,
+    "start": 9246.72,
+    "end": 9447.75,
+    "hms": "02h34m07s-02h37m28s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn84_global231_02h34m07s-02h37m28s.mp4",
+    "text_preview": "Mayor Collins, men and women of city council, thank you for the time. I'm Jack O'Neal uh with Skybox Data Centers uh here to speak upon the resoning item uh that we have on the agenda right now. Uh thank you everyone for"
+  },
+  {
+    "global_idx": 232,
+    "speaker": "Speaker_01_Voice_Cluster_01",
+    "speaker_turn": 8,
+    "start": 9447.76,
+    "end": 9449.91,
+    "hms": "02h37m28s-02h37m30s",
+    "file_name": "Speaker_01_Voice_Cluster_01_turn08_global232_02h37m28s-02h37m30s.mp4",
+    "text_preview": "uh Mayor Collins through"
+  },
+  {
+    "global_idx": 233,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 85,
+    "start": 9449.92,
+    "end": 9473.67,
+    "hms": "02h37m30s-02h37m54s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn85_global233_02h37m30s-02h37m54s.mp4",
+    "text_preview": "um that number is generally around 350 to 500 uh full-time employees for a development of this size. Those numbers over our industry have gone up and up consistently over the past about 20 years due to the technicality o"
+  },
+  {
+    "global_idx": 234,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 86,
+    "start": 9474.88,
+    "end": 9518.79,
+    "hms": "02h37m55s-02h38m39s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn86_global234_02h37m55s-02h38m39s.mp4",
+    "text_preview": "Mayor Collins, a follow-up question on that is um and that is over three shifts. Is that correct? Mayor Collins, are you? Yes, ma'am. That's correct. Okay. And then I also wanted to find out what how long is the lease th"
+  },
+  {
+    "global_idx": 235,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 65,
+    "start": 9518.8,
+    "end": 9524.71,
+    "hms": "02h38m39s-02h38m45s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn65_global235_02h38m39s-02h38m45s.mp4",
+    "text_preview": "Thank you. Thank you sir. Thank you for the time Mr. Mayor."
+  },
+  {
+    "global_idx": 236,
+    "speaker": "Speaker_09_Voice_Cluster_10",
+    "speaker_turn": 6,
+    "start": 9524.72,
+    "end": 9525.75,
+    "hms": "02h38m45s-02h38m46s",
+    "file_name": "Speaker_09_Voice_Cluster_10_turn06_global236_02h38m45s-02h38m46s.mp4",
+    "text_preview": "Oh go ahead. Jeeoff"
+  },
+  {
+    "global_idx": 237,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 87,
+    "start": 9525.76,
+    "end": 9766.39,
+    "hms": "02h38m46s-02h42m46s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn87_global237_02h38m46s-02h42m46s.mp4",
+    "text_preview": "I had a couple Thank you, Mr. Mayor. Through you had a couple questions. I've heard a lot of concerns tonight about noise and light. What I mean you've said many times you want to go above and beyond. What is your strate"
+  },
+  {
+    "global_idx": 238,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 66,
+    "start": 9766.4,
+    "end": 9773.19,
+    "hms": "02h42m46s-02h42m53s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn66_global238_02h42m46s-02h42m53s.mp4",
+    "text_preview": "Followup. Thank you, sir. Thank you all. Tom, did you want to talk?"
+  },
+  {
+    "global_idx": 239,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 88,
+    "start": 9773.2,
+    "end": 9932.39,
+    "hms": "02h42m53s-02h45m32s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn88_global239_02h42m53s-02h45m32s.mp4",
+    "text_preview": "Yes. Thank Thank you, Mr. Mayor. Uh, mayor and council, we we really uh appreciate the time and and everyone coming out. We, as Jack said, uh, invite anyone and everyone to, uh, tomorrow's open house Q&A. Um, Uncle Fred'"
+  },
+  {
+    "global_idx": 240,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 67,
+    "start": 9932.4,
+    "end": 9935.75,
+    "hms": "02h45m32s-02h45m36s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn67_global240_02h45m32s-02h45m36s.mp4",
+    "text_preview": "Thank you, Moser. Thank you for being here."
+  },
+  {
+    "global_idx": 241,
+    "speaker": "Speaker_18_Janna_Tolman",
+    "speaker_turn": 1,
+    "start": 9935.76,
+    "end": 10325.51,
+    "hms": "02h45m36s-02h52m06s",
+    "file_name": "Speaker_18_Janna_Tolman_turn01_global241_02h45m36s-02h52m06s.mp4",
+    "text_preview": "All right. Is there anybody else in the audience want to speak to this one? my name is Janna Tolman. I'm in W 2. just a concern that maybe perhaps at this meeting we might hear these things. But it would be really nice i"
+  },
+  {
+    "global_idx": 242,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 89,
+    "start": 10325.52,
+    "end": 10423.91,
+    "hms": "02h52m06s-02h53m44s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn89_global242_02h52m06s-02h53m44s.mp4",
+    "text_preview": "Thank you, sir. Yes, ma'am. Welcome back was talking about, I'm concerned about the traffic for the area because right now where I live, traffic is horrible. I live right by where Tall Grass is building their power place"
+  },
+  {
+    "global_idx": 243,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 40,
+    "start": 10423.92,
+    "end": 10451.03,
+    "hms": "02h53m44s-02h54m11s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn40_global243_02h53m44s-02h54m11s.mp4",
+    "text_preview": "I will tell you, Tall Grass is working with Y DOT to uh do some signalization and some expansion um of the roads. So, that is coming. I know it's a little late, but u there's going to be a lot of money spent in that corr"
+  },
+  {
+    "global_idx": 244,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 68,
+    "start": 10451.04,
+    "end": 10452.95,
+    "hms": "02h54m11s-02h54m13s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn68_global244_02h54m11s-02h54m13s.mp4",
+    "text_preview": "Turn your micros on."
+  },
+  {
+    "global_idx": 245,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 90,
+    "start": 10452.96,
+    "end": 10465.51,
+    "hms": "02h54m13s-02h54m26s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn90_global245_02h54m13s-02h54m26s.mp4",
+    "text_preview": "That's what I've heard is Tall Grass was talking and working out with Y dot and so forth of getting widening Terry Ranch Road and adding lights over by the"
+  },
+  {
+    "global_idx": 246,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 41,
+    "start": 10465.52,
+    "end": 10502.31,
+    "hms": "02h54m26s-02h55m02s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn41_global246_02h54m26s-02h55m02s.mp4",
+    "text_preview": "one part. That's what I've heard. I don't So, I know. And then the MO is doing a study for that whole area to see what other improvements need to be done and uh to see what uh we'll have the uh data center companies help"
+  },
+  {
+    "global_idx": 247,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 69,
+    "start": 10502.32,
+    "end": 10523.99,
+    "hms": "02h55m02s-02h55m24s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn69_global247_02h55m02s-02h55m24s.mp4",
+    "text_preview": "Okay. It's horrible. Yes, ma'am. Mr. Miller, go ahead. [can you hear me?] Yes."
+  },
+  {
+    "global_idx": 248,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 91,
+    "start": 10531.36,
+    "end": 10566.47,
+    "hms": "02h55m31s-02h56m06s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn91_global248_02h55m31s-02h56m06s.mp4",
+    "text_preview": "I certainly do. That's why I uh raised my hand. [Let's get after it.] Okay. Uh three minutes, right? Okay. This is Charles Miller uh for the record here. Um, council members there have, uh, also filed, uh, or they've, th"
+  },
+  {
+    "global_idx": 249,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 42,
+    "start": 10566.48,
+    "end": 10571.67,
+    "hms": "02h56m06s-02h56m12s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn42_global249_02h56m06s-02h56m12s.mp4",
+    "text_preview": "Mr. Miller, has nothing to do with us before us. You want to talk about the zoning, I'm listen, I'm ready to listen."
+  },
+  {
+    "global_idx": 250,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 92,
+    "start": 10571.68,
+    "end": 10581.99,
+    "hms": "02h56m12s-02h56m22s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn92_global250_02h56m12s-02h56m22s.mp4",
+    "text_preview": "Does there's no other time for me to ever talk about it ever, Mr. Miller? So I object to changing time limit enforcement mid-ordinance. Uh as far [as you know you're out of order, sir.] Far as the zoning goes."
+  },
+  {
+    "global_idx": 251,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 43,
+    "start": 10582.0,
+    "end": 10584.47,
+    "hms": "02h56m22s-02h56m24s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn43_global251_02h56m22s-02h56m24s.mp4",
+    "text_preview": "If you want to talk about zoning, you can talk about it."
+  },
+  {
+    "global_idx": 252,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 93,
+    "start": 10584.48,
+    "end": 10806.55,
+    "hms": "02h56m24s-03h00m07s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn93_global252_02h56m24s-03h00m07s.mp4",
+    "text_preview": "Yeah. So as far as this zoning goes, um the uh the same ordinance. Um uh okay. So introduced April 13th, first reading April 20th. Uh second reading postponed April 27th. Now second reading September 14th. That's this or"
+  },
+  {
+    "global_idx": 253,
+    "speaker": "Speaker_10_Meeting_Chair",
+    "speaker_turn": 13,
+    "start": 10806.56,
+    "end": 10819.59,
+    "hms": "03h00m07s-03h00m20s",
+    "file_name": "Speaker_10_Meeting_Chair_turn13_global253_03h00m07s-03h00m20s.mp4",
+    "text_preview": "Thanks for being here again. All right. Anybody else in the audience want to speak online? All right. Dr. Aldridge, may we have a motion, please?"
+  },
+  {
+    "global_idx": 254,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 94,
+    "start": 10819.6,
+    "end": 10824.71,
+    "hms": "03h00m20s-03h00m25s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn94_global254_03h00m20s-03h00m25s.mp4",
+    "text_preview": "Mr. Mayor, the recommendation of the public services committee is to approve on second reading, and I so move."
+  },
+  {
+    "global_idx": 255,
+    "speaker": "Speaker_10_Meeting_Chair",
+    "speaker_turn": 14,
+    "start": 10825.44,
+    "end": 10837.91,
+    "hms": "03h00m25s-03h00m38s",
+    "file_name": "Speaker_10_Meeting_Chair_turn14_global255_03h00m25s-03h00m38s.mp4",
+    "text_preview": "Been seconded by Mr. Crave. Comments from members of the governing body on the zone change before us. All right, hearing none. All those in favor, please signify by saying I."
+  },
+  {
+    "global_idx": 256,
+    "speaker": "Speaker_10_Meeting_Chair",
+    "speaker_turn": 15,
+    "start": 10840.88,
+    "end": 10862.07,
+    "hms": "03h00m41s-03h01m02s",
+    "file_name": "Speaker_10_Meeting_Chair_turn15_global256_03h00m41s-03h01m02s.mp4",
+    "text_preview": "Mr. Leborn, Mr. Moody, and Mr. Waler knows the um zone change is approved on second reading. Next item, please. Number 10, ordinance, first reading, annexing to the city of Cheyenne, Wyoming, land located south of Inters"
+  },
+  {
+    "global_idx": 257,
+    "speaker": "Speaker_08_Meeting_Clerk",
+    "speaker_turn": 4,
+    "start": 10862.08,
+    "end": 10897.03,
+    "hms": "03h01m02s-03h01m37s",
+    "file_name": "Speaker_08_Meeting_Clerk_turn04_global257_03h01m02s-03h01m37s.mp4",
+    "text_preview": "Number 11, ordinance, first reading, amending the official zoning map of the city of Cheyenne, establishing the zoning classification of AG agricultural and LI light industrial for land annex to the city of Cheyenne, loc"
+  },
+  {
+    "global_idx": 258,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 44,
+    "start": 10897.04,
+    "end": 10909.27,
+    "hms": "03h01m37s-03h01m49s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn44_global258_03h01m37s-03h01m49s.mp4",
+    "text_preview": "All right, we'll send this one to the uh public services committee. And those are the three items that will be the um uh the hitching post district. So, we wanted those all together. They're all together."
+  },
+  {
+    "global_idx": 259,
+    "speaker": "Speaker_08_Meeting_Clerk",
+    "speaker_turn": 5,
+    "start": 10909.28,
+    "end": 10922.39,
+    "hms": "03h01m49s-03h02m02s",
+    "file_name": "Speaker_08_Meeting_Clerk_turn05_global259_03h01m49s-03h02m02s.mp4",
+    "text_preview": "Number 13, ordinance first reading, amending the official zoning map of the city of Cheyenne, changing the zoning classification for land located south of Interstate 80, east of Camp Stool Road and north of HR Ranch Road"
+  },
+  {
+    "global_idx": 260,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 95,
+    "start": 10922.4,
+    "end": 10993.99,
+    "hms": "03h02m02s-03h03m14s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn95_global260_03h02m02s-03h03m14s.mp4",
+    "text_preview": "We'll send this item to the public services committee. Number 14, ordinance first reading, annexing to the city of Cheyenne, Wyoming, land west of South Gley Highway, south of West College Drive and southwest of and adja"
+  },
+  {
+    "global_idx": 261,
+    "speaker": "Speaker_10_Meeting_Chair",
+    "speaker_turn": 16,
+    "start": 10994.0,
+    "end": 11012.39,
+    "hms": "03h03m14s-03h03m32s",
+    "file_name": "Speaker_10_Meeting_Chair_turn16_global261_03h03m14s-03h03m32s.mp4",
+    "text_preview": "All right. Is there anybody in the audience wants to speak to this uh resolution um about opposing the increase in the maximum truck size or weight limits on our national highways? Anybody in the audience? All right. Dr."
+  },
+  {
+    "global_idx": 262,
+    "speaker": "Speaker_17_Voice_Cluster_09",
+    "speaker_turn": 1,
+    "start": 11012.4,
+    "end": 11017.91,
+    "hms": "03h03m32s-03h03m38s",
+    "file_name": "Speaker_17_Voice_Cluster_09_turn01_global262_03h03m32s-03h03m38s.mp4",
+    "text_preview": "Mr. Mayor, the recommendation I'm sorry, we have somebody online."
+  },
+  {
+    "global_idx": 263,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 70,
+    "start": 11017.92,
+    "end": 11043.67,
+    "hms": "03h03m38s-03h04m04s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn70_global263_03h03m38s-03h04m04s.mp4",
+    "text_preview": "Oh, sorry. [Okay.] Okay. Go ahead, Mr. Miller. Let's get a motion, please."
+  },
+  {
+    "global_idx": 264,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 96,
+    "start": 11043.68,
+    "end": 11048.23,
+    "hms": "03h04m04s-03h04m08s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn96_global264_03h04m04s-03h04m08s.mp4",
+    "text_preview": "Mr. Mayor, the recommendation of the public services committee is to adopt an ISO move."
+  },
+  {
+    "global_idx": 265,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 45,
+    "start": 11049.04,
+    "end": 11052.55,
+    "hms": "03h04m09s-03h04m13s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn45_global265_03h04m09s-03h04m13s.mp4",
+    "text_preview": "Seconded by Mr. Cagrave. Comments from members of the governing body."
+  },
+  {
+    "global_idx": 266,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 71,
+    "start": 11052.56,
+    "end": 11054.63,
+    "hms": "03h04m13s-03h04m15s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn71_global266_03h04m13s-03h04m15s.mp4",
+    "text_preview": "I do, Mr. Mayor. Yes, sir."
+  },
+  {
+    "global_idx": 267,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 97,
+    "start": 11054.64,
+    "end": 11104.87,
+    "hms": "03h04m15s-03h05m05s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn97_global267_03h04m15s-03h05m05s.mp4",
+    "text_preview": "Uh, thank you, Mr. Mayor. Threeu. I have some uh questions for the sponsor. Uh, my first question is, was this resolution constituent driven? Uh, this resolution was uh brought to us by um two entities. uh one that's cal"
+  },
+  {
+    "global_idx": 268,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 72,
+    "start": 11104.88,
+    "end": 11105.91,
+    "hms": "03h05m05s-03h05m06s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn72_global268_03h05m05s-03h05m06s.mp4",
+    "text_preview": "Okay, Mr. Moody."
+  },
+  {
+    "global_idx": 269,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 98,
+    "start": 11105.92,
+    "end": 11216.15,
+    "hms": "03h05m06s-03h06m56s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn98_global269_03h05m06s-03h06m56s.mp4",
+    "text_preview": "Uh, thank you. I got a couple things to say about this and I'm passing something out. Um, if you actually read the amendment by Representative Johnson from South Dakota, um, if we're going to take an official position at"
+  },
+  {
+    "global_idx": 270,
+    "speaker": "Speaker_17_Voice_Cluster_09",
+    "speaker_turn": 2,
+    "start": 11216.16,
+    "end": 11217.91,
+    "hms": "03h06m56s-03h06m58s",
+    "file_name": "Speaker_17_Voice_Cluster_09_turn02_global270_03h06m56s-03h06m58s.mp4",
+    "text_preview": "May I respond, Mayor Collins?"
+  },
+  {
+    "global_idx": 271,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 99,
+    "start": 11218.64,
+    "end": 11803.11,
+    "hms": "03h06m59s-03h16m43s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn99_global271_03h06m59s-03h16m43s.mp4",
+    "text_preview": "Mayor Collins, I would like to respond to that. I think all of us understand and are aware that uh federal legislation pivots on a dime and it depends upon amendments. This is an amendment that was offered by Mr. Johnson"
+  },
+  {
+    "global_idx": 272,
+    "speaker": "Speaker_10_Meeting_Chair",
+    "speaker_turn": 17,
+    "start": 11806.48,
+    "end": 11830.47,
+    "hms": "03h16m46s-03h17m10s",
+    "file_name": "Speaker_10_Meeting_Chair_turn17_global272_03h16m46s-03h17m10s.mp4",
+    "text_preview": "hearing? Just one brief comment. Um, there is a salutoy benefit from this resolution, which is we have put to rest the question of whether or not Mr. Labor and I always vote together. federal legislation. All those in fa"
+  },
+  {
+    "global_idx": 273,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 73,
+    "start": 11832.32,
+    "end": 11835.43,
+    "hms": "03h17m12s-03h17m15s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn73_global273_03h17m12s-03h17m15s.mp4",
+    "text_preview": "No. May I see the hands on the nose?"
+  },
+  {
+    "global_idx": 274,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 100,
+    "start": 11835.44,
+    "end": 12143.83,
+    "hms": "03h17m15s-03h22m24s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn100_global274_03h17m15s-03h22m24s.mp4",
+    "text_preview": "Mr. Wolf, Mr. Moody, Mr. Grave, myself, Dr. Renie are nos the uh resolution fails. the city of Cheyenne and Houseel Lavine Associates LLC for the Cheyenne next comprehensive plan update. All right. This is the update to "
+  },
+  {
+    "global_idx": 275,
+    "speaker": "Speaker_10_Meeting_Chair",
+    "speaker_turn": 18,
+    "start": 12143.84,
+    "end": 12145.91,
+    "hms": "03h22m24s-03h22m26s",
+    "file_name": "Speaker_10_Meeting_Chair_turn18_global275_03h22m24s-03h22m26s.mp4",
+    "text_preview": "Any questions for staff? Dr. Aldridge."
+  },
+  {
+    "global_idx": 276,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 101,
+    "start": 12145.92,
+    "end": 12159.19,
+    "hms": "03h22m26s-03h22m39s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn101_global276_03h22m26s-03h22m39s.mp4",
+    "text_preview": "Mayor Collins through you. I'm wondering the scenarios are included in the $351,790. [Charles?] Mayor through to Dr. Aldrich. That is correct. That's the all-inclusive price."
+  },
+  {
+    "global_idx": 277,
+    "speaker": "Speaker_17_Voice_Cluster_09",
+    "speaker_turn": 3,
+    "start": 12159.2,
+    "end": 12161.19,
+    "hms": "03h22m39s-03h22m41s",
+    "file_name": "Speaker_17_Voice_Cluster_09_turn03_global277_03h22m39s-03h22m41s.mp4",
+    "text_preview": "And one more follow-up question. Yes, ma'am."
+  },
+  {
+    "global_idx": 278,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 102,
+    "start": 12161.2,
+    "end": 12227.35,
+    "hms": "03h22m41s-03h23m47s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn102_global278_03h22m41s-03h23m47s.mp4",
+    "text_preview": "My understanding is that these plans are to be updated once every 10 years. And you said this was a 25-year plan. Um, so what would be the benefit of us doing I mean I understand doing a 25-year plan, but that doesn't pr"
+  },
+  {
+    "global_idx": 279,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 74,
+    "start": 12227.36,
+    "end": 12232.07,
+    "hms": "03h23m47s-03h23m52s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn74_global279_03h23m47s-03h23m52s.mp4",
+    "text_preview": "Thank you. Mr. Coons would like to make a comment."
+  },
+  {
+    "global_idx": 280,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 46,
+    "start": 12232.08,
+    "end": 12235.35,
+    "hms": "03h23m52s-03h23m55s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn46_global280_03h23m52s-03h23m55s.mp4",
+    "text_preview": "Who would? [Mr. Coons.] You'll have to wait for a minute. Okay."
+  },
+  {
+    "global_idx": 281,
+    "speaker": "Speaker_09_Voice_Cluster_10",
+    "speaker_turn": 7,
+    "start": 12236.0,
+    "end": 12236.87,
+    "hms": "03h23m56s-03h23m57s",
+    "file_name": "Speaker_09_Voice_Cluster_10_turn07_global281_03h23m56s-03h23m57s.mp4",
+    "text_preview": "He's the consultant."
+  },
+  {
+    "global_idx": 282,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 47,
+    "start": 12236.88,
+    "end": 12241.35,
+    "hms": "03h23m57s-03h24m01s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn47_global282_03h23m57s-03h24m01s.mp4",
+    "text_preview": "Oh, yeah. Let me let me get a a question from Mr. Moody for staff and then we'll bring you on. Okay."
+  },
+  {
+    "global_idx": 283,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 103,
+    "start": 12241.36,
+    "end": 12273.35,
+    "hms": "03h24m01s-03h24m33s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn103_global283_03h24m01s-03h24m33s.mp4",
+    "text_preview": "Yep. Just a quick question. Thank you, Mr. Bloom. I know that uh they are a Ezri goal partner because I've heard of them before and they use RGis Pro and they'll give you the data. So, are you guys going to be able to do"
+  },
+  {
+    "global_idx": 284,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 75,
+    "start": 12273.84,
+    "end": 12276.23,
+    "hms": "03h24m34s-03h24m36s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn75_global284_03h24m34s-03h24m36s.mp4",
+    "text_preview": "would that be better for the consultant?"
+  },
+  {
+    "global_idx": 285,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 104,
+    "start": 12276.24,
+    "end": 12312.71,
+    "hms": "03h24m36s-03h25m13s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn104_global285_03h24m36s-03h25m13s.mp4",
+    "text_preview": "Mayor, members of of council, it could be a better uh answer by the consultant. Let's bring him on. Tina, Tom and I did just uh have a really brief conversation regarding the future of GIS at the city and we do understan"
+  },
+  {
+    "global_idx": 286,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 76,
+    "start": 12312.72,
+    "end": 12314.79,
+    "hms": "03h25m13s-03h25m15s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn76_global286_03h25m13s-03h25m15s.mp4",
+    "text_preview": "Mr. Coons, go ahead."
+  },
+  {
+    "global_idx": 287,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 48,
+    "start": 12314.8,
+    "end": 12315.91,
+    "hms": "03h25m15s-03h25m16s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn48_global287_03h25m15s-03h25m16s.mp4",
+    "text_preview": "Welcome Mr. Coons."
+  },
+  {
+    "global_idx": 288,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 105,
+    "start": 12315.92,
+    "end": 12320.71,
+    "hms": "03h25m16s-03h25m21s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn105_global288_03h25m16s-03h25m21s.mp4",
+    "text_preview": "Yeah, thank you. Good evening, Mayor and members of the council. Can you all hear me?"
+  },
+  {
+    "global_idx": 289,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 49,
+    "start": 12320.72,
+    "end": 12325.59,
+    "hms": "03h25m21s-03h25m26s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn49_global289_03h25m21s-03h25m26s.mp4",
+    "text_preview": "We can hear you just fine. Did you hear Mr. Moody's question about the uh GIS?"
+  },
+  {
+    "global_idx": 290,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 106,
+    "start": 12325.6,
+    "end": 12388.23,
+    "hms": "03h25m26s-03h26m28s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn106_global290_03h25m26s-03h26m28s.mp4",
+    "text_preview": "I did. Yes. Um we do use uh we are an EZRI gold partner as was mentioned and we do use a variety of um EZRI tools and um we do use RGis Pro and RGis online as we develop our our uh planning products. But any data that we"
+  },
+  {
+    "global_idx": 291,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 77,
+    "start": 12388.24,
+    "end": 12394.15,
+    "hms": "03h26m28s-03h26m34s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn77_global291_03h26m28s-03h26m34s.mp4",
+    "text_preview": "Go ahead, sir. If you had some comments for us, please."
+  },
+  {
+    "global_idx": 292,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 107,
+    "start": 12396.96,
+    "end": 12451.83,
+    "hms": "03h26m37s-03h27m32s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn107_global292_03h26m37s-03h27m32s.mp4",
+    "text_preview": "Oh, I'm sorry. I think um I think when I uh unmuted myself, I maybe accidentally said I had comments other than to just to say that um we we really appreciate the opportunity uh to be both considered and to interview and"
+  },
+  {
+    "global_idx": 293,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 50,
+    "start": 12451.84,
+    "end": 12457.99,
+    "hms": "03h27m32s-03h27m38s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn50_global293_03h27m32s-03h27m38s.mp4",
+    "text_preview": "Well we're excited to get your report sir and to use that to move forward. So, thank you so much for being with us this evening."
+  },
+  {
+    "global_idx": 294,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 78,
+    "start": 12458.96,
+    "end": 12461.67,
+    "hms": "03h27m39s-03h27m42s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn78_global294_03h27m39s-03h27m42s.mp4",
+    "text_preview": "Mr. Bloom, do you have anything else for us?"
+  },
+  {
+    "global_idx": 295,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 108,
+    "start": 12461.68,
+    "end": 12495.35,
+    "hms": "03h27m42s-03h28m15s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn108_global295_03h27m42s-03h28m15s.mp4",
+    "text_preview": "Mayor, members of the council, I think um engineer Cobb was going to mention, but um to Mr. Moody, we are using GIS Pro right now in our GIS department. So, we do have that license and we are using that and we also do ha"
+  },
+  {
+    "global_idx": 296,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 51,
+    "start": 12495.36,
+    "end": 12498.07,
+    "hms": "03h28m15s-03h28m18s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn51_global296_03h28m15s-03h28m18s.mp4",
+    "text_preview": "Yeah. Thank you, Mr. Wolf. Did you have a comment, sir?"
+  },
+  {
+    "global_idx": 297,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 109,
+    "start": 12498.08,
+    "end": 12555.91,
+    "hms": "03h28m18s-03h29m16s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn109_global297_03h28m18s-03h29m16s.mp4",
+    "text_preview": "Um, Mr. Mayor, thank you very much through you. Um, two questions for Mr. Bloom. First of all, what's the score of the game? member well, unfortunately it's over and it appears that it was not how most of us wanted it wa"
+  },
+  {
+    "global_idx": 298,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 79,
+    "start": 12555.92,
+    "end": 12557.43,
+    "hms": "03h29m16s-03h29m17s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn79_global298_03h29m16s-03h29m17s.mp4",
+    "text_preview": "Thank you."
+  },
+  {
+    "global_idx": 299,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 52,
+    "start": 12557.44,
+    "end": 12570.39,
+    "hms": "03h29m17s-03h29m30s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn52_global299_03h29m17s-03h29m30s.mp4",
+    "text_preview": "Thanks for the bad news, Mr. Bloom. Anybody else in the audience want to speak to the uh uh the professional services agreement that we have before us for our next uh update to our comprehensive plan?"
+  },
+  {
+    "global_idx": 300,
+    "speaker": "Speaker_01_Voice_Cluster_01",
+    "speaker_turn": 9,
+    "start": 12570.4,
+    "end": 12574.31,
+    "hms": "03h29m30s-03h29m34s",
+    "file_name": "Speaker_01_Voice_Cluster_01_turn09_global300_03h29m30s-03h29m34s.mp4",
+    "text_preview": "Yes, I have Mr. Miller on the line."
+  },
+  {
+    "global_idx": 301,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 80,
+    "start": 12575.36,
+    "end": 12583.51,
+    "hms": "03h29m35s-03h29m44s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn80_global301_03h29m35s-03h29m44s.mp4",
+    "text_preview": "go ahead."
+  },
+  {
+    "global_idx": 302,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 110,
+    "start": 12590.24,
+    "end": 12694.79,
+    "hms": "03h29m50s-03h31m35s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn110_global302_03h29m50s-03h31m35s.mp4",
+    "text_preview": "Yes. here. Um, Charles Miller, for the record, uh, see it looks like just to get up to your answers here. Come on, sir. If you want to speak to the governing body, be prepared. What would you like to tell us? delay here."
+  },
+  {
+    "global_idx": 303,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 53,
+    "start": 12694.8,
+    "end": 12707.83,
+    "hms": "03h31m35s-03h31m48s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn53_global303_03h31m35s-03h31m48s.mp4",
+    "text_preview": "Mr. Miller. Did you hear that? We had what, 11 applicants. We went out to a national search, um, interviewed what, eight of them, and then went back and interviewed a further four of them over the last couple of months. "
+  },
+  {
+    "global_idx": 304,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 111,
+    "start": 12707.84,
+    "end": 12719.35,
+    "hms": "03h31m48s-03h31m59s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn111_global304_03h31m48s-03h31m59s.mp4",
+    "text_preview": "rushing. How did that take over the timeline for what you guys were supposed to update it with? like how how how delayed is this? I guess is"
+  },
+  {
+    "global_idx": 305,
+    "speaker": "Speaker_06_Voice_Cluster_03",
+    "speaker_turn": 3,
+    "start": 12719.36,
+    "end": 12720.23,
+    "hms": "03h31m59s-03h32m00s",
+    "file_name": "Speaker_06_Voice_Cluster_03_turn03_global305_03h31m59s-03h32m00s.mp4",
+    "text_preview": "two to three years."
+  },
+  {
+    "global_idx": 306,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 81,
+    "start": 12720.24,
+    "end": 12721.67,
+    "hms": "03h32m00s-03h32m02s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn81_global306_03h32m00s-03h32m02s.mp4",
+    "text_preview": "Question."
+  },
+  {
+    "global_idx": 307,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 112,
+    "start": 12721.68,
+    "end": 12760.63,
+    "hms": "03h32m02s-03h32m41s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn112_global307_03h32m02s-03h32m41s.mp4",
+    "text_preview": "And so it's uh I guess it's um I guess my whole point was is that it's a controlling document that's that all kinds of other ordinances rely on and and so you guys are kind of uh um just not following the rules as you li"
+  },
+  {
+    "global_idx": 308,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 54,
+    "start": 12761.12,
+    "end": 12768.15,
+    "hms": "03h32m41s-03h32m48s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn54_global308_03h32m41s-03h32m48s.mp4",
+    "text_preview": "Seconded by Mr. Escoel. Comments from members of the governing body on the update to our comprehensive plan."
+  },
+  {
+    "global_idx": 309,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 113,
+    "start": 12768.96,
+    "end": 12993.27,
+    "hms": "03h32m49s-03h36m33s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn113_global309_03h32m49s-03h36m33s.mp4",
+    "text_preview": "Yes, sir. I'd just like to uh let my colleagues know that um one of the most important criteria as uh these interviews took place was uh how robust was the uh community engagement piece and um you know all the folks that"
+  },
+  {
+    "global_idx": 310,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 55,
+    "start": 12993.28,
+    "end": 13056.47,
+    "hms": "03h36m33s-03h37m36s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn55_global310_03h36m33s-03h37m36s.mp4",
+    "text_preview": "Thank you, Mr. Lebornne. I would like to maybe just address that real quickly. We set up a policy what 20 years ago when we created the consent agenda that if something passed unanimously um it can't be an ordinance but "
+  },
+  {
+    "global_idx": 311,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 114,
+    "start": 13056.48,
+    "end": 13121.19,
+    "hms": "03h37m36s-03h38m41s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn114_global311_03h37m36s-03h38m41s.mp4",
+    "text_preview": "May I respond? [You may.] This item can't possibly be considered routine and of course that is part of the entitlement of the consent agenda. This is not routine in any way. This is an important matter that we're having "
+  },
+  {
+    "global_idx": 312,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 82,
+    "start": 13121.2,
+    "end": 13124.63,
+    "hms": "03h38m41s-03h38m45s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn82_global312_03h38m41s-03h38m45s.mp4",
+    "text_preview": "Thank you, Mr. Leborn. Mr. Mayor. Yes, sir."
+  },
+  {
+    "global_idx": 313,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 115,
+    "start": 13124.64,
+    "end": 13148.71,
+    "hms": "03h38m45s-03h39m09s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn115_global313_03h38m45s-03h39m09s.mp4",
+    "text_preview": "Mr. Mayor, as I recall, um I can't remember if it was one, two, or three years ago. Things kind of get blurred in my old head, but Mr. Bloom, I believe, brought forward a request as part of his budget that we conduct an "
+  },
+  {
+    "global_idx": 314,
+    "speaker": "Speaker_09_Voice_Cluster_10",
+    "speaker_turn": 8,
+    "start": 13148.72,
+    "end": 13159.83,
+    "hms": "03h39m09s-03h39m20s",
+    "file_name": "Speaker_09_Voice_Cluster_10_turn08_global314_03h39m09s-03h39m20s.mp4",
+    "text_preview": "That is correct. Actually, we had had other priorities that the governing body chose over this item. And I I think we brought it back two or three times now uh before we finally got the traction to get it done."
+  },
+  {
+    "global_idx": 315,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 116,
+    "start": 13159.84,
+    "end": 13266.71,
+    "hms": "03h39m20s-03h41m07s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn116_global315_03h39m20s-03h41m07s.mp4",
+    "text_preview": "Mayor, members of council, if I just may address the timeline really quick. Um I started here in 2018 in the fall of 2018 and for the fiscal year 2020 budget. I made a request at that time for it to be included. It did n"
+  },
+  {
+    "global_idx": 316,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 56,
+    "start": 13266.72,
+    "end": 13273.83,
+    "hms": "03h41m07s-03h41m14s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn56_global316_03h41m07s-03h41m14s.mp4",
+    "text_preview": "What's the old saying? You know, the best time to do it was yesterday, but the next best time to do it is today or something like that. And so, we're definitely taking care of it."
+  },
+  {
+    "global_idx": 317,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 83,
+    "start": 13273.84,
+    "end": 13275.83,
+    "hms": "03h41m14s-03h41m16s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn83_global317_03h41m14s-03h41m16s.mp4",
+    "text_preview": "Thank you. Other comments,"
+  },
+  {
+    "global_idx": 318,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 117,
+    "start": 13276.64,
+    "end": 13314.23,
+    "hms": "03h41m17s-03h41m54s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn117_global318_03h41m17s-03h41m54s.mp4",
+    "text_preview": "Yes, sir. And also during those that time we had some riffs, you know, so I it just didn't really rise up to our our level. But if you look at some of the other things that were on consent agenda today like the pavement "
+  },
+  {
+    "global_idx": 319,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 84,
+    "start": 13314.24,
+    "end": 13316.31,
+    "hms": "03h41m54s-03h41m56s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn84_global319_03h41m54s-03h41m56s.mp4",
+    "text_preview": "Thank you, Mr. Bloom."
+  },
+  {
+    "global_idx": 320,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 57,
+    "start": 13316.32,
+    "end": 13322.23,
+    "hms": "03h41m56s-03h42m02s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn57_global320_03h41m56s-03h42m02s.mp4",
+    "text_preview": "Any other comments from members of the governing body on the professional services agreement?"
+  },
+  {
+    "global_idx": 321,
+    "speaker": "Speaker_10_Meeting_Chair",
+    "speaker_turn": 19,
+    "start": 13322.24,
+    "end": 13325.43,
+    "hms": "03h42m02s-03h42m05s",
+    "file_name": "Speaker_10_Meeting_Chair_turn19_global321_03h42m02s-03h42m05s.mp4",
+    "text_preview": "All right. Hear none. All those in favor, please signify by saying I."
+  },
+  {
+    "global_idx": 322,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 118,
+    "start": 13326.24,
+    "end": 13336.31,
+    "hms": "03h42m06s-03h42m16s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn118_global322_03h42m06s-03h42m16s.mp4",
+    "text_preview": "Those opposed. This item is unanimously approved. Next item is number 29B on page seven, voucher report."
+  },
+  {
+    "global_idx": 323,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 58,
+    "start": 13336.32,
+    "end": 13341.43,
+    "hms": "03h42m16s-03h42m21s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn58_global323_03h42m16s-03h42m21s.mp4",
+    "text_preview": "All right. Is there anybody in the audience or on the governing body that would like to speak to the vouchers?"
+  },
+  {
+    "global_idx": 324,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 85,
+    "start": 13341.44,
+    "end": 13354.55,
+    "hms": "03h42m21s-03h42m35s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn85_global324_03h42m21s-03h42m35s.mp4",
+    "text_preview": "Yes. Go ahead, Mr. Miller."
+  },
+  {
+    "global_idx": 325,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 119,
+    "start": 13356.0,
+    "end": 13518.95,
+    "hms": "03h42m36s-03h45m19s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn119_global325_03h42m36s-03h45m19s.mp4",
+    "text_preview": "Yes, sir. council. Charles Miller. Um, I am holding the city's voucher report spanning August 15th through September 2nd, 2026. uh there's been some significant uh auditing of this document and um and what you can see uh"
+  },
+  {
+    "global_idx": 326,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 59,
+    "start": 13518.96,
+    "end": 13520.31,
+    "hms": "03h45m19s-03h45m20s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn59_global326_03h45m19s-03h45m20s.mp4",
+    "text_preview": "on the governing body?"
+  },
+  {
+    "global_idx": 327,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 86,
+    "start": 13520.32,
+    "end": 13523.27,
+    "hms": "03h45m20s-03h45m23s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn86_global327_03h45m20s-03h45m23s.mp4",
+    "text_preview": "Mr. Mayor, yes. Mr. uh Crave,"
+  },
+  {
+    "global_idx": 328,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 120,
+    "start": 13523.28,
+    "end": 13527.59,
+    "hms": "03h45m23s-03h45m28s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn120_global328_03h45m23s-03h45m28s.mp4",
+    "text_preview": "I believe our comprehensive audit started today."
+  },
+  {
+    "global_idx": 329,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 87,
+    "start": 13527.6,
+    "end": 13532.23,
+    "hms": "03h45m28s-03h45m32s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn87_global329_03h45m28s-03h45m32s.mp4",
+    "text_preview": "It did actually. And we'll pass with flying colors, which happens every year."
+  },
+  {
+    "global_idx": 330,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 121,
+    "start": 13532.24,
+    "end": 13557.67,
+    "hms": "03h45m32s-03h45m58s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn121_global330_03h45m32s-03h45m58s.mp4",
+    "text_preview": "It does. They look at every transaction. Yes, ma'am. I that was going to be my comment, Mayor Collins, is that we have an um outside audit every single year. We every year that I've served on the council, we have served "
+  },
+  {
+    "global_idx": 331,
+    "speaker": "Speaker_10_Meeting_Chair",
+    "speaker_turn": 20,
+    "start": 13557.68,
+    "end": 13593.11,
+    "hms": "03h45m58s-03h46m33s",
+    "file_name": "Speaker_10_Meeting_Chair_turn20_global331_03h45m58s-03h46m33s.mp4",
+    "text_preview": "We also had a comprehensive audit of our credit card transactions. um when I think to say tens of thousands of uh individual transactions over the period of time and they found receipts that matched uh for every one of t"
+  },
+  {
+    "global_idx": 332,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 122,
+    "start": 13593.12,
+    "end": 13641.19,
+    "hms": "03h46m33s-03h47m21s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn122_global332_03h46m33s-03h47m21s.mp4",
+    "text_preview": "29C. Announcement that a Kolkata benefiting the Wyoming breast cancer initiative held October 16th to October 18th, 2026 at Peppermill Bar, 1618 Stillwater Avenue, Cheyenne, Wyoming. 10% of proceeds go to the charity. 29"
+  },
+  {
+    "global_idx": 333,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 60,
+    "start": 13641.2,
+    "end": 13644.95,
+    "hms": "03h47m21s-03h47m25s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn60_global333_03h47m21s-03h47m25s.mp4",
+    "text_preview": "All right. Is there anybody in the audience who'd like to speak to us under other business?"
+  },
+  {
+    "global_idx": 334,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 88,
+    "start": 13644.96,
+    "end": 13650.71,
+    "hms": "03h47m25s-03h47m31s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn88_global334_03h47m25s-03h47m31s.mp4",
+    "text_preview": "Mr. Miller."
+  },
+  {
+    "global_idx": 335,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 123,
+    "start": 13656.4,
+    "end": 13827.35,
+    "hms": "03h47m36s-03h50m27s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn123_global335_03h47m36s-03h50m27s.mp4",
+    "text_preview": "Yeah, Mr. Miller, just before you get started, I've tried really hard to give to phone call to you, left messages, maybe the number I have is incorrect, but if you could call my office so we could set up a phone call, I "
+  },
+  {
+    "global_idx": 336,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 89,
+    "start": 13827.36,
+    "end": 13835.75,
+    "hms": "03h50m27s-03h50m36s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn89_global336_03h50m27s-03h50m36s.mp4",
+    "text_preview": "Miller, your time is up. How about on the governing body?"
+  },
+  {
+    "global_idx": 337,
+    "speaker": "Speaker_05_Voice_Cluster_04",
+    "speaker_turn": 6,
+    "start": 13835.76,
+    "end": 13837.67,
+    "hms": "03h50m36s-03h50m38s",
+    "file_name": "Speaker_05_Voice_Cluster_04_turn06_global337_03h50m36s-03h50m38s.mp4",
+    "text_preview": "Yes, sir. Dr. Aldridge."
+  },
+  {
+    "global_idx": 338,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 124,
+    "start": 13837.68,
+    "end": 14118.87,
+    "hms": "03h50m38s-03h55m19s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn124_global338_03h50m38s-03h55m19s.mp4",
+    "text_preview": "Uh, Mayor Collins for you. I would just like to uh take this opportunity to remind um everyone that on Saturday morning there will be a council and coffee in Ward 3 at the East Side Dosbog from 9 to 11, a no host dropin "
+  },
+  {
+    "global_idx": 339,
+    "speaker": "Speaker_02_Voice_Cluster_08",
+    "speaker_turn": 90,
+    "start": 14118.88,
+    "end": 14128.39,
+    "hms": "03h55m19s-03h55m28s",
+    "file_name": "Speaker_02_Voice_Cluster_08_turn90_global339_03h55m19s-03h55m28s.mp4",
+    "text_preview": "You're going to need more than an hour for that They do a lot. Okay. Anybody else? Mr. Crave."
+  },
+  {
+    "global_idx": 340,
+    "speaker": "Speaker_03_Voice_Cluster_05",
+    "speaker_turn": 125,
+    "start": 14128.4,
+    "end": 14142.15,
+    "hms": "03h55m28s-03h55m42s",
+    "file_name": "Speaker_03_Voice_Cluster_05_turn125_global340_03h55m28s-03h55m42s.mp4",
+    "text_preview": "Mr. Mayor, pursuant to Wyoming statute section 164405A, I move that the governing body meet in executive session to consider or receive any information classified as confidential by law."
+  },
+  {
+    "global_idx": 341,
+    "speaker": "Speaker_09_Voice_Cluster_10",
+    "speaker_turn": 9,
+    "start": 14142.16,
+    "end": 14142.87,
+    "hms": "03h55m42s-03h55m43s",
+    "file_name": "Speaker_09_Voice_Cluster_10_turn09_global341_03h55m42s-03h55m43s.mp4",
+    "text_preview": "We have a second."
+  },
+  {
+    "global_idx": 342,
+    "speaker": "Speaker_10_Meeting_Chair",
+    "speaker_turn": 21,
+    "start": 14143.52,
+    "end": 14148.39,
+    "hms": "03h55m44s-03h55m48s",
+    "file_name": "Speaker_10_Meeting_Chair_turn21_global342_03h55m44s-03h55m48s.mp4",
+    "text_preview": "Seconded by Dr. Aldrich. All those in favor of going into executive session, please signify by saying I."
+  },
+  {
+    "global_idx": 343,
+    "speaker": "Speaker_07_Voice_Cluster_07",
+    "speaker_turn": 61,
+    "start": 14149.12,
+    "end": 14165.19,
+    "hms": "03h55m49s-03h56m05s",
+    "file_name": "Speaker_07_Voice_Cluster_07_turn61_global343_03h55m49s-03h56m05s.mp4",
+    "text_preview": "Those opposed? All right. We'll go into executive session, guys. When we're done, we're just going to adjourn and go home. So, the governing body will not come back and take any action. We thank you for your attendance t"
+  }
+]
