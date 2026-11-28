@@ -374,6 +374,19 @@
       "speakers": 13,
       "clips": 169,
       "status": "published"
+    },
+    "cochwy-City_Council_-_09-28-26-nwoFTXVqsH8": {
+      "identifier": "cochwy-City_Council_-_09-28-26-nwoFTXVqsH8",
+      "date": "2026-09-29",
+      "title": "City Council - 09-28-26",
+      "repo": "therealwindycity/cheyenne-archives-2025-2026",
+      "release_tag": "speaker-videos-2026-09-29-nwoFTXVqsH8",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/tag/speaker-videos-2026-09-29-nwoFTXVqsH8",
+      "index_path": "speaker-videos/2026-09-29_City_Council_-_09-28-26/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2026-09-29_City_Council_-_09-28-26/episode.json",
+      "speakers": 19,
+      "clips": 611,
+      "status": "published"
     }
   }
 }
