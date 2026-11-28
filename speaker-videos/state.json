@@ -387,6 +387,19 @@
       "speakers": 19,
       "clips": 611,
       "status": "published"
+    },
+    "cochwy-Work_Session_-_09-25-26_-_Henwha_Energy_Presentation-Wvw2VsuSRD8": {
+      "identifier": "cochwy-Work_Session_-_09-25-26_-_Henwha_Energy_Presentation-Wvw2VsuSRD8",
+      "date": "2026-09-26",
+      "title": "Work Session - 09-25-26 - Henwha Energy Presentation",
+      "repo": "therealwindycity/cheyenne-archives-2025-2026",
+      "release_tag": "speaker-videos-2026-09-26-Wvw2VsuSRD8",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2025-2026/releases/tag/speaker-videos-2026-09-26-Wvw2VsuSRD8",
+      "index_path": "speaker-videos/2026-09-26_Work_Session_-_09-25-26_-_Henwha_Energy_Presentat/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2026-09-26_Work_Session_-_09-25-26_-_Henwha_Energy_Presentat/episode.json",
+      "speakers": 10,
+      "clips": 76,
+      "status": "published"
     }
   }
 }
