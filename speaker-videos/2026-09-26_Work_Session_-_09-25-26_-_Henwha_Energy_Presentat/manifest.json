@@ -1,0 +1,762 @@
+[
+  {
+    "global_idx": 1,
+    "speaker": "Speaker_01_Voice_Cluster_06",
+    "speaker_turn": 1,
+    "start": 62.48,
+    "end": 183.91,
+    "hms": "00h01m02s-00h03m04s",
+    "file_name": "Speaker_01_Voice_Cluster_06_turn01_global001_00h01m02s-00h03m04s.mp4",
+    "text_preview": "September 25th, 2026 council work session. Um during during these meetings, we take the opportunity to uh receive some education on projects we've been working on. um things information that perhaps part of the council h"
+  },
+  {
+    "global_idx": 2,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 1,
+    "start": 183.92,
+    "end": 189.11,
+    "hms": "00h03m04s-00h03m09s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn01_global002_00h03m04s-00h03m09s.mp4",
+    "text_preview": "No, we we are more than happy to have questions as we go and okay just treat it like a conversation would be the best way to"
+  },
+  {
+    "global_idx": 3,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 1,
+    "start": 189.12,
+    "end": 191.43,
+    "hms": "00h03m09s-00h03m11s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn01_global003_00h03m09s-00h03m11s.mp4",
+    "text_preview": "Perfect. Perfect. Thank you so much."
+  },
+  {
+    "global_idx": 4,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 2,
+    "start": 191.44,
+    "end": 718.87,
+    "hms": "00h03m11s-00h11m59s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn02_global004_00h03m11s-00h11m59s.mp4",
+    "text_preview": "Thank you uh Councilman Crave. So uh hi everybody. My name is Tyler Noby. I am a project developer at Hano Renewables on our western uh western team. Uh with me I have uh Patrick Shim. He's our uh leader of the west team"
+  },
+  {
+    "global_idx": 5,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 2,
+    "start": 718.88,
+    "end": 723.19,
+    "hms": "00h11m59s-00h12m03s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn02_global005_00h11m59s-00h12m03s.mp4",
+    "text_preview": "Mr. Chair. Yes, Dr. Emmens."
+  },
+  {
+    "global_idx": 6,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 1,
+    "start": 723.2,
+    "end": 731.35,
+    "hms": "00h12m03s-00h12m11s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn01_global006_00h12m03s-00h12m11s.mp4",
+    "text_preview": "Um, thank you, Mr. Chair. Through you. So, I just need clarification. So, you are the builder."
+  },
+  {
+    "global_idx": 7,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 3,
+    "start": 731.36,
+    "end": 748.39,
+    "hms": "00h12m11s-00h12m28s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn03_global007_00h12m11s-00h12m28s.mp4",
+    "text_preview": "We are the developer. developer. I'm sorry. So Q cells, we we plan to build with Q cells and then it would be the owner's decision whether or not they would like to use Q cells. Uh it is more than likely that Q cells wou"
+  },
+  {
+    "global_idx": 8,
+    "speaker": "Speaker_05_Voice_Cluster_09",
+    "speaker_turn": 1,
+    "start": 748.4,
+    "end": 750.31,
+    "hms": "00h12m28s-00h12m30s",
+    "file_name": "Speaker_05_Voice_Cluster_09_turn01_global008_00h12m28s-00h12m30s.mp4",
+    "text_preview": "Um and then follow up"
+  },
+  {
+    "global_idx": 9,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 2,
+    "start": 750.32,
+    "end": 753.67,
+    "hms": "00h12m30s-00h12m34s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn02_global009_00h12m30s-00h12m34s.mp4",
+    "text_preview": "and then South Power, what did you call them?"
+  },
+  {
+    "global_idx": 10,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 4,
+    "start": 753.68,
+    "end": 788.71,
+    "hms": "00h12m34s-00h13m09s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn04_global010_00h12m34s-00h13m09s.mp4",
+    "text_preview": "Southern Power is an example of of an owner. So they would be the people who um would be paying the rent in the long term because they own the project and they would be getting the money from uh Black Hills. So the utili"
+  },
+  {
+    "global_idx": 11,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 3,
+    "start": 789.44,
+    "end": 798.47,
+    "hms": "00h13m09s-00h13m18s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn03_global011_00h13m09s-00h13m18s.mp4",
+    "text_preview": "one last followup. I just need to make sure I can understand the flow here. So then is Black Hills interested do you think now?"
+  },
+  {
+    "global_idx": 12,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 5,
+    "start": 798.48,
+    "end": 852.07,
+    "hms": "00h13m18s-00h14m12s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn05_global012_00h13m18s-00h14m12s.mp4",
+    "text_preview": "Black Hills is very interested. So we are in a uh a very unique situation for this project and it's all thanks to the success of South Cheyenne Solar. Typically, you look for a market that looks attractive and then you t"
+  },
+  {
+    "global_idx": 13,
+    "speaker": "Speaker_01_Voice_Cluster_06",
+    "speaker_turn": 2,
+    "start": 852.08,
+    "end": 863.91,
+    "hms": "00h14m12s-00h14m24s",
+    "file_name": "Speaker_01_Voice_Cluster_06_turn02_global013_00h14m12s-00h14m24s.mp4",
+    "text_preview": "And I might just add, um, Dr. uh, Southern Powers been here a couple years now and they're I met them at the Boys and Girls Club. they um are a big supporter of of that group here in town."
+  },
+  {
+    "global_idx": 14,
+    "speaker": "Speaker_06_Voice_Cluster_08",
+    "speaker_turn": 1,
+    "start": 863.92,
+    "end": 882.07,
+    "hms": "00h14m24s-00h14m42s",
+    "file_name": "Speaker_06_Voice_Cluster_08_turn01_global014_00h14m24s-00h14m42s.mp4",
+    "text_preview": "Yeah. So, um Southshi Solar was actually Southern Powers's first Wyoming uh acquisition, first project they've ever owned, and since then they've loved the space and then they're looking for more. So, we're hoping we can"
+  },
+  {
+    "global_idx": 15,
+    "speaker": "Speaker_01_Voice_Cluster_06",
+    "speaker_turn": 3,
+    "start": 882.08,
+    "end": 883.43,
+    "hms": "00h14m42s-00h14m43s",
+    "file_name": "Speaker_01_Voice_Cluster_06_turn03_global015_00h14m42s-00h14m43s.mp4",
+    "text_preview": "I'm sorry. Go ahead, Jennifer."
+  },
+  {
+    "global_idx": 16,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 3,
+    "start": 883.44,
+    "end": 887.35,
+    "hms": "00h14m43s-00h14m47s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn03_global016_00h14m43s-00h14m47s.mp4",
+    "text_preview": "Um Dr. Aldridge, you can go ahead."
+  },
+  {
+    "global_idx": 17,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 4,
+    "start": 887.36,
+    "end": 919.99,
+    "hms": "00h14m47s-00h15m20s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn04_global017_00h14m47s-00h15m20s.mp4",
+    "text_preview": "Thank you. Um my question is uh Chairman CRA through you is um if is this project dependent solely upon um grants and federal funding and um incentives from um federal partners or from federal agencies? or would this be "
+  },
+  {
+    "global_idx": 18,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 6,
+    "start": 920.0,
+    "end": 1011.99,
+    "hms": "00h15m20s-00h16m52s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn06_global018_00h15m20s-00h16m52s.mp4",
+    "text_preview": "it would that's a great question yeah it would uh proceed regardless so incentives definitely help us and we love incentives but uh we are looking at estimating probably a 2030 COOD a lot of the tax credits are expiring "
+  },
+  {
+    "global_idx": 19,
+    "speaker": "Speaker_07_Voice_Cluster_03",
+    "speaker_turn": 1,
+    "start": 1012.0,
+    "end": 1018.47,
+    "hms": "00h16m52s-00h16m58s",
+    "file_name": "Speaker_07_Voice_Cluster_03_turn01_global019_00h16m52s-00h16m58s.mp4",
+    "text_preview": "Yeah. Just Mr. Chair, through you a quick followup. Did the Southern Project use that sales and use tax exemption?"
+  },
+  {
+    "global_idx": 20,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 7,
+    "start": 1018.48,
+    "end": 1025.43,
+    "hms": "00h16m58s-00h17m05s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn07_global020_00h16m58s-00h17m05s.mp4",
+    "text_preview": "I I would have to follow up on that. I definitely have that information available, but not on me at the moment. So, I could get back to you on that. I'm not quite sure."
+  },
+  {
+    "global_idx": 21,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 4,
+    "start": 1025.44,
+    "end": 1029.59,
+    "hms": "00h17m05s-00h17m10s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn04_global021_00h17m05s-00h17m10s.mp4",
+    "text_preview": "Thank you. Anyone else? Thank you. Please proceed."
+  },
+  {
+    "global_idx": 22,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 8,
+    "start": 1029.6,
+    "end": 1712.23,
+    "hms": "00h17m10s-00h28m32s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn08_global022_00h17m10s-00h28m32s.mp4",
+    "text_preview": "Thank you for the questions. Um, so with that, kind of just a good overview of of what the development process looks like. Um, I'd like to present kind of what we are hoping would become Project Wrangler. So with with yo"
+  },
+  {
+    "global_idx": 23,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 5,
+    "start": 1712.24,
+    "end": 1716.71,
+    "hms": "00h28m32s-00h28m37s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn05_global023_00h28m32s-00h28m37s.mp4",
+    "text_preview": "Tyler, we apparently do have a question. Jennifer, go ahead."
+  },
+  {
+    "global_idx": 24,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 5,
+    "start": 1716.72,
+    "end": 1767.99,
+    "hms": "00h28m37s-00h29m28s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn05_global024_00h28m37s-00h29m28s.mp4",
+    "text_preview": "Dr. Aldridge, you can go ahead. see you. I'm wondering as we're talking about these um option or these revenue amounts, and I know that you're hoping that this would be occurring in two years or less. Um, while we're whi"
+  },
+  {
+    "global_idx": 25,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 9,
+    "start": 1768.48,
+    "end": 1859.03,
+    "hms": "00h29m28s-00h30m59s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn09_global025_00h29m28s-00h30m59s.mp4",
+    "text_preview": "Yeah, absolutely. So, I I can't get into specific amounts uh per se, but what I can tell you is it is common across the industry to have we call them escalators built in um to keep up with inflation. Uh so we have an esc"
+  },
+  {
+    "global_idx": 26,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 6,
+    "start": 1859.04,
+    "end": 1901.83,
+    "hms": "00h30m59s-00h31m42s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn06_global026_00h30m59s-00h31m42s.mp4",
+    "text_preview": "Followup question. Yes. Go ahead, Dr. Aldrich. Uh, a follow-up question I have for you is, um, have you had any of these projects that you've done as you've been building these out across the country, have you had any th"
+  },
+  {
+    "global_idx": 27,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 10,
+    "start": 1901.84,
+    "end": 1938.95,
+    "hms": "00h31m42s-00h32m19s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn10_global027_00h31m42s-00h32m19s.mp4",
+    "text_preview": "Yeah, of course. Maybe um I'll I'll pivot to to Lita for the second half of this question, but uh what I would say, as far as I know, we we don't have any projects really industrywide that halfway through operating have "
+  },
+  {
+    "global_idx": 28,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 7,
+    "start": 1938.96,
+    "end": 2032.47,
+    "hms": "00h32m19s-00h33m52s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn07_global028_00h32m19s-00h33m52s.mp4",
+    "text_preview": "Yeah. will be certain periods of time during the operation of the system that there might be some unexpected or expected outages and during that period, you know, equipment can be replaced or simply take uh the system of"
+  },
+  {
+    "global_idx": 29,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 11,
+    "start": 2032.48,
+    "end": 2115.11,
+    "hms": "00h33m52s-00h35m15s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn11_global029_00h33m52s-00h35m15s.mp4",
+    "text_preview": "go ahead Councilman White. Uh, thank you, Chairman Caggrave. Through you, I kind of it kind of piggybacks on Dr. Aldridge's question. Um, number one, I personally have solar panels at my house, so I I'm kind of aware obv"
+  },
+  {
+    "global_idx": 30,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 8,
+    "start": 2115.12,
+    "end": 2349.51,
+    "hms": "00h35m15s-00h39m10s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn08_global030_00h35m15s-00h39m10s.mp4",
+    "text_preview": "Yeah, that's a good question. My apologies for all those questions. That's okay. Oh, no worries. That's okay. Uh yeah, so let me take the first part. Um how we accommodate equipment to overcome this type of events specif"
+  },
+  {
+    "global_idx": 31,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 12,
+    "start": 2349.52,
+    "end": 2449.43,
+    "hms": "00h39m10s-00h40m49s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn12_global031_00h39m10s-00h40m49s.mp4",
+    "text_preview": "Great. Well, thank you. I appreciate it. All right, if there are no other questions, we can uh continue here. So, just to kind of wrap up um wrap up some of these details on the lease, kind of the last point I want to me"
+  },
+  {
+    "global_idx": 32,
+    "speaker": "Speaker_01_Voice_Cluster_06",
+    "speaker_turn": 4,
+    "start": 2449.44,
+    "end": 2451.99,
+    "hms": "00h40m49s-00h40m52s",
+    "file_name": "Speaker_01_Voice_Cluster_06_turn04_global032_00h40m49s-00h40m52s.mp4",
+    "text_preview": "Tyler, I think we have one more question. Jennifer,"
+  },
+  {
+    "global_idx": 33,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 6,
+    "start": 2452.0,
+    "end": 2460.79,
+    "hms": "00h40m52s-00h41m01s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn06_global033_00h40m52s-00h41m01s.mp4",
+    "text_preview": "Mr. Chairman, I have questions, too. So, all right, I'll go ahead. Uh, thank you. Thank you, Mr. Chairman. Um,"
+  },
+  {
+    "global_idx": 34,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 13,
+    "start": 2460.8,
+    "end": 2592.87,
+    "hms": "00h41m01s-00h43m13s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn13_global034_00h41m01s-00h43m13s.mp4",
+    "text_preview": "thank you for coming here for your presentation. In the other projects that you have, um, do you have you ever considered other kinds of payment arrangements um than, uh, payment on a per acre basis? So, so this is somet"
+  },
+  {
+    "global_idx": 35,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 7,
+    "start": 2592.88,
+    "end": 2595.35,
+    "hms": "00h43m13s-00h43m15s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn07_global035_00h43m13s-00h43m15s.mp4",
+    "text_preview": "Mr. Clarify follow up? Thank you."
+  },
+  {
+    "global_idx": 36,
+    "speaker": "Speaker_07_Voice_Cluster_03",
+    "speaker_turn": 2,
+    "start": 2595.36,
+    "end": 2650.71,
+    "hms": "00h43m15s-00h44m11s",
+    "file_name": "Speaker_07_Voice_Cluster_03_turn02_global036_00h43m15s-00h44m11s.mp4",
+    "text_preview": "Um yeah I I doubt the city would be interested in becoming an equity owner. um it has huge complications with the public structure of a city but um but there are other ways to do that. Um and um so I I just have a couple"
+  },
+  {
+    "global_idx": 37,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 14,
+    "start": 2650.72,
+    "end": 2773.19,
+    "hms": "00h44m11s-00h46m13s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn14_global037_00h44m11s-00h46m13s.mp4",
+    "text_preview": "Yeah. Yeah, absolutely. I I'll let Lee answer some of the more specifics, but in terms of uh fencing to I'll answer your question in two parts. I'd say on average the majority of our projects, we we try to fence the enti"
+  },
+  {
+    "global_idx": 38,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 9,
+    "start": 2773.2,
+    "end": 2938.79,
+    "hms": "00h46m13s-00h48m59s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn09_global038_00h46m13s-00h48m59s.mp4",
+    "text_preview": "Yeah. Thank you. Yeah, these facilities uh in terms of physical installation uh these facilities are uh elevated at a height above the ground on average one and a half meters or four to five feet mostly. And depending on"
+  },
+  {
+    "global_idx": 39,
+    "speaker": "Speaker_08_Voice_Cluster_10",
+    "speaker_turn": 1,
+    "start": 2938.8,
+    "end": 2940.95,
+    "hms": "00h48m59s-00h49m01s",
+    "file_name": "Speaker_08_Voice_Cluster_10_turn01_global039_00h48m59s-00h49m01s.mp4",
+    "text_preview": "definitely. Yeah."
+  },
+  {
+    "global_idx": 40,
+    "speaker": "Speaker_07_Voice_Cluster_03",
+    "speaker_turn": 3,
+    "start": 2940.96,
+    "end": 2973.35,
+    "hms": "00h49m01s-00h49m33s",
+    "file_name": "Speaker_07_Voice_Cluster_03_turn03_global040_00h49m01s-00h49m33s.mp4",
+    "text_preview": "Uh, um, so, um, tell us, uh, and I may I I'm sorry I came in late, but, um, tell us about the battery storage, uh, facility and and what does what does that look like? How much how much land does that consume? Is is that"
+  },
+  {
+    "global_idx": 41,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 10,
+    "start": 2973.36,
+    "end": 3085.75,
+    "hms": "00h49m33s-00h51m26s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn10_global041_00h49m33s-00h51m26s.mp4",
+    "text_preview": "Yeah, absolutely. The solar uh the battery facility is uh right next to the PV facility and it's going to be located next to the substation area. The subst this project I think uh Tyler we're targeting 140 megawatt size "
+  },
+  {
+    "global_idx": 42,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 15,
+    "start": 3085.76,
+    "end": 3118.39,
+    "hms": "00h51m26s-00h51m58s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn15_global042_00h51m26s-00h51m58s.mp4",
+    "text_preview": "Yeah, I um I realized last night at our at our town hall, I should have probably put that on the map a little bit better, but there is a substation uh about a mile away in kind of sandwiched between Auto Road and I belie"
+  },
+  {
+    "global_idx": 43,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 8,
+    "start": 3118.4,
+    "end": 3121.35,
+    "hms": "00h51m58s-00h52m01s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn08_global043_00h51m58s-00h52m01s.mp4",
+    "text_preview": "Thank you. Uh Jennifer, you had a question."
+  },
+  {
+    "global_idx": 44,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 11,
+    "start": 3121.36,
+    "end": 3149.35,
+    "hms": "00h52m01s-00h52m29s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn11_global044_00h52m01s-00h52m29s.mp4",
+    "text_preview": "Uh Dr. Aldridge. just wanted to ask on the last you showed an option dollar amount of 900 um some thousand dollars. Um, but I just wanted to verify that that is without the $50,000 um incentive or uh bonus money that was"
+  },
+  {
+    "global_idx": 45,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 16,
+    "start": 3149.36,
+    "end": 3192.95,
+    "hms": "00h52m29s-00h53m13s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn16_global045_00h52m29s-00h53m13s.mp4",
+    "text_preview": "No. So, that includes the the 50,000 uh I believe I'd have to check my math. Okay. I believe that's 50,000. That that 900 it's it's not the largest number. Um and hopefully will actually be a smaller number. And the reas"
+  },
+  {
+    "global_idx": 46,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 12,
+    "start": 3192.96,
+    "end": 3197.75,
+    "hms": "00h53m13s-00h53m18s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn12_global046_00h53m13s-00h53m18s.mp4",
+    "text_preview": "thank you. I just wanted to verify whether that included that $50,000 payment. Thank you,"
+  },
+  {
+    "global_idx": 47,
+    "speaker": "Speaker_06_Voice_Cluster_08",
+    "speaker_turn": 2,
+    "start": 3197.76,
+    "end": 3199.43,
+    "hms": "00h53m18s-00h53m19s",
+    "file_name": "Speaker_06_Voice_Cluster_08_turn02_global047_00h53m18s-00h53m19s.mp4",
+    "text_preview": "Councilman Escoel."
+  },
+  {
+    "global_idx": 48,
+    "speaker": "Speaker_07_Voice_Cluster_03",
+    "speaker_turn": 4,
+    "start": 3199.44,
+    "end": 3214.79,
+    "hms": "00h53m19s-00h53m35s",
+    "file_name": "Speaker_07_Voice_Cluster_03_turn04_global048_00h53m19s-00h53m35s.mp4",
+    "text_preview": "Uh Mr. Chair, so when we first started talking about this project, maybe it's for you, Mr. Chair, the topography map you showed us, this is the flattest area on the Belvore, correct?"
+  },
+  {
+    "global_idx": 49,
+    "speaker": "Speaker_01_Voice_Cluster_06",
+    "speaker_turn": 5,
+    "start": 3214.8,
+    "end": 3217.67,
+    "hms": "00h53m35s-00h53m38s",
+    "file_name": "Speaker_01_Voice_Cluster_06_turn05_global049_00h53m35s-00h53m38s.mp4",
+    "text_preview": "For the most part, I mean, that's that's the most ideal."
+  },
+  {
+    "global_idx": 50,
+    "speaker": "Speaker_07_Voice_Cluster_03",
+    "speaker_turn": 5,
+    "start": 3217.68,
+    "end": 3232.71,
+    "hms": "00h53m38s-00h53m53s",
+    "file_name": "Speaker_07_Voice_Cluster_03_turn05_global050_00h53m38s-00h53m53s.mp4",
+    "text_preview": "Yeah. And then um follow up. So for the landfill future landfill area, where where's that plan in uh respect to where this is? [I would have to defer to uh] or do we know that"
+  },
+  {
+    "global_idx": 51,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 9,
+    "start": 3232.72,
+    "end": 3236.79,
+    "hms": "00h53m53s-00h53m57s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn09_global051_00h53m53s-00h53m57s.mp4",
+    "text_preview": "director who's coming to the podium?"
+  },
+  {
+    "global_idx": 52,
+    "speaker": "Speaker_06_Voice_Cluster_08",
+    "speaker_turn": 3,
+    "start": 3236.8,
+    "end": 3254.31,
+    "hms": "00h53m57s-00h54m14s",
+    "file_name": "Speaker_06_Voice_Cluster_08_turn03_global052_00h53m57s-00h54m14s.mp4",
+    "text_preview": "My understanding is it was on the western end of the ranch, but landfill portion, proposed landfill would be to the uh west and south of this area."
+  },
+  {
+    "global_idx": 53,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 13,
+    "start": 3258.24,
+    "end": 3274.63,
+    "hms": "00h54m18s-00h54m35s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn13_global053_00h54m18s-00h54m35s.mp4",
+    "text_preview": "for the landfill? it or anything. It's just uh it is a spot on the um on the plan. But I can show you where that is if um"
+  },
+  {
+    "global_idx": 54,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 10,
+    "start": 3274.64,
+    "end": 3277.99,
+    "hms": "00h54m35s-00h54m38s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn10_global054_00h54m35s-00h54m38s.mp4",
+    "text_preview": "okay council anything"
+  },
+  {
+    "global_idx": 55,
+    "speaker": "Speaker_07_Voice_Cluster_03",
+    "speaker_turn": 6,
+    "start": 3278.0,
+    "end": 3284.79,
+    "hms": "00h54m38s-00h54m45s",
+    "file_name": "Speaker_07_Voice_Cluster_03_turn06_global055_00h54m38s-00h54m45s.mp4",
+    "text_preview": "just making sure that these two projects won't conflict with each other. That that's all I wanted to know. Thank you."
+  },
+  {
+    "global_idx": 56,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 11,
+    "start": 3284.8,
+    "end": 3286.55,
+    "hms": "00h54m45s-00h54m47s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn11_global056_00h54m45s-00h54m47s.mp4",
+    "text_preview": "Okay. Thank you."
+  },
+  {
+    "global_idx": 57,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 17,
+    "start": 3286.56,
+    "end": 3324.07,
+    "hms": "00h54m47s-00h55m24s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn17_global057_00h54m47s-00h55m24s.mp4",
+    "text_preview": "Okay. Um anything else at this point? I I believe we're largely there just uh to abate anybody's concerns. Wanted to really just kind of make it incredibly clear for uh anybody watching at home. Uh the lease language I'v"
+  },
+  {
+    "global_idx": 58,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 12,
+    "start": 3324.08,
+    "end": 3325.59,
+    "hms": "00h55m24s-00h55m26s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn12_global058_00h55m24s-00h55m26s.mp4",
+    "text_preview": "okay, as long as you'd like."
+  },
+  {
+    "global_idx": 59,
+    "speaker": "Speaker_01_Voice_Cluster_06",
+    "speaker_turn": 6,
+    "start": 3325.6,
+    "end": 3327.43,
+    "hms": "00h55m26s-00h55m27s",
+    "file_name": "Speaker_01_Voice_Cluster_06_turn06_global059_00h55m26s-00h55m27s.mp4",
+    "text_preview": "Uh, Dr. Emmens has a question."
+  },
+  {
+    "global_idx": 60,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 14,
+    "start": 3327.44,
+    "end": 3334.79,
+    "hms": "00h55m27s-00h55m35s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn14_global060_00h55m27s-00h55m35s.mp4",
+    "text_preview": "Thank you, Mr. Chair. And actually, this is probably for you. Um, how many total acres do we have at the Belvore?"
+  },
+  {
+    "global_idx": 61,
+    "speaker": "Speaker_01_Voice_Cluster_06",
+    "speaker_turn": 7,
+    "start": 3334.8,
+    "end": 3337.91,
+    "hms": "00h55m35s-00h55m38s",
+    "file_name": "Speaker_01_Voice_Cluster_06_turn07_global061_00h55m35s-00h55m38s.mp4",
+    "text_preview": "18,800, I believe, is."
+  },
+  {
+    "global_idx": 62,
+    "speaker": "Speaker_06_Voice_Cluster_08",
+    "speaker_turn": 4,
+    "start": 3337.92,
+    "end": 3339.59,
+    "hms": "00h55m38s-00h55m40s",
+    "file_name": "Speaker_06_Voice_Cluster_08_turn04_global062_00h55m38s-00h55m40s.mp4",
+    "text_preview": "And so, this is"
+  },
+  {
+    "global_idx": 63,
+    "speaker": "Speaker_09_Voice_Cluster_01",
+    "speaker_turn": 1,
+    "start": 3340.64,
+    "end": 3344.87,
+    "hms": "00h55m41s-00h55m45s",
+    "file_name": "Speaker_09_Voice_Cluster_01_turn01_global063_00h55m41s-00h55m45s.mp4",
+    "text_preview": "Uh, I don't know what percent that is, but"
+  },
+  {
+    "global_idx": 64,
+    "speaker": "Speaker_10_Voice_Cluster_05",
+    "speaker_turn": 1,
+    "start": 3344.88,
+    "end": 3347.99,
+    "hms": "00h55m45s-00h55m48s",
+    "file_name": "Speaker_10_Voice_Cluster_05_turn01_global064_00h55m45s-00h55m48s.mp4",
+    "text_preview": "um 2% or something. Oh, probably 20%."
+  },
+  {
+    "global_idx": 65,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 15,
+    "start": 3348.0,
+    "end": 3353.03,
+    "hms": "00h55m48s-00h55m53s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn15_global065_00h55m48s-00h55m53s.mp4",
+    "text_preview": "20%. Math is hard. Um, okay. Thank you. I just wanted to clarify that."
+  },
+  {
+    "global_idx": 66,
+    "speaker": "Speaker_07_Voice_Cluster_03",
+    "speaker_turn": 7,
+    "start": 3353.04,
+    "end": 3379.03,
+    "hms": "00h55m53s-00h56m19s",
+    "file_name": "Speaker_07_Voice_Cluster_03_turn07_global066_00h55m53s-00h56m19s.mp4",
+    "text_preview": "Y Councilman Escoel, Mr. Chair, through you. So, on the southern project, we brought in local contractors. Um, I would like to see local uh I think we brought in outside contractors. want to bring this to local higher co"
+  },
+  {
+    "global_idx": 67,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 18,
+    "start": 3379.04,
+    "end": 3496.39,
+    "hms": "00h56m19s-00h58m16s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn18_global067_00h56m19s-00h58m16s.mp4",
+    "text_preview": "Yeah, absolutely. So, as as you can imagine, this is something that uh we discussed in length last night with members of the community uh the kind of effect on the local workforce and um to kind of distinguish between th"
+  },
+  {
+    "global_idx": 68,
+    "speaker": "Speaker_07_Voice_Cluster_03",
+    "speaker_turn": 8,
+    "start": 3497.6,
+    "end": 3513.03,
+    "hms": "00h58m18s-00h58m33s",
+    "file_name": "Speaker_07_Voice_Cluster_03_turn08_global068_00h58m18s-00h58m33s.mp4",
+    "text_preview": "Mr. Chair, one final question I had was at the beginning of the presentation where Hana was listed as a top five business enterprise in South Korea. Is that among energy sector or is that all sectors?"
+  },
+  {
+    "global_idx": 69,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 19,
+    "start": 3513.04,
+    "end": 3566.31,
+    "hms": "00h58m33s-00h59m26s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn19_global069_00h58m33s-00h59m26s.mp4",
+    "text_preview": "That is all sectors. We are the fifth largest company in Korea. So uh Korean companies are structured a little differently um in the US. So they're they're very large conglomerates. So I think we recently uh a division o"
+  },
+  {
+    "global_idx": 70,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 13,
+    "start": 3566.32,
+    "end": 3570.23,
+    "hms": "00h59m26s-00h59m30s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn13_global070_00h59m26s-00h59m30s.mp4",
+    "text_preview": "Dr. Emmens. [Oh, sorry.] Okay. Councilman Wolf."
+  },
+  {
+    "global_idx": 71,
+    "speaker": "Speaker_07_Voice_Cluster_03",
+    "speaker_turn": 9,
+    "start": 3570.24,
+    "end": 3615.51,
+    "hms": "00h59m30s-01h00m16s",
+    "file_name": "Speaker_07_Voice_Cluster_03_turn09_global071_00h59m30s-01h00m16s.mp4",
+    "text_preview": "Um thank you uh Mr. chairman through you and and obviously if you have time limitations I can ask him this personally but um so your 140 megawatt production uh number is is is that sort of an overall amount that you look"
+  },
+  {
+    "global_idx": 72,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 20,
+    "start": 3615.52,
+    "end": 3688.47,
+    "hms": "01h00m16s-01h01m28s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn20_global072_01h00m16s-01h01m28s.mp4",
+    "text_preview": "Yeah, the constraints are largely landbased. So um you'll notice this is what uh Lita's projected the project might look like based on available data. So, it it could change, but that what jumps out at you straight away "
+  },
+  {
+    "global_idx": 73,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 14,
+    "start": 3688.48,
+    "end": 3694.15,
+    "hms": "01h01m28s-01h01m34s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn14_global073_01h01m28s-01h01m34s.mp4",
+    "text_preview": "Yeah. Anything else? Thank you, Mr. Any other questions?"
+  },
+  {
+    "global_idx": 74,
+    "speaker": "Speaker_01_Voice_Cluster_06",
+    "speaker_turn": 8,
+    "start": 3694.16,
+    "end": 3720.23,
+    "hms": "01h01m34s-01h02m00s",
+    "file_name": "Speaker_01_Voice_Cluster_06_turn08_global074_01h01m34s-01h02m00s.mp4",
+    "text_preview": "I did want to say uh we in our press release we indicated that this would be introduced Monday night. I've been told that uh it'll be two weeks from Monday night when it will be introduced. So, just to kind of correct th"
+  },
+  {
+    "global_idx": 75,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 21,
+    "start": 3720.24,
+    "end": 3723.59,
+    "hms": "01h02m00s-01h02m04s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn21_global075_01h02m00s-01h02m04s.mp4",
+    "text_preview": "Thank you. I hope you'll be seeing a lot of us in the next uh weeks and months."
+  },
+  {
+    "global_idx": 76,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 15,
+    "start": 3723.6,
+    "end": 3728.04,
+    "hms": "01h02m04s-01h02m08s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn15_global076_01h02m04s-01h02m08s.mp4",
+    "text_preview": "Thank you so much. And we are ajourned."
+  }
+]
